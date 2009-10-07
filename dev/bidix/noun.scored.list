@@ -1,44 +1,28 @@
-1.000000 Tema<N><Prop> tema<n><nt>
 1.000000 slør<N><Neu> slør<n><m>
 1.000000 skald<N><Neu> skald<n><m>
 1.000000 skaft<N><Neu> skaft<n><nt>
 1.000000 negl<N><Fem> negl<n><m>
 1.000000 maki<N><Msc> maki<n><m>
-1.000000 Libya<N><Prop> Libya<np><top>-område<n><nt>
-1.000000 Kong<N><Prop> kong<n><m>
-1.000000 Kam<N><Prop> kam<n><m>
 1.000000 hopp<N><Neu> hopp<n><nt>
 1.000000 blanding<N><Fem> blanding<n><m>
-1.000000 Benjamin<N><Prop> benjamin<n><m>-stam<n><m>
 1.000000 arr<N><Neu> arr<n><nt>
 1.000000 agat<N><Neu> agat<n><m>
-0.945946 Betel<N><Prop> betel<n><m>
-0.923077 Rabbi<N><Prop> rabbi<n><m>
 0.916905 gull<N><Neu> gull<n><nt>
-0.909091 Ester<N><Prop> ester<n><m>
 0.909091 bjørn<N><Fem> bjørn<n><m>
 0.900000 eik<N><Fem> eik<n><f>
 0.886427 gull<N><Neu> gull<n><nt>
-0.883333 Laban<N><Prop> laban<n><m>
-0.877193 Ester<N><Prop> ester<n><m>
-0.868853 Laban<N><Prop> laban<n><m>
 0.864865 kurv<N><Fem> kurv<n><m>
 0.833333 pund<N><Neu> pund<n><nt>
 0.828947 navn<N><Neu> navn<n><nt>
-0.812500 Satan<N><Prop> satan<n><m>
 0.800000 kinn<N><Fem> kinn<n><nt>
 0.800000 ar<N><Neu> ar<n><nt>
 0.794451 navn<N><Neu> navn<n><nt>
 0.791667 aks<N><Neu> aks<n><nt>
-0.785714 Kam<N><Prop> kam<n><m>
-0.785514 Gud<N><Prop> gud<n><m>
 0.778342 barn<N><Neu> barn<n><nt>
 0.775000 torg<N><Neu> torg<n><nt>
 0.770642 korn<N><Neu> korn<n><nt>
 0.750000 marmor<N><Neu> marmor<n><m>
-0.750000 Korint<N><Prop> korint<n><m>
 0.750000 bann<N><Neu> bann<n><nt>
-0.750000 Ard<N><Prop> ard<n><m>
 0.733333 par<N><Neu> par<n><nt>
 0.727273 skrift<N><Fem> skrift<n><m>
 0.727273 kurv<N><Fem> kurv<n><m>
@@ -56,13 +40,10 @@
 0.675926 synd<N><Fem> synd<n><m>
 0.666667 ur<N><Neu> ur<n><m>
 0.666667 purpur<N><Neu> purpur<n><nt>
-0.666667 More<N><Prop> more<vblex>-eik<n><f>
-0.666667 Korint<N><Prop> korint<n><m>
 0.666667 bein<N><Neu> bein<n><nt>
 0.661290 skyld<N><Fem> skyld<n><m>
 0.652174 torn<N><Fem> torn<n><m>
 0.643836 regn<N><Neu> regn<n><nt>
-0.629630 Benjamin<N><Prop> benjamin<n><m>
 0.609146 land<N><Neu> land<n><nt>
 0.600939 mark<N><Fem> mark<n><m>
 0.600000 marmor<N><Neu> marmor<n><m>
@@ -70,7 +51,6 @@
 0.586207 borg<N><Fem> borg<n><f>
 0.576923 pant<N><Neu> pant<n><nt>
 0.576531 synd<N><Fem> synd<n><f>
-0.571429 Tema<N><Prop> tema<n><nt>
 0.571429 ar<N><Neu> ar<n><nt>
 0.562500 horn<N><Neu> horn<n><nt>
 0.555556 gap<N><Neu> gap<n><nt>
@@ -80,25 +60,18 @@
 0.500000 vaskifat<N><Neu> vaskefat<n><nt>
 0.500000 vað<N><Neu> vad<n><nt>
 0.500000 tin<N><Neu> tinn<n><nt>
-0.500000 Stav<N><Prop> stav<n><m>
 0.500000 smør<N><Neu> smør<n><nt>
 0.500000 silki<N><Neu> silke<n><m>
 0.500000 sandkorn<N><Neu> sandkorn<n><nt>
 0.500000 sal<N><Neu> sal<n><m>
-0.500000 Salamis<N><Prop> salami<n><m>
-0.500000 Rissa<N><Prop> riss<n><nt>
 0.500000 renna<N><Fem> renn<n><nt>
-0.500000 Rehobot-Ir<N><Prop> *Rehobot-ir<n><m>
 0.500000 pest<N><Fem> pest<n><m>
 0.500000 ørn<N><Fem> ørn<n><f>
 0.500000 nardus<N><Neu> nardus<n><m>
 0.500000 míl<N><Fem> mil<n><f>
-0.500000 Malta<N><Prop> malt<n><nt>
 0.500000 lyst<N><Fem> lyst<n><f>
 0.500000 lovorð<N><Neu> lovord<n><nt>
 0.500000 lok<N><Neu> lokk<n><nt>
-0.500000 Libya<N><Prop> Libya<np><top>-område<n><nt>
-0.500000 Leka<N><Prop> leke<n><f>
 0.500000 latín<N><Neu> latin<n><m>
 0.500000 last<N><Fem> last<n><f>
 0.500000 lás<N><Neu> lås<n><nt>
@@ -106,7 +79,6 @@
 0.500000 kurv<N><Neu> kurv<n><m>
 0.500000 kú<N><Fem> ku<n><m>
 0.500000 krit<N><Neu> krite<vblex>-dal<n><m>
-0.500000 Kos<N><Prop> kos<n><m>
 0.500000 kanel<N><Neu> kanel<n><m>
 0.500000 jaspis<N><Neu> jaspis<n><m>
 0.500000 hopp<N><Neu> hopp<n><nt>
@@ -177,7 +149,6 @@
 0.413249 hav<N><Neu> hav<n><nt>
 0.412698 stund<N><Fem> stund<n><m>
 0.410714 rót<N><Fem> rot<n><m>
-0.410714 Lea<N><Prop> le<n><nt>
 0.410526 himmil<N><Msc> himmel<n><m>
 0.410256 fat<N><Neu> fat<n><nt>
 0.410000 belti<N><Neu> belte<n><nt>
@@ -189,8 +160,6 @@
 0.400000 kuldi<N><Msc> kulde<n><m>
 0.400000 hali<N><Msc> hale<n><m>
 0.400000 glas<N><Neu> glas<n><nt>
-0.400000 Ádam<N><Prop> adam<n><m>
-0.396275 Gud<N><Prop> gud<n><m>
 0.395992 kvinna<N><Fem> kvinne<n><m>
 0.395161 nátt<N><Fem> natt<n><f>
 0.394958 ár<N><Fem> år<n><nt>
@@ -204,7 +173,6 @@
 0.388186 vatn<N><Neu> vann<n><nt>
 0.387755 slag<N><Neu> slag<n><nt>
 0.384615 torn<N><Fem> torn<n><m>
-0.384615 Esau<N><Prop> Esau<np><m>-sønn<n><m>
 0.382426 fjall<N><Neu> fjell<n><nt>
 0.381944 altar<N><Neu> alter<n><nt>
 0.381818 drotning<N><Fem> dronning<n><m>
@@ -225,16 +193,13 @@
 0.368421 forhang<N><Neu> forheng<n><nt>
 0.367284 kvøld<N><Neu> kveld<n><m>
 0.365385 fall<N><Neu> fall<n><nt>
-0.363636 Rabbi<N><Prop> rabbi<n><m>
 0.363636 mørk<N><Fem> mark<n><m>
 0.363636 eik<N><Fem> eik<n><m>
-0.363636 Apollos<N><Prop> apollo<n><m>
 0.363146 fólk<N><Neu> folk<n><nt>
 0.362069 ok<N><Neu> åk<n><nt>
 0.357143 tynning<N><Fem> tinning<n><m>
 0.357143 djevul<N><Msc> djevel<n><m>
 0.357143 bygg<N><Neu> bygg<n><m>
-0.357143 Bela<N><Prop> bel<n><nt>
 0.354167 oksi<N><Msc> okse<n><m>
 0.351351 panna<N><Fem> panne<n><m>
 0.351351 bræv<N><Neu> brev<n><nt>
@@ -246,7 +211,6 @@
 0.346154 esil<N><Neu> esel<n><nt>
 0.346154 eik<N><Fem> eik<n><f>
 0.344086 svar<N><Neu> svar<n><nt>
-0.342593 Juda<N><Prop> judas<n><m>
 0.342105 tár<N><Neu> tår<n><m>
 0.341772 kraft<N><Fem> kraft<n><m>
 0.340909 foreldur<N><Neu> forelder<n><m>
@@ -268,8 +232,6 @@
 0.333333 skari<N><Msc> skare<n><m>
 0.333333 skald<N><Neu> skald<n><m>
 0.333333 sjódýr<N><Neu> sjødyr<n><nt>
-0.333333 Sera<N><Prop> serum<n><nt>
-0.333333 Rygg<N><Prop> rygg<n><m>
 0.333333 rokning<N><Fem> regning<n><m>
 0.333333 rokkur<N><Msc> rokk<n><m>
 0.333333 plástur<N><Neu> plaster<n><nt>
@@ -288,29 +250,22 @@
 0.333333 mýggj<N><Neu> mygg<n><m>
 0.333333 mortari<N><Msc> morter<n><m>
 0.333333 morgun<N><Msc><Indef><Cmpnd> morgen<n><m>
-0.333333 More<N><Prop> more<vblex>-eik<n><f>
 0.333333 meitil<N><Msc> meisel<n><m>
 0.333333 maki<N><Msc> maki<n><m>
 0.333333 lodna<N><Fem> lodde<n><m>
 0.333333 legión<N><Fem> legion<n><m>
-0.333333 Land<N><Prop> land<n><nt>
-0.333333 Kos<N><Prop> kos<n><m>
 0.333333 hvíla<N><Fem> hvile<n><m></ialphabet<n><m>>gud<n><m>
 0.333333 himmalrúm<N><Neu> himmelrom<n><nt>
 0.333333 hermerki<N><Neu> hærmerke<n><nt>
-0.333333 Hermas<N><Prop> herme<n><f>
 0.333333 hara<N><Fem> hare<n><m>
 0.333333 føðiland<N><Neu> fødeland<n><nt>
 0.333333 evangelistur<N><Msc> evangelist<n><m>
 0.333333 dádýr<N><Neu> dådyr<n><nt>
 0.333333 bummull<N><Fem> bomull<n><m>
-0.333333 Broddur<N><Prop> brodd<n><m>
 0.333333 bót<N><Fem> bot<n><f>
 0.333333 borði<N><Msc> bord<n><nt>
 0.333333 bik<N><Neu> bek<n><nt>
 0.333333 barnabarn<N><Neu> barnebarn<n><nt>
-0.333333 Ari<N><Prop> arak<n><m>
-0.333333 Apollos<N><Prop> apollo<n><m>
 0.333333 akker<N><Neu> anker<n><nt>
 0.332685 men<N><Fem> men<n><nt>
 0.327986 vatn<N><Neu> vann<n><nt>
@@ -324,7 +279,6 @@
 0.324324 tempul<N><Neu> tempel<n><nt>
 0.323789 dýr<N><Neu> dyr<n><nt>
 0.323529 par<N><Neu> par<n><nt>
-0.323529 knø<N><Prop> kne<n><nt>
 0.323077 fuglur<N><Msc> fugl<n><m>
 0.322066 dóttir<N><Fem> datter<n><m>
 0.321429 kvinna<N><Fem> kvinne<n><f>
@@ -332,11 +286,9 @@
 0.320000 torn<N><Neu> tårn<n><nt>
 0.320000 navni<N><Msc> navn<n><nt>
 0.320000 borg<N><Neu> borg<n><m>
-0.319444 Lea<N><Prop> le<n><nt>
 0.318182 vitni<N><Neu> vitne<n><nt>
 0.318182 tistil<N><Msc> tistel<n><m>
 0.318182 svik<N><Neu> svik<n><nt>
-0.318182 Susan<N><Prop> sus<n><nt>
 0.318182 løn<N><Fem> lønn<n><m>
 0.318182 hjól<N><Neu> hjul<n><nt>
 0.318182 fræ<N><Neu> frø<n><nt>
@@ -372,7 +324,6 @@
 0.298027 eingil<N><Msc> engel<n><m>
 0.297924 gudur<N><Msc> gud<n><m>
 0.297619 grøv<N><Fem> grav<n><m>
-0.295652 Benjamin<N><Prop> benjamin<n><m>
 0.295455 gólv<N><Neu> gulv<n><nt>
 0.295455 bók<N><Fem> bok<n><f>
 0.294194 hjarta<N><Neu> hjerte<n><nt>
@@ -427,7 +378,6 @@
 0.277778 floyt<N><Neu> fløyte<n><m>
 0.277778 armband<N><Neu> armbånd<n><nt>
 0.275281 tunga<N><Fem> tunge<n><m>
-0.272727 Var<N><Prop> var<n><nt>
 0.272727 suff<N><Neu> sukk<n><nt>
 0.272727 sinn<N><Neu> sinn<n><nt>
 0.272727 gullringur<N><Msc> gullring<n><m>
@@ -461,7 +411,6 @@
 0.261538 lín<N><Neu> lin<n><nt>
 0.261111 trø<N><Neu> tre<n><nt>
 0.260163 sól<N><Fem> sol<n><m>
-0.259259 Susan<N><Prop> sus<n><nt>
 0.258333 stykki<N><Neu> stykke<n><nt>
 0.257246 vindur<N><Msc> vind<n><m>
 0.256881 løn<N><Fem> lønn<n><m>
@@ -472,13 +421,11 @@
 0.254545 søk<N><Fem> sak<n><m>
 0.254167 avgudur<N><Msc> avgud<n><m>
 0.253623 hundur<N><Msc> hund<n><m>
-0.252033 Anda<N><Prop> ånd<n><m>
 0.250000 vrak<N><Neu> vrak<n><nt>
 0.250000 veit<N><Fem> gutt<n><m>_ja<n><nt>
 0.250000 upphav<N><Neu> opphav<n><nt>
 0.250000 undurverk<N><Neu> underverk<n><nt>
 0.250000 undirlag<N><Neu> underlag<n><nt>
-0.250000 Úlvur<N><Prop> ulv<n><m>
 0.250000 ull<N><Fem> ull<n><m>
 0.250000 turkur<N><Msc> tørke<n><f>
 0.250000 tungi<N><Msc> tunge<n><m>
@@ -511,7 +458,6 @@
 0.250000 ross<N><Neu> hest<n><m>
 0.250000 róður<N><Msc> ror<n><nt>
 0.250000 pungur<N><Msc> pung<n><m>
-0.250000 Píl<N><Prop> pil<n><m>
 0.250000 panna<N><Fem> panne<n><f>
 0.250000 páfuglur<N><Msc> påfugl<n><m>
 0.250000 nót<N><Fem> not<n><m>
@@ -536,7 +482,6 @@
 0.250000 kinn<N><Fem> kinn<n><nt>
 0.250000 keppur<N><Msc> kjepp<n><m>
 0.250000 kav<N><Neu> snø<n><m>
-0.250000 Kam<N><Prop> kams<n><m>
 0.250000 kall<N><Neu> kall<n><nt>
 0.250000 kálksteinur<N><Msc> kalkstein<n><m>
 0.250000 jaspis<N><Neu> jaspis<n><m>
@@ -548,7 +493,6 @@
 0.250000 hor<N><Neu> hor<n><nt>
 0.250000 hjálmi<N><Msc> hjelm<n><m>
 0.250000 hending<N><Fem> hending<n><m>
-0.250000 Harri<N><Prop> han<prn><p3><m><sg>_herre<n><m>
 0.250000 handil<N><Msc> handel<n><m>
 0.250000 hálvmáni<N><Msc> halvmåne<n><m>
 0.250000 glas<N><Neu> glas<n><nt>
@@ -564,15 +508,10 @@
 0.250000 drotning<N><Fem> dronning<n><f>
 0.250000 dráp<N><Neu> drap<n><nt>
 0.250000 dild<N><Fem> dill<n><nt>
-0.250000 Dávid<N><Prop> David<np><m>-tårn<n><nt>
 0.250000 búr<N><Neu> bur<n><nt>
 0.250000 brøl<N><Neu> brøl<n><nt>
 0.250000 borð<N><Neu> bord<n><m>
-0.250000 Bøn<N><Prop> bønn<n><m>
 0.250000 bik<N><Neu> bek<n><nt>
-0.250000 Ben<N><Prop> rang<n><m>
-0.250000 Benjamin<N><Prop> Benjamin<np><m>-stam<n><m>
-0.250000 Antikristus<N><Prop> antikrist<n><m>
 0.248447 hestur<N><Msc> hest<n><m>
 0.246269 lampa<N><Fem> lampe<n><m>
 0.246124 tekin<N><Neu> tegn<n><nt>
@@ -598,7 +537,6 @@
 0.238095 læra<N><Fem> lære<n><nt>
 0.238095 grein<N><Fem> gren<n><f>
 0.237500 kelda<N><Fem> kilde<n><m>
-0.236364 Satan<N><Prop> satan<n><m>
 0.236203 klæði<N><Neu> klær<n><nt>
 0.235294 tími<N><Msc> time<n><m>
 0.235294 sev<N><Neu> siv<n><nt>
@@ -657,8 +595,6 @@
 0.222222 krúna<N><Fem> krone<n><m>
 0.222222 grikki<N><Msc> greker<n><m>
 0.222222 fullmáni<N><Msc> fullmåne<n><m>
-0.222222 Eder<N><Prop> ed<n><m>
-0.222222 Dan<N><Prop> dans<n><m>
 0.221429 hjálp<N><Fem> hjelp<n><f>
 0.220588 kopar<N><Neu> kobber<n><nt>
 0.219512 sekkur<N><Msc> sekk<n><m>
@@ -672,7 +608,6 @@
 0.217152 kongur<N><Msc> konge<n><m>
 0.216981 lamb<N><Neu> lam<n><nt>
 0.216667 næsti<N><Msc> neste<n><m>
-0.216667 Eden<N><Prop> ed<n><m>
 0.216667 armur<N><Msc> arm<n><m>
 0.216495 bann<N><Neu> bann<n><nt>
 0.216374 steinur<N><Msc> stein<n><m>
@@ -718,14 +653,12 @@
 0.204668 kongur<N><Msc> kong<n><m>
 0.204545 eyga<N><Neu> øye<n><nt>
 0.203704 skrivari<N><Msc> skriver<n><m>
-0.203704 Móses<N><Prop> mose<n><m>
 0.203125 landsmaður<N><Msc> landsmann<n><m>
 0.202381 sjón<N><Fem> syn<n><nt>
 0.201613 bøn<N><Fem> bønn<n><f>
 0.200000 vís#dómsorð<N><Neu> visdomsord<n><nt>
 0.200000 úlvur<N><Msc> ulv<n><m>
 0.200000 tvingsil<N><Msc> tvang<n><m>
-0.200000 Troas<N><Prop> tro<n><f>
 0.200000 tógv<N><Fem> ull<n><f>
 0.200000 talv<N><Neu> tavl<n><nt>
 0.200000 talva<N><Fem> tavl<n><nt>
@@ -742,7 +675,6 @@
 0.200000 skarn<N><Neu> søl<n><nt>
 0.200000 seyðaskinn<N><Neu> saueskinn<n><nt>
 0.200000 salt<N><Neu> salt<n><nt>
-0.200000 Rissa<N><Prop> riss<n><nt>
 0.200000 reyp<N><Neu> skryt<n><nt>
 0.200000 pøs<N><Fem> slit<n><nt>
 0.200000 orsøk<N><Fem> grunn<n><m>
@@ -766,12 +698,10 @@
 0.200000 kamarharri<N><Msc> kammerherre<n><m>
 0.200000 ílat<N><Neu> sodd<n><nt>
 0.200000 helvt<N><Fem> halvdel<n><m>
-0.200000 Hell<N><Prop> hell<n><nt>
 0.200000 gull<N><Neu><Indef><Cmpnd> gull<n><nt>
 0.200000 grund<N><Fem> årsak<n><f>
 0.200000 góðvild<N><Fem> godvilje<n><m>
 0.200000 gift<N><Fem> gift<n><m>
-0.200000 Galilea<N><Prop> Galilea<np><top>-område<n><nt>
 0.200000 fótaspor<N><Neu> hjulspor<n><nt>
 0.200000 fostur<N><Neu> foster<n><nt>
 0.200000 føði<N><Fem> føde<n><m>
@@ -796,7 +726,6 @@
 0.200000 apa<N><Fem> apekatt<n><m>
 0.200000 aldu#rin<N><Neu> alder<n><m>
 0.200000 akurlendi<N><Neu> åkerland<n><nt>
-0.200000 Adbe<N><Prop> *Adbe’el<n><nt>
 0.198634 lóg<N><Fem> lov<n><m>
 0.198291 ljós<N><Neu> lys<n><nt>
 0.198198 vilji<N><Msc> vilje<n><m>
@@ -807,7 +736,6 @@
 0.196970 tunga<N><Fem> tunge<n><f>
 0.195652 rað<N><Neu> rad<n><m>
 0.194805 hevnd<N><Fem> hevn<n><m>
-0.194444 Áron<N><Prop> Aron<np><m>-sønn<n><m>
 0.193878 vernd<N><Fem> vern<n><nt>
 0.193750 grein<N><Fem> gren<n><m>
 0.193548 høvdingi<N><Msc> høvding<n><m>
@@ -839,7 +767,6 @@
 0.187500 logg<N><Neu> log<n><m>
 0.187500 leyst<N><Fem> løs<n><nt>
 0.187500 kálvur<N><Msc> kalv<n><m>
-0.187500 Jósef<N><Prop> Josef<np><m>-sønn<n><m>
 0.187500 hálsur<N><Msc> hals<n><m>
 0.187500 gullkálvur<N><Msc> gullkalv<n><m>
 0.187500 gaffil<N><Msc> gaffel<n><m>
@@ -893,7 +820,6 @@
 0.178571 mjólk<N><Fem> melk<n><f>
 0.178571 hykl<N><Neu> hykleri<n><nt>
 0.178571 dópur<N><Msc> dåp<n><m>
-0.178571 Bela<N><Prop> bel<n><nt>
 0.177966 læra<N><Fem> lære<n><m>
 0.177866 friður<N><Msc> fred<n><m>
 0.177419 sabbatur<N><Msc> sabbat<n><m>
@@ -931,9 +857,7 @@
 0.167273 ljósastaki<N><Msc> lysestake<n><m>
 0.166667 vrak<N><Neu> vrak<n><nt>
 0.166667 víntræ<N><Neu> vinstokk<n><m>
-0.166667 Vík<N><Prop><Fem> vik<n><m>
 0.166667 verøld<N><Fem> tid<n><f>
-0.166667 Vatn<N><Prop> vann<n><nt>
 0.166667 vælferð<N><Fem> velferd<n><f>
 0.166667 útgongd<N><Fem> utgang<n><m>
 0.166667 undirlag<N><Neu> underlag<n><nt>
@@ -961,14 +885,11 @@
 0.166667 spotti<N><Msc> spott<n><m>
 0.166667 spjót<N><Neu> lanse<n><m>
 0.166667 spæl<N><Neu> spill<n><nt>
-0.166667 Sova<N><Prop> blund<n><m>
 0.166667 slætti<N><Msc> slette<n><f>
 0.166667 skýborg<N><Fem> sky<n><f>
 0.166667 skógvur<N><Msc> støvel<n><m>
 0.166667 skald<N><Neu> dikter<n><m>
 0.166667 siður<N><Msc> van<n><m>
-0.166667 Salmone<N><Prop> *Salmone-nes<n><nt>
-0.166667 Salamis<N><Prop> salami<n><m>
 0.166667 safirur<N><Msc> safir<n><m>
 0.166667 rør<N><Neu> rør<n><nt>
 0.166667 rokkur<N><Msc> rokk<n><m>
@@ -1010,14 +931,12 @@
 0.166667 lás<N><Neu> lås<n><nt>
 0.166667 land<N><Neu> utland<n><nt>
 0.166667 labbi<N><Msc> pote<n><m>
-0.166667 Kuza<N><Prop> kuse<n><f>
 0.166667 krókur<N><Msc> hake<n><f>
 0.166667 kostur<N><Msc> kost<n><m>
 0.166667 kona<N><Fem> kone<n><m>
 0.166667 kappan<N><Fem> kapp<n><m>
 0.166667 kálvi<N><Msc> kalv<n><m>
 0.166667 júgur<N><Neu> jur<n><nt>
-0.166667 Jósef<N><Prop> Josef<np><m>-stam<n><m>
 0.166667 jørð<N><Fem> jordvei<n><m>
 0.166667 jallur<N><Msc> satrap<n><m>
 0.166667 Ísrael<N><Neu> Israel<np><top>-hær<n><m>
@@ -1062,7 +981,6 @@
 0.166667 diamantur<N><Msc> diamant<n><m>
 0.166667 deyðaangist<N><Fem> dødsangst<n><m>
 0.166667 dekk<N><Neu> stavn<n><m>
-0.166667 Dávid<N><Prop> David<np><m>-salme<n><m>
 0.166667 búr<N><Neu> bur<n><nt>
 0.166667 bukk<N><Neu> bukk<n><m>
 0.166667 bruni<N><Msc> svulst<n><m>
@@ -1072,7 +990,6 @@
 0.166667 bót<N><Fem> lapp<n><m>
 0.166667 bóndi<N><Msc> bonde<n><m>
 0.166667 bólt<N><Neu> ball<n><m>
-0.166667 Boas<N><Prop> bo<n><nt>
 0.166667 blóðsdropi<N><Msc> bloddråpe<n><m>
 0.166667 blóð#hundur<N><Msc> blodhund<n><m>
 0.166667 bílæt<N><Neu> avbilde<n><nt>
@@ -1163,7 +1080,6 @@
 0.150000 høggormur<N><Msc> hoggorm<n><m>
 0.150000 frælsi<N><Neu> frihet<n><f>
 0.150000 æra<N><Fem> ære<n><m>
-0.150000 Ádam<N><Prop> adam<n><m>
 0.150000 áarvatn<N><Neu> vann<n><nt>
 0.149729 eldur<N><Msc> ild<n><m>
 0.149254 peningur<N><Msc> penge<n><m>
@@ -1226,12 +1142,10 @@
 0.142857 nalvastrongur<N><Msc> navlestreng<n><m>
 0.142857 munni<N><Msc> munn<n><m>
 0.142857 menniskja#verkur<N><Msc> menneskeverk<n><nt>
-0.142857 Lív<N><Prop> liv<n><nt>
 0.142857 leys<N><Neu> utbytte<n><nt>
 0.142857 last<N><Fem> last<n><f>
 0.142857 langskip<N><Neu> skut<n><m>
 0.142857 koyril<N><Msc> pisk<n><m>
-0.142857 Jóhannes<N><Prop> Johanne<np><f>-dåp<n><m>
 0.142857 hvirla<N><Fem> vindkast<n><nt>
 0.142857 horu#løn<N><Fem> lønn<n><m>
 0.142857 hongsl<N><Neu> fløy<n><f>
@@ -1249,7 +1163,6 @@
 0.142857 bakari<N><Msc> baker<n><m>
 0.142857 ar<N><Neu> ar<n><nt>-bygd<n><m>
 0.142857 árar#ats#fjall<N><Neu> *Ararat-fjell<n><nt>
-0.142857 Antikristus<N><Prop> antikrist<n><m>
 0.142857 á<N><Fem> elveos<n><m>
 0.142857 abbi<N><Msc> morfar<n><m>
 0.142276 kopar<N><Neu> bronse<n><m>
@@ -1262,7 +1175,6 @@
 0.140921 sóli<N><Msc> sol<n><m>
 0.140625 svøvnur<N><Msc> søvn<n><m>
 0.140351 kraft<N><Fem> kraft<n><f>
-0.140351 Dan<N><Prop> dans<n><m>
 0.140138 skuld<N><Fem> skyld<n><m>
 0.140000 tonn<N><Fem> tann<n><m>
 0.139194 stríð<N><Neu> strid<n><m>
@@ -1273,7 +1185,6 @@
 0.138889 knívur<N><Msc> kniv<n><m>
 0.138889 hykl<N><Neu> hykleri<n><nt>
 0.138889 hjálmur<N><Msc> hjelm<n><m>
-0.138889 Hestur<N><Prop><Msc> hest<n><m>
 0.138889 gleðidagur<N><Msc> gledesdag<n><m>
 0.138889 brunnur<N><Msc> brønn<n><m>
 0.138767 dómur<N><Msc> dom<n><m>
@@ -1332,7 +1243,6 @@
 0.133333 bøna<N><Fem> bønn<n><f>
 0.133333 bógvur<N><Msc> bog<n><m>
 0.133333 akurlendi<N><Neu> åkerland<n><nt>
-0.133333 Adbe<N><Prop> *Adbe’el<n><nt>
 0.133028 eyga<N><Neu> øye<n><nt>
 0.132812 drykkur<N><Msc> drikk<n><m>
 0.132812 andlit<N><Neu> ansikt<n><nt>
@@ -1382,7 +1292,6 @@
 0.125000 umgangur<N><Msc> samliv<n><nt>
 0.125000 úlvur<N><Msc> ulv<n><m>
 0.125000 tvørmál<N><Neu> tverrmål<n><nt>
-0.125000 Tora<N><Prop> torden<n><m>
 0.125000 tøkk<N><Fem> takk<n><f>
 0.125000 tíðindi<N><Neu> nyhet<n><f>
 0.125000 sýlur<N><Msc> syl<n><m>
@@ -1465,9 +1374,6 @@
 0.125000 gudur<N><Msc> guddom<n><m>
 0.125000 gift<N><Fem> gift<n><m>
 0.125000 gelding<N><Fem> gjelding<n><m>
-0.125000 Gang<N><Prop> av_sted<adv>_så<n><m>
-0.125000 Gal-Ed<N><Prop> gal<adj>-ed<n><m>
-0.125000 Gadarena<N><Prop> *Gadarener-land<n><nt>
 0.125000 fótaskammil<N><Msc> fotskammel<n><m>
 0.125000 fótafesti<N><Neu> fotfeste<n><nt>
 0.125000 fjórðingur<N><Msc> fjerdedel<n><m>
@@ -1483,7 +1389,6 @@
 0.125000 dreki<N><Msc> drag<n><nt>
 0.125000 drápsmál<N><Neu> tvistemål<n><nt>
 0.125000 dild<N><Fem> dill<n><m>
-0.125000 Dávid<N><Prop> David<np><m>-ætling<n><m>
 0.125000 být<N><Neu> del<n><m>
 0.125000 bróðirir<N><Msc> våpenbror<n><m>
 0.125000 brekka<N><Fem> bakk<n><m>
@@ -1492,7 +1397,6 @@
 0.125000 bønarhald<N><Neu> andakt<n><m>
 0.125000 bøli<N><Neu> hi<n><nt>
 0.125000 bogi<N><Msc> bu<n><nt>
-0.125000 Boas<N><Prop> boa<n><m>
 0.125000 blóma<N><Fem> blomst<n><m>
 0.125000 blað#ríki<N><Neu> løvtre<n><nt>
 0.125000 bílæt<N><Neu> bilde<n><nt>
@@ -1523,7 +1427,6 @@
 0.121951 akur<N><Msc> åker<n><m>
 0.121739 stórmaður<N><Msc> stormann<n><m>
 0.121739 dust<N><Neu> støv<n><nt>
-0.121622 Tala<N><Prop> tal<n><nt>
 0.121535 fíggindi<N><Msc> fiende<n><m>
 0.121212 útbrot<N><Neu> utslett<n><nt>
 0.121212 tornur<N><Msc> torn<n><m>
@@ -1572,7 +1475,6 @@
 0.116667 ormur<N><Msc> slang<n><m>
 0.116667 kopar<N><Neu> bronse<n><m>
 0.116667 deiggj<N><Neu> deig<n><m>
-0.116279 Judas<N><Prop> judas<n><m>
 0.116071 bundi<N><Neu> kornband<n><nt>
 0.115942 slætti<N><Msc> slette<n><m>
 0.115385 suff<N><Neu> sukk<n><nt>
@@ -1662,14 +1564,12 @@
 0.111111 løkur<N><Msc> bekken<n><nt>
 0.111111 lokkan<N><Fem> bedrag<n><nt>
 0.111111 læra<N><Fem> *Levi-pakt<n><m>
-0.111111 Kuza<N><Prop> kuse<n><f>
 0.111111 kúla<N><Fem> skåle<n><m>
 0.111111 krampi<N><Msc> bindhake<n><m>
 0.111111 kongur<N><Msc> konge<n><m>_tal<n><nt>
 0.111111 klaga<N><Fem> anklage<n><m>
 0.111111 keyp<N><Neu> kjøp<n><nt>
 0.111111 kálvi<N><Msc><Indef><Cmpnd> kalv<n><m>
-0.111111 Jerúsalem<N><Prop> Jerusalem<np><top>-område<n><nt>
 0.111111 illgruni<N><Msc> mistanke<n><m>
 0.111111 hvíti<N><Msc> hvite<n><m>
 0.111111 hvíla<N><Fem> hvil<n><m>
@@ -1788,7 +1688,6 @@
 0.100000 yvirskrift<N><Fem> her<adv>_keiser<n><m>
 0.100000 vekt<N><Fem> gull<n><nt>-lampe<n><m>
 0.100000 vegur<N><Msc> lei<n><f>
-0.100000 Trø<N><Prop> tre<n><nt>
 0.100000 trom<N><Fem> kant<n><nt>
 0.100000 træverk<N><Neu> treverk<n><nt>
 0.100000 tjald<N><Neu> kam<n><m>-folk<n><nt>
@@ -1843,7 +1742,6 @@
 0.100000 manndrápari<N><Msc> morder<n><m>
 0.100000 mánasjúka<N><Fem> menstruasjon<n><m>
 0.100000 mamma<N><Fem> mor<n><m>
-0.100000 Mahanajim<N><Prop> opphold<n><nt>
 0.100000 maður<N><Msc> gal<n><nt>
 0.100000 lyst<N><Fem> brunst<n><m>
 0.100000 lovorð<N><Neu> lovord<n><nt>
@@ -1859,14 +1757,12 @@
 0.100000 kyn<N><Neu> folk<n><nt>
 0.100000 kunningi<N><Msc> kjenning<n><m>
 0.100000 kuldi<N><Msc> kulde<n><f>
-0.100000 Koss<N><Prop> kyss<n><nt>
 0.100000 kor<N><Neu> vilkår<n><nt>
 0.100000 køkur<N><Msc> kjøkken<n><nt>
 0.100000 kók<N><Neu> kok<n><m>
 0.100000 kjálki<N><Msc> kjeve<n><m>
 0.100000 kamarharri<N><Msc> kammerherre<n><m>
 0.100000 kálk<N><Neu> kalk<n><m>
-0.100000 Juda<N><Prop> *Juda_ja<n><nt>
 0.100000 hús<N><Neu> stue<n><m>
 0.100000 hurð<N><Fem> fløy<n><m>
 0.100000 høll<N><Fem> hall<n><m>
@@ -1876,7 +1772,6 @@
 0.100000 hjálmi<N><Msc> hjelm<n><m>
 0.100000 hermerki<N><Neu> samlingsmerke<n><nt>
 0.100000 herlið<N><Neu> hær<n><m>
-0.100000 Hell<N><Prop> hell<n><nt>
 0.100000 handilsmaður<N><Msc> handelsmann<n><m>
 0.100000 handil<N><Msc> markedsplass<n><m>
 0.100000 grýn<N><Neu> gryn<n><nt>
@@ -1890,7 +1785,6 @@
 0.100000 fóra<N><Fem> trakk<n><nt>
 0.100000 flóðgarður<N><Msc> havn<n><f>
 0.100000 fiskimaður<N><Msc> fisker<n><m>
-0.100000 Epafroditus<N><Prop> sending<n><m>
 0.100000 dóms#høll<N><Fem> audienssal<n><m>
 0.100000 deyði<N><Msc> død<n><m>
 0.100000 deyðadagur<N><Msc> dødsdag<n><m>
@@ -1904,7 +1798,6 @@
 0.100000 boðskapur<N><Msc> budskap<n><nt>
 0.100000 asi<N><Msc> as<n><nt>
 0.100000 arvaskjal<N><Neu> testament<n><nt>
-0.100000 Ari<N><Prop> ar<n><nt>
 0.100000 andlit<N><Neu> dyst<n><m>
 0.100000 alv<N><Neu> kraft<n><m>
 0.100000 aftan<N><Msc> bak<n><nt>
@@ -1926,7 +1819,6 @@
 0.097403 hugsan<N><Fem> tank<n><m>
 0.097222 troyst<N><Neu> trøst<n><m>
 0.097222 skapningur<N><Msc> skapning<n><m>
-0.097222 Set<N><Prop> sett<n><nt>
 0.097222 bræði<N><Neu> harme<n><m>
 0.097015 lampa<N><Fem> lampe<n><f>
 0.096591 leinkja<N><Fem> lenke<n><f>
@@ -1968,11 +1860,9 @@
 0.094203 frøi<N><Fem> fryd<n><m>
 0.094156 tilhald<N><Neu> leir<n><m>
 0.093897 mark<N><Fem> mark<n><f>
-0.093750 Vík<N><Prop><Fem> vik<n><m>
 0.093750 sannleiki<N><Msc> sannhet<n><f>
 0.093750 ísur<N><Msc> is<n><m>
 0.093750 gómi<N><Msc> gane<n><m>
-0.093750 Gihon<N><Prop> *Gihon-kilde<n><m>
 0.093750 frækorn<N><Neu> såkorn<n><nt>
 0.093750 bukk<N><Neu> bukk<n><m>
 0.093750 breidd<N><Fem> bredde<n><m>
@@ -1987,7 +1877,6 @@
 0.092593 spýggja<N><Fem> spy<n><nt>
 0.092593 rán<N><Neu> rov<n><nt>
 0.092593 opilsi<N><Neu> åpning<n><m>
-0.092593 Judas<N><Prop> judas<n><m>
 0.092593 hylur<N><Msc> dam<n><m>
 0.092593 húð<N><Fem> hud<n><f>
 0.092593 brunnur<N><Msc> brønn<n><m>
@@ -2058,7 +1947,6 @@
 0.089431 vísi<N><Msc> vise<n><m>
 0.089347 genta<N><Fem> pike<n><m>
 0.089286 hermaður<N><Msc> soldat<n><m>
-0.089052 Harri<N><Prop> herre<n><m>
 0.088983 vanlukka<N><Fem> ulykke<n><m>
 0.088889 sonur<N><Msc> Aron<np><m>-sønn<n><m>
 0.088889 sjómaður<N><Msc> sjømann<n><m>
@@ -2069,10 +1957,8 @@
 0.088889 fóta#skammul<N><Msc> fotskammel<n><m>
 0.088889 eiður<N><Msc> ed<n><m>
 0.088889 eftirsókn<N><Fem> jag<n><nt>
-0.088889 Dagur<N><Prop> dag<n><m>
 0.088889 brúdleyp<N><Neu> bryllup<n><nt>
 0.088542 keypmaður<N><Msc> kjøpmann<n><m>
-0.088235 Var<N><Prop> var<n><nt>
 0.088235 skjøldur<N><Msc> skjold<n><m>
 0.088235 oljutræ<N><Neu> oliventre<n><nt>
 0.088235 bylgja<N><Fem> bølge<n><m>
@@ -2110,7 +1996,6 @@
 0.084746 læra<N><Fem> lære<n><nt>
 0.084672 mynd<N><Fem> bilde<n><nt>
 0.084656 skriðdýr<N><Neu> kryp<n><nt>
-0.084615 knø<N><Prop> kne<n><nt>
 0.084577 rættvísi<N><Neu> rettferd<n><f>
 0.084577 rættferð<N><Fem> rettferd<n><f>
 0.084475 stabbi<N><Msc> sokkel<n><m>
@@ -2130,7 +2015,6 @@
 0.083333 vanlukka<N><Fem> ulykke<n><f>
 0.083333 útskot<N><Neu> skrot<n><nt>
 0.083333 útdyr<N><Fem> dør<n><m>
-0.083333 Urias<N><Prop> hustru<n><f>
 0.083333 unglinga#hópur<N><Msc> ungdomsflokk<n><m>
 0.083333 tvørmál<N><Neu> tverrmål<n><nt>
 0.083333 træ<N><Neu> livstre<n><nt>
@@ -2174,7 +2058,6 @@
 0.083333 róður<N><Msc> ror<n><nt>
 0.083333 rødd<N><Fem> drønn<n><nt>
 0.083333 rim<N><Fem> glugg<n><m>
-0.083333 Rein<N><Prop> re<n><m>
 0.083333 rættvísi<N><Neu> rettferd<n><m>
 0.083333 ráð<N><Neu> rå<n><m>
 0.083333 plógjarn<N><Neu> plogjern<n><nt>
@@ -2190,7 +2073,6 @@
 0.083333 óðals#rættur<N><Msc> odelsrett<n><m>
 0.083333 noyðsla<N><Fem> tvang<n><m>
 0.083333 njóting<N><Fem> tid<n><m>
-0.083333 Nahum<N><Prop> syn<n><nt>
 0.083333 moyggj<N><Fem> jomfru<n><f>
 0.083333 morgindagur<N><Msc> be<vblex>’al<n><nt>
 0.083333 mol<N><Neu> smule<n><m>
@@ -2229,12 +2111,10 @@
 0.083333 hús<N><Neu> hoff<n><nt>
 0.083333 hús<N><Neu> hjem<n><nt>
 0.083333 hugi<N><Msc> hensikt<n><m>
-0.083333 Hørður<N><Prop> får<n><m>
 0.083333 honslag<N><Neu> hunndyr<n><nt>
 0.083333 hjørtur<N><Msc> hjerte<n><nt>
 0.083333 hjálpari<N><Msc> hjelper<n><m>
 0.083333 hirð<N><Fem> hoff<n><nt>
-0.083333 Hetta<N><Prop> disse<n><m>
 0.083333 hervirki<N><Neu> tankebygning<n><m>
 0.083333 herdeild<N><Fem> befalingsmann<n><m>
 0.083333 helvt<N><Fem> halve<n><f>
@@ -2257,21 +2137,16 @@
 0.083333 gjørð<N><Fem> aksel<n><m>
 0.083333 girnd<N><Fem> brunst<n><m>
 0.083333 ger<N><Fem> bar<n><m>
-0.083333 Gal-Ed<N><Prop> gal<adj>-ed<n><m>
 0.083333 frumevni<N><Neu> element<n><nt>
 0.083333 froys<N><Neu> fiende<n><m>
 0.083333 fótalag<N><Neu> fot<n><m>
 0.083333 fótafesti<N><Neu> feste<n><nt>
 0.083333 fold<N><Neu> jord<n><m>
 0.083333 flóð<N><Fem> flom<n><m>
-0.083333 Fer<N><Prop> nys<n><nt>
 0.083333 falkur<N><Msc> falk<n><m>
 0.083333 endurloysingar#ár<N><Neu> *utløsnings-år<n><nt>
-0.083333 Elias<N><Prop> *Elia_nei<n><nt>
 0.083333 eigari<N><Msc> eier<n><m>
 0.083333 eftirkomari<N><Msc> *Heman-sønn<n><m>
-0.083333 Efraim<N><Prop> *Gilead-folk<n><nt>
-0.083333 Eden<N><Prop> ed<n><m>-folk<n><nt>
 0.083333 dýr<N><Neu> udyr<n><nt>
 0.083333 dýpd<N><Fem> dybde<n><m>
 0.083333 dust<N><Neu> grus<n><m>
@@ -2283,16 +2158,13 @@
 0.083333 dagur<N><Msc> døgn<n><nt>
 0.083333 býur<N><Msc> naboby<n><m>
 0.083333 byrging<N><Fem> bredde<n><m>
-0.083333 Broddur<N><Prop> brodd<n><m>
 0.083333 broddur<N><Msc> brodd<n><m>
 0.083333 bólt<N><Neu> ball<n><m>
 0.083333 bloti<N><Msc> myr<n><f>
-0.083333 Best<N><Prop> slipp<n><nt>
 0.083333 bergs#kor<N><Neu> berghammar<n><m>
 0.083333 beiggi<N><Msc> bror<n><m>
 0.083333 arvagóðs<N><Neu> arvegods<n><nt>
 0.083333 armur<N><Msc> len<n><nt>
-0.083333 Ari<N><Prop> ar<n><nt>
 0.083333 álit<N><Neu> tillit<n><f>
 0.082828 skýggj<N><Neu> sky<n><m>
 0.082011 grund<N><Fem> grunn<n><m>
@@ -2368,7 +2240,6 @@
 0.076923 einkja<N><Fem> enke<n><f>
 0.076923 egg<N><Fem> egg<n><m>
 0.076923 deyðadagur<N><Msc> dødsdag<n><m>
-0.076923 Benjamin<N><Prop> Benjamin<np><m>-mann<n><m>
 0.076832 heimur<N><Msc> verd<n><m>
 0.076596 kamar<N><Neu> rom<n><nt>
 0.076531 gøta<N><Fem> sti<n><m>
@@ -2376,7 +2247,6 @@
 0.076401 lærisveinur<N><Msc> disippel<n><m>
 0.076316 grundvøllur<N><Msc> grunnvoll<n><m>
 0.076190 gómur<N><Msc> gane<n><m>
-0.076087 Set<N><Prop> sett<n><nt>
 0.076087 pílur<N><Msc> pil<n><f>
 0.076087 lið<N><Neu> ledd<n><nt>
 0.075758 stýrimaður<N><Msc> styrmann<n><m>
@@ -2495,13 +2365,11 @@
 0.071429 móðurfólk<N><Neu> morfar<n><m>
 0.071429 minnisvarði<N><Msc> minnestein<n><m>
 0.071429 máttloysi<N><Neu> matte<n><m>
-0.071429 Mattan<N><Prop> be<vblex>’al<n><nt>-prest<n><m>
 0.071429 mark<N><Neu> grense<n><m>
 0.071429 maður<N><Msc> Israel<np><top>-mann<n><m>
 0.071429 lygiprofetur<N><Msc> profet<n><m>
 0.071429 list<N><Fem> liste<n><m>
 0.071429 leyvu#gap<N><Neu> gap<n><nt>
-0.071429 Levi<N><Prop> *Levi-stam<n><m>
 0.071429 leit<N><Neu> lit<n><m>
 0.071429 lamb<N><Neu> husfar<n><m>
 0.071429 kvøða<N><Fem> musikk<n><m>
@@ -2523,7 +2391,6 @@
 0.071429 hjólgjørð<N><Fem> hjulring<n><m>
 0.071429 hjákona<N><Fem> kløv<n><f>
 0.071429 heyst<N><Neu> skurd<n><m>
-0.071429 Hetta<N><Prop> hendelse<n><m>
 0.071429 heglings#steinur<N><Msc> rimfrost<n><m>
 0.071429 havs#fólk<N><Neu> hav<n><nt>
 0.071429 hátíðar#kostur<N><Msc> festmåltid<n><nt>
@@ -2533,22 +2400,18 @@
 0.071429 hálka<N><Fem> glatte<n><f>
 0.071429 grev<N><Neu> plogjern<n><nt>
 0.071429 gremja<N><Fem> kval<n><m>
-0.071429 Gomorra<N><Prop> naboby<n><m>
 0.071429 gangur<N><Msc> ståk<n><nt>
 0.071429 gangur<N><Msc> leven<n><nt>
-0.071429 Gad<N><Prop> *Gad-stam<n><m>
 0.071429 fyriætlan<N><Fem> forsett<n><nt>
 0.071429 finna<N><Fem> finne<n><m>
 0.071429 fella<N><Fem> felle<n><f>
 0.071429 fangi<N><Msc> krigsfange<n><m>
 0.071429 falka#slag<N><Neu> slag<n><nt>
 0.071429 falka#slag<N><Neu> falk<n><m>
-0.071429 Eli<N><Prop> *Eli-sønn<n><m>
 0.071429 elds#bál<N><Neu> ild<n><m>
 0.071429 ektakona<N><Fem> ektefelle<n><m>
 0.071429 eingla#mál<N><Neu> engel<n><m>
 0.071429 egg<N><Neu> egg<n><nt>
-0.071429 Eber<N><Prop> *Eber-sønn<n><m>
 0.071429 dóttir<N><Fem> Babel<np><top>-datter<n><m>
 0.071429 deiggj<N><Neu> brøddeig<n><m>
 0.071429 býfluga<N><Fem> bisverm<n><m>
@@ -2558,8 +2421,6 @@
 0.071429 biddari<N><Msc> mann<n><m>
 0.071429 barnamóðir<N><Fem> barneflokk<n><m>
 0.071429 ásin<N><Neu> esel<n><nt>
-0.071429 Asaf<N><Prop> *Asaf-sønn<n><m>
-0.071429 Areli<N><Prop> *Areli-sønn<n><m>
 0.071429 álop<N><Neu> utfall<n><nt>
 0.071233 eiður<N><Msc> ed<n><m>
 0.071023 snarljós<N><Neu> lyn<n><nt>
@@ -2638,7 +2499,6 @@
 0.066667 til<N><Neu> bit<n><m>
 0.066667 te#gir<N><Neu> ti<n><m>
 0.066667 talv<N><Neu> tavl<n><nt>
-0.066667 Tala<N><Prop> om<pr>_tal<n><nt>
 0.066667 takdropi<N><Msc> takdrypp<n><nt>
 0.066667 syndabót<N><Fem> synd<n><m>
 0.066667 súpan<N><Fem> skåle<n><m>
@@ -2692,7 +2552,6 @@
 0.066667 mak<N><Neu> vik<n><m>
 0.066667 maður<N><Msc> mæle<n><nt>
 0.066667 lynur<N><Msc> platan<n><m>
-0.066667 Lot<N><Prop> slo<n><nt>
 0.066667 løkur<N><Msc> krite<vblex>-dal<n><m>
 0.066667 log<N><Neu> slikk<n><m>
 0.066667 ljós<N><Neu> sollys<n><nt>
@@ -2720,7 +2579,6 @@
 0.066667 hermaður<N><Msc> hærmann<n><m>
 0.066667 heild<N><Fem> hele<n><nt>
 0.066667 hatur<N><Neu> nag<n><nt>
-0.066667 Harri<N><Prop> herr<n><m>_ja<n><nt>
 0.066667 hára<N><Fem> vise<n><m>
 0.066667 hannslag<N><Neu> hann<n><m>
 0.066667 halli<N><Msc> ly<n><nt>
@@ -2743,13 +2601,11 @@
 0.066667 deyðatøgn<N><Fem> stillhet<n><m>
 0.066667 byrða<N><Fem> byrd<n><m>
 0.066667 bygd<N><Fem> bygd<n><m>
-0.066667 Bond<N><Prop> lenke<n><m>
 0.066667 bøna<N><Fem> bønn<n><m>
 0.066667 blak<N><Neu> men<n><nt>
 0.066667 bikar<N><Neu> bolle<n><m>
 0.066667 bikar<N><Neu> beger<n><nt>
 0.066667 bein<N><Neu> knokkel<n><m>
-0.066667 Beini<N><Prop> bruk<n><nt>
 0.066667 arvaskjal<N><Neu> testamente<n><nt>
 0.066667 agg<N><Neu> nag<n><nt>
 0.066667 ætt<N><Fem> Israel<np><top>-stam<n><m>
@@ -2820,7 +2676,6 @@
 0.062500 tíni<N><Neu> trau<n><nt>
 0.062500 tilfar<N><Neu> materiale<n><nt>
 0.062500 tekning<N><Fem> bud<n><nt>
-0.062500 Tala<N><Prop> tal<n><nt>
 0.062500 systir<N><Fem> søster<n><f>
 0.062500 svangi<N><Msc> sult<n><m>
 0.062500 stýrimaður<N><Msc> skipper<n><m>
@@ -2878,7 +2733,6 @@
 0.062500 konga#hús<N><Neu> kongehus<n><nt>
 0.062500 kjak<N><Neu> strid<n><m>
 0.062500 jørð<N><Fem> jorde<n><nt>
-0.062500 Ísai<N><Prop> *Isai-sønn<n><m>
 0.062500 ílat<N><Neu> trau<n><nt>
 0.062500 hús#fúti<N><Msc> kuse<n><f>
 0.062500 hungursár<N><Neu> uår<n><nt>
@@ -2888,14 +2742,12 @@
 0.062500 hjálp<N><Fem> hjelper<n><m>
 0.062500 hjálpari<N><Msc> hjelper<n><m>
 0.062500 havi<N><Msc> erobring<n><m>
-0.062500 Harrar<N><Prop> herr<n><m>
 0.062500 hara<N><Fem> hare<n><m>
 0.062500 halgidagur<N><Msc> høytidsdag<n><m>
 0.062500 grein<N><Fem> gren<n><f>
 0.062500 glas<N><Neu> glass<n><nt>
 0.062500 gistihús<N><Neu> husrom<n><nt>
 0.062500 gangari<N><Msc> red<n><m>
-0.062500 Gadarena<N><Prop> *Gadarener-land<n><nt>
 0.062500 freist<N><Fem> frist<n><m>
 0.062500 framtíð<N><Fem> fremtid<n><m>
 0.062500 frækorn<N><Neu> korn<n><nt>
@@ -2910,7 +2762,6 @@
 0.062500 fedra#arvi<N><Msc> far<n><m>
 0.062500 fátækt<N><Fem> fattigdom<n><m>
 0.062500 eygnahola<N><Fem> hule<n><f>
-0.062500 Ellasar<N><Prop> konge<n><m>
 0.062500 dóms#tími<N><Msc> time<n><m>
 0.062500 døgurði<N><Msc> middag<n><m>
 0.062500 deyðasøk<N><Fem> dødsdom<n><m>
@@ -2984,7 +2835,6 @@
 0.059524 órættvísi<N><Neu> urett<n><m>
 0.059524 finni<N><Msc> finne<n><m>
 0.059387 mongd<N><Fem> mengde<n><m>
-0.059320 Harri<N><Prop> herre<n><m>
 0.059295 neyð<N><Fem> nød<n><m>
 0.059259 band<N><Neu> lenke<n><m>
 0.059140 vísi<N><Msc> vise<n><m>
@@ -2994,10 +2844,8 @@
 0.058824 roykilsis#heyggjur<N><Msc> haug<n><m>
 0.058824 men<N><Fem> *class="*verse">men<n><nt>
 0.058824 hvílu#beinkjar#horn<N><Neu> sofakrok<n><m>
-0.058824 Ham<N><Prop> *Kirjatajim-slette<n><m>
 0.058824 halgidóms#bústaður<N><Msc> sted<n><nt>
 0.058824 góði<N><Msc> gode<n><nt>
-0.058824 Asaf<N><Prop> *Asaf-salme<n><m>
 0.058548 bygd<N><Fem> landsby<n><m>
 0.058442 arbeiðsmaður<N><Msc> arbeider<n><m>
 0.058383 himmil<N><Msc> himmel<n><m>
@@ -3029,7 +2877,6 @@
 0.057143 rubinur<N><Msc> rad<n><m>
 0.057143 róðursmaður<N><Msc> rorskar<n><m>
 0.057143 ríkmaður<N><Msc> rikmann<n><m>
-0.057143 Naftali<N><Prop> *Naftali-stam<n><m>
 0.057143 maður<N><Msc> kare<n><f>
 0.057143 land<N><Neu> landsdel<n><m>
 0.057143 kvinnuhús<N><Neu> harem<n><nt>
@@ -3084,7 +2931,6 @@
 0.055556 tind<N><Fem> topp<n><m>
 0.055556 teigur<N><Msc> kong<n><m>
 0.055556 te#gir<N><Neu> ti<n><m>
-0.055556 Tala<N><Prop> konge<n><m>_tal<n><nt>
 0.055556 tala<N><Fem> talemåte<n><m>
 0.055556 tala<N><Fem> påstand<n><m>
 0.055556 svirr<N><Neu> festing<n><m>
@@ -3114,7 +2960,6 @@
 0.055556 sekkur<N><Msc> strie<n><m>
 0.055556 samfelag<N><Neu> fellesskap<n><nt>
 0.055556 samdøgur<N><Neu> døgn<n><nt>
-0.055556 Samaria<N><Prop> *Samaria-dam<n><m>
 0.055556 sabbats#ár<N><Fem> sabbatsår<n><nt>
 0.055556 runa<N><Fem> mudder<n><nt>
 0.055556 rør<N><Neu> ro<n><m>
@@ -3136,7 +2981,6 @@
 0.055556 øsp<N><Fem> poppel<n><m>
 0.055556 okrari<N><Msc> ågerkar<n><m>
 0.055556 ódn<N><Fem> storm<n><m>
-0.055556 Nikolaus<N><Prop> proselytt<n><m>
 0.055556 nevaslag<N><Neu> knyttneve<n><m>
 0.055556 nardus<N><Neu> nardussalve<n><m>
 0.055556 mylnusteinur<N><Msc> møllestein<n><m>
@@ -3148,7 +2992,6 @@
 0.055556 manndráp<N><Neu> drap<n><nt>
 0.055556 mandla<N><Fem> mandel<n><m>
 0.055556 málloysi<N><Neu> rett<n><m>
-0.055556 Makedonia<N><Prop> tilbakevei<n><m>
 0.055556 lynur<N><Msc> platan<n><m>
 0.055556 lokkur<N><Msc> hår<n><nt>
 0.055556 livur<N><Fem> lever<n><m>
@@ -3172,7 +3015,6 @@
 0.055556 kryddurt<N><Fem> gummi<n><m>
 0.055556 krókur<N><Msc> krok<n><m>
 0.055556 klovi<N><Msc> tang<n><m>
-0.055556 Kedar<N><Prop> bu<n><f>
 0.055556 kappi<N><Msc> kapp<n><m>
 0.055556 javnlíki<N><Msc> likemann<n><m>
 0.055556 jaspis#steinur<N><Msc> jaspis<n><m>
@@ -3192,7 +3034,6 @@
 0.055556 himmal<N><Msc> skylag<n><nt>
 0.055556 hesta#par<N><Neu> hest<n><m>
 0.055556 herskari<N><Msc> hærskare<n><m>
-0.055556 Hebron<N><Prop> *Hebron-dam<n><m>
 0.055556 hannslag<N><Neu> hanndyr<n><nt>
 0.055556 hamari<N><Msc> ham<n><m>
 0.055556 hamari<N><Msc> hammer<n><m>
@@ -3211,7 +3052,6 @@
 0.055556 fyrndar#orð<N><Neu> fyndord<n><nt>
 0.055556 friðarfólk<N><Neu> krigsfange<n><m>
 0.055556 freisting<N><Fem> prøvelse<n><m>
-0.055556 Fram<N><Prop> hærmann<n><m>
 0.055556 fótaskammil<N><Msc> fotskammel<n><m>
 0.055556 fólk<N><Neu> *class="*verse">folk<n><nt>
 0.055556 fólkatrot<N><Neu> mangel<n><m>
@@ -3239,7 +3079,6 @@
 0.055556 bummull<N><Fem> bomull<n><m>
 0.055556 bróðurdóttir<N><Fem> datter<n><m>
 0.055556 bor<N><Neu> oppførsel<n><m>
-0.055556 Bøn<N><Prop> *class="*verse">bønn<n><m>
 0.055556 bonkur<N><Msc> kobberkjel<n><m>
 0.055556 blómukransur<N><Msc> blomst<n><m>
 0.055556 blómu#beður<N><Msc> blomsterbed<n><nt>
@@ -3255,10 +3094,8 @@
 0.055556 avguda#mynd<N><Fem> gudebilde<n><nt>
 0.055556 atferð<N><Fem> livsførsel<n><m>
 0.055556 ár<N><Neu> årsskifte<n><nt>
-0.055556 Ari<N><Prop> arak<n><m>
 0.055556 arbeiði<N><Neu> arbeide<n><nt>
 0.055556 andstygd<N><Fem> avsky<n><m>
-0.055556 Ahava<N><Prop> *Ahava-elv<n><m>
 0.055556 aftursvar<N><Neu> svar<n><nt>
 0.055556 afturbein<N><Neu> fot<n><m>
 0.055556 ætt<N><Fem> Josef<np><m>-stam<n><m>
@@ -3356,7 +3193,6 @@
 0.050802 menniskja#sonur<N><Msc> menneske<n><nt>
 0.050420 álit<N><Neu> lit<n><m>
 0.050061 hjarta<N><Neu> sinn<n><nt>
-0.050000 Zion<N><Prop> *Sion-datter<n><m>
 0.050000 yrki<N><Neu> ord<n><nt>
 0.050000 vørur<N><Msc> var<n><m>
 0.050000 vørur<N><Msc> vare<n><f>
@@ -3373,7 +3209,6 @@
 0.050000 varðhald<N><Neu> fangenskap<n><nt>
 0.050000 vald<N><Neu> makt<n><f>
 0.050000 umskifti<N><Neu> skifte<n><nt>
-0.050000 Trø<N><Prop> tørst<n><m>
 0.050000 trø<N><Neu> tømmerhogst<n><m>
 0.050000 trog<N><Neu> kar<n><nt>
 0.050000 treyt<N><Fem> ting<n><nt>
@@ -3387,7 +3222,6 @@
 0.050000 styrki<N><Fem> manndom<n><m>
 0.050000 strev<N><Neu> slit<n><nt>
 0.050000 stormur<N><Msc> stormkast<n><nt>
-0.050000 Stig<N><Prop> skritt<n><nt>
 0.050000 spor<N><Neu> spor<n><nt>
 0.050000 spori<N><Msc> spor<n><nt>
 0.050000 spilla<N><Fem> spill<n><nt>
@@ -3402,7 +3236,6 @@
 0.050000 skriðdýr<N><Neu> krypdyr<n><nt>
 0.050000 skegg<N><Neu> kant<n><nt>
 0.050000 skart<N><Neu> smykke<n><nt>
-0.050000 Sion<N><Prop> *Sirjon-fjell<n><nt>
 0.050000 savn<N><Neu> pakk<n><nt>
 0.050000 samkoma<N><Fem> samvær<n><nt>
 0.050000 røði<N><Neu> rad<n><m>
@@ -3430,7 +3263,6 @@
 0.050000 minnisdagur<N><Msc> minnedag<n><m>
 0.050000 minni<N><Neu> slett<n><nt>
 0.050000 millumgarður<N><Msc> mur<n><m>
-0.050000 Máur<N><Prop> ja<n><nt>
 0.050000 manndrápari<N><Msc> drapsmann<n><m>
 0.050000 maður<N><Msc> arbeidskar<n><m>
 0.050000 lyst<N><Fem> brunst<n><m>
@@ -3477,8 +3309,6 @@
 0.050000 grógv<N><Fem> gro<n><m>
 0.050000 gøta<N><Fem> sti<n><nt>
 0.050000 gong<N><Fem> land<n><nt>
-0.050000 Gojim<N><Prop> konge<n><m>
-0.050000 Goa<N><Prop> *Gareb-haug<n><m>
 0.050000 gifta<N><Fem> gift<n><f>
 0.050000 gátt<N><Fem> dørstokk<n><m>
 0.050000 gáta<N><Fem> festantrekk<n><nt>
@@ -3506,7 +3336,6 @@
 0.050000 breyðflís<N><Fem> brødbit<n><m>
 0.050000 brenni<N><Neu> brensel<n><nt>
 0.050000 bor<N><Neu> vane<n><m>
-0.050000 Boas<N><Prop> sønn<n><m>
 0.050000 biði<N><Neu> reis<n><f>
 0.050000 atburður<N><Msc> livsførsel<n><m>
 0.050000 ansur<N><Msc> anis<n><m>
@@ -3526,7 +3355,6 @@
 0.049180 rót<N><Fem> rot<n><f>
 0.049020 oddi<N><Msc> spiss<n><m>
 0.049020 lystur<N><Msc> lyst<n><f>
-0.049020 Esau<N><Prop> Esau<np><m>-sønn<n><m>
 0.048780 jørð<N><Fem> åker<n><m>
 0.048701 durur<N><Msc> inngang<n><m>
 0.048611 lið<N><Neu> ledd<n><nt>
@@ -3553,7 +3381,6 @@
 0.047619 tigulsteinur<N><Msc> murstein<n><m>
 0.047619 tarvi<N><Msc> okse<n><m>
 0.047619 svøvnur<N><Msc> dvale<n><m>
-0.047619 Sukkot<N><Prop> *Sukkot-mann<n><m>
 0.047619 styrki<N><Fem> styrkebelte<n><nt>
 0.047619 stong<N><Fem> steng<n><nt>
 0.047619 sproti<N><Msc> septer<n><nt>
@@ -3565,7 +3392,6 @@
 0.047619 sjógvur<N><Msc> hav<n><nt>
 0.047619 seymur<N><Msc> nagle<n><m>
 0.047619 sálmur<N><Msc> David<np><m>-salme<n><m>
-0.047619 Ruben<N><Prop> *Ruben-stam<n><m>
 0.047619 rósa<N><Fem> rose<n><m>
 0.047619 røring<N><Fem> oppløp<n><nt>
 0.047619 rópari<N><Msc> herold<n><m>
@@ -3577,7 +3403,6 @@
 0.047619 oyralippa<N><Fem> øreflipp<n><m>
 0.047619 óskil<N><Neu> uorden<n><m>
 0.047619 orð<N><Neu> hinder<n><nt>
-0.047619 Ofir<N><Prop> *Ofir-gull<n><nt>
 0.047619 neyðarstund<N><Fem> stund<n><f>
 0.047619 nalvastrongur<N><Msc> navlestreng<n><m>
 0.047619 mýggjabit<N><Neu> mygg<n><m>
@@ -3619,7 +3444,6 @@
 0.047619 hella<N><Fem> grotte<n><f>
 0.047619 havs#dýpi<N><Neu> hav<n><nt>
 0.047619 havri<N><Msc> grense<n><m>
-0.047619 Havila<N><Prop> *Havila-land<n><nt>
 0.047619 háls#pynt<N><Neu> halvmåne<n><m>
 0.047619 hálsprýði<N><Neu> halsbånd<n><nt>
 0.047619 gull<N><Neu> *Ufas-gull<n><nt>
@@ -3650,7 +3474,6 @@
 0.047619 at<N><Neu> hå<n><m>
 0.047619 atgongd<N><Fem> tillit<n><f>
 0.047619 armingi<N><Msc> pant<n><nt>
-0.047619 Areli<N><Prop> *Areli-sønn<n><m>
 0.047619 ætlan<N><Fem> holdning<n><m>
 0.047619 abbi<N><Msc> morfar<n><m>
 0.047462 Ísrael<N><Neu> israelitt<n><m>
@@ -3750,10 +3573,8 @@
 0.045139 loyndarmál<N><Neu> mysterium<n><nt>
 0.045139 løta<N><Fem> øyeblikk<n><nt>
 0.045113 oyri<N><Msc> øre<n><nt>
-0.045000 Ádam<N><Prop> mann<n><m>
 0.044988 partur<N><Msc> del<n><m>
 0.044903 vald<N><Neu> makt<n><m>
-0.044898 Harri<N><Prop> herr<n><m>
 0.044872 siðloysi<N><Neu> hor<n><nt>
 0.044872 leið<N><Fem> retning<n><m>
 0.044848 gáva<N><Fem> gave<n><f>
@@ -3819,8 +3640,6 @@
 0.042857 spilla<N><Fem> forfall<n><nt>
 0.042857 síðu#veggur<N><Msc> sidevegg<n><m>
 0.042857 netja<N><Fem> innvoll<n><m>
-0.042857 Mark<N><Prop> grense<n><m>
-0.042857 Juda<N><Prop> *Juda-stam<n><m>
 0.042857 hall<N><Fem> borg<n><m>
 0.042857 gravarmunni<N><Msc> inngang<n><m>
 0.042857 fyrsta<N><Fem> dag<n><m>
@@ -3853,7 +3672,6 @@
 0.041667 vindeyga<N><Neu> glugg<n><m>
 0.041667 villur<N><Msc> hunger<n><m>
 0.041667 villdýr<N><Neu> udyr<n><nt>
-0.041667 Verk<N><Prop> nei<n><nt>
 0.041667 verja<N><Fem> forsvar<n><nt>
 0.041667 venan<N><Fem> lik<adj>-klage<n><m>
 0.041667 veldis#dagur<N><Msc> hær<n><m>
@@ -3914,11 +3732,9 @@
 0.041667 sjósíða<N><Fem> hav<n><nt>
 0.041667 sev<N><Neu> sump<n><m>
 0.041667 setning<N><Fem> jente<n><m>
-0.041667 Sera<N><Prop> serum<n><nt>
 0.041667 send<N><Fem> garnison<n><m>
 0.041667 sekkur<N><Msc> sekkestrie<n><m>
 0.041667 sank<N><Neu> kongerike<n><nt>
-0.041667 Samos<N><Prop> høyde<n><m>
 0.041667 rovdýr<N><Neu> fot<n><m>
 0.041667 rør<N><Neu> siv<n><nt>
 0.041667 rond<N><Fem> gullkant<n><m>
@@ -3990,7 +3806,6 @@
 0.041667 kumma<N><Fem> anis<n><m>
 0.041667 kúgan<N><Fem> vold<n><m>
 0.041667 krossdeyði<N><Msc> kors<n><nt>
-0.041667 Koss<N><Prop> kyss<n><nt>
 0.041667 kongur<N><Msc> kongsmann<n><m>
 0.041667 kona<N><Fem> *Etba’al<n><nt>
 0.041667 køkur<N><Msc> bakverk<n><nt>
@@ -4006,7 +3821,6 @@
 0.041667 kærumál<N><Neu> innlegg<n><nt>
 0.041667 jarn<N><Neu> slede<n><m>
 0.041667 ístur<N><Neu> blad<n><nt>
-0.041667 Issakar<N><Prop> *Jissakar-stam<n><m>
 0.041667 ímynd<N><Fem> vesen<n><nt>
 0.041667 iðran<N><Fem> stund<n><m>
 0.041667 íbúgvi<N><Msc> borger<n><m>
@@ -4042,21 +3856,16 @@
 0.041667 hannur<N><Msc> styrer<n><m>
 0.041667 hall<N><Fem> sal<n><m>
 0.041667 halgidagur<N><Msc> helligdag<n><m>
-0.041667 Gud<N><Prop> uorden<n><m>
 0.041667 guda#vís#dómur<N><Msc> gud<n><m>
 0.041667 guda#andi<N><Msc> ånd<n><m>
 0.041667 grýn<N><Neu> korn<n><nt>
 0.041667 grund<N><Fem> grus<n><nt>
-0.041667 Gøta<N><Prop><Fem> sti<n><nt>
-0.041667 Gøta<N><Prop><Fem> sti<n><m>
 0.041667 glett<N><Neu> glede<n><m>
 0.041667 gjalds#leyst<N><Fem> betaling<n><m>
-0.041667 Gihon<N><Prop> *Gihon-kilde<n><m>
 0.041667 gentubarn<N><Neu> datter<n><m>
 0.041667 gáta<N><Fem> løsning<n><m>
 0.041667 frost<N><Neu> kulde<n><f>
 0.041667 framtíð<N><Fem> fremtid<n><f>
-0.041667 Fram<N><Prop> sving<n><m>
 0.041667 fótafesti<N><Neu> fotfeste<n><nt>
 0.041667 fortíðar#dagur<N><Msc> dag<n><m>
 0.041667 fornaldar#tíð<N><Fem> slekt<n><m>
@@ -4106,13 +3915,11 @@
 0.041667 blað#ríki<N><Neu> løvtre<n><nt>
 0.041667 blað<N><Neu> løv<n><nt>
 0.041667 bismari<N><Msc> vekt<n><f>
-0.041667 Best<N><Prop> slipp<n><nt>
 0.041667 bardagi<N><Msc> krig<n><m>
 0.041667 banki<N><Msc> utlån<n><nt>
 0.041667 atgongd<N><Fem> adgang<n><m>
 0.041667 atburður<N><Msc> atferd<n><f>
 0.041667 arbeiðari<N><Msc> arbeider<n><m>
-0.041667 Appia<N><Prop> vår<n><m>
 0.041667 á<N><Fem> elvefar<n><nt>
 0.041667 akur<N><Msc> jorde<n><nt>
 0.041667 ætt<N><Fem> *Simeon-stam<n><m>
@@ -4138,12 +3945,9 @@
 0.040816 lívs#bók<N><Fem> bok<n><m>
 0.040816 land<N><Neu> fiendeland<n><nt>
 0.040816 lærisveinur<N><Msc> lærling<n><m>
-0.040816 Ísakur<N><Prop> avskjed<n><m>
 0.040816 hviril<N><Msc> skalle<n><m>
 0.040816 grevstur<N><Msc> gravplass<n><m>
-0.040702 Juda<N><Prop> *Juda-kong<n><m>
 0.040698 prísur<N><Msc> pris<n><m>
-0.040580 Harri<N><Prop> vår<n><m>
 0.040404 skál<N><Fem> skåle<n><m>
 0.040230 lýti<N><Neu> lyte<n><nt>
 0.040230 glaða<N><Fem> glad<n><nt>
@@ -4168,8 +3972,6 @@
 0.040000 skipsmaður<N><Msc> sjøfolk<n><nt>
 0.040000 rivur<N><Msc> ansvar<n><nt>
 0.040000 reiðskapur<N><Msc> redskap<n><nt>
-0.040000 Ráð<N><Prop><Neu> tank<n><m>
-0.040000 Ráð<N><Prop><Neu> plan<n><m>
 0.040000 ótíð<N><Fem> rette<n><f>
 0.040000 øksa<N><Fem> lik<n><nt>
 0.040000 øksa<N><Fem> folk<n><nt>
@@ -4185,14 +3987,12 @@
 0.040000 leiði<N><Neu> hit<n><m>
 0.040000 kunningur<N><Msc> kjenning<n><m>
 0.040000 kúgv<N><Fem> okse<n><m>
-0.040000 Koss<N><Prop> svar<n><nt>
 0.040000 klæði<N><Neu> kapp<n><nt>
 0.040000 il<N><Fem> hode<n><nt>
 0.040000 høvdi<N><Msc> hjelm<n><m>
 0.040000 hella<N><Fem> berg<n><nt>
 0.040000 gull<N><Neu> gullkant<n><m>
 0.040000 gudstænasta<N><Fem> gudstjeneste<n><m>
-0.040000 Gud<N><Prop> gudshus<n><nt>
 0.040000 gong<N><Fem> gangvei<n><m>
 0.040000 góðs<N><Neu> pakk<n><nt>
 0.040000 gneggj<N><Neu> gress<n><nt>
@@ -4225,7 +4025,6 @@
 0.039474 hurð<N><Fem> dør<n><m>
 0.039394 hugi<N><Msc> sinne<n><nt>
 0.039316 dómari<N><Msc> dom<n><m>
-0.039286 Norðurland<N><Prop><Neu> land<n><nt>
 0.039258 verk<N><Neu> gjerning<n><f>
 0.039216 prógv<N><Neu> bevis<n><nt>
 0.039216 prís<N><Neu> pris<n><m>
@@ -4236,7 +4035,6 @@
 0.039017 faðir<N><Msc> far<n><nt>
 0.038961 verndarvirki<N><Neu> festning<n><m>
 0.038961 sinnismunur<N><Msc> uvilje<n><m>
-0.038961 Levi<N><Prop> *Levi-sønn<n><m>
 0.038961 krúna<N><Fem> diadem<n><nt>
 0.038961 eldslogi<N><Msc> ild<n><m>
 0.038961 ákallan<N><Fem> bønn<n><m>
@@ -4286,7 +4084,6 @@
 0.037879 vestursíða<N><Fem> vestside<n><m>
 0.037879 sjóvarstrond<N><Fem> hav<n><nt>
 0.037879 møði<N><Fem> strev<n><nt>
-0.037879 Edre<N><Prop> *Edre’ialphabet<n><m>
 0.037791 amboð<N><Neu> redskap<n><nt>
 0.037736 fang<N><Neu> fange<n><nt>
 0.037681 næsti<N><Msc> neste<n><m>
@@ -4348,7 +4145,6 @@
 0.037037 nevaslag<N><Neu> knyttneve<n><m>
 0.037037 múrur<N><Msc> *Jisre’el<n><nt>-voll<n><m>
 0.037037 munnbiti<N><Msc> os<n><nt>
-0.037037 Móses<N><Prop> *class="*verse">mose<n><m>
 0.037037 móðurbróðirir<N><Msc> morbror<n><m>
 0.037037 mánaðar#brennioffur<N><Neu> nymåne<n><m>-brennoffer<n><nt>
 0.037037 mál<N><Neu> rettssak<n><f>
@@ -4399,13 +4195,11 @@
 0.037037 bøtuflaki<N><Msc> dekke<n><nt>
 0.037037 bønar#andi<N><Msc> ånd<n><m>
 0.037037 berskaki<N><Msc> vin<n><m>
-0.037037 Aven<N><Prop> israelitt<n><m>
 0.037037 akur<N><Msc> onnefolk<n><nt>
 0.037037 agg<N><Neu> nag<n><nt>
 0.037037 aftursvar<N><Neu> bud<n><nt>
 0.036842 net<N><Neu> garn<n><nt>
 0.036765 song<N><Fem> seng<n><f>
-0.036585 Píl<N><Prop> pil<n><m>
 0.036503 faðirir<N><Msc> far<n><m>
 0.036458 óljóð<N><Neu> hop<n><m>
 0.036415 hús#sinn<N><Neu> hus<n><nt>
@@ -4417,7 +4211,6 @@
 0.036364 stríðs#spurningur<N><Msc> stridsspørsmål<n><nt>
 0.036364 ljóðføri<N><Neu> instrument<n><nt>
 0.036364 kort<N><Neu> vel<n><nt>
-0.036364 Hanok<N><Prop> var<n><m>
 0.036364 frumburðar#rættur<N><Msc> førstefødselsrett<n><m>
 0.036364 føðiland<N><Neu> hjemland<n><nt>
 0.036364 band<N><Neu> lenke<n><m>
@@ -4486,7 +4279,6 @@
 0.035714 konusystir<N><Fem> søster<n><m>
 0.035714 kol<N><Neu> setter<n><m>
 0.035714 karkur<N><Msc> sving<n><m>
-0.035714 Kam<N><Prop> kams<n><m>
 0.035714 jaspis<N><Neu> diamant<n><m>
 0.035714 jaksul<N><Msc> stykke<n><nt>
 0.035714 jaksul<N><Msc> løv<n><nt>
@@ -4514,7 +4306,6 @@
 0.035714 gómi<N><Msc> gane<n><m>
 0.035714 góðgæti<N><Neu> pynt<n><m>
 0.035714 giti<N><Neu> liv<n><nt>
-0.035714 Gilead<N><Prop> *Gilead-land<n><nt>
 0.035714 gelding<N><Fem> evnukk<n><m>
 0.035714 gekkur<N><Msc> utløp<n><nt>
 0.035714 gagn<N><Neu> fordel<n><m>
@@ -4567,7 +4358,6 @@
 0.034965 gandakallur<N><Msc> trollmann<n><m>
 0.034884 leiði<N><Neu> vei<n><m>
 0.034884 herfólk<N><Neu> hær<n><m>
-0.034826 Levi<N><Prop> levitt<n><m>
 0.034783 elli<N><Fem> alder<n><m>
 0.034722 vinur<N><Msc> kjæreste<n><m>
 0.034722 vika<N><Fem> uke<n><f>
@@ -4575,7 +4365,6 @@
 0.034722 heim<N><Neu> hjem<n><nt>
 0.034722 gøta<N><Fem> sti<n><m>
 0.034722 friður<N><Msc> ærend<n><nt>
-0.034722 Edre<N><Prop> *Edre’ialphabet<n><m>
 0.034632 mannamunur<N><Msc> forskjell<n><m>
 0.034615 kamar<N><Neu> rom<n><nt>
 0.034574 landsmaður<N><Msc> landsmann<n><m>
@@ -4594,7 +4383,6 @@
 0.034091 kúgv<N><Fem> ku<n><m>
 0.034043 bróðirir<N><Msc> landsmann<n><m>
 0.034014 mót<N><Neu> mot<n><nt>
-0.034014 Juda<N><Prop> *Juda-folk<n><nt>
 0.034000 viðurstygd<N><Fem> styggedom<n><m>
 0.033929 fall<N><Neu> fall<n><nt>
 0.033854 friður<N><Msc> ro<n><f>
@@ -4604,7 +4392,6 @@
 0.033613 kvistur<N><Msc> skudd<n><nt>
 0.033613 elliár<N><Neu> dag<n><m>
 0.033425 hús<N><Neu> tempel<n><nt>
-0.033333 Zion<N><Prop> *Sion-datter<n><f>
 0.033333 vís#dóms#lærari<N><Msc> filosof<n><m>
 0.033333 vísa<N><Fem> vis<n><f>
 0.033333 vinna<N><Fem> vinne<n><f>
@@ -4757,7 +4544,6 @@
 0.033333 guda#andi<N><Msc> opplysning<n><m>
 0.033333 grøna<N><Fem> tre<n><nt>
 0.033333 grind<N><Fem> karm<n><m>
-0.033333 Grikkaland<N><Prop><Neu> hell<n><nt>
 0.033333 gras<N><Neu> vekst<n><m>
 0.033333 gøla<N><Fem> grunn<n><m>
 0.033333 geitafylgi<N><Neu> flokk<n><m>
@@ -4792,7 +4578,6 @@
 0.033333 boksl<N><Neu> slakk<n><m>
 0.033333 blekk<N><Neu> penn<n><m>
 0.033333 blástur<N><Neu> pust<n><nt>
-0.033333 Bet-Rehob<N><Prop> *Dan-folk<n><nt>
 0.033333 beini<N><Msc> knok<n><m>
 0.033333 arbeiðsformaður<N><Msc> arbeidsformann<n><m>
 0.033333 áratal<N><Neu> år<n><nt>
@@ -4832,7 +4617,6 @@
 0.032381 yvirgangskroppur<N><Msc> voldsmann<n><m>
 0.032292 ásjón<N><Fem> ansikt<n><nt>
 0.032258 pantur<N><Msc> pant<n><nt>
-0.032258 Nilá<N><Prop> elv<n><m>
 0.032258 lið<N><Fem> side<n><f>
 0.032258 land<N><Neu> provins<n><m>
 0.032258 køka<N><Fem> brød<n><nt>
@@ -4856,7 +4640,6 @@
 0.031746 óvinur<N><Msc> motstander<n><m>
 0.031746 netja<N><Fem> innvoll<n><m>
 0.031746 moldgarður<N><Msc> voll<n><m>
-0.031746 Mattan<N><Prop> be<vblex>’al<n><nt>-prest<n><m>
 0.031746 jarðar#djúp<N><Neu> jord<n><m>
 0.031746 gimbur<N><Fem> saulam<n><nt>
 0.031746 fyrimynd<N><Fem> forbilde<n><nt>
@@ -4964,7 +4747,6 @@
 0.031250 áskoðan<N><Fem> tanke<n><m>
 0.031250 áskoðan<N><Fem> mening<n><m>
 0.031250 ás#amt<N><Neu> uenighet<n><m>
-0.031250 Amrafel<N><Prop> tid<n><m>
 0.031250 álvara<N><Neu> alvor<n><nt>
 0.031250 almúga<N><Fem> lekfolk<n><nt>
 0.031250 ættar#listi<N><Msc> liste<n><m>
@@ -5073,7 +4855,6 @@
 0.029915 handaverk<N><Neu> verk<n><nt>
 0.029762 vinmaður<N><Msc> venn<n><m>
 0.029762 ríki<N><Neu> kongerike<n><nt>
-0.029680 Eden<N><Prop> ed<n><m>
 0.029630 vísa<N><Fem> vis<n><nt>
 0.029630 torg<N><Neu> plass<n><m>
 0.029630 munur<N><Msc> forskjell<n><m>
@@ -5083,7 +4864,6 @@
 0.029557 kríatúr<N><Neu> lyte<n><nt>
 0.029412 vend<N><Fem> snu<n><m>
 0.029412 venan<N><Fem> klage<n><m>
-0.029412 Var<N><Prop> var<n><m>
 0.029412 trælaarbeiði<N><Neu> tvangsarbeid<n><nt>
 0.029412 tosti<N><Msc> lyst<n><m>
 0.029412 sjúka<N><Fem> syke<n><m>
@@ -5123,7 +4903,6 @@
 0.028571 trappa<N><Fem> trappetrinn<n><nt>
 0.028571 torna#stik<N><Neu> tørste<n><m>
 0.028571 tjalddyr<N><Fem> dør<n><m>
-0.028571 Tiberius<N><Prop> keiser<n><m>
 0.028571 tá<N><Fem> mønster<n><nt>
 0.028571 sveima<N><Fem> usseldom<n><m>
 0.028571 sveima<N><Fem> makt<n><m>
@@ -5141,9 +4920,7 @@
 0.028571 sleggja<N><Fem> meisel<n><m>
 0.028571 sker<N><Neu> skamflekk<n><m>
 0.028571 sjómaður<N><Msc> sjøfolk<n><nt>
-0.028571 Sirjon<N><Prop> kall<n><m>
 0.028571 seta<N><Fem> fangst<n><m>
-0.028571 Serug<N><Prop> sønn<n><m>
 0.028571 sátt<N><Fem> budskap<n><nt>
 0.028571 sál<N><Fem> stillhet<n><m>
 0.028571 plagg<N><Neu> klær<n><nt>
@@ -5178,15 +4955,12 @@
 0.028571 kneppi<N><Neu> fang<n><nt>
 0.028571 kavi<N><Msc> snøvann<n><nt>
 0.028571 kamar<N><Neu> soverom<n><nt>
-0.028571 Julius<N><Prop> navn<n><nt>
-0.028571 Judea<N><Prop> *Judea-land<n><nt>
 0.028571 jarðar#djúp<N><Neu> dyp<n><nt>
 0.028571 hvíludagur<N><Msc> sabbat<n><m>
 0.028571 høvdi<N><Msc> hjelm<n><m>
 0.028571 horu#lív<N><Neu> driv<n><m>
 0.028571 himmal<N><Msc> matte<n><m>
 0.028571 hervald<N><Neu> forlik<n><nt>
-0.028571 Hebron<N><Prop> *Hebron-sønn<n><m>
 0.028571 háls#pynt<N><Neu> halvmåne<n><m>
 0.028571 hali<N><Msc> rev<n><nt>
 0.028571 guds#hús<N><Neu> hus<n><nt>
@@ -5240,7 +5014,6 @@
 0.028037 pápi<N><Msc> far<n><nt>
 0.027967 kærleiki<N><Msc> kjærlighet<n><f>
 0.027907 sendimaður<N><Msc> sendemann<n><m>
-0.027820 Juda<N><Prop> judas<n><m>
 0.027820 hold<N><Neu> kropp<n><m>
 0.027778 vrak<N><Neu> kjennskap<n><m>
 0.027778 vit<N><Neu> vanvidd<n><nt>
@@ -5280,14 +5053,12 @@
 0.027778 stúran<N><Fem> uro<n><m>
 0.027778 stubbi<N><Msc> side<n><f>
 0.027778 stigi<N><Msc> rop<n><nt>
-0.027778 Stefanas<N><Prop> familie<n><m>
 0.027778 stað<N><Neu> svoger<n><m>
 0.027778 stadda<N><Fem> fare<n><m>
 0.027778 staðarmúrur<N><Msc> grunnstein<n><m>
 0.027778 spurningur<N><Msc> svar<n><nt>
 0.027778 spor<N><Neu> trinn<n><nt>
 0.027778 spitalska<N><Fem> sopp<n><m>
-0.027778 Spania<N><Prop> vei<n><m>
 0.027778 spámanna#høvdingi<N><Msc> spåmann<n><m>
 0.027778 sona#rættur<N><Msc> rett<n><m>
 0.027778 sólskin<N><Neu> lysning<n><f>
@@ -5325,7 +5096,6 @@
 0.027778 oyði<N><Neu> brakk<n><m>
 0.027778 óskil<N><Neu> folk<n><nt>
 0.027778 ormaeitur<N><Neu> orme<vblex>-eiter<n><nt>
-0.027778 Onan<N><Prop> var<n><m>
 0.027778 oljuber<N><Neu> olivenolje<n><m>
 0.027778 óljóð<N><Neu> drønn<n><nt>
 0.027778 øks<N><Fem> plogjern<n><nt>
@@ -5333,7 +5103,6 @@
 0.027778 okrari<N><Msc> ågerkar<n><m>
 0.027778 øði<N><Fem> raseri<n><nt>
 0.027778 odda#flokkur<N><Msc> fortropp<n><m>
-0.027778 Nikolaus<N><Prop> proselytt<n><m>
 0.027778 niðurbrot<N><Neu> grus<n><nt>
 0.027778 neyðarróp<N><Neu> skrik<n><nt>
 0.027778 nasagluggi<N><Msc> stige<n><m>
@@ -5364,7 +5133,6 @@
 0.027778 konga#stavur<N><Msc> tyrann<n><m>
 0.027778 konga#skrúð<N><Neu> skrud<n><nt>
 0.027778 kongadømi<N><Neu> farfar<n><m>
-0.027778 Komi<N><Prop> nei<n><nt>
 0.027778 klaga<N><Fem> klage<n><m>
 0.027778 klaga<N><Fem> innlegg<n><nt>
 0.027778 kjarni<N><Msc> skinn<n><nt>
@@ -5376,7 +5144,6 @@
 0.027778 illgruni<N><Msc> mistanke<n><m>
 0.027778 hylur<N><Msc> sump<n><m>
 0.027778 hunda#valdur<N><Msc> hund<n><m>
-0.027778 Hulda<N><Prop> mann<n><m>
 0.027778 hosa<N><Fem> sving<n><m>
 0.027778 horn<N><Neu> gatehjørne<n><nt>
 0.027778 hjartadýpi<N><Neu> dyp<n><nt>
@@ -5402,7 +5169,6 @@
 0.027778 guds#hús<N><Neu> bygging<n><m>
 0.027778 grind<N><Fem> karm<n><m>
 0.027778 gerandisdagur<N><Msc> arbeidsdag<n><m>
-0.027778 Gebal<N><Prop> mann<n><m>
 0.027778 fyrndar#orð<N><Neu> visdomsord<n><nt>
 0.027778 fylgi<N><Neu> følge<n><m>
 0.027778 friðar#orð<N><Neu> fred<n><m>
@@ -5419,8 +5185,6 @@
 0.027778 flætta<N><Fem> fletning<n><m>
 0.027778 fjallaryggur<N><Msc> bergrygg<n><m>
 0.027778 finni<N><Msc> fant<n><m>
-0.027778 Fer<N><Prop> nys<n><nt>
-0.027778 Fer<N><Prop> gud<n><m>
 0.027778 felag<N><Neu> avtale<n><m>
 0.027778 fedra#gudur<N><Msc> far<n><m>
 0.027778 esilshøvd<N><Neu> kost<n><nt>
@@ -5439,7 +5203,6 @@
 0.027778 blygd<N><Fem> kjønnsdel<n><m>
 0.027778 blóð#ráð<N><Neu> tale<n><m>
 0.027778 blóðmaður<N><Msc> drapsmann<n><m>
-0.027778 Beria<N><Prop> *Heber-sønn<n><m>
 0.027778 berari<N><Msc> bærer<n><m>
 0.027778 beini<N><Msc> ben<n><nt>
 0.027778 barnsneyð<N><Fem> ve<n><m>
@@ -5450,7 +5213,6 @@
 0.027778 armóð<N><Neu> vanskelighet<n><f>
 0.027778 arbeið<N><Neu> arbeide<n><nt>
 0.027778 arbeiði<N><Neu> håndverk<n><nt>
-0.027778 Apelles<N><Prop> prøve<n><m>
 0.027778 angan<N><Fem> skyld<n><m>
 0.027778 amboð<N><Neu> gjenstand<n><m>
 0.027778 ætt<N><Fem> Benjamin<np><m>-stam<n><m>
@@ -5542,7 +5304,6 @@
 0.025641 skemdarmaður<N><Msc> usling<n><m>
 0.025641 sinn<N><Neu> sinn<n><nt>
 0.025641 síggj<N><Neu> pass<n><nt>
-0.025641 Sidon<N><Prop> *Tyros-område<n><nt>
 0.025641 rúm<N><Neu> plass<n><m>
 0.025641 rættferðar#offur<N><Neu> offer<n><nt>
 0.025641 oyðingar#kustur<N><Msc> kost<n><m>
@@ -5575,7 +5336,6 @@
 0.025641 frumburðar#rætt<N><Fem> førstefødselsrett<n><m>
 0.025641 fjøra<N><Fem> strand<n><m>
 0.025641 drykkju#skap<N><Neu> festing<n><f>
-0.025641 Bøn<N><Prop> bønn<n><m>
 0.025641 á#setta<N><Neu> samlingsplass<n><m>
 0.025641 arbeiðs#skylda<N><Fem> tvangsarbeid<n><nt>
 0.025641 altar#portur<N><Neu> inngang<n><m>
@@ -5616,7 +5376,6 @@
 0.025000 ungi<N><Msc> gutt<n><m>
 0.025000 umsorgan<N><Fem> næring<n><f>
 0.025000 umskifti<N><Neu> skifte<n><nt>
-0.025000 Úlvur<N><Prop> ulv<n><m>
 0.025000 týdningur<N><Msc> mening<n><m>
 0.025000 tungu#álop<N><Neu> angrep<n><nt>
 0.025000 trýst<N><Neu> trykk<n><m>
@@ -5628,7 +5387,6 @@
 0.025000 tingdagur<N><Msc> rettsmøte<n><nt>
 0.025000 tími<N><Msc> oppgjør<n><nt>
 0.025000 tigulgrót<N><Neu> teglstein<n><m>
-0.025000 Tel<N><Prop> krigsbytte<n><nt>
 0.025000 teljing<N><Fem> stam<n><m>
 0.025000 teljing<N><Fem> familie<n><m>
 0.025000 tanngarður<N><Msc> panser<n><nt>
@@ -5650,7 +5408,6 @@
 0.025000 skart<N><Neu> stas<n><m>
 0.025000 skarn<N><Neu> ask<n><m>
 0.025000 skálkaskjól<N><Neu> baktanke<n><m>
-0.025000 Sirjon<N><Prop> *Sirjon-fjell<n><nt>
 0.025000 sinnalag<N><Neu> sinn<n><nt>
 0.025000 silvursmiður<N><Msc> sølvsmed<n><m>
 0.025000 sigursróp<N><Neu> jubelrop<n><nt>
@@ -5662,7 +5419,6 @@
 0.025000 savn<N><Neu> kall<n><nt>
 0.025000 sannføring<N><Fem> bevis<n><nt>
 0.025000 sál<N><Fem> livrett<n><m>
-0.025000 Salma<N><Prop> far<n><nt>
 0.025000 sæla<N><Fem> gjeld<n><m>
 0.025000 ruður<N><Msc> busk<n><m>
 0.025000 rond<N><Fem> gullkant<n><m>
@@ -5671,12 +5427,10 @@
 0.025000 reystmenni<N><Neu> *Kabse’el<n><nt>
 0.025000 rættur<N><Msc> ettermæle<n><nt>
 0.025000 ræðsla<N><Fem> forvirring<n><m>
-0.025000 Ráð<N><Prop><Neu> men<n><nt>
 0.025000 peningur<N><Msc> kjøpesum<n><m>
 0.025000 nýggjár<N><Neu> moabitt<n><m>
 0.025000 nátt<N><Fem> nattely<n><nt>
 0.025000 náttar#dropi<N><Msc> natt<n><m>
-0.025000 Naftal<N><Prop> *Naftali-stam<n><m>
 0.025000 myrkur<N><Neu> belgmørke<n><nt>
 0.025000 mylnusteinur<N><Msc> kvernstein<n><m>
 0.025000 moldvørpa<N><Fem> kaste<n><m>
@@ -5686,13 +5440,11 @@
 0.025000 millión<N><Fem> gang<n><m>
 0.025000 menniskja#sáð<N><Fem> menneske<n><nt>
 0.025000 megi<N><Fem> kreft<n><m>
-0.025000 Mark<N><Prop> land<n><nt>
 0.025000 mark<N><Neu> landegrense<n><m>
 0.025000 manndráp<N><Neu> drap<n><nt>
 0.025000 mannamunur<N><Msc> parti<n><nt>
 0.025000 mál<N><Neu> klarhet<n><m>
 0.025000 lystur<N><Msc> lidenskap<n><m>
-0.025000 Lot<N><Prop> brorsønn<n><m>
 0.025000 listar#verkur<N><Msc> håndverk<n><nt>
 0.025000 leyva<N><Fem> tanngard<n><m>
 0.025000 letibúkur<N><Msc> villdyr<n><nt>
@@ -5704,7 +5456,6 @@
 0.025000 krops#mein<N><Neu> tvistemål<n><nt>
 0.025000 kríatúr<N><Neu> lekfolk<n><nt>
 0.025000 kongs#høll<N><Fem> hall<n><m>
-0.025000 Kol-Hoze<N><Prop> leder<n><m>
 0.025000 {_klovnur<N><Msc> klov<n><m>
 0.025000 keypmaður<N><Msc> handelsmann<n><m>
 0.025000 kápa<N><Fem> slep<n><nt>
@@ -5736,7 +5487,6 @@
 0.025000 gøtu#mót<N><Neu> larm<n><m>
 0.025000 gómi<N><Msc> sans<n><m>
 0.025000 gómi<N><Msc> munn<n><m>
-0.025000 Goa<N><Prop> *Gareb-haug<n><m>
 0.025000 gildi<N><Neu> gilde<n><nt>
 0.025000 gerð<N><Fem> atferd<n><f>
 0.025000 fýrhyrningur<N><Msc> firkant<n><m>
@@ -5807,7 +5557,6 @@
 0.024390 skil<N><Neu> forstand<n><m>
 0.024390 sedristræ<N><Neu> seder<n><m>
 0.024390 mein<N><Neu> skade<n><m>
-0.024358 Harri<N><Prop> herr<n><m>
 0.024331 mynd<N><Fem> gudebilde<n><nt>
 0.024242 byrði<N><Fem> byrd<n><m>
 0.024194 yvirgangsverk<N><Neu> voldsverk<n><nt>
@@ -5822,7 +5571,6 @@
 0.023810 vinmaður<N><Msc> vennskap<n><nt>
 0.023810 viðferð<N><Fem> glede<n><f>
 0.023810 ver<N><Neu> vennskap<n><nt>
-0.023810 Verk<N><Prop> gjerning<n><m>
 0.023810 veldis#styrkur<N><Msc> makt<n><m>
 0.023810 veiða<N><Fem> tak<n><nt>
 0.023810 vegloysi<N><Neu> vei<n><m>
@@ -5863,7 +5611,6 @@
 0.023810 skjal<N><Neu> linje<n><m>
 0.023810 skarlak<N><Neu> purpur<n><nt>
 0.023810 sinni<N><Neu> anger<n><m>
-0.023810 Silla<N><Prop> vei<n><m>
 0.023810 síggj<N><Neu> pass<n><m>
 0.023810 siður<N><Msc> drev<n><nt>
 0.023810 sendiboð<N><Neu> utsending<n><m>
@@ -5906,13 +5653,11 @@
 0.023810 kraftur<N><Msc> rikt<n><nt>
 0.023810 kista<N><Fem> penge<n><m>
 0.023810 karkur<N><Msc> sving<n><m>
-0.023810 Justus<N><Prop> navn<n><nt>
 0.023810 inntøka<N><Fem> inntekt<n><m>
 0.023810 innsigli<N><Neu> signet<n><nt>
 0.023810 innivist<N><Fem> finne<n><m>
 0.023810 hvørva<N><Fem> tåke<n><m>
 0.023810 hviril<N><Msc> skalle<n><m>
-0.023810 Hulda<N><Prop> profet<n><m>
 0.023810 høvuðspresta#ætt<N><Fem> slekt<n><m>
 0.023810 hørpuljóð<N><Neu> harpetone<n><m>
 0.023810 hon<N><Fem> besøk<n><nt>
@@ -5930,8 +5675,6 @@
 0.023810 hall<N><Fem> sal<n><m>
 0.023810 hálka<N><Fem> glatte<n><f>
 0.023810 gullepli<N><Neu> skåle<n><m>
-0.023810 Gud<N><Prop> streng<n><m>
-0.023810 Gud<N><Prop> still<n><nt>
 0.023810 gudloysis#tjald<N><Neu> telt<n><nt>
 0.023810 grógv<N><Fem> hå<n><m>
 0.023810 gongd<N><Fem> skritt<n><nt>
@@ -5948,12 +5691,9 @@
 0.023810 fávitska<N><Fem> dårskap<n><m>
 0.023810 farmur<N><Msc> last<n><f>
 0.023810 fáfongdar#villa<N><Fem> bedrag<n><nt>
-0.023810 Enokur<N><Prop> ledd<n><nt>
-0.023810 Enajim<N><Prop> inngang<n><m>
 0.023810 ektakona<N><Fem> ektefelle<n><m>
 0.023810 einki<N><Neu> fornuft<n><m>
 0.023810 dóttir<N><Fem> vrak<n><nt>
-0.023810 Dan<N><Prop> *Dan-leir<n><m>
 0.023810 dagur<N><Msc> festdag<n><m>
 0.023810 daga#mál<N><Neu> utgang<n><m>
 0.023810 bulur<N><Msc> løvverk<n><nt>
@@ -5971,7 +5711,6 @@
 0.023810 bloti<N><Msc> myr<n><f>
 0.023810 bjálki<N><Msc> karm<n><m>
 0.023810 biti<N><Msc> stykke<n><nt>
-0.023810 Bert<N><Prop> men<n><nt>
 0.023810 bera<N><Fem> bar<n><nt>
 0.023810 barn<N><Neu> veslebarn<n><nt>
 0.023810 bar<N><Neu> mandel<n><m>
@@ -6048,7 +5787,6 @@
 0.022727 rakiknívur<N><Msc> kniv<n><m>
 0.022727 ræðslu#dagur<N><Msc> redsel<n><m>
 0.022727 profeta#gáva<N><Fem> gave<n><f>
-0.022727 Pontius<N><Prop> landshøvding<n><m>
 0.022727 pannu#prýði<N><Neu> diadem<n><nt>
 0.022727 orrustu#dagur<N><Msc> strid<n><m>
 0.022727 orrustu#dagur<N><Msc> dag<n><m>
@@ -6065,7 +5803,6 @@
 0.022727 land<N><Neu> plante<n><m>
 0.022727 kú<N><Fem> ku<n><m>
 0.022727 kollur<N><Msc> festningsmur<n><m>
-0.022727 Juda<N><Prop> signetring<n><m>
 0.022727 jarðbik<N><Neu> bindemiddel<n><nt>
 0.022727 Ísraels#kongur<N><Msc> Israel<np><top>-kong<n><m>
 0.022727 innbjóðing<N><Fem> fører<n><m>
@@ -6091,7 +5828,6 @@
 0.022727 dýrd<N><Fem> pryd<n><m>
 0.022727 dun<N><Neu> brus<n><nt>
 0.022727 dómur<N><Msc> straffedom<n><m>
-0.022727 Doeg<N><Prop> gang<n><m>
 0.022727 dagatal<N><Neu> etterfølger<n><m>
 0.022727 beiskleiki<N><Msc> opprør<n><nt>
 0.022727 bands#longd<N><Fem> folk<n><nt>
@@ -6126,7 +5862,6 @@
 0.022222 stórmaður<N><Msc> adelsmann<n><m>
 0.022222 stokkur<N><Msc> blokk<n><f>
 0.022222 spor<N><Neu> lyst<n><f>
-0.022222 Sova<N><Prop> blund<n><m>
 0.022222 sorg<N><Fem> klage<n><m>
 0.022222 sorgloysi<N><Neu> trygghet<n><m>
 0.022222 sorgloysi<N><Neu> liv<n><nt>
@@ -6171,7 +5906,6 @@
 0.022222 lega<N><Fem> grav<n><f>
 0.022222 land<N><Neu> grense<n><f>
 0.022222 kryddurt<N><Fem> balsam<n><m>
-0.022222 Komi<N><Prop> la<n><m>
 0.022222 koma<N><Fem> bør<n><f>
 0.022222 kappi<N><Msc> helt<n><m>
 0.022222 jarðarríki<N><Neu> krets<n><m>
@@ -6188,7 +5922,6 @@
 0.022222 fyrimunur<N><Msc> vise<n><m>
 0.022222 fyrimunur<N><Msc> kraft<n><f>
 0.022222 fylla<N><Fem> klagerop<n><nt>
-0.022222 Fram<N><Prop> rykk<n><m>
 0.022222 fræls<N><Neu> frihet<n><m>
 0.022222 fortaping<N><Fem> møte<n><nt>
 0.022222 forfaðir<N><Msc> forfader<n><m>
@@ -6226,7 +5959,6 @@
 0.022167 góðs<N><Neu> rikdom<n><m>
 0.022093 herhøvdingi<N><Msc> kommandant<n><m>
 0.022059 leið<N><Fem> villspor<n><nt>
-0.022059 Jónas<N><Prop> *Jona-tegn<n><nt>
 0.022059 havsbylgja<N><Fem> bølge<n><m>
 0.021978 vís#dómur<N><Msc> viser<n><m>
 0.021978 vakt<N><Fem> vaktstyrke<n><m>
@@ -6313,7 +6045,6 @@
 0.020833 tanngarður<N><Msc> panser<n><nt>
 0.020833 tal<N><Neu> murstein<n><m>
 0.020833 stykki<N><Neu> soningsoffer<n><nt>
-0.020833 Stígur<N><Prop> *Kisjon-bekk<n><m>
 0.020833 staður<N><Msc> bindemiddel<n><nt>
 0.020833 spottari<N><Msc> spott<n><m>
 0.020833 sonur<N><Msc> *Ussiel-sønn<n><m>
@@ -6341,12 +6072,10 @@
 0.020833 rættferðar#heimur<N><Msc> rettferd<n><m>
 0.020833 rættartræta<N><Fem> innbygger<n><m>
 0.020833 rættargangur<N><Msc> sak<n><f>
-0.020833 Put<N><Prop> tjeneste<n><m>
 0.020833 presta#høvdingur<N><Msc> prest<n><m>
 0.020833 planta<N><Fem> kvist<n><m>
 0.020833 peninga#kærleiki<N><Msc> penge<n><m>
 0.020833 oyðimørk<N><Fem> villmark<n><m>
-0.020833 Oreb<N><Prop> høvding<n><m>
 0.020833 ongul<N><Msc> krok<n><m>
 0.020833 ong<N><Fem> matte<n><m>
 0.020833 ómak<N><Neu> strev<n><nt>
@@ -6398,7 +6127,6 @@
 0.020833 heims#økingar#ár<N><Neu> ja<n><nt>
 0.020833 havsbylgja<N><Fem> bølge<n><m>
 0.020833 hav<N><Neu> renne<n><m>
-0.020833 Hagar<N><Prop> slaveri<n><nt>
 0.020833 gullepli<N><Neu> sølv<n><nt>
 0.020833 grógv<N><Fem> grunn<n><m>
 0.020833 grógv<N><Fem> gro<n><m>
@@ -6409,7 +6137,6 @@
 0.020833 gistihús<N><Neu> husrom<n><nt>
 0.020833 gildishús<N><Neu> liv<n><nt>
 0.020833 gall<N><Neu> gift<n><m>
-0.020833 Galilea<N><Prop> *Dekapolis-land<n><nt>
 0.020833 fyridømi<N><Neu> enighet<n><f>
 0.020833 friðar#sjón<N><Fem> by<n><m>
 0.020833 fótafesti<N><Neu> feste<n><nt>
@@ -6417,7 +6144,6 @@
 0.020833 fjall<N><Neu> ås<n><m>
 0.020833 fíggindi<N><Msc> uvenn<n><m>
 0.020833 fet<N><Neu> plass<n><m>
-0.020833 Festus<N><Prop> sak<n><m>
 0.020833 fest<N><Fem> rot<n><nt>
 0.020833 ferðamaður<N><Msc> karavane<n><m>
 0.020833 fávitska<N><Fem> uforstand<n><m>
@@ -6427,10 +6153,8 @@
 0.020833 farmur<N><Msc> ja<n><nt>
 0.020833 fall<N><Neu> hårstrå<n><nt>
 0.020833 eyga<N><Neu> slipp<n><m>
-0.020833 Epafras<N><Prop> medfange<n><m>
 0.020833 endurgjald<N><Neu> vederlag<n><nt>
 0.020833 elma<N><Fem> skurd<n><m>
-0.020833 Edre<N><Prop> hær<n><m>
 0.020833 dýrdar#frælsi<N><Neu> frihet<n><m>
 0.020833 dun<N><Neu> drønn<n><nt>
 0.020833 dun<N><Neu> brus<n><nt>
@@ -6446,11 +6170,9 @@
 0.020833 bøli<N><Neu> hule<n><m>
 0.020833 bílæt<N><Neu> avbilde<n><nt>
 0.020833 bergs#kor<N><Neu> berghammar<n><m>
-0.020833 Berenike<N><Prop> følge<n><nt>
 0.020833 batni<N><Msc> atferd<n><f>
 0.020833 bál<N><Neu> ild<n><m>
 0.020833 bál<N><Neu> ære<n><m>
-0.020833 Bábylon<N><Prop> mening<n><f>
 0.020833 atkvøða<N><Fem> snakk<n><nt>
 0.020833 arvajørð<N><Fem> herr<n><m>
 0.020833 áminning<N><Fem> oppdragelse<n><m>
@@ -6478,7 +6200,6 @@
 0.020408 spurvur<N><Msc> fugl<n><m>
 0.020408 sovikamar<N><Neu> kammer<n><nt>
 0.020408 sjógvur<N><Msc> drev<n><nt>
-0.020408 Rygg<N><Prop> rygg<n><m>
 0.020408 ríkmaður<N><Msc> rike<n><nt>
 0.020408 ríkmaður<N><Msc> mann<n><m>
 0.020408 reis<N><Fem> støtte<n><m>
@@ -6520,7 +6241,6 @@
 0.020202 illsinni<N><Neu> harm<n><m>
 0.020202 hátign<N><Fem> majestet<n><m>
 0.020202 fat<N><Neu> skåle<n><m>
-0.020202 Boas<N><Prop> bo<n><nt>
 0.020202 blómuknappur<N><Msc> knopp<n><m>
 0.020202 altar#vígsla<N><Fem> alter<n><nt>
 0.020000 vís#dómur<N><Msc> klokskap<n><m>
@@ -6551,7 +6271,6 @@
 0.020000 skal<N><Neu> klov<n><m>
 0.020000 skálkaskjól<N><Neu> baktanke<n><m>
 0.020000 setta<N><Neu> oppsynsmann<n><m>
-0.020000 Saba<N><Prop> vis<n><m>
 0.020000 rivur<N><Msc> sandbanke<n><m>
 0.020000 riv<N><Neu> tårn<n><nt>
 0.020000 regla<N><Fem> krav<n><nt>
@@ -6567,7 +6286,6 @@
 0.020000 {_múrtindur<N><Msc> tårn<n><nt>
 0.020000 mót<N><Neu> hytte<n><m>
 0.020000 minni<N><Neu> ettermæle<n><nt>
-0.020000 Mara<N><Prop> sted<n><nt>
 0.020000 maki<N><Msc> make<n><m>
 0.020000 lov<N><Neu> ære<n><m>
 0.020000 lít<N><Fem> gagn<n><nt>
@@ -6591,7 +6309,6 @@
 0.020000 hold<N><Neu> orden<n><m>
 0.020000 hinna<N><Fem> krans<n><m>
 0.020000 hevndar#svørð<N><Neu> hevn<n><m>
-0.020000 Het<N><Prop> sønn<n><m>
 0.020000 hella<N><Fem> lenke<n><m>
 0.020000 havs#strond<N><Fem> kyst<n><m>
 0.020000 harradømi<N><Neu> herredømme<n><nt>
@@ -6604,11 +6321,9 @@
 0.020000 flóðgarður<N><Msc> havn<n><f>
 0.020000 flóðgarður<N><Msc> folk<n><nt>
 0.020000 fiska#veiði<N><Fem> fangst<n><m>
-0.020000 Epafroditus<N><Prop> sending<n><m>
 0.020000 embætismaður<N><Msc> embetsmann<n><m>
 0.020000 eldstaður<N><Msc> åre<n><m>
 0.020000 eigindómur<N><Msc> bolig<n><m>
-0.020000 Eden<N><Prop> hage<n><m>
 0.020000 dómur<N><Msc> avgjørelse<n><m>
 0.020000 deiggj<N><Neu> leire<n><m>
 0.020000 deiggj<N><Neu> leire<n><f>
@@ -6621,7 +6336,6 @@
 0.020000 bar<N><Neu> *Na’ar<n><nt>
 0.020000 banamaður<N><Msc> vold<n><m>
 0.020000 áratal<N><Neu> antall<n><nt>
-0.020000 Akan<N><Prop> gods<n><nt>
 0.020000 ættarliður<N><Msc> slektledd<n><nt>
 0.020000 ær<N><Fem> ære<n><m>
 0.020000 ær<N><Fem> ære<n><f>
@@ -6667,7 +6381,6 @@
 0.019231 sonur<N><Msc> *Elisafan-sønn<n><m>
 0.019231 set<N><Neu> spenn<n><nt>
 0.019231 salving<N><Fem> salve<n><m>
-0.019231 Sala<N><Prop> sønn<n><m>
 0.019231 rødd<N><Fem> *Kadesj-ørken<n><m>
 0.019231 rættargangur<N><Msc> dom<n><m>
 0.019231 nytta<N><Fem> gagn<n><nt>
@@ -6678,8 +6391,6 @@
 0.019231 hugmóðs#dagur<N><Msc> tid<n><m>
 0.019231 herverksmaður<N><Msc> krig<n><m>
 0.019231 herverksmaður<N><Msc> folk<n><nt>
-0.019231 Heródias<N><Prop> grunn<n><m>
-0.019231 Gud<N><Prop> sel<n><nt>
 0.019231 grøðingar#tíð<N><Fem> tid<n><m>
 0.019231 ger<N><Fem> lage<n><m>
 0.019231 førimuni<N><Msc> evne<n><f>
@@ -6738,13 +6449,11 @@
 0.018519 skræði<N><Neu> rive<n><m>
 0.018519 skilamaður<N><Msc> mann<n><m>
 0.018519 skemd<N><Fem> bær<n><nt>
-0.018519 Silvanus<N><Prop> hjelp<n><m>
 0.018519 síggj<N><Neu> bruk<n><m>
 0.018519 send<N><Fem> utsending<n><f>
 0.018519 sannleiki<N><Msc> rettsinn<n><nt>
 0.018519 ruður<N><Msc> stubb<n><m>
 0.018519 rimaverk<N><Neu> glugg<n><m>
-0.018519 Peleg<N><Prop> sønn<n><m>
 0.018519 oyralippa<N><Fem> øreflipp<n><m>
 0.018519 ørviti<N><Neu> bringe<n><m>
 0.018519 ormaeitur<N><Neu> slang<n><m>
@@ -6758,7 +6467,6 @@
 0.018519 men<N><Fem> *class="*verse">bo<n><nt>
 0.018519 mannfjøld<N><Fem> flokk<n><m>
 0.018519 máltíð<N><Fem> slakt<n><nt>
-0.018519 Lot<N><Prop> Jordan<np><top>-slette<n><m>
 0.018519 lív<N><Neu> skryt<n><nt>
 0.018519 lív<N><Neu> gjøremål<n><nt>
 0.018519 lívd<N><Fem> tilflukt<n><m>
@@ -6786,7 +6494,6 @@
 0.018519 hylur<N><Msc> sump<n><m>
 0.018519 hús#dyr<N><Fem> dør<n><m>
 0.018519 húsbóndi<N><Msc> husbond<n><m>
-0.018519 Hørður<N><Prop> får<n><m>
 0.018519 hon<N><Fem> krystall<n><nt>
 0.018519 høll<N><Fem> hus<n><nt>
 0.018519 høll<N><Fem> hall<n><m>
@@ -6804,7 +6511,6 @@
 0.018519 gistihús<N><Neu> herberge<n><nt>
 0.018519 gildishús<N><Neu> menneske<n><nt>
 0.018519 gildisdagur<N><Msc> festdag<n><m>
-0.018519 Gihon<N><Prop> så<n><m>
 0.018519 gifta<N><Fem> kvinne<n><m>
 0.018519 gagn<N><Neu> nytte<n><f>
 0.018519 fyridømi<N><Neu> eksempel<n><nt>
@@ -6821,7 +6527,6 @@
 0.018519 bonkur<N><Msc> kobberkjel<n><m>
 0.018519 bølmyrkur<N><Neu> men<n><nt>
 0.018519 blindan<N><Fem> lede<n><m>
-0.018519 Barnabas<N><Prop> fetter<n><m>
 0.018519 barnabarn<N><Neu> barn<n><nt>
 0.018519 afturløning<N><Fem> granne<n><m>
 0.018456 móða<N><Fem> mor<n><m>
@@ -6840,7 +6545,6 @@
 0.018182 vanlukku#leið<N><Fem> vei<n><m>
 0.018182 undirskrift<N><Fem> kan<n><m>
 0.018182 tungu#álop<N><Neu> hytte<n><m>
-0.018182 Troas<N><Prop> tro<n><f>
 0.018182 tornur<N><Msc> tornebusk<n><m>
 0.018182 teppur<N><Msc> teltduk<n><m>
 0.018182 tari<N><Msc> sønn<n><m>
@@ -6880,13 +6584,11 @@
 0.018182 íhald<N><Neu> stans<n><m>
 0.018182 hold<N><Neu> hold<n><nt>
 0.018182 hevndar#svørð<N><Neu> sverd<n><nt>
-0.018182 Hanna<N><Prop> herr<n><m>
 0.018182 gørn<N><Fem> fell<n><m>
 0.018182 gall<N><Neu> mur<n><m>
 0.018182 formaður<N><Msc> arbeidsformann<n><m>
 0.018182 fangi<N><Msc> fangenskap<n><nt>
 0.018182 fæ<N><Neu> husdyr<n><nt>
-0.018182 Ella<N><Prop> var<n><nt>
 0.018182 dygd<N><Fem> liv<n><nt>
 0.018182 dreygs#rødd<N><Fem> stem<n><m>
 0.018182 djúp<N><Neu> dybde<n><m>
@@ -6900,7 +6602,6 @@
 0.018083 máttur<N><Msc> kraft<n><m>
 0.018072 merki<N><Neu> merke<n><nt>
 0.018018 sonur<N><Msc> gutt<n><m>
-0.017928 Jósef<N><Prop> Josef<np><m>-sønn<n><m>
 0.017857 vinkona<N><Fem> frende<n><m>
 0.017857 vinkona<N><Fem> forstand<n><m>
 0.017857 vertur<N><Msc> verd<n><f>
@@ -6925,7 +6626,6 @@
 0.017857 skylda<N><Fem> plikt<n><f>
 0.017857 skreyt<N><Fem> glans<n><m>
 0.017857 sjógvur<N><Msc> vann<n><nt>
-0.017857 Sirjon<N><Prop> *Sirjon-fjell<n><nt>
 0.017857 sinnalag<N><Neu> vilje<n><m>
 0.017857 sendimaður<N><Msc> utsending<n><m>
 0.017857 samtala<N><Fem> folk<n><nt>
@@ -6936,9 +6636,7 @@
 0.017857 ráðharri<N><Msc> rådgiver<n><m>
 0.017857 prestur<N><Msc><Indef><Cmpnd> skift<n><nt>
 0.017857 persa<N><Fem> press<n><m>
-0.017857 Penuel<N><Prop> innbygger<n><m>
 0.017857 peninga#pungur<N><Msc> pengepung<n><m>
-0.017857 Patmos<N><Prop> grunn<n><m>
 0.017857 oljukøka<N><Fem> brød<n><nt>
 0.017857 oddamaður<N><Msc> leder<n><m>
 0.017857 nátt<N><Fem> tåkedott<n><m>
@@ -6996,11 +6694,9 @@
 0.017857 brestur<N><Msc> løs<n><nt>
 0.017857 bøli<N><Neu> hule<n><f>
 0.017857 bøðil<N><Msc> tjener<n><m>
-0.017857 Ben<N><Prop> rang<n><m>
 0.017857 avgrund<N><Fem> havdyp<n><nt>
 0.017857 at<N><Neu> trygghet<n><f>
 0.017857 arbeið<N><Neu> pliktarbeid<n><nt>
-0.017857 Arabia<N><Prop> nattely<n><nt>
 0.017857 áminningar#orð<N><Neu> trøst<n><m>
 0.017857 áarføri<N><Neu> uvær<n><nt>
 0.017778 máttur<N><Msc> makt<n><f>
@@ -7035,11 +6731,9 @@
 0.017391 mold<N><Fem> støv<n><nt>
 0.017391 mál<N><Neu> stem<n><m>
 0.017391 dagur<N><Msc> lever<n><f>
-0.017391 Benjamin<N><Prop> benjamin<n><m>-stam<n><m>
 0.017370 lands#tjórur<N><Msc> styresmann<n><m>
 0.017361 offurgáva<N><Fem> gave<n><m>
 0.017361 lið<N><Fem> ledd<n><nt>
-0.017309 Anda<N><Prop> ånd<n><m>
 0.017308 orð<N><Neu> budskap<n><nt>
 0.017287 næsti<N><Msc> landsmann<n><m>
 0.017241 veldi<N><Neu> makt<n><m>
@@ -7081,7 +6775,6 @@
 0.016981 arvalutur<N><Msc> eiendom<n><m>
 0.016949 trø<N><Neu> skog<n><m>
 0.016949 mein<N><Neu> skade<n><m>
-0.016949 Asaf<N><Prop> *Asaf-salme<n><m>
 0.016901 menniskja#barn<N><Neu> menneskebarn<n><nt>
 0.016901 gleði<N><Fem> lyst<n><m>
 0.016887 dýr<N><Neu> villdyr<n><nt>
@@ -7089,7 +6782,6 @@
 0.016854 tungi<N><Msc> tunge<n><m>
 0.016854 seli<N><Msc> sel<n><nt>
 0.016835 loynd<N><Fem> hemmelighet<n><f>
-0.016827 Ísai<N><Prop> *Isai-sønn<n><m>
 0.016807 vínberjaløgur<N><Msc> most<n><m>
 0.016807 útflot<N><Neu> syke<n><m>
 0.016807 sjógvur<N><Msc> bølge<n><m>
@@ -7138,7 +6830,6 @@
 0.016667 perla<N><Fem> gate<n><m>
 0.016667 peninga#kærleiki<N><Msc> kjærlighet<n><m>
 0.016667 oyri<N><Fem> øre<n><nt>
-0.016667 Orion<N><Prop> bånd<n><nt>
 0.016667 olja<N><Fem> salve<n><f>
 0.016667 ódnarstormur<N><Msc> vognhjul<n><nt>
 0.016667 óðal<N><Neu> land<n><nt>
@@ -7148,7 +6839,6 @@
 0.016667 missur<N><Msc> mangel<n><m>
 0.016667 menniskja<N><Neu> *class="*verse">menneske<n><nt>
 0.016667 menniskja<N><Fem> *class="*verse">menneske<n><nt>
-0.016667 Mark<N><Prop> banner<n><nt>
 0.016667 maki<N><Msc> ektefelle<n><m>
 0.016667 løða<N><Fem> hus<n><nt>
 0.016667 ljóstur<N><Msc> lyst<n><f>
@@ -7163,7 +6853,6 @@
 0.016667 kongur<N><Msc> *Basan-kong<n><m>
 0.016667 klæði<N><Neu> skrud<n><nt>
 0.016667 keppur<N><Msc> kjepp<n><m>
-0.016667 Jobab<N><Prop> sønn<n><m>
 0.016667 inni<N><Msc> slør<n><nt>
 0.016667 hvítusunnudagur<N><Msc> pinsedag<n><m>
 0.016667 húsi<N><Msc> seng<n><f>
@@ -7176,7 +6865,6 @@
 0.016667 høgg<N><Neu> krok<n><m>
 0.016667 hevnd<N><Fem> uvenn<n><m>
 0.016667 hetta<N><Fem> faste<n><m>
-0.016667 Het<N><Prop> skyld<n><f>
 0.016667 hetja<N><Fem> helt<n><m>
 0.016667 herði<N><Fem> så<n><m>
 0.016667 hátíðar#skari<N><Msc> møteplass<n><m>
@@ -7184,7 +6872,6 @@
 0.016667 handilsmaður<N><Msc> inntekt<n><m>
 0.016667 háls#brot<N><Neu> nakke<n><m>
 0.016667 gudsdýrkan<N><Fem> religion<n><m>
-0.016667 Gøta<N><Prop><Fem> sti<n><nt>
 0.016667 gørn<N><Fem> tau<n><nt>
 0.016667 gørn<N><Fem> fell<n><m>
 0.016667 gjá<N><Fem> grotte<n><f>
@@ -7204,8 +6891,6 @@
 0.016667 ektamaður<N><Msc> ektemann<n><m>
 0.016667 einki<N><Neu> mangel<n><m>
 0.016667 eftirmaður<N><Msc> ætling<n><m>
-0.016667 Edre<N><Prop> slag<n><nt>
-0.016667 Eden<N><Prop> ed<n><m>-folk<n><nt>
 0.016667 drykkju#skap<N><Neu> dagligliv<n><nt>
 0.016667 dráps#kríatúr<N><Neu> slaktoffer<n><nt>
 0.016667 dragi<N><Msc> føre<n><nt>
@@ -7215,7 +6900,6 @@
 0.016667 dagur<N><Msc> regjeringstid<n><m>
 0.016667 breyðbiti<N><Msc> brød<n><nt>
 0.016667 blindan<N><Fem> lede<n><m>
-0.016667 Beor<N><Prop> var<n><m>
 0.016667 bein<N><Neu> marg<n><m>
 0.016667 beini<N><Msc> rette<n><m>
 0.016667 barnakona<N><Fem> fødselsve<n><m>
@@ -7296,7 +6980,6 @@
 0.015873 skal<N><Neu> kjeltring<n><m>
 0.015873 sindur<N><Neu> grann<n><nt>
 0.015873 seyðafylgi<N><Neu> sau<n><m>
-0.015873 Saul<N><Prop> farbror<n><m>
 0.015873 sálmabók<N><Fem> la<n><m>
 0.015873 rekavætti<N><Neu> kjeltring<n><m>
 0.015873 rætt<N><Fem> rettighet<n><m>
@@ -7324,7 +7007,6 @@
 0.015873 leyvu#bøli<N><Neu> løv<n><nt>
 0.015873 leti<N><Fem> dovenskap<n><m>
 0.015873 leiði<N><Neu> krokvei<n><m>
-0.015873 Langt<N><Prop> stykke<n><nt>
 0.015873 kvistur<N><Msc> plante<n><f>
 0.015873 kríatúr<N><Neu> feavl<n><m>
 0.015873 kjálki<N><Msc> så<n><m>
@@ -7486,7 +7168,6 @@
 0.015385 eik<N><Fem> more<vblex>-eik<n><f>
 0.015385 eik<N><Fem> eiketre<n><nt>
 0.015385 drykkju#skap<N><Neu> festing<n><f>
-0.015385 Dina<N><Prop> så<n><m>
 0.015385 dadda<N><Fem> fare<n><m>
 0.015385 bind<N><Neu> spenn<n><nt>
 0.015385 bera<N><Fem> luft<n><m>
@@ -7513,7 +7194,6 @@
 0.015152 tistil<N><Msc> tagg<n><m>
 0.015152 tíni<N><Neu> avkom<n><nt>
 0.015152 systkinabarn<N><Neu> fetter<n><m>
-0.015152 Suðurland<N><Prop><Neu> land<n><nt>
 0.015152 stund<N><Fem> var<n><nt>
 0.015152 stilli<N><Neu> bølge<n><m>
 0.015152 steðgur<N><Msc> stans<n><m>
@@ -7550,7 +7230,6 @@
 0.015152 kongur<N><Msc> medium<n><nt>
 0.015152 kongadóttir<N><Fem> kjole<n><m>
 0.015152 køkur<N><Msc> bakverk<n><nt>
-0.015152 Javan<N><Prop> folk<n><nt>
 0.015152 íbúgvi<N><Msc> borger<n><m>
 0.015152 høvdingi<N><Msc> storfyrste<n><m>
 0.015152 hópur<N><Msc> folkemasse<n><m>
@@ -7577,7 +7256,6 @@
 0.015152 blóðs#kyld<N><Fem> komme<n><nt>
 0.015089 hold<N><Neu> skapning<n><m>
 0.015038 uppreistur<N><Msc> opprør<n><nt>
-0.015038 Merari<N><Prop> *Merari-sønn<n><m>
 0.015038 gáva<N><Fem> område<n><nt>
 0.015038 fostur<N><Neu> barn<n><nt>
 0.015000 tógv<N><Neu> ull<n><m>
@@ -7631,7 +7309,6 @@
 0.014493 slætti<N><Msc> slette<n><f>
 0.014493 skeið<N><Neu> løp<n><nt>
 0.014493 sáð<N><Fem> såkorn<n><nt>
-0.014493 Perez<N><Prop> sønn<n><m>
 0.014493 hand<N><Fem> bind<n><nt>
 0.014493 frukt<N><Fem> avkom<n><nt>
 0.014493 frøi<N><Fem> glede<n><f>
@@ -7674,16 +7351,13 @@
 0.014286 sláturoffur<N><Neu> offerfest<n><m>
 0.014286 skurðseyður<N><Msc> sau<n><m>
 0.014286 skilamaður<N><Msc> kjeltring<n><m>
-0.014286 Sion<N><Prop> *Sirjon-fjell<n><nt>
 0.014286 rekavætti<N><Neu> flokk<n><m>
-0.014286 Rama<N><Prop> festningsverk<n><nt>
 0.014286 ræða<N><Fem> undertrykkelse<n><m>
 0.014286 píl<N><Fem> kant<n><m>
 0.014286 píl<N><Fem> finn<n><m>
 0.014286 óvinur<N><Msc> uvenn<n><m>
 0.014286 ogn<N><Fem> lager<n><nt>
 0.014286 ognarfólk<N><Neu> folk<n><nt>
-0.014286 Ofir<N><Prop> *Ofir-gull<n><nt>
 0.014286 oddamaður<N><Msc> føre<n><nt>
 0.014286 neyð<N><Fem> geiteskinn<n><nt>
 0.014286 neyðartíð<N><Fem> stund<n><f>
@@ -7702,14 +7376,11 @@
 0.014286 kor<N><Neu> kår<n><nt>
 0.014286 kongadømi<N><Neu> regjering<n><f>
 0.014286 klaga<N><Fem> anklager<n><m>
-0.014286 Jóhannes<N><Prop> Johanne<np><f>-dåp<n><m>
 0.014286 íhald<N><Neu> stans<n><m>
 0.014286 hongsl<N><Neu> tapp<n><m>
 0.014286 herbergi<N><Neu> gjesterom<n><nt>
 0.014286 hella<N><Fem> grotte<n><f>
 0.014286 heili<N><Msc> folk<n><nt>
-0.014286 Havila<N><Prop> *Havila-land<n><nt>
-0.014286 Havila<N><Prop> bosted<n><nt>
 0.014286 háttur<N><Msc> vis<n><f>
 0.014286 harradømi<N><Neu> myndighet<n><m>
 0.014286 háðorð<N><Neu> hånsord<n><nt>
@@ -7731,21 +7402,17 @@
 0.014286 fáfongd<N><Fem> tomme<n><m>
 0.014286 esils#kjálkabein<N><Neu> esel<n><nt>
 0.014286 egg<N><Neu> mark<n><m>
-0.014286 Efrat<N><Prop> stykke<n><nt>
 0.014286 burðarliður<N><Msc> liv<n><nt>
 0.014286 brotsmaður<N><Msc> synd<n><f>
 0.014286 bróst<N><Neu> veslebarn<n><nt>
 0.014286 borð<N><Neu> bord<n><m>
 0.014286 boð<N><Neu> pass<n><m>
-0.014286 Bet-Rehob<N><Prop> *Dan-folk<n><nt>
 0.014286 barn<N><Neu> foster<n><nt>
 0.014286 avguda#mynd<N><Fem> avgudsbilde<n><nt>
 0.014286 avgrund<N><Fem> havdyp<n><nt>
 0.014286 at<N><Neu> *Ofel-mur<n><m>
 0.014286 áratal<N><Neu> merke<n><nt>
 0.014286 áratal<N><Neu> lenge<n><f>
-0.014286 Arabia<N><Prop> søk<n><nt>
-0.014286 Arabia<N><Prop> nattely<n><nt>
 0.014286 ætlan<N><Fem> holdning<n><m>
 0.014286 ábyrgd<N><Fem> folk<n><nt>
 0.014205 siðloysingur<N><Msc> hor<n><nt>
@@ -7763,7 +7430,6 @@
 0.013986 gandakallur<N><Msc> trolldom<n><m>
 0.013953 vísa<N><Fem> visdom<n><m>
 0.013953 leiði<N><Neu> ferd<n><m>
-0.013928 Dávid<N><Prop> David<np><m>-salme<n><m>
 0.013889 yvirmaður<N><Msc> leder<n><m>
 0.013889 yvirflóð<N><Fem> likhet<n><f>
 0.013889 vøkstur<N><Msc> vekst<n><m>
@@ -7867,9 +7533,7 @@
 0.013889 grógv<N><Fem> hå<n><m>
 0.013889 gleðiboð<N><Neu> budskap<n><nt>
 0.013889 gildi<N><Neu> opphavsmann<n><m>
-0.013889 Gerar<N><Prop> folk<n><nt>
 0.013889 gangur<N><Msc> uro<n><m>
-0.013889 Gang<N><Prop> av_sted<adv>_så<n><m>
 0.013889 fyl<N><Neu> så<n><m>
 0.013889 frágreiðing<N><Fem> forklaring<n><m>
 0.013889 førimuni<N><Msc> evne<n><m>
@@ -7881,9 +7545,7 @@
 0.013889 faðirbróðirir<N><Msc> fetter<n><m>
 0.013889 eygnalok<N><Neu> gråt<n><m>
 0.013889 endi<N><Msc> livsløp<n><nt>
-0.013889 Ella<N><Prop> styre<n><nt>
 0.013889 drongur<N><Msc> snar<n><nt>
-0.013889 Dedan<N><Prop> folk<n><nt>
 0.013889 byrði<N><Fem> bærer<n><m>
 0.013889 bruni<N><Msc> verk<n><nt>
 0.013889 bruni<N><Msc> svulst<n><m>
@@ -7896,10 +7558,8 @@
 0.013889 beini<N><Msc> knok<n><m>
 0.013889 avhoyring<N><Fem> forhør<n><nt>
 0.013889 atburður<N><Msc> vender<n><m>
-0.013889 Allan<N><Prop> alt<n><nt>
 0.013889 ætt<N><Fem> slektning<n><m>
 0.013889 ættarlið<N><Neu> slekt<n><m>
-0.013889 Ádam<N><Prop> lovbrudd<n><nt>
 0.013793 skarn<N><Neu> ask<n><m>
 0.013746 genta<N><Fem> jente<n><m>
 0.013740 kona<N><Fem> kvinne<n><m>
@@ -7914,7 +7574,6 @@
 0.013605 takkargerð<N><Fem> takk<n><m>
 0.013605 rubinur<N><Msc> rad<n><m>
 0.013605 portur<N><Neu> dør<n><f>
-0.013605 Merari<N><Prop> *Merari-sønn<n><m>
 0.013605 gleðiróp<N><Neu> jubel<n><m>
 0.013605 ávaring<N><Fem> lærdom<n><m>
 0.013587 netja<N><Fem> fett<n><nt>
@@ -7924,7 +7583,6 @@
 0.013514 oyri<N><Msc> øre<n><m>
 0.013514 frelsa<N><Fem> seier<n><m>
 0.013514 atburður<N><Msc> ferd<n><f>
-0.013513 Galilea<N><Prop> Galilea<np><top>-område<n><nt>
 0.013462 lands#tjórur<N><Msc> styresmann<n><m>
 0.013441 virkisveggur<N><Msc> voll<n><m>
 0.013393 bukka#blóð<N><Neu> bukk<n><m>
@@ -7949,7 +7607,6 @@
 0.013333 landamark<N><Neu> grense<n><f>
 0.013333 kostur<N><Msc> krav<n><nt>
 0.013333 koma<N><Fem> får<n><nt>
-0.013333 Kaldea<N><Prop> land<n><nt>
 0.013333 húsfólk<N><Neu> folk<n><nt>
 0.013333 hind<N><Fem> får<n><nt>
 0.013333 hamar<N><Msc> fall<n><m>
@@ -7963,7 +7620,6 @@
 0.013333 felag<N><Neu> avtale<n><m>
 0.013333 endi<N><Msc> stund<n><f>
 0.013333 eiga<N><Fem> vinne<n><m>
-0.013333 Dagur<N><Prop> ja<n><nt>
 0.013333 bróður#sáttmáli<N><Msc> vold<n><m>
 0.013333 breyðbiti<N><Msc> brødbit<n><m>
 0.013333 bera<N><Fem> luft<n><m>
@@ -8054,7 +7710,6 @@
 0.012987 ástvinur<N><Msc> vende<n><m>
 0.012987 arbeiðsmaður<N><Msc> arbeidsfolk<n><nt>
 0.012987 arbeiði<N><Neu> arbeidsfolk<n><nt>
-0.012987 Aleksandria<N><Prop> makt<n><m>
 0.012987 alda<N><Fem> dag<n><m>
 0.012931 leyst<N><Fem> løs<n><nt>
 0.012920 fólk<N><Neu> forsamling<n><m>
@@ -8132,7 +7787,6 @@
 0.012626 loynd<N><Fem> hemmelighet<n><f>
 0.012613 sál<N><Fem> liv<n><nt>
 0.012579 veggur<N><Msc> voll<n><m>
-0.012579 Høn<N><Prop> men<n><nt>
 0.012571 kríatúr<N><Neu> sau<n><m>
 0.012500 yvirluti<N><Msc> makt<n><m>
 0.012500 yvirluti<N><Msc> makt<n><f>
@@ -8144,7 +7798,6 @@
 0.012500 vaktar#stað<N><Neu> post<n><m>
 0.012500 uttanhýsisarbeiði<N><Neu> gjøremål<n><nt>
 0.012500 tómi<N><Msc> mage<n><m>
-0.012500 Tel<N><Prop> krigsbytte<n><nt>
 0.012500 tænari<N><Msc> slave<n><m>
 0.012500 stás<N><Neu> ting<n><nt>
 0.012500 spilla<N><Fem> forderv<n><nt>
@@ -8155,7 +7808,6 @@
 0.012500 smápeningur<N><Msc> mynt<n><m>
 0.012500 síðu#veggur<N><Msc> vegg<n><m>
 0.012500 seti<N><Neu> tronstol<n><m>
-0.012500 Saul<N><Prop> bad<n><nt>
 0.012500 salur<N><Msc> tak<n><nt>-kammer<n><nt>
 0.012500 salur<N><Msc> hus<n><nt>
 0.012500 salt<N><Neu> ting<n><m>
@@ -8168,7 +7820,6 @@
 0.012500 pøs<N><Fem> slit<n><nt>
 0.012500 peninga#bót<N><Fem> bot<n><m>
 0.012500 oyðing<N><Fem> undergang<n><m>
-0.012500 Obed<N><Prop> far<n><nt>
 0.012500 níðingur<N><Msc> kar<n><nt>
 0.012500 níðingur<N><Msc> kar<n><m>
 0.012500 næsta<N><Fem> nabo<n><m>
@@ -8190,7 +7841,6 @@
 0.012500 koparsmiður<N><Msc> ambolt<n><m>
 0.012500 konga#ætt<N><Fem> ætling<n><m>
 0.012500 keisari<N><Msc> majestet<n><m>
-0.012500 Issakar<N><Prop> *Jissakar-sønn<n><m>
 0.012500 illmenni<N><Neu> kjeltring<n><m>
 0.012500 illmenni<N><Neu> herre<n><m>
 0.012500 heystardagur<N><Msc> høst<n><m>
@@ -8239,7 +7889,6 @@
 0.012346 samkomuhús<N><Neu> menighet<n><m>
 0.012346 samkomuhús<N><Neu> gudshus<n><nt>
 0.012346 sálmabók<N><Fem> gård<n><m>
-0.012346 Ptolemais<N><Prop> slutt<n><m>
 0.012346 offurknívur<N><Msc> kniv<n><m>
 0.012346 nasaringur<N><Msc> armbånd<n><nt>
 0.012346 manna#sonur<N><Msc> menneskebarn<n><nt>
@@ -8271,7 +7920,6 @@
 0.012195 mark<N><Neu> åker<n><m>
 0.012195 húsbóndi<N><Msc> husbond<n><m>
 0.012195 geit<N><Fem> geiteragg<n><nt>
-0.012195 Dávid<N><Prop> David<np><m>-by<n><m>
 0.012195 bein<N><Neu> blod<n><nt>
 0.012195 amboð<N><Neu> gjenstand<n><m>
 0.012158 hermaður<N><Msc> mann<n><m>
@@ -8316,7 +7964,6 @@
 0.011905 støði<N><Neu> tross<n><nt>
 0.011905 skari<N><Msc> mengde<n><m>
 0.011905 sindur<N><Neu> utkant<n><m>
-0.011905 Sem<N><Prop> sønn<n><m>
 0.011905 samkomu#fundur<N><Msc> menighet<n><m>
 0.011905 salvu#ketil<N><Msc> salve<n><f>
 0.011905 røði<N><Neu> rad<n><m>
@@ -8341,7 +7988,6 @@
 0.011905 lóg<N><Fem> lære<n><nt>
 0.011905 lógbrot<N><Neu> skyld<n><m>
 0.011905 lívsævi<N><Fem> levetid<n><f>
-0.011905 Lív<N><Prop> levetid<n><m>
 0.011905 líki<N><Msc> lik<n><nt>
 0.011905 líki<N><Msc> fødsel<n><m>
 0.011905 leiur<N><Neu> kobber<n><nt>
@@ -8350,7 +7996,6 @@
 0.011905 konga#portur<N><Neu> plass<n><m>
 0.011905 kongabók<N><Fem> bok<n><m>
 0.011905 kleyv<N><Fem> vann<n><nt>
-0.011905 Karan<N><Prop> folk<n><nt>
 0.011905 jaspis<N><Neu> diamant<n><m>
 0.011905 jarðar#djúp<N><Neu> eie<n><nt>
 0.011905 ístur<N><Neu> blad<n><nt>
@@ -8366,7 +8011,6 @@
 0.011905 hold<N><Neu> fødsel<n><m>
 0.011905 hinsur<N><Msc> rikmann<n><m>
 0.011905 hinna<N><Fem> Israel<np><top>-folk<n><nt>
-0.011905 Hetta<N><Prop> Israel<np><top>-sønn<n><m>
 0.011905 hetta<N><Fem> pass<n><m>
 0.011905 heili<N><Msc> syn<n><nt>
 0.011905 háur<N><Msc> hånsord<n><nt>
@@ -8383,7 +8027,6 @@
 0.011905 fedra#húsi<N><Msc> *class="*verse">levitt<n><m>
 0.011905 fávitska<N><Fem> kjennskap<n><nt>
 0.011905 endurgjalds#ár<N><Neu> år<n><nt>
-0.011905 Elisa<N><Prop> *class="*verse">profet<n><m>
 0.011905 eið<N><Neu> Israel<np><top>-sønn<n><m>
 0.011905 botnur<N><Msc> innerst<n><m>
 0.011905 bivan<N><Fem> respekt<n><m>
@@ -8396,9 +8039,7 @@
 0.011864 misgerð<N><Fem> skyld<n><m>
 0.011858 halgidóms#vekt<N><Fem> vekt<n><m>
 0.011852 óvinur<N><Msc> motstander<n><m>
-0.011765 Zoar<N><Prop> så<n><m>
 0.011765 trá<N><Fem> mann<n><m>
-0.011765 Titus<N><Prop> husk<n><nt>
 0.011765 stríð<N><Neu> bry<n><nt>
 0.011765 skuld<N><Fem> sans<n><m>
 0.011765 rógv<N><Neu> hede<n><m>
@@ -8409,11 +8050,9 @@
 0.011765 kápa<N><Fem> slep<n><nt>
 0.011765 høvdingur<N><Msc> sjef<n><m>
 0.011765 hjartasorg<N><Fem> sinn<n><nt>
-0.011765 Harri<N><Prop> bry<n><nt>
 0.011765 gómi<N><Msc> sans<n><m>
 0.011765 ger<N><Fem> sommer<n><m>
 0.011765 fólk<N><Neu> syke<n><m>
-0.011765 Eber<N><Prop> sønn<n><m>
 0.011765 bakki<N><Msc> kant<n><nt>
 0.011765 ampi<N><Msc> bry<n><nt>
 0.011742 gangur<N><Msc> støy<n><m>
@@ -8491,10 +8130,8 @@
 0.011364 kringseta<N><Fem> ramme<n><m>
 0.011364 køka<N><Fem> brødleiv<n><m>
 0.011364 knappur<N><Msc> blomst<n><m>
-0.011364 Jónas<N><Prop> *Jona-tegn<n><nt>
 0.011364 Ísrael<N><Neu> folketelling<n><m>
 0.011364 høvda<N><Fem> *Korah-sønn<n><m>
-0.011364 Høn<N><Prop> bok<n><f>
 0.011364 heystardagur<N><Msc> sigd<n><m>
 0.011364 heyggjur<N><Msc> ruinhaug<n><m>
 0.011364 hevndar#dagur<N><Msc> dag<n><m>
@@ -8588,8 +8225,6 @@
 0.011111 kvinna<N><Fem> jente<n><m>
 0.011111 kunningur<N><Msc> avstand<n><m>
 0.011111 konga#skrúð<N><Neu> skrud<n><nt>
-0.011111 Kedar<N><Prop> bu<n><f>
-0.011111 Jerúsalem<N><Prop> bymur<n><m>
 0.011111 illsinni<N><Neu> lidenskap<n><m>
 0.011111 hugi<N><Msc> anledning<n><m>
 0.011111 høvuðsstaður<N><Msc> *Edre’ialphabet<n><m>
@@ -8598,7 +8233,6 @@
 0.011111 heilsubót<N><Fem> helse<n><f>
 0.011111 hav<N><Neu> jente<n><m>
 0.011111 hásæti<N><Neu> stol<n><m>
-0.011111 Habakkuk<N><Prop> syn<n><nt>
 0.011111 grein<N><Fem> kvist<n><m>
 0.011111 gøta<N><Fem> vei<n><m>
 0.011111 gøðingarkálvur<N><Msc> fjøs<n><nt>
@@ -8606,7 +8240,6 @@
 0.011111 fyrndar#orð<N><Neu> visdomsord<n><nt>
 0.011111 fylling<N><Fem> bolig<n><m>
 0.011111 frelsu#dagur<N><Msc> dag<n><m>
-0.011111 Fram<N><Prop> rykk<n><m>
 0.011111 fræls<N><Neu> frihet<n><m>
 0.011111 fólk<N><Neu> blomster<n><m>
 0.011111 eysturland<N><Neu> mann<n><m>
@@ -8620,9 +8253,7 @@
 0.011111 bar<N><Neu> kvist<n><m>
 0.011111 avlop<N><Neu> rest<n><m>
 0.011111 ápostul<N><Msc> utsending<n><f>
-0.011111 Allan<N><Prop> hele<n><m>
 0.011111 ættar#lutur<N><Msc> stam<n><m>
-0.011111 Ábel<N><Prop> løs<n><nt>
 0.011089 hásæti<N><Neu> trone<n><f>
 0.011034 tarv<N><Neu> okse<n><m>
 0.011029 tími<N><Msc> tid<n><m>
@@ -8658,7 +8289,6 @@
 0.010989 hjálparmaður<N><Msc> hjelpesmann<n><m>
 0.010989 himmil<N><Msc> luft<n><m>
 0.010989 himmal<N><Msc> luft<n><m>
-0.010989 Hetta<N><Prop> Benjamin<np><m>-mann<n><m>
 0.010989 hervápn<N><Neu> krig<n><m>
 0.010989 gremja<N><Fem> kval<n><m>
 0.010989 gremja<N><Fem> klage<n><f>
@@ -8671,7 +8301,6 @@
 0.010989 byrjan<N><Fem> tålmod<n><nt>
 0.010989 atferð<N><Fem> liv<n><nt>
 0.010989 ætt<N><Fem> retning<n><m>
-0.010956 Juda<N><Prop> *Juda-kong<n><m>
 0.010933 misgerð<N><Fem> synd<n><f>
 0.010892 høvdingur<N><Msc> leder<n><m>
 0.010870 vøra<N><Fem> oppkjøp<n><nt>
@@ -8680,14 +8309,12 @@
 0.010870 vík<N><Fem> bukt<n><m>
 0.010870 væl<N><Fem> gir<n><nt>
 0.010870 trái<N><Msc> krav<n><nt>
-0.010870 Stav<N><Prop> stav<n><m>
 0.010870 revsing<N><Fem> lærdom<n><m>
 0.010870 mjøl<N><Neu> støv<n><nt>
 0.010870 longa<N><Fem> klesplagg<n><nt>
 0.010870 leið<N><Fem> løp<n><nt>
 0.010870 legg<N><Neu> sett<n><nt>
 0.010870 kýli<N><Neu> byll<n><m>
-0.010870 Juda<N><Prop> *class="*verse">*Juda-kong<n><m>
 0.010870 hvíldarstaður<N><Msc> sted<n><nt>
 0.010870 ger<N><Fem> pil<n><f>
 0.010870 gerði<N><Neu> ferd<n><f>
@@ -8738,7 +8365,6 @@
 0.010526 reiv<N><Neu> kong<n><m>
 0.010526 reiv<N><Neu> ende<n><m>
 0.010526 leið<N><Fem> avvei<n><m>
-0.010526 Harri<N><Prop> husk<n><m>
 0.010526 hædd<N><Fem> sete<n><nt>
 0.010526 dyr<N><Fem> port<n><m>
 0.010526 beri<N><Msc> bringe<n><m>
@@ -8759,7 +8385,6 @@
 0.010417 trongdar#dagur<N><Msc> ulykkesdag<n><m>
 0.010417 trongdar#dagur<N><Msc> dag<n><m>
 0.010417 toy<N><Neu> *Elisja-kyst<n><m>
-0.010417 Tora<N><Prop> torden<n><m>
 0.010417 tann<N><Fem> regel<n><m>
 0.010417 syngja<N><Fem> stem<n><m>
 0.010417 svín<N><Neu> villsvin<n><nt>
@@ -8822,7 +8447,6 @@
 0.010417 fótur<N><Msc> hæl<n><m>
 0.010417 fikutræ<N><Neu> tre<n><nt>
 0.010417 fika<N><Fem> frukt<n><f>
-0.010417 Festus<N><Prop> men<n><nt>
 0.010417 felag<N><Neu> følge<n><m>
 0.010417 fávitska<N><Fem> uforstand<n><m>
 0.010417 fávitska<N><Fem> fare<n><m>
@@ -8830,14 +8454,12 @@
 0.010417 drykkju#skap<N><Neu> dagligliv<n><nt>
 0.010417 deyði<N><Msc> molok<n><m>
 0.010417 bukk<N><Neu> geitebukk<n><m>
-0.010417 Bøn<N><Prop> ester<n><m>
 0.010417 bivan<N><Fem> glede<n><m>
 0.010417 biti<N><Msc> fat<n><nt>
 0.010417 bakkur<N><Msc> bredde<n><m>
 0.010417 avgrundar#botnur<N><Msc> dyp<n><nt>
 0.010417 á#setta<N><Neu> murstein<n><m>
 0.010417 ansur<N><Msc> legg<n><nt>
-0.010352 Hestur<N><Prop><Msc> hest<n><m>
 0.010345 gull<N><Neu> flettverk<n><nt>
 0.010345 grøði<N><Fem> frukt<n><f>
 0.010339 vatn<N><Neu> sjø<n><m>
@@ -8954,8 +8576,6 @@
 0.010000 harradømi<N><Neu> myndighet<n><m>
 0.010000 handil<N><Msc> markedsplass<n><m>
 0.010000 guds#fjall<N><Neu> steg<n><nt>
-0.010000 Gud<N><Prop> reis<n><nt>
-0.010000 Grikkaland<N><Prop><Neu> hell<n><nt>
 0.010000 gøta<N><Fem> torg<n><nt>
 0.010000 gøta<N><Fem> spor<n><nt>
 0.010000 gildi<N><Neu> måltid<n><nt>
@@ -8979,7 +8599,6 @@
 0.009967 ílat<N><Neu> redskap<n><nt>
 0.009934 avkom<N><Neu> barn<n><nt>
 0.009929 arvalutur<N><Msc> land<n><nt>
-0.009915 Áron<N><Prop> Aron<np><m>-sønn<n><m>
 0.009901 inngangur<N><Msc> inngang<n><m>
 0.009868 heidningi<N><Msc> folkeslag<n><nt>
 0.009868 gerð<N><Fem> gjerning<n><m>
@@ -9003,7 +8622,6 @@
 0.009804 prógv<N><Neu> vitne<n><nt>
 0.009804 prógv<N><Neu> klare<n><m>
 0.009804 prógv<N><Neu> grunne<n><f>
-0.009804 Orion<N><Prop> bånd<n><nt>
 0.009804 oljutræ<N><Neu> tre<n><nt>
 0.009804 men<N><Fem> omsorg<n><m>
 0.009804 máti<N><Msc> måte<n><m>
@@ -9018,8 +8636,6 @@
 0.009804 gevari<N><Msc> elsk<n><m>
 0.009804 gagn<N><Neu> nytte<n><m>
 0.009804 blað<N><Neu> skudd<n><nt>
-0.009804 Bilha<N><Prop> var<n><m>
-0.009804 Bilha<N><Prop> sønn<n><m>
 0.009804 bakki<N><Msc> dyr<n><nt>
 0.009804 bakki<N><Msc> bredde<n><m>
 0.009804 ánari<N><Msc> eie<n><nt>
@@ -9034,7 +8650,6 @@
 0.009756 elma<N><Fem> aks<n><nt>
 0.009740 durur<N><Msc> dør<n><m>
 0.009728 orð<N><Neu> bud<n><nt>
-0.009685 Asaf<N><Prop> *Asaf-sønn<n><m>
 0.009677 ljóð<N><Neu> brus<n><nt>
 0.009677 dagur<N><Msc> natt<n><f>
 0.009662 kryddurt<N><Fem> gummi<n><m>
@@ -9074,12 +8689,10 @@
 0.009615 fiku#køka<N><Fem> stykke<n><nt>
 0.009615 far<N><Neu> Benjamin<np><m>-mann<n><m>
 0.009615 fall<N><Neu> age<n><m>
-0.009615 Epafras<N><Prop> medfange<n><m>
 0.009615 dýrd<N><Fem> verdighet<n><m>
 0.009615 deyðadagur<N><Msc> dag<n><m>
 0.009615 borg<N><Neu> vern<n><nt>
 0.009615 bar<N><Neu> age<n><m>
-0.009615 Balak<N><Prop> kong<n><m>
 0.009615 ættarhøvdingi<N><Msc> høvding<n><m>
 0.009545 dómur<N><Msc> rett<n><m>
 0.009524 virki<N><Neu> takk<n><m>
@@ -9185,7 +8798,6 @@
 0.009259 oljuber<N><Neu> olivenolje<n><m>
 0.009259 oljuber<N><Neu> olivenolje<n><f>
 0.009259 nevnd<N><Fem> skatt<n><m>
-0.009259 Midjan<N><Prop> mose<n><m>
 0.009259 menniskja#kærleiki<N><Msc> os<n><nt>
 0.009259 máltíð<N><Fem> rett<n><m>
 0.009259 lodd<N><Neu> rette<n><m>
@@ -9202,8 +8814,6 @@
 0.009259 gudsspottan<N><Fem> gud<n><m>
 0.009259 gudsdýrkan<N><Fem> gudstjeneste<n><m>
 0.009259 grund<N><Fem> slektledd<n><nt>
-0.009259 Fram<N><Prop> sving<n><m>
-0.009259 Fram<N><Prop> hærmann<n><m>
 0.009259 fræ<N><Neu> vekst<n><m>
 0.009259 flugu#flokkur<N><Msc> gud<n><m>
 0.009259 fangavaktari<N><Msc> ordre<n><m>
@@ -9218,8 +8828,6 @@
 0.009259 armóð<N><Neu> jern<n><nt>
 0.009259 ark<N><Neu> men<n><nt>
 0.009259 á<N><Fem> bekkefar<n><nt>
-0.009259 Allan<N><Prop> by<n><m>
-0.009259 Aleksander<N><Prop> mann<n><m>
 0.009217 prýði<N><Neu> smykke<n><nt>
 0.009217 illgerð<N><Fem> onde<n><nt>
 0.009208 sjón<N><Fem> sjø<n><m>
@@ -9227,7 +8835,6 @@
 0.009174 bygd<N><Fem> bygd<n><m>
 0.009157 endi<N><Msc> and<n><m>
 0.009146 bøur<N><Msc> åker<n><m>
-0.009132 Eder<N><Prop> ed<n><m>
 0.009129 høvdingur<N><Msc> fyrst<n><m>
 0.009119 faðir<N><Msc> forelder<n><m>
 0.009119 faðirir<N><Msc> forelder<n><m>
@@ -9238,7 +8845,6 @@
 0.009091 tindur<N><Msc> fjelltopp<n><m>
 0.009091 svangi<N><Msc> sult<n><m>
 0.009091 streymur<N><Msc> elv<n><m>
-0.009091 Stig<N><Prop> skritt<n><nt>
 0.009091 sorgar#hátíð<N><Fem> majestet<n><m>
 0.009091 sonur<N><Msc> kjøttstykke<n><nt>
 0.009091 skaði<N><Msc> tap<n><nt>
@@ -9252,7 +8858,6 @@
 0.009091 øksl<N><Fem> hånd<n><m>
 0.009091 ognarfólk<N><Neu> presteskap<n><nt>
 0.009091 nøgd<N><Fem> vare<n><f>
-0.009091 Nilá<N><Prop> elv<n><m>
 0.009091 nevi<N><Msc> klede<n><nt>
 0.009091 náttar#sjón<N><Fem> syn<n><nt>
 0.009091 móðurfang<N><Neu> liv<n><nt>
@@ -9298,21 +8903,18 @@
 0.008929 vatns#flóð<N><Fem> vann<n><nt>
 0.008929 tjørn<N><Fem> sjø<n><m>
 0.008929 svikaráð<N><Neu> anklager<n><m>
-0.008929 Suðurland<N><Prop><Neu> sør<n><m>
 0.008929 stykki<N><Neu> dele<n><nt>
 0.008929 steingólv<N><Neu> gulv<n><nt>
 0.008929 sorgar#róp<N><Neu> klagerop<n><nt>
 0.008929 søk<N><Fem> alt<n><m>
 0.008929 silvur+N+Neu+Sg+Gen+Cmpnd#{_tøbbur<N><Msc> sølv<n><nt>
 0.008929 selur<N><Msc> *Akrabbim-skar<n><nt>
-0.008929 Seba<N><Prop> vederlag<n><nt>
 0.008929 samkoma<N><Fem> Israel<np><top>-folk<n><nt>
 0.008929 prinsessa<N><Fem> rang<n><m>
 0.008929 peninga#vekslari<N><Msc> mynt<n><m>
 0.008929 oyðimørk<N><Fem> ruin<n><m>
 0.008929 ørviti<N><Neu> forvirring<n><m>
 0.008929 neyðarróp<N><Neu> rop<n><nt>
-0.008929 Naftali<N><Prop> *Naftali-stam<n><m>
 0.008929 móti<N><Msc> alt<n><m>
 0.008929 menniskja#átari<N><Msc> barn<n><nt>
 0.008929 men<N><Fem> anklager<n><m>
@@ -9393,7 +8995,6 @@
 0.008696 sor<N><Neu> bygg<n><nt>
 0.008696 skóg<N><Fem> by<n><m>
 0.008696 skál<N><Fem> fat<n><nt>
-0.008696 Silas<N><Prop> så<n><m>
 0.008696 næsti<N><Msc> nabo<n><m>
 0.008696 móti<N><Msc> ledd<n><nt>
 0.008696 metta<N><Fem> mål<n><nt>
@@ -9406,8 +9007,6 @@
 0.008696 dagur<N><Msc> alder<n><m>
 0.008696 bót<N><Fem> lapp<n><m>
 0.008696 bót<N><Fem> bot<n><f>
-0.008696 Benjamin<N><Prop> Benjamin<np><m>-stam<n><m>
-0.008696 Benjamin<N><Prop> Benjamin<np><m>-mann<n><m>
 0.008696 ár<N><Fem> alder<n><m>
 0.008696 aldu#rin<N><Neu> alder<n><m>
 0.008681 sóli<N><Msc> solnedgang<n><m>
@@ -9463,7 +9062,6 @@
 0.008547 hvast<N><Neu> trollmann<n><m>
 0.008547 hervápn<N><Neu> stridsmann<n><m>
 0.008547 hervagnur<N><Msc> stridsvogn<n><m>
-0.008547 Heródias<N><Prop> gjest<n><m>
 0.008547 gudloysi<N><Neu> neve<n><m>
 0.008547 gonga<N><Fem> verdighet<n><m>
 0.008547 gøðingarkálvur<N><Msc> slakt<n><nt>
@@ -9497,7 +9095,6 @@
 0.008403 vegur<N><Msc> villspor<n><nt>
 0.008403 tunguband<N><Neu> bånd<n><nt>
 0.008403 snerra<N><Fem> bånd<n><nt>
-0.008403 Sirjon<N><Prop> kall<n><m>
 0.008403 sig<N><Neu> oppdrag<n><nt>
 0.008403 sendi<N><Neu> oppdrag<n><nt>
 0.008403 ryggur<N><Msc> mark<n><f>
@@ -9512,12 +9109,10 @@
 0.008403 hús#sinn<N><Neu> sørside<n><m>
 0.008403 heims#økingar#dagur<N><Msc> sykdom<n><m>
 0.008403 heims#økingar#dagur<N><Msc> dag<n><m>
-0.008403 Havila<N><Prop> bosted<n><nt>
 0.008403 guda#mynd<N><Fem> gud<n><m>
 0.008403 grundarlag<N><Neu> grunnmur<n><m>
 0.008403 grashoppu#flokkur<N><Msc> løs<n><nt>
 0.008403 embæti<N><Neu> plass<n><m>
-0.008403 Eber<N><Prop> *Eber-sønn<n><m>
 0.008403 dust<N><Neu> avfall<n><nt>
 0.008403 borð<N><Neu> måltid<n><nt>
 0.008366 maður<N><Msc> gutt<n><m>
@@ -9552,7 +9147,6 @@
 0.008333 ørn<N><Fem> flukt<n><m>
 0.008333 ogn<N><Fem> granne<n><m>
 0.008333 nýbrot<N><Neu> fattigfolk<n><nt>
-0.008333 Naftal<N><Prop> *Naftali-stam<n><m>
 0.008333 missur<N><Msc> mangel<n><m>
 0.008333 merki<N><Neu> varsel<n><nt>
 0.008333 merki<N><Neu> spor<n><nt>
@@ -9570,17 +9164,12 @@
 0.008333 kvøða<N><Fem> sang<n><m>
 0.008333 kvøða<N><Fem> mens<n><m>
 0.008333 kvøða<N><Fem> dåre<n><m>
-0.008333 Komi<N><Prop> la<n><m>
 0.008333 {_klovnur<N><Msc> klov<n><f>
-0.008333 Juda<N><Prop> Josef<np><m>-sønn<n><m>
 0.008333 ísraelsmaður<N><Msc> Israel<np><top>-stam<n><m>
-0.008333 Ísmael<N><Prop> drap<n><nt>
-0.008333 Iskariot<N><Prop> tank<n><m>
 0.008333 hvølv<N><Neu> leie<n><nt>
 0.008333 hús<N><Neu> nabolag<n><nt>
 0.008333 hús<N><Neu> Josef<np><m>-sønn<n><m>
 0.008333 høvd<N><Neu> stammehøvding<n><m>
-0.008333 Høn<N><Prop> dumhet<n><m>
 0.008333 hellismunni<N><Msc> hule<n><m>
 0.008333 grundvøllur<N><Msc> grunnmur<n><m>
 0.008333 girndar#bruni<N><Msc> lidenskap<n><m>
@@ -9608,12 +9197,10 @@
 0.008333 bjørn<N><Fem> slagbjørn<n><m>
 0.008333 bardagamaður<N><Msc> *Kabse’el<n><nt>
 0.008333 ás#amt<N><Neu> uenighet<n><m>
-0.008333 Áron<N><Prop> kjøttstykke<n><nt>
 0.008333 andlit<N><Neu> nese<n><m>
 0.008333 ættarliður<N><Msc> slektledd<n><nt>
 0.008333 ættarbók<N><Fem> slektledd<n><nt>
 0.008282 hestmaður<N><Msc> hest<n><m>
-0.008274 Levi<N><Prop> levitt<n><m>
 0.008264 viðurskifti<N><Neu> forhold<n><nt>
 0.008264 urtagarður<N><Msc> eik<n><m>
 0.008264 úrslit<N><Neu> sammenheng<n><m>
@@ -9667,7 +9254,6 @@
 0.008065 renna<N><Fem> renne<n><m>
 0.008065 renna<N><Fem> renne<n><f>
 0.008065 rættferð<N><Fem> rettferdighet<n><f>
-0.008065 Nilá<N><Prop> lik<n><nt>
 0.008065 móða<N><Fem> mage<n><m>
 0.008065 dyr<N><Fem> gap<n><nt>
 0.008065 ber<N><Neu> kart<n><m>
@@ -9683,7 +9269,6 @@
 0.008000 riv<N><Neu> tårn<n><nt>
 0.008000 pund<N><Neu> hagl<n><nt>
 0.008000 neyð<N><Fem> ulykkesdag<n><m>
-0.008000 Mong<N><Prop> å<n><f>
 0.008000 maður<N><Msc> embetsmann<n><m>
 0.008000 líð<N><Fem> bakk<n><m>
 0.008000 leið<N><Fem> bakk<n><m>
@@ -9716,7 +9301,6 @@
 0.007937 valdur<N><Msc> reise<n><m>
 0.007937 vakurleika<N><Neu> ange<n><m>
 0.007937 tjald<N><Neu> avdeling<n><f>
-0.007937 Sukkot<N><Prop> *Sukkot-mann<n><m>
 0.007937 straff<N><Fem> trussel<n><m>
 0.007937 stað<N><Neu> plass<n><m>
 0.007937 skriðdýr<N><Neu> kryp<n><m>
@@ -9725,8 +9309,6 @@
 0.007937 ráns#mannaflokkur<N><Msc> gutt<n><m>
 0.007937 náðigáva<N><Fem> gave<n><m>
 0.007937 munnur<N><Msc> barm<n><m>
-0.007937 Móses<N><Prop> svigerfar<n><m>
-0.007937 Mirjam<N><Prop> hud<n><f>
 0.007937 maður<N><Msc> stridsmann<n><m>
 0.007937 maður<N><Msc> stilling<n><m>
 0.007937 langmóð<N><Neu> tålmod<n><nt>
@@ -9741,11 +9323,9 @@
 0.007937 herverk<N><Neu> ran<n><nt>
 0.007937 hat<N><Neu> uvilje<n><m>
 0.007937 hall<N><Fem> festning<n><m>
-0.007937 Esau<N><Prop> uvilje<n><m>
 0.007937 dóttir<N><Fem> pike<n><m>
 0.007937 bróðurkærleiki<N><Msc> hold<n><nt>
 0.007937 bjálki<N><Msc> karm<n><m>
-0.007937 Beria<N><Prop> *Heber-sønn<n><m>
 0.007936 vegur<N><Msc> rad<n><m>
 0.007936 torn<N><Fem> tistel<n><m>
 0.007936 tol<N><Neu> folk<n><nt>
@@ -9754,8 +9334,6 @@
 0.007936 olju#trø<N><Neu> olje<n><m>
 0.007936 nota<N><Fem> tistel<n><m>
 0.007936 móti<N><Msc> tistel<n><m>
-0.007936 Midjan<N><Prop> var<n><m>
-0.007936 Midjan<N><Prop> mose<n><m>
 0.007936 lógbrot<N><Neu> lovbrudd<n><nt>
 0.007936 lógbók<N><Fem> lov<n><m>
 0.007936 lív<N><Neu> spill<n><nt>
@@ -9776,7 +9354,6 @@
 0.007812 viðtøka<N><Fem> hensyn<n><nt>
 0.007812 væl<N><Fem> kjæreste<n><m>
 0.007812 trúfesti<N><Fem> sannhet<n><f>
-0.007812 Trø<N><Prop> tørst<n><m>
 0.007812 súlugong<N><Fem> gangvei<n><m>
 0.007812 spottari<N><Msc> spott<n><m>
 0.007812 sjúkdómur<N><Msc> sykdom<n><m>
@@ -9796,7 +9373,6 @@
 0.007812 frágreiðing<N><Fem> forklaring<n><m>
 0.007812 embætis#flokkur<N><Msc> gruppe<n><m>
 0.007812 drykkur<N><Msc> vin<n><m>
-0.007812 Bábylon<N><Prop> mening<n><f>
 0.007812 ær<N><Fem> ære<n><f>
 0.007812 æra<N><Fem> ære<n><f>
 0.007801 jarðarríki<N><Neu> verd<n><m>
@@ -9804,10 +9380,8 @@
 0.007752 vísa<N><Fem> vis<n><f>
 0.007752 sendimaður<N><Msc> mann<n><m>
 0.007752 markur<N><Msc> mark<n><f>
-0.007752 Lot<N><Prop> slo<n><nt>
 0.007752 herfólk<N><Neu> vaktmannskap<n><nt>
 0.007752 hani<N><Msc> hånd<n><m>
-0.007752 Balak<N><Prop> stå<n><m>
 0.007722 harri<N><Msc> mester<n><m>
 0.007722 fávitska<N><Fem> dårskap<n><m>
 0.007716 høvd<N><Fem> høvding<n><m>
@@ -9860,7 +9434,6 @@
 0.007576 tistil<N><Msc> tagg<n><m>
 0.007576 tíni<N><Neu> festningsmur<n><m>
 0.007576 tilhald<N><Neu> leir<n><nt>
-0.007576 Susan<N><Prop> by<n><m>
 0.007576 stýrismaður<N><Msc> frelsesverk<n><nt>
 0.007576 sorgar#hátíð<N><Fem> folk<n><nt>
 0.007576 skinn<N><Neu> hud<n><m>
@@ -9883,7 +9456,6 @@
 0.007576 listar#verk<N><Neu> kunst<n><m>
 0.007576 kvøl<N><Fem> plage<n><f>
 0.007576 kollur<N><Msc> festningsmur<n><m>
-0.007576 Jeriko<N><Prop> borger<n><m>
 0.007576 hvíla<N><Fem> sted<n><nt>
 0.007576 hvíla<N><Fem> hvile<n><m></ialphabet<n><m>>gud<n><m>
 0.007576 herhøvdingi<N><Msc> befalingsmann<n><m>
@@ -9952,7 +9524,6 @@
 0.007407 klaga<N><Fem> klagemål<n><nt>
 0.007407 klaga<N><Fem> anklager<n><m>
 0.007407 keta<N><Fem> lenke<n><m>
-0.007407 Kedar<N><Prop> ialphabet<n><m>
 0.007407 Ísraels#fjall<N><Neu> Israel<np><top>-fjell<n><nt>
 0.007407 hús<N><Neu> judas<n><m>
 0.007407 høll<N><Fem> borg<n><f>
@@ -9969,13 +9540,11 @@
 0.007407 búgv<N><Neu> slå<n><f>
 0.007407 búgv<N><Neu> bolig<n><m>
 0.007407 brúðgómur<N><Msc> tid<n><m>
-0.007407 Bond<N><Prop> lenke<n><m>
 0.007389 vísmaður<N><Msc> vis<n><m>
 0.007371 bót<N><Fem> skyldoffer<n><nt>
 0.007353 yvirvøld<N><Fem> rette<n><m>
 0.007353 yvirvøld<N><Fem> finne<n><m>
 0.007353 viðhald<N><Neu> drive<n><m>
-0.007353 Var<N><Prop> å<n><f>
 0.007353 trælaarbeiði<N><Neu> arbeid<n><nt>
 0.007353 stormur<N><Msc> vind<n><m>
 0.007353 stólur<N><Msc> tronstol<n><m>
@@ -9986,7 +9555,6 @@
 0.007353 náttarvøka<N><Fem> natt<n><m>
 0.007353 lystur<N><Msc> lidenskap<n><m>
 0.007353 hernaður<N><Msc> strid<n><m>
-0.007353 Ham<N><Prop> *Kirjatajim-slette<n><m>
 0.007353 eyga<N><Neu> velvilje<n><m>
 0.007353 endamál<N><Neu> oppdrag<n><nt>
 0.007353 embæti<N><Neu> oppgave<n><m>
@@ -10006,8 +9574,6 @@
 0.007246 vár<N><Neu> vår<n><m>
 0.007246 sveip<N><Neu> bind<n><nt>
 0.007246 straff<N><Fem> lærdom<n><m>
-0.007246 Silas<N><Prop> kyst<n><m>
-0.007246 Silas<N><Prop> bønn<n><f>
 0.007246 rødd<N><Fem> basun<n><m>
 0.007246 oldingi<N><Msc> alder<n><m>
 0.007246 nytta<N><Fem> hjelp<n><m>
@@ -10036,7 +9602,6 @@
 0.007143 valdur<N><Msc> vold<n><m>
 0.007143 ungi<N><Msc> kylling<n><m>
 0.007143 træta<N><Fem> rettssak<n><m>
-0.007143 Titus<N><Prop> husk<n><nt>
 0.007143 tekin<N><Neu> varsel<n><nt>
 0.007143 smyrsl<N><Neu> balsam<n><m>
 0.007143 skegg<N><Neu> ragg<n><nt>
@@ -10060,7 +9625,6 @@
 0.007143 høggormur<N><Msc> slange<n><m>
 0.007143 herfólk<N><Neu> soldat<n><m>
 0.007143 hátíðar#kostur<N><Msc> festmåltid<n><nt>
-0.007143 Gud<N><Prop> varsel<n><nt>
 0.007143 grøv<N><Fem> grav<n><f>
 0.007143 gjá<N><Fem> balsam<n><m>
 0.007143 fólk<N><Neu> følge<n><nt>
@@ -10112,7 +9676,6 @@
 0.006944 skar<N><Neu> krigsrop<n><nt>
 0.006944 skari<N><Msc> stam<n><m>
 0.006944 sinnalag<N><Neu> gud<n><m>
-0.006944 Set<N><Prop> vær<n><m>
 0.006944 sál<N><Fem> lengsel<n><m>
 0.006944 rødd<N><Fem> torden<n><m>
 0.006944 renna<N><Fem> torden<n><m>
@@ -10123,18 +9686,15 @@
 0.006944 moyggj<N><Fem> kjæreste<n><m>
 0.006944 móti<N><Msc> nordside<n><m>
 0.006944 móða<N><Fem> mage<n><m>
-0.006944 Markus<N><Prop> tilnavn<n><nt>
 0.006944 mark<N><Fem> utkant<n><m>
 0.006944 ljóðføri<N><Neu> tone<n><m>
 0.006944 ljóð#far<N><Neu> musikkinstrument<n><nt>
-0.006944 Lív<N><Prop> levetid<n><m>
 0.006944 lív<N><Neu> trussel<n><m>
 0.006944 lið<N><Neu> side<n><f>
 0.006944 lið<N><Neu> arm<n><m>
 0.006944 landamark<N><Neu> landområde<n><nt>
 0.006944 lærari<N><Msc> lære<n><m>
 0.006944 læra<N><Fem> fellesskap<n><nt>
-0.006944 Laban<N><Prop> ærend<n><nt>
 0.006944 kyrtil<N><Msc> kjole<n><m>
 0.006944 kyrtil<N><Msc> kappe<n><m>
 0.006944 kyrtil<N><Msc> kappe<n><f>
@@ -10152,7 +9712,6 @@
 0.006944 grund<N><Fem> forvirring<n><m>
 0.006944 grótrúgva<N><Fem> stein<n><m>
 0.006944 gøta<N><Fem> sti<n><nt>
-0.006944 Gomorra<N><Prop> grus<n><nt>
 0.006944 góðs<N><Neu> eiendom<n><m>
 0.006944 garður<N><Msc> tun<n><nt>
 0.006944 gangur<N><Msc> trussel<n><m>
@@ -10162,8 +9721,6 @@
 0.006944 fortapingar#sonur<N><Msc> vise<n><f>
 0.006944 fortapingar#sonur<N><Msc> sønn<n><m>
 0.006944 ferðamaður<N><Msc> karavane<n><m>
-0.006944 Efraim<N><Prop> *Gilead-folk<n><nt>
-0.006944 Edre<N><Prop> *Basan-kong<n><m>
 0.006944 brúdleyp<N><Neu> tid<n><m>
 0.006944 brúdleyp<N><Neu> selskap<n><nt>
 0.006944 breyð<N><Neu> surdeig<n><m>
@@ -10174,7 +9731,6 @@
 0.006944 andlit<N><Neu> trussel<n><m>
 0.006944 aftan<N><Msc> følge<n><m>
 0.006944 ættar#listi<N><Msc> liste<n><m>
-0.006944 Ábel<N><Prop> velvilje<n><m>
 0.006923 høvuðsmaður<N><Msc> fører<n><m>
 0.006912 flokkur<N><Msc> skift<n><nt>
 0.006897 vilji<N><Msc> skje<n><f>
@@ -10183,7 +9739,6 @@
 0.006897 skarn<N><Neu> søl<n><nt>
 0.006897 skal<N><Neu> flom<n><m>
 0.006897 sandur<N><Msc> strand<n><m>
-0.006897 Saba<N><Prop> vis<n><m>
 0.006897 rós<N><Fem> skryt<n><nt>
 0.006897 nøgd<N><Fem> vare<n><f>
 0.006897 nøgd<N><Fem> mengde<n><m>
@@ -10197,7 +9752,6 @@
 0.006897 hall<N><Fem> borg<n><m>
 0.006897 ger<N><Fem> bruk<n><nt>
 0.006897 bor<N><Neu> skje<n><f>
-0.006897 Beini<N><Prop> bruk<n><nt>
 0.006897 alda<N><Fem> bo<n><m>
 0.006881 kríatúr<N><Neu> buskap<n><m>
 0.006881 bygd<N><Fem> land<n><nt>
@@ -10210,7 +9764,6 @@
 0.006849 gangur<N><Msc> larm<n><m>
 0.006838 hugi<N><Msc> sinn<n><nt>
 0.006838 gleðiboð<N><Neu> budskap<n><nt>
-0.006818 Suðurland<N><Prop><Neu> sør<n><m>
 0.006818 horn<N><Neu> krok<n><m>
 0.006818 ætt<N><Fem> *Gad-sønn<n><m>
 0.006803 vernd<N><Fem> festning<n><m>
@@ -10221,7 +9774,6 @@
 0.006803 stólpi<N><Msc> omheng<n><nt>
 0.006803 sólarlag<N><Neu> solnedgang<n><m>
 0.006803 skuggi<N><Msc> ly<n><nt>
-0.006803 Sem<N><Prop> ætling<n><m>
 0.006803 rætt<N><Fem> rette<n><f>
 0.006803 lógbrot<N><Neu> opprør<n><nt>
 0.006803 lógbók<N><Fem> så<n><m>
@@ -10270,7 +9822,6 @@
 0.006667 leyp<N><Neu> møte<n><nt>
 0.006667 kjarni<N><Msc> skinn<n><nt>
 0.006667 kambur<N><Msc> bakk<n><m>
-0.006667 Jefta<N><Prop> men<n><nt>
 0.006667 hugs<N><Neu> vekt<n><f>
 0.006667 húð<N><Fem> skinn<n><nt>
 0.006667 høvdingi<N><Msc> *Jissakar-sønn<n><m>
@@ -10295,7 +9846,6 @@
 0.006645 slætti<N><Msc> mark<n><f>
 0.006645 signing<N><Fem> pris<n><m>
 0.006645 leiði<N><Neu> krokvei<n><m>
-0.006645 Eli<N><Prop> *Eli-sønn<n><m>
 0.006637 land<N><Neu> jord<n><m>
 0.006633 ungdóms#dagur<N><Msc> ungdom<n><m>
 0.006619 menniskja<N><Fem> folk<n><nt>
@@ -10330,7 +9880,6 @@
 0.006536 lygitala<N><Fem> kjeltring<n><m>
 0.006536 lógloysi<N><Neu> opprør<n><nt>
 0.006536 løgd<N><Fem> grunnmur<n><m>
-0.006536 Juda<N><Prop> villspor<n><nt>
 0.006536 hús#sinn<N><Neu> vegg<n><m>
 0.006536 hús#sinn<N><Neu> bredde<n><m>
 0.006536 hervápn<N><Neu> våpen<n><nt>
@@ -10338,7 +9887,6 @@
 0.006536 guda#mynd<N><Fem> by<n><m>
 0.006536 grundarsteinur<N><Msc> grunnmur<n><m>
 0.006536 fáfongd<N><Fem> villspor<n><nt>
-0.006536 Efron<N><Prop> landsmann<n><m>
 0.006536 dura#stavur<N><Msc> dørkarm<n><m>
 0.006494 villdýr<N><Neu> verken<n><nt>
 0.006494 verndarvirki<N><Neu> *Tarsis-skip<n><nt>
@@ -10349,16 +9897,13 @@
 0.006494 tíð<N><Fem> lenge<n><m>
 0.006494 snarljós<N><Neu> lys<n><nt>
 0.006494 prógv<N><Neu> fiendeland<n><nt>
-0.006494 Obadja<N><Prop> vei<n><m>
 0.006494 náttúra<N><Fem> ja<n><nt>
 0.006494 leinkja<N><Fem> fengsel<n><nt>
 0.006494 kríatúr<N><Neu> ku<n><m>
 0.006494 herhøvdingi<N><Msc> offiser<n><m>
 0.006494 gongd<N><Fem> skritt<n><nt>
-0.006494 Gad<N><Prop> *Gad-sønn<n><m>
 0.006494 friður<N><Msc> lykke<n><m>
 0.006494 felagi<N><Msc> struts<n><m>
-0.006494 Darius<N><Prop> regjeringstid<n><f>
 0.006494 dagur<N><Msc> lenge<n><m>
 0.006494 býur<N><Msc> arbeider<n><m>
 0.006494 bróðurkona<N><Fem> samleie<n><nt>
@@ -10398,9 +9943,7 @@
 0.006410 odda#flokkur<N><Msc> fortropp<n><m>
 0.006410 norðurs#íða<N><Fem> landegrense<n><m>
 0.006410 norðurs#íða<N><Fem> by<n><m>
-0.006410 Nilá<N><Prop> strøm<n><m>
 0.006410 mótstøðumaður<N><Msc> uvenn<n><m>
-0.006410 Makir<N><Prop> *Manasse-sønn<n><m>
 0.006410 listar#verkur<N><Msc> kunst<n><m>
 0.006410 legg<N><Neu> tanke<n><m>
 0.006410 lampuljós<N><Neu> lampe<n><f>
@@ -10410,21 +9953,17 @@
 0.006410 hon<N><Fem> løvhyttefest<n><m>
 0.006410 hjarta<N><Neu> tanke<n><m>
 0.006410 hevndar#dagur<N><Msc> gjengjeld<n><f>
-0.006410 Hetta<N><Prop> salve<n><m>
 0.006410 hegni<N><Neu> tanke<n><m>
 0.006410 hat<N><Neu> samvær<n><nt>
 0.006410 endurloysing<N><Fem> frihet<n><m>
 0.006410 eitur<N><Neu> eiter<n><nt>
 0.006410 bønhús<N><Neu> bønn<n><m>
 0.006410 bøna<N><Fem> bønn<n><m>
-0.006410 Balak<N><Prop> stå<n><m>
 0.006410 at<N><Neu> fest<n><m>
 0.006410 arvalutur<N><Msc> *Simeon-sønn<n><m>
-0.006410 Apelles<N><Prop> prøve<n><m>
 0.006410 ætt<N><Fem> stammehøvding<n><m>
 0.006410 áarføri<N><Neu> strøm<n><m>
 0.006400 loft<N><Neu> vær<n><nt>
-0.006397 Levi<N><Prop> *Levi-sønn<n><m>
 0.006366 olmussa<N><Fem> gave<n><m>
 0.006362 yvirgangsverk<N><Neu> vold<n><m>
 0.006349 tokki<N><Msc> godvilje<n><m>
@@ -10458,7 +9997,6 @@
 0.006250 rættvísi<N><Neu> rettferdighet<n><f>
 0.006250 plógmaður<N><Msc> bonde<n><m>
 0.006250 mark<N><Fem> villdyr<n><nt>
-0.006250 Mahanajim<N><Prop> opphold<n><nt>
 0.006250 lýsing<N><Fem> lyst<n><f>
 0.006250 loyndardómur<N><Msc> mysterium<n><nt>
 0.006250 logi<N><Msc> iver<n><m>
@@ -10470,7 +10008,6 @@
 0.006250 kvøða<N><Fem> drikkelag<n><nt>
 0.006250 kappi<N><Msc> kjempe<n><m>
 0.006250 kærleiki<N><Msc> gjengjeld<n><m>
-0.006250 Jeroboam<N><Prop> fotspor<n><nt>
 0.006250 il<N><Fem> kilde<n><m>
 0.006250 húshaldari<N><Msc> lovord<n><nt>
 0.006250 høggormur<N><Msc> slange<n><m>
@@ -10499,7 +10036,6 @@
 0.006211 loysnari<N><Msc> lever<n><f>
 0.006211 lívsdagur<N><Msc> lever<n><f>
 0.006211 frukt<N><Fem> oliven<n><m>
-0.006211 Enokur<N><Prop> ledd<n><nt>
 0.006211 dyr<N><Fem> terskel<n><m>
 0.006211 bygningur<N><Msc> byggverk<n><nt>
 0.006211 arvalutur<N><Msc> arving<n><m>
@@ -10524,7 +10060,6 @@
 0.006173 hetta<N><Fem> sus<n><nt>
 0.006173 havi<N><Msc> eksempel<n><nt>
 0.006173 hannslag<N><Neu> lyte<n><nt>
-0.006173 Hagar<N><Prop> slaveri<n><nt>
 0.006173 fylgi<N><Neu> småfe<n><nt>
 0.006173 fjall<N><Neu> kryp<n><nt>
 0.006173 boðskapur<N><Msc> frykt<n><m>
@@ -10545,7 +10080,6 @@
 0.006098 bar<N><Neu> pil<n><m>
 0.006098 amboð<N><Neu> redskap<n><m>
 0.006079 næsta<N><Fem> landsmann<n><m>
-0.006079 Gad<N><Prop> *Gad-sønn<n><m>
 0.006069 dómur<N><Msc> rett<n><m>
 0.006061 væl<N><Neu> nøye<n><m>
 0.006061 undur<N><Neu> land<n><nt>
@@ -10613,7 +10147,6 @@
 0.005952 neyð<N><Fem> lengsel<n><m>
 0.005952 myrkur<N><Neu> la<n><m>
 0.005952 menta<N><Fem> stand<n><m>
-0.005952 Mark<N><Prop> banner<n><nt>
 0.005952 mamma<N><Fem> vei<n><m>
 0.005952 loynistaður<N><Msc> hule<n><f>
 0.005952 lov<N><Neu><Indef><Cmpnd> ansvar<n><nt>
@@ -10636,7 +10169,6 @@
 0.005952 havi<N><Msc> respekt<n><m>
 0.005952 havi<N><Msc> rådgiver<n><m>
 0.005952 gøtu#mót<N><Neu> larm<n><m>
-0.005952 Gomorra<N><Prop> grus<n><nt>
 0.005952 góði<N><Msc> lykke<n><f>
 0.005952 frukttræ<N><Neu> gren<n><nt>
 0.005952 friður<N><Msc><Indef><Cmpnd> ønske<n><nt>
@@ -10648,13 +10180,10 @@
 0.005952 eysturlendingur<N><Msc> stam<n><m>
 0.005952 dómur<N><Msc> klagemål<n><nt>
 0.005952 dómur<N><Msc> ansvar<n><nt>
-0.005952 Dávid<N><Prop> husstand<n><m>
 0.005952 borg<N><Neu> festning<n><m>
 0.005952 borg<N><Fem> festning<n><m>
 0.005952 biti<N><Msc> vineddik<n><m>
-0.005952 Bert<N><Prop> mens<n><m>
 0.005952 avgrund<N><Fem> røyk<n><m>
-0.005952 Arabia<N><Prop> søk<n><nt>
 0.005952 altar<N><Neu> hjørne<n><nt>
 0.005917 formansskapur<N><Msc> ledelse<n><m>
 0.005917 arvalutur<N><Msc> *Manasse-sønn<n><m>
@@ -10818,7 +10347,6 @@
 0.005556 stoltleiki<N><Msc> ære<n><m>
 0.005556 støði<N><Neu> tross<n><nt>
 0.005556 støði<N><Neu> ruin<n><m>
-0.005556 Stígur<N><Prop> *Kisjon-bekk<n><m>
 0.005556 stað<N><Neu> rette<n><m>
 0.005556 stað<N><Neu> festningsby<n><m>
 0.005556 spitalska<N><Fem> sopp<n><m>
@@ -10861,7 +10389,6 @@
 0.005556 fólkatrot<N><Neu> mangel<n><m>
 0.005556 eysturlendingur<N><Msc> makt<n><m>
 0.005556 eyga<N><Neu> rette<n><m>
-0.005556 Eden<N><Prop> hage<n><m>
 0.005556 dýr<N><Neu> slang<n><m>
 0.005556 dýpi<N><Neu> havdyp<n><nt>
 0.005556 dómstólur<N><Msc> rettferd<n><m>
@@ -10932,7 +10459,6 @@
 0.005376 prýði<N><Neu> tid<n><m>
 0.005376 prýði<N><Neu> land<n><nt>
 0.005376 prýði<N><Neu> glans<n><m>
-0.005376 Nilá<N><Prop> strøm<n><m>
 0.005376 maður<N><Msc> vise<n><f>
 0.005376 lýdni<N><Neu> vise<n><f>
 0.005376 leyva<N><Fem> gap<n><nt>
@@ -11013,8 +10539,6 @@
 0.005263 keypmaður<N><Msc> handel<n><m>
 0.005263 gerði<N><Neu> gjerning<n><m>
 0.005263 fangi<N><Msc> medfange<n><m>
-0.005263 Ella<N><Prop> nei<n><nt>
-0.005263 Eina<N><Prop> håp<n><nt>
 0.005263 dótturmaður<N><Msc> mann<n><m>
 0.005255 atburður<N><Msc> gjerning<n><m>
 0.005240 ævi<N><Fem> tid<n><m>
@@ -11048,7 +10572,6 @@
 0.005208 fastir<N><Fem> nett<n><nt>
 0.005208 fastir<N><Fem> faste<n><f>
 0.005208 fall<N><Neu> redsel<n><m>
-0.005208 Elam<N><Prop> lagnad<n><m>
 0.005208 døpurhugi<N><Msc> uro<n><m>
 0.005208 dagur<N><Msc> levetid<n><m>
 0.005208 byrging<N><Fem> bredde<n><m>
@@ -11056,9 +10579,7 @@
 0.005208 bakki<N><Msc> bredde<n><m>
 0.005208 avgrund<N><Fem> dødsrike<n><nt>
 0.005195 viðurskifti<N><Neu> sak<n><f>
-0.005195 Sodoma<N><Prop> by<n><m>
 0.005195 lovsongur<N><Msc> sang<n><m>
-0.005195 Jordan<N><Prop> elv<n><m>
 0.005195 alda<N><Fem> mål<n><nt>
 0.005195 alda<N><Fem> bølge<n><f>
 0.005194 maður<N><Msc> tusen<n><nt>
@@ -11070,7 +10591,6 @@
 0.005135 rættvísi<N><Neu> rett<n><m>
 0.005132 sál<N><Fem> skapning<n><m>
 0.005130 menniskja#barn<N><Neu> menneske<n><nt>
-0.005128 Sidon<N><Prop> *Tyros-område<n><nt>
 0.005128 prædika<N><Fem> budskap<n><nt>
 0.005128 hon<N><Fem> fest<n><m>
 0.005128 gerð<N><Fem> udåd<n><m>
@@ -11091,8 +10611,6 @@
 0.005102 misbrot<N><Neu> synd<n><f>
 0.005102 merki<N><Neu> banner<n><nt>
 0.005102 hond<N><Fem> ansvar<n><nt>
-0.005102 Gøta<N><Prop><Fem> sti<n><m>
-0.005102 Gomorra<N><Prop> naboby<n><m>
 0.005102 gøðingarkálvur<N><Msc> land<n><nt>
 0.005102 gleðiróp<N><Neu> rop<n><nt>
 0.005102 friður<N><Msc> lykke<n><f>
@@ -11105,7 +10623,6 @@
 0.005076 tekin<N><Neu> merke<n><nt>
 0.005076 sonur<N><Msc> barn<n><nt>
 0.005063 leiðari<N><Msc> leder<n><m>
-0.005063 Edom<N><Prop> kong<n><m>
 0.005051 virkisveggur<N><Msc> beleiring<n><m>
 0.005051 vaktarmaður<N><Msc> reise<n><m>
 0.005051 tómleiki<N><Msc> hersker<n><m>
@@ -11196,7 +10713,6 @@
 0.004926 songur<N><Msc> kvad<n><nt>
 0.004926 slag<N><Neu> grunne<n><m>
 0.004926 rós<N><Fem> innsats<n><m>
-0.004926 Pinehas<N><Prop> men<n><nt>
 0.004926 nýtsla<N><Fem> bruk<n><nt>
 0.004926 koyril<N><Msc> flom<n><m>
 0.004926 húð<N><Fem> grunne<n><m>
@@ -11207,7 +10723,6 @@
 0.004926 fyriætlan<N><Fem> forsett<n><nt>
 0.004926 fjallaland<N><Neu> fjell<n><nt>
 0.004926 álvari<N><Msc> rus<n><m>
-0.004926 Abjatar<N><Prop> offer<n><nt>
 0.004918 fólk<N><Neu> innbygger<n><m>
 0.004902 vínberjaløgur<N><Msc> vin<n><m>
 0.004902 undirgangur<N><Msc> svovel<n><m>
@@ -11249,11 +10764,9 @@
 0.004854 góði<N><Msc> gode<n><nt>
 0.004854 eiði<N><Neu> løfte<n><nt>
 0.004848 fæ<N><Neu> småfe<n><nt>
-0.004843 Jeriko<N><Prop> by<n><m>
 0.004831 trúloysi<N><Neu> gir<n><nt>
 0.004831 trái<N><Msc> sinnelag<n><nt>
 0.004831 nytta<N><Fem> ialphabet<n><m>
-0.004831 Krist<N><Prop> vår<n><m>
 0.004831 byrjan<N><Fem> begynnelse<n><m>
 0.004831 ættarlið<N><Neu> ledd<n><nt>
 0.004819 vara<N><Fem> merke<n><nt>
@@ -11341,7 +10854,6 @@
 0.004728 arvalutur<N><Msc> del<n><m>
 0.004717 móður#bróst<N><Neu> bryst<n><nt>
 0.004717 maður<N><Msc> kriger<n><m>
-0.004717 Høn<N><Prop> bok<n><f>
 0.004717 gudloysi<N><Neu> liv<n><nt>
 0.004708 fylgi<N><Neu> sau<n><m>
 0.004706 sól<N><Fem> sollys<n><nt>
@@ -11458,7 +10970,6 @@
 0.004545 band<N><Neu> slakk<n><m>
 0.004545 ásin<N><Neu> esel<n><nt>
 0.004545 álit<N><Neu> tillit<n><f>
-0.004545 Akan<N><Prop> gods<n><nt>
 0.004535 sjógvur<N><Msc> drev<n><nt>
 0.004535 sjógvur<N><Msc> bølge<n><m>
 0.004534 fólkaslag<N><Neu> folk<n><nt>
@@ -11474,7 +10985,6 @@
 0.004504 jarns#lá<N><Fem> jern<n><nt>
 0.004504 gonga<N><Fem> svik<n><nt>
 0.004504 fráfall<N><Neu> alt<n><nt>
-0.004504 Assur<N><Prop> ja<n><nt>
 0.004504 akur<N><Msc> jorde<n><nt>
 0.004504 akur<N><Msc> aks<n><nt>
 0.004494 høgg<N><Neu> krok<n><m>
@@ -11489,19 +10999,16 @@
 0.004464 spakføri<N><Neu> storsinn<n><nt>
 0.004464 søk<N><Fem> sannhet<n><f>
 0.004464 skøkja<N><Fem> hor<n><nt>
-0.004464 Rama<N><Prop> festningsverk<n><nt>
 0.004464 partur<N><Msc> femtedel<n><m>
 0.004464 oljuber<N><Neu> oliventre<n><nt>
 0.004464 óljóð<N><Neu> opprør<n><nt>
 0.004464 næsti<N><Msc> beste<n><nt>
-0.004464 Markus<N><Prop> tilnavn<n><nt>
 0.004464 mamma<N><Fem> avskjed<n><m>
 0.004464 hinsur<N><Msc> bukk<n><m>
 0.004464 hestmaður<N><Msc> mann<n><m>
 0.004464 feldur<N><Msc> bukk<n><m>
 0.004464 bardagi<N><Msc> kjempe<n><m>
 0.004464 avgrundar#botnur<N><Msc> bunn<n><m>
-0.004455 Móses<N><Prop> mose<n><m>
 0.004453 verk<N><Neu> arbeid<n><nt>
 0.004448 ogn<N><Fem> land<n><nt>
 0.004444 vørr<N><Fem> munn<n><m>
@@ -11536,7 +11043,6 @@
 0.004386 lend<N><Fem> strie<n><m>
 0.004386 lend<N><Fem> kjøtt<n><nt>
 0.004386 lands#partur<N><Msc> *Argob-område<n><nt>
-0.004386 Issakar<N><Prop> stamme<n><m>
 0.004386 høvuðsprestur<N><Msc> offerdyr<n><nt>
 0.004386 fæ<N><Neu> spise<n><m>
 0.004386 dótturmaður<N><Msc> kong<n><m>
@@ -11564,7 +11070,6 @@
 0.004329 tungu#álop<N><Neu> tunge<n><f>
 0.004329 tornarunnur<N><Msc> heller<n><m>
 0.004329 tornarunnur<N><Msc> busk<n><m>
-0.004329 Tiberius<N><Prop> keiser<n><m>
 0.004329 steinhøggari<N><Msc> antall<n><nt>
 0.004329 morgunroði<N><Msc> vist<n><m>
 0.004329 morgunroði<N><Msc> lys<n><nt>
@@ -11612,7 +11117,6 @@
 0.004273 støð<N><Fem> sted<n><nt>
 0.004273 snarboð<N><Neu> skriv<n><nt>
 0.004273 skal<N><Neu> minne<n><nt>
-0.004273 Silas<N><Prop> kyst<n><m>
 0.004273 løkur<N><Msc> dal<n><m>
 0.004273 kjálki<N><Msc> nakke<n><m>
 0.004273 jørð<N><Fem> minne<n><nt>
@@ -11622,13 +11126,11 @@
 0.004273 gildi<N><Neu> fest<n><m>
 0.004273 gerð<N><Fem> gjerning<n><f>
 0.004273 fat<N><Neu> bolle<n><m>
-0.004264 Levi<N><Prop> *Levi-stam<n><m>
 0.004261 ætt<N><Fem> familie<n><m>
 0.004255 tjúkt<N><Fem> topp<n><m>
 0.004255 tíð<N><Fem> verd<n><m>
 0.004255 súla<N><Fem> ved<n><m>
 0.004255 sár<N><Neu> skade<n><m>
-0.004255 Ráð<N><Prop><Neu> plan<n><m>
 0.004255 hold<N><Neu> liv<n><nt>
 0.004255 gras<N><Neu> siv<n><nt>
 0.004255 egg<N><Fem> topp<n><m>
@@ -11663,7 +11165,6 @@
 0.004167 vera<N><Fem> smerte<n><m>
 0.004167 vegur<N><Msc> torg<n><nt>
 0.004167 vatns#djúp<N><Neu> havdyp<n><nt>
-0.004167 Urias<N><Prop> hustru<n><f>
 0.004167 upphavsmaður<N><Msc> drap<n><nt>
 0.004167 torna#grein<N><Fem> tornebusk<n><m>
 0.004167 tjald<N><Neu> hjem<n><nt>
@@ -11692,7 +11193,6 @@
 0.004167 longd<N><Fem> firkant<n><m>
 0.004167 leyp<N><Neu> kastespyd<n><nt>
 0.004167 leiði<N><Neu> ferd<n><m>
-0.004167 Krist<N><Prop> nåde<n><m>
 0.004167 innløga<N><Fem> landområde<n><nt>
 0.004167 hond<N><Fem> finger<n><m>
 0.004167 helli<N><Neu> føre<n><nt>
@@ -11704,10 +11204,8 @@
 0.004167 fella<N><Fem> angst<n><m>
 0.004167 faðirir<N><Msc> fotspor<n><nt>
 0.004167 bismari<N><Msc> vekt<n><f>
-0.004167 Barnabas<N><Prop> gave<n><m>
 0.004167 bardagamaður<N><Msc> *Kabse’el<n><nt>
 0.004167 arvalutur<N><Msc> *Juda-sønn<n><m>
-0.004167 Ádam<N><Prop> grunn<n><m>
 0.004161 megi<N><Neu> styrke<n><m>
 0.004153 høvd<N><Fem> høvding<n><m>
 0.004149 vatn<N><Neu> hav<n><nt>
@@ -11804,7 +11302,6 @@
 0.004016 arbeið<N><Neu> arbeide<n><nt>
 0.004006 ættarhøvdingi<N><Msc> familie<n><m>
 0.004000 sorgardagur<N><Msc> ulykkesdag<n><m>
-0.004000 Ráð<N><Prop><Neu> tank<n><m>
 0.004000 ráð<N><Neu> tank<n><m>
 0.004000 {_múrtindur<N><Msc> tårn<n><nt>
 0.004000 men<N><Fem> vær<n><nt>
@@ -11837,7 +11334,6 @@
 0.003968 skuggi<N><Msc> ly<n><nt>
 0.003968 skari<N><Msc> mannskap<n><nt>
 0.003968 skari<N><Msc> høvding<n><m>
-0.003968 Set<N><Prop> fotspor<n><nt>
 0.003968 selur<N><Msc> *Akrabbim-skar<n><nt>
 0.003968 sæti<N><Neu> plass<n><m>
 0.003968 panna<N><Fem> leiv<n><m>
@@ -11848,8 +11344,6 @@
 0.003968 náttartíð<N><Fem> natt<n><m>
 0.003968 nasagluggi<N><Msc> stige<n><m>
 0.003968 máltíð<N><Fem> spise<n><m>
-0.003968 Makedonia<N><Prop> tilbakevei<n><m>
-0.003968 Makedonia<N><Prop> menighet<n><m>
 0.003968 maður<N><Msc> kar<n><nt>
 0.003968 lukka<N><Fem> gode<n><nt>
 0.003968 lovsongs#ljóð<N><Neu> spill<n><nt>
@@ -11901,26 +11395,21 @@
 0.003906 dura#vídd<N><Fem> bredde<n><m>
 0.003906 áarbakki<N><Msc> bredde<n><m>
 0.003896 markur<N><Msc> grense<n><m>
-0.003896 Mark<N><Prop> grense<n><m>
 0.003891 men<N><Fem> mens<n><m>
 0.003876 virði<N><Neu> makt<n><f>
 0.003876 útlegd<N><Fem> vende<n><m>
 0.003876 tog<N><Neu> lenke<n><m>
 0.003876 stund<N><Fem> dag<n><m>
 0.003876 pláss<N><Neu> finne<n><m>
-0.003876 Lot<N><Prop> Jordan<np><top>-slette<n><m>
 0.003876 leiði<N><Neu> føre<n><nt>
 0.003876 kort<N><Neu> vende<n><m>
-0.003876 Judas<N><Prop> men<n><nt>
 0.003876 føsta<N><Fem> fotfeste<n><nt>
 0.003876 fingur<N><Msc> fingertupp<n><m>
-0.003876 Eli<N><Prop> tilsyn<n><nt>
 0.003861 yvirumsjónar#maður<N><Msc> tilsynsmann<n><m>
 0.003861 vinmaður<N><Msc> vennskap<n><nt>
 0.003861 ungi<N><Msc> gutt<n><m>
 0.003861 sleppa<N><Fem> fyrste<n><m>
 0.003861 hjarta<N><Neu> dårskap<n><m>
-0.003861 Galilea<N><Prop> vei<n><m>
 0.003861 fráfall<N><Neu> uro<n><f>
 0.003854 lýsi<N><Neu> lys<n><nt>
 0.003846 yvirluti<N><Msc> herredømme<n><nt>
@@ -11997,7 +11486,6 @@
 0.003788 bókrulla<N><Fem> engel<n><m>
 0.003788 band<N><Neu> hvite<n><m>
 0.003784 avkom<N><Neu> ætling<n><m>
-0.003774 Jóram<N><Prop> bror<n><m>
 0.003774 hond<N><Fem> fange<n><nt>
 0.003774 fastir<N><Fem> fange<n><nt>
 0.003774 fangi<N><Msc> lagnad<n><m>
@@ -12015,7 +11503,6 @@
 0.003731 ungdóms#synd<N><Fem> ungdom<n><m>
 0.003731 trúfesti<N><Fem> sannhet<n><f>
 0.003731 peningur<N><Msc> sum<n><m>
-0.003731 Levi<N><Prop> lag<n><nt>
 0.003731 eldhugi<N><Msc> iver<n><m>
 0.003728 eitur<N><Neu> navn<n><nt>
 0.003711 hugsan<N><Fem> tanke<n><m>
@@ -12036,7 +11523,6 @@
 0.003704 fjøld<N><Fem> befolkning<n><m>
 0.003704 eystur<N><Neu> *Mispa-dal<n><m>
 0.003704 blóð#skyld<N><Fem> flukt<n><m>
-0.003704 Barnabas<N><Prop> fetter<n><m>
 0.003683 partur<N><Msc> rest<n><m>
 0.003683 fjall<N><Neu> høyde<n><m>
 0.003681 frelsa<N><Fem> hjelp<n><m>
@@ -12049,7 +11535,6 @@
 0.003676 keisari<N><Msc> majestet<n><m>
 0.003676 hernaður<N><Msc> lære<n><nt>
 0.003676 hernaður<N><Msc> kamp<n><m>
-0.003676 Ábram<N><Prop> farao<n><m>
 0.003673 hond<N><Fem> vold<n><m>
 0.003670 at<N><Neu> utkant<n><m>
 0.003666 sál<N><Fem> sinn<n><nt>
@@ -12080,7 +11565,6 @@
 0.003623 skuld<N><Fem> samvittighet<n><m>
 0.003623 roykilsis#altar<N><Neu> lysestake<n><m>
 0.003623 roykilsis#altar<N><Neu> alter<n><nt>
-0.003623 Kristus<N><Prop> vår<n><m>
 0.003617 styrki<N><Fem> kraft<n><m>
 0.003608 lógloysi<N><Neu> urett<n><m>
 0.003604 stavur<N><Msc> stokk<n><m>
@@ -12104,7 +11588,6 @@
 0.003571 suður<N><Neu> sørside<n><m>
 0.003571 stólpi<N><Msc> steng<n><nt>
 0.003571 signing<N><Fem> hat<n><nt>
-0.003571 Set<N><Prop> fotspor<n><nt>
 0.003571 rómi<N><Msc> melk<n><f>
 0.003571 ræða<N><Fem> styrer<n><m>
 0.003571 næsta<N><Fem> frende<n><m>
@@ -12119,7 +11602,6 @@
 0.003571 eini<N><Neu> øyeblikk<n><nt>
 0.003571 bræv<N><Neu> melding<n><m>
 0.003571 blóð<N><Neu> liv<n><nt>
-0.003571 Berenike<N><Prop> følge<n><nt>
 0.003571 altur<N><Msc> bygning<n><m>
 0.003561 hús#sinn<N><Neu> tempel<n><nt>
 0.003547 maður<N><Msc> folk<n><nt>
@@ -12175,7 +11657,6 @@
 0.003472 ungneyt<N><Neu> kalv<n><m>
 0.003472 tómleiki<N><Msc> hersker<n><m>
 0.003472 teka<N><Fem> dømmekraft<n><m>
-0.003472 Tala<N><Prop> ja<n><nt>
 0.003472 svali<N><Msc> hjem<n><nt>
 0.003472 stýrismaður<N><Msc> hersker<n><m>
 0.003472 spottari<N><Msc> folk<n><nt>
@@ -12206,8 +11687,6 @@
 0.003472 faðir<N><Msc> hjem<n><nt>
 0.003472 dans#portur<N><Neu> dans<n><m>
 0.003472 bústaður<N><Msc> sannhet<n><f>
-0.003472 Bøn<N><Prop> *class="*verse">bønn<n><m>
-0.003472 Bert<N><Prop> mens<n><m>
 0.003472 arvalutur<N><Msc> dele<n><nt>
 0.003472 ættarlið<N><Neu> ledd<n><nt>
 0.003466 sáttmáli<N><Msc> avtale<n><m>
@@ -12229,7 +11708,6 @@
 0.003448 bar<N><Neu> *Na’ar<n><nt>
 0.003448 á<N><Fem> lyte<n><nt>
 0.003448 akur<N><Msc> høst<n><m>
-0.003448 Ábel<N><Prop> løs<n><nt>
 0.003442 lívs#bók<N><Fem> bok<n><m>
 0.003436 genta<N><Fem> barn<n><nt>
 0.003429 á<N><Fem> harm<n><m>
@@ -12249,7 +11727,6 @@
 0.003401 orð<N><Neu> rette<n><f>
 0.003401 oddi<N><Msc> fører<n><m>
 0.003401 lygiprofetur<N><Msc> profet<n><m>
-0.003401 Judea<N><Prop> *Judea-land<n><nt>
 0.003401 jørð<N><Fem> rette<n><f>
 0.003401 ílat<N><Neu> redskap<n><nt>
 0.003401 breidd<N><Fem> firkant<n><m>
@@ -12262,7 +11739,6 @@
 0.003390 sár<N><Neu> skade<n><m>
 0.003390 móti<N><Msc> harm<n><m>
 0.003390 men<N><Fem> skog<n><m>
-0.003390 Asaf<N><Prop> sønn<n><m>
 0.003390 á<N><Fem> harm<n><m>
 0.003390 ævi<N><Fem> fryd<n><m>
 0.003378 verfaðir<N><Msc> svoger<n><m>
@@ -12303,8 +11779,6 @@
 0.003333 maður<N><Msc> småkårsfolk<n><nt>
 0.003333 land<N><Neu> tall<n><nt>
 0.003333 kort<N><Neu> vende<n><m>
-0.003333 Josias<N><Prop> sted<n><nt>
-0.003333 Josias<N><Prop> dag<n><m>
 0.003333 hvíla<N><Fem> ro<n><m>
 0.003333 hátíðar#ferð<N><Fem> stå<n><m>
 0.003333 felag<N><Neu> lag<n><nt>
@@ -12340,8 +11814,6 @@
 0.003289 menniskja#fylgja<N><Fem> offerdyr<n><nt>
 0.003289 lend<N><Fem> fang<n><nt>
 0.003289 knappur<N><Msc> blomst<n><m>
-0.003289 Issakar<N><Prop> *Jissakar-stam<n><m>
-0.003289 Issakar<N><Prop> *Jissakar-sønn<n><m>
 0.003289 heims#økingar#tíð<N><Fem> kalv<n><m>
 0.003289 handaverk<N><Neu> arbeid<n><nt>
 0.003289 boði<N><Msc> påbud<n><nt>
@@ -12419,7 +11891,6 @@
 0.003205 eygnakast<N><Neu> fest<n><m>
 0.003205 dómari<N><Msc> hersker<n><m>
 0.003205 arbeiðsmaður<N><Msc> vær<n><m>
-0.003205 Allan<N><Prop> alt<n><nt>
 0.003200 ótti<N><Msc> age<n><m>
 0.003192 jørð<N><Fem> åker<n><m>
 0.003175 vilji<N><Msc> skje<n><m>
@@ -12438,7 +11909,6 @@
 0.003175 kúgari<N><Msc> voldsmann<n><m>
 0.003175 kor<N><Neu> tilfelle<n><nt>
 0.003175 kor<N><Neu> *Korah-sønn<n><m>
-0.003175 Juda<N><Prop> ialphabet<n><m>
 0.003175 hús#sinn<N><Neu> siderom<n><nt>
 0.003175 hópatal<N><Neu> voldsmann<n><m>
 0.003175 hjørtur<N><Msc> rop<n><nt>
@@ -12452,7 +11922,6 @@
 0.003175 armur<N><Msc> armlene<n><nt>
 0.003175 ættarlið<N><Neu> slekt<n><m>
 0.003165 vera<N><Fem> vesen<n><nt>
-0.003165 Trø<N><Prop> tre<n><nt>
 0.003165 glaða<N><Fem> glede<n><f>
 0.003160 tá<N><Fem> så<n><m>
 0.003157 partur<N><Msc> stykke<n><nt>
@@ -12461,18 +11930,15 @@
 0.003145 útlegd<N><Fem> fange<n><nt>
 0.003145 sleppa<N><Fem> lagnad<n><m>
 0.003145 høvda<N><Fem> å<n><f>
-0.003145 Høn<N><Prop> dumhet<n><m>
 0.003145 hond<N><Fem> bryst<n><nt>
 0.003145 hjarta<N><Neu> bryst<n><nt>
 0.003145 eydna<N><Fem> så<n><m>
 0.003145 eydna<N><Fem> hell<n><nt>
-0.003145 Elam<N><Prop> lagnad<n><m>
 0.003145 bundi<N><Neu> stakk<n><m>
 0.003145 bundi<N><Neu> liv<n><nt>
 0.003145 bruður<N><Msc> grav<n><m>
 0.003140 útlegd<N><Fem> var<n><m>
 0.003135 tíð<N><Fem> gang<n><m>
-0.003135 Pontius<N><Prop> landshøvding<n><m>
 0.003135 kroppur<N><Msc> dyr<n><nt>
 0.003135 herróp<N><Neu> *Juda-mann<n><m>
 0.003135 herflokkur<N><Msc> dans<n><m>
@@ -12497,9 +11963,6 @@
 0.003125 bein<N><Neu> fot<n><m>
 0.003125 altar<N><Neu> fot<n><m>
 0.003117 gáva<N><Fem> område<n><nt>
-0.003115 Rein<N><Prop> re<n><m>
-0.003106 Ruben<N><Prop> stamme<n><m>
-0.003106 Ruben<N><Prop> *Ruben-stam<n><m>
 0.003106 ringur<N><Msc> ferd<n><f>
 0.003106 óreinska<N><Fem> grunn<n><m>
 0.003106 línklæði<N><Neu> lin<n><nt>lin<n><nt>
@@ -12536,7 +11999,6 @@
 0.003074 arbeiði<N><Neu> gjerning<n><m>
 0.003072 munnur<N><Msc> tale<n><m>
 0.003072 forsøla<N><Fem> side<n><f>
-0.003067 Krist<N><Prop> nåde<n><m>
 0.003067 frelsa<N><Fem> seier<n><m>
 0.003059 stórverk<N><Neu> ting<n><nt>
 0.003058 korn<N><Neu> jord<n><m>
@@ -12547,7 +12009,6 @@
 0.003053 bátur<N><Msc> bord<n><nt>
 0.003051 tá<N><Fem> så<n><m>
 0.003049 vil<N><Neu> å<n><f>
-0.003049 Var<N><Prop> å<n><f>
 0.003049 vanlukka<N><Fem> nød<n><m>
 0.003049 vanlukka<N><Fem> fare<n><m>
 0.003049 unglingi<N><Msc> krone<n><m>
@@ -12558,7 +12019,6 @@
 0.003049 mol<N><Neu> kan<n><m>
 0.003049 møði<N><Fem> nød<n><m>
 0.003049 mein<N><Neu> fortred<n><m>
-0.003049 Libanon<N><Prop> seder<n><m>
 0.003049 korn<N><Neu> åker<n><m>
 0.003049 hand<N><Fem> kjortel<n><m>
 0.003049 geit<N><Fem> hunndyr<n><nt>
@@ -12568,12 +12028,10 @@
 0.003040 sleppa<N><Fem> fyrste<n><m>
 0.003040 kamar<N><Neu> soverom<n><nt>
 0.003040 hermaður<N><Msc> hær<n><m>
-0.003040 Gad<N><Prop> *Gad-stam<n><m>
 0.003040 deyði<N><Msc> dødsrike<n><nt>
 0.003040 brunasár<N><Neu> sår<n><nt>
 0.003030 vald<N><Neu> herredømme<n><nt>
 0.003030 svik<N><Neu> si<n><m>
-0.003030 Sodoma<N><Prop> folk<n><nt>
 0.003030 silvurs#kál<N><Neu> skåle<n><m>
 0.003030 øði<N><Fem> sinne<n><nt>
 0.003030 lívs#frukt<N><Fem> sand<n><m>
@@ -12584,7 +12042,6 @@
 0.003030 halgidóms#lutur<N><Msc> vestside<n><m>
 0.003030 grevstur<N><Msc> småkårsfolk<n><nt>
 0.003030 bræði<N><Neu> sinne<n><nt>
-0.003030 Bøn<N><Prop> ester<n><m>
 0.003030 ásjón<N><Fem> odel<n><m>
 0.003017 umsjónarmaður<N><Msc> tilsyn<n><nt>
 0.003008 tekin<N><Neu> pakt<n><m>
@@ -12605,9 +12062,7 @@
 0.002985 tann<N><Fem> iver<n><m>
 0.002985 øvund<N><Fem> iver<n><m>
 0.002985 logi<N><Msc> iver<n><m>
-0.002985 Levi<N><Prop> kan<n><m>
 0.002985 lampa<N><Fem> lys<n><nt>
-0.002985 Elisa<N><Prop> hus<n><nt>
 0.002976 urt<N><Fem> blomst<n><m>
 0.002976 tjørn<N><Fem> *Samaria-dam<n><m>
 0.002976 stólpi<N><Msc> sokkel<n><m>
@@ -12618,7 +12073,6 @@
 0.002976 rami<N><Msc> klagerop<n><nt>
 0.002976 oyðing<N><Fem><Indef><Cmpnd> smerte<n><m>
 0.002976 órættvísi<N><Neu> ugjerningsmann<n><m>
-0.002976 Nilá<N><Prop> lik<n><nt>
 0.002976 neyðarróp<N><Neu> rop<n><nt>
 0.002976 lukka<N><Fem> trivsel<n><m>
 0.002976 kongasonur<N><Msc> kongefamilie<n><m>
@@ -12632,7 +12086,6 @@
 0.002976 forhang<N><Neu> rett<n><m>
 0.002976 finni<N><Msc> velvilje<n><m>
 0.002976 farmur<N><Msc> skip<n><nt>
-0.002976 Esaias<N><Prop> så<n><m>
 0.002976 eik<N><Fem> klagerop<n><nt>
 0.002976 eið<N><Neu> kjenne<n><nt>
 0.002976 breidd<N><Fem> tilbygg<n><nt>
@@ -12685,7 +12138,6 @@
 0.002907 sendimaður<N><Msc> utsending<n><m>
 0.002907 myrkur<N><Neu> sky<n><m>
 0.002907 móðir<N><Fem> forelder<n><m>
-0.002907 Lot<N><Prop> brorsønn<n><m>
 0.002907 gekkur<N><Msc> oppgang<n><m>
 0.002907 fika<N><Fem> frukt<n><f>
 0.002899 vanæra<N><Fem> vår<n><m>
@@ -12717,18 +12169,14 @@
 0.002865 gull<N><Neu><Indef><Cmpnd> gull<n><nt>
 0.002857 vissu#liga<N><Fem> sak<n><f>
 0.002857 verkur<N><Msc> begynnelse<n><m>
-0.002857 Var<N><Prop> var<n><m>
 0.002857 troystar#skál<N><Fem> trøst<n><m>
 0.002857 til<N><Neu> hjelp<n><f>
 0.002857 styrkur<N><Msc> verdighet<n><m>
 0.002857 slætti<N><Msc> dal<n><m>
-0.002857 Sem<N><Prop> ætling<n><m>
 0.002857 orð<N><Neu> løft<n><nt>
 0.002857 lov<N><Neu> ære<n><m>
-0.002857 Hvar<N><Prop> selv<n><nt>
 0.002857 hús<N><Neu> løft<n><nt>
 0.002857 høvdi<N><Msc> hode<n><nt>
-0.002857 Gud<N><Prop> gudstjeneste<n><m>
 0.002857 gerði<N><Neu> gjerning<n><f>
 0.002857 fedra#hús<N><Neu> slekt<n><m>
 0.002857 dirvi<N><Neu> evangelium<n><nt>
@@ -12736,7 +12184,6 @@
 0.002857 blóð<N><Neu> drap<n><nt>
 0.002857 belti<N><Neu> kjortel<n><m>
 0.002857 á<N><Fem> ild<n><m>
-0.002857 Akab<N><Prop> ætling<n><m>
 0.002857 ær<N><Fem> ære<n><m>
 0.002849 veitsla<N><Fem> skamflekk<n><m>
 0.002849 veitsla<N><Fem> fødselsdag<n><m>
@@ -12752,12 +12199,10 @@
 0.002841 lygivitni<N><Neu> rykte<n><nt>
 0.002841 lá<N><Fem> lønn<n><m>
 0.002841 duravaktari<N><Msc> vaktmann<n><m>
-0.002829 Jordan<N><Prop> elv<n><m>
 0.002827 ævi<N><Fem> tid<n><m>
 0.002825 vinna<N><Fem> skade<n><m>
 0.002825 skýborg<N><Fem> sky<n><f>
 0.002825 plága<N><Fem> skade<n><m>
-0.002825 Jeriko<N><Prop> borger<n><m>
 0.002825 gáva<N><Fem> offer<n><nt>
 0.002825 ásjón<N><Fem> fryd<n><m>
 0.002817 vendi<N><Neu> legg<n><nt>
@@ -12790,7 +12235,6 @@
 0.002778 trø<N><Neu> mark<n><m>
 0.002778 tingstaður<N><Msc> torg<n><nt>
 0.002778 til<N><Neu> be<vblex>’al<n><nt>
-0.002778 Tala<N><Prop> om<pr>_tal<n><nt>
 0.002778 standur<N><Msc> anklage<n><m>
 0.002778 spitalska<N><Fem> sår<n><nt>
 0.002778 spitalska<N><Fem> mann<n><m>
@@ -12807,7 +12251,6 @@
 0.002778 lið<N><Fem> hjul<n><nt>
 0.002778 lið<N><Fem> hånd<n><m>
 0.002778 kunnleiki<N><Msc> innsikt<n><m>
-0.002778 Krist<N><Prop> vår<n><m>
 0.002778 kort<N><Neu> mens<n><m>
 0.002778 hjørtur<N><Msc> visdom<n><m>
 0.002778 hár<N><Neu> hode<n><nt>
@@ -12819,7 +12262,6 @@
 0.002778 duravaktari<N><Msc> vaktmann<n><m>
 0.002778 dóttir<N><Fem> *Sion-fjell<n><nt>
 0.002778 almúga<N><Fem> småkårsfolk<n><nt>
-0.002778 Ádam<N><Prop> lovbrudd<n><nt>
 0.002770 gull<N><Neu> gull<n><nt>-lysestake<n><m>
 0.002765 hús<N><Neu> rike<n><nt>
 0.002762 fjall<N><Neu> berg<n><nt>
@@ -12844,7 +12286,6 @@
 0.002732 skøkja<N><Fem> komme<n><nt>
 0.002732 loyvi<N><Neu> rett<n><m>
 0.002732 loyvi<N><Neu> mann<n><m>
-0.002732 Laban<N><Prop> ærend<n><nt>
 0.002732 egypti<N><Msc> ulykke<n><f>
 0.002732 brot<N><Neu> helse<n><f>
 0.002725 longa<N><Fem> lenge<n><m>
@@ -12883,7 +12324,6 @@
 0.002688 sólkomudagur<N><Msc> måned<n><m>
 0.002688 skyld<N><Fem> skyldoffer<n><nt>
 0.002688 skyld<N><Fem> rot<n><m>
-0.002688 Silas<N><Prop> bønn<n><f>
 0.002688 síggj<N><Neu> husk<n><nt>
 0.002688 síggj<N><Neu> bruk<n><m>
 0.002688 renna<N><Fem> utløp<n><nt>
@@ -12892,12 +12332,9 @@
 0.002688 renna<N><Fem> flom<n><m>
 0.002688 renna<N><Fem> bryter<n><m>
 0.002688 ódn<N><Fem> storm<n><m>
-0.002688 Makir<N><Prop> *Manasse-sønn<n><m>
 0.002688 lið<N><Neu> side<n><f>
 0.002688 leivd<N><Fem> by<n><m>
 0.002688 kongs<N><Neu> provins<n><m>
-0.002688 Ísmael<N><Prop> kriger<n><m>
-0.002688 Ísmael<N><Prop> drap<n><nt>
 0.002688 goymi<N><Msc> vise<n><m>
 0.002688 frelsari<N><Msc> hjelper<n><m>
 0.002688 flokkur<N><Msc> mengde<n><m>
@@ -12948,7 +12385,6 @@
 0.002632 kongur<N><Msc> dommer<n><m>
 0.002632 fangi<N><Msc> lagnad<n><m>
 0.002632 fangi<N><Msc> fengsel<n><nt>
-0.002632 Ella<N><Prop> var<n><nt>
 0.002632 arbeið<N><Neu> tjeneste<n><m>
 0.002622 vit<N><Neu> ting<n><nt>
 0.002604 útflot<N><Neu> sykdom<n><m>
@@ -12957,7 +12393,6 @@
 0.002604 sóli<N><Msc> varme<n><m>
 0.002604 sló<N><Fem> sykdom<n><m>
 0.002604 slíðri<N><Msc> ro<n><f>
-0.002604 Samos<N><Prop> høyde<n><m>
 0.002604 prísur<N><Msc> ære<n><f>
 0.002604 oyðing<N><Fem> satan<n><m>
 0.002604 oyðing<N><Fem> klegg<n><m>
@@ -12980,7 +12415,6 @@
 0.002597 søk<N><Fem> rettssak<n><m>
 0.002597 søk<N><Fem> anklage<n><m>
 0.002597 sló<N><Fem> forvirring<n><m>
-0.002597 Seba<N><Prop> vederlag<n><nt>
 0.002597 orð<N><Neu> *Ruben-sønn<n><m>
 0.002597 líknilsi<N><Neu> bilde<n><nt>
 0.002597 kongs#høll<N><Fem> skattkammer<n><nt>
@@ -12990,14 +12424,12 @@
 0.002597 høgi<N><Msc> lenge<n><m>
 0.002597 hevndar#dagur<N><Msc> hevn<n><m>
 0.002597 byrði<N><Fem> uttrykk<n><nt>
-0.002597 Bert<N><Prop> gudstjeneste<n><m>
 0.002597 alda<N><Fem> slekt<n><f>
 0.002597 alda<N><Fem> bo<n><m>
 0.002597 alda<N><Fem> år<n><nt>
 0.002594 hús<N><Neu> hjem<n><nt>
 0.002593 høvdingur<N><Msc> fører<n><m>
 0.002591 landamark<N><Neu> land<n><nt>
-0.002587 Lív<N><Prop> liv<n><nt>
 0.002586 kríatúr<N><Neu> okse<n><m>
 0.002584 virði<N><Neu> kjøpesum<n><m>
 0.002584 mannamúgva<N><Fem> forsamling<n><m>
@@ -13043,14 +12475,11 @@
 0.002551 hús#durur<N><Msc> dør<n><f>
 0.002551 hungursdagur<N><Msc> hunger<n><m>
 0.002551 havs#dýpi<N><Neu> dyp<n><nt>
-0.002551 Esaias<N><Prop> rett<n><m>
-0.002551 Esaias<N><Prop> profet<n><m>
 0.002551 eið<N><Neu> Israel<np><top>-sønn<n><m>
 0.002551 dreymur<N><Msc> syn<n><nt>
 0.002551 býur<N><Msc> østside<n><m>
 0.002545 markur<N><Msc> mark<n><m>
 0.002545 borði<N><Msc> bord<n><nt>
-0.002540 Jesus<N><Prop> men<n><nt>
 0.002538 avkom<N><Neu> barn<n><nt>
 0.002532 vera<N><Fem> smerte<n><m>
 0.002532 vera<N><Fem> mot<n><nt>
@@ -13076,7 +12505,6 @@
 0.002525 kjøtstykki<N><Neu> legg<n><nt>
 0.002525 jarðskjálvti<N><Msc> var<n><m>
 0.002525 hópur<N><Msc> folkehop<n><m>
-0.002525 Heródias<N><Prop> gjest<n><m>
 0.002525 herflokkur<N><Msc> dans<n><m>
 0.002525 borg<N><Fem> festningsby<n><m>
 0.002525 blómi<N><Msc> lykke<n><m>
@@ -13086,7 +12514,6 @@
 0.002506 óljóð<N><Neu> opprør<n><nt>
 0.002506 lógbrot<N><Neu> opprør<n><nt>
 0.002506 handaverk<N><Neu> hånd<n><m>
-0.002506 Dan<N><Prop> *Dan-leir<n><m>
 0.002504 kvinna<N><Fem> kone<n><m>
 0.002500 tíggjund<N><Fem> gave<n><m>
 0.002500 tá<N><Fem> lag<n><nt>
@@ -13094,7 +12521,6 @@
 0.002500 rætt<N><Fem> vis<n><nt>
 0.002500 ræðslu#róp<N><Neu> angst<n><m>
 0.002500 muður<N><Msc> tunge<n><m>
-0.002500 Levi<N><Prop> lag<n><nt>
 0.002500 kort<N><Neu> vismann<n><m>
 0.002500 havi<N><Msc> avgud<n><m>
 0.002500 grundvøllur<N><Msc> fjell<n><nt>
@@ -13107,7 +12533,6 @@
 0.002488 unglingi<N><Msc> ungdom<n><m>
 0.002488 rætt<N><Fem> rettferd<n><f>
 0.002488 lampa<N><Fem> oljelampe<n><m>
-0.002488 Elisa<N><Prop> dag<n><m>
 0.002484 hestfólk<N><Neu> hest<n><m>
 0.002481 sólkomudagur<N><Msc> feste<n><nt>
 0.002481 presta#flokkur<N><Msc> skift<n><nt>
@@ -13146,15 +12571,11 @@
 0.002451 hevnd<N><Fem> gjengjeld<n><f>
 0.002451 finni<N><Msc> velvilje<n><m>
 0.002451 avgudur<N><Msc> styggedom<n><m>
-0.002451 Ábram<N><Prop> løft<n><nt>
-0.002451 Ábel<N><Prop> velvilje<n><m>
 0.002439 vøka<N><Fem> å<n><f>
 0.002439 vist<N><Fem> å<n><f>
 0.002439 trái<N><Msc> å<n><f>
 0.002439 sorg<N><Fem> nød<n><m>
 0.002439 skyldfólk<N><Neu> husbond<n><m>
-0.002439 Mong<N><Prop> å<n><f>
-0.002439 Levi<N><Prop> kan<n><m>
 0.002439 hugi<N><Msc> åker<n><m>
 0.002439 høvd<N><Neu> å<n><f>
 0.002439 endi<N><Msc> kan<n><m>
@@ -13167,16 +12588,13 @@
 0.002424 fólkateljing<N><Fem> tall<n><nt>
 0.002423 stund<N><Fem> tid<n><m>
 0.002421 skrift<N><Fem> vegg<n><m>
-0.002421 Libanon<N><Prop> skog<n><m>
 0.002415 stórmaður<N><Msc> fyrst<n><m>
 0.002415 stórmaður<N><Msc> adelsmann<n><m>
 0.002415 línklæði<N><Neu> så<n><m>
-0.002415 Gideon<N><Prop> israelitt<n><m>
 0.002415 felagi<N><Msc> drapsmann<n><m>
 0.002415 drykkju#skap<N><Neu> drikk<n><m>
 0.002415 blóðmaður<N><Msc> drapsmann<n><m>
 0.002415 beini<N><Msc> vår<n><m>
-0.002415 Appia<N><Prop> vår<n><m>
 0.002410 segl<N><Neu> merke<n><nt>
 0.002410 lógbók<N><Fem> bok<n><m>
 0.002410 hani<N><Msc> bok<n><m>
@@ -13190,11 +12608,9 @@
 0.002404 heyggjur<N><Msc> ruinhaug<n><m>
 0.002404 herbergi<N><Neu> rom<n><nt>
 0.002404 gøta<N><Fem> tak<n><nt>
-0.002404 Betlehem<N><Prop> komme<n><nt>
 0.002395 mál<N><Neu> stem<n><m>
 0.002392 lands#partur<N><Msc> innland<n><nt>
 0.002392 fyriskipan<N><Fem> påbud<n><nt>
-0.002392 Darius<N><Prop> regjeringstid<n><f>
 0.002391 staður<N><Msc> plass<n><m>
 0.002390 leið<N><Fem> reis<n><m>
 0.002381 verkur<N><Msc> smerte<n><m>
@@ -13220,8 +12636,6 @@
 0.002381 eiður<N><Msc> løft<n><nt>
 0.002381 boð<N><Neu> kommandant<n><m>
 0.002381 blóð<N><Neu> død<n><m>
-0.002381 Bileam<N><Prop> nei<n><nt>
-0.002381 Ábram<N><Prop> løft<n><nt>
 0.002373 sjógvur<N><Msc> vann<n><nt>
 0.002372 bót<N><Fem> skyldoffer<n><nt>
 0.002371 rættur<N><Msc> dom<n><m>
@@ -13236,7 +12650,6 @@
 0.002358 veggur<N><Msc> yttervegg<n><m>
 0.002358 nýggjár<N><Neu> moabitt<n><m>
 0.002358 høvda<N><Fem> hode<n><nt>
-0.002358 Høn<N><Prop> villdyr<n><nt>
 0.002347 tráan<N><Fem> lyst<n><m>
 0.002347 tarvur<N><Msc> storfe<n><nt>
 0.002347 máur<N><Msc> bytte<n><nt>
@@ -13251,7 +12664,6 @@
 0.002342 brot<N><Neu> ansvar<n><nt>
 0.002342 arbeiði<N><Neu> strev<n><nt>
 0.002339 spurningur<N><Msc> svar<n><nt>
-0.002336 Jeroboam<N><Prop> fotspor<n><nt>
 0.002331 vitni<N><Neu> pakt<n><m>
 0.002331 lærisveina#tunga<N><Fem> tunge<n><f>
 0.002331 halgidómur<N><Msc> tempel<n><nt>
@@ -13271,7 +12683,6 @@
 0.002326 ættarbók<N><Fem> slektledd<n><nt>
 0.002323 eldslogi<N><Msc> ild<n><m>
 0.002315 vanlukka<N><Fem> smerte<n><m>
-0.002315 Tala<N><Prop> konge<n><m>_tal<n><nt>
 0.002315 syngja<N><Fem> jubelrop<n><nt>
 0.002315 svøvnur<N><Msc> arbeidsmann<n><m>
 0.002315 spádómur<N><Msc> varsel<n><nt>
@@ -13283,7 +12694,6 @@
 0.002315 kálvur<N><Msc> gullkalv<n><m>
 0.002315 hunda#valdur<N><Msc> hund<n><m>
 0.002315 høvuðsgrein<N><Fem> gren<n><m>
-0.002315 Hebron<N><Prop> *Hebron-dam<n><m>
 0.002315 gøta<N><Fem> tak<n><nt>
 0.002315 garður<N><Msc> hage<n><m>
 0.002315 forgarður<N><Msc> hjørne<n><nt>
@@ -13314,10 +12724,8 @@
 0.002294 at<N><Neu> port<n><m>
 0.002294 at<N><Neu> fest<n><m>
 0.002290 akur<N><Msc> mark<n><m>
-0.002289 Gud<N><Prop> tempel<n><nt>
 0.002286 prýði<N><Neu> ære<n><m>
 0.002286 kríatúr<N><Neu> omgang<n><m>
-0.002286 Harri<N><Prop> vår<n><m>
 0.002286 fedra#ætt<N><Fem> stamme<n><m>
 0.002286 dári<N><Msc> mann<n><m>
 0.002286 á<N><Fem> hand<n><m>
@@ -13347,7 +12755,6 @@
 0.002268 vanvirða<N><Fem> rygg<n><m>
 0.002268 stólur<N><Msc> plass<n><m>
 0.002268 sjógvur<N><Msc> strand<n><m>
-0.002268 Libanon<N><Prop> skog<n><m>
 0.002268 húskallur<N><Msc> kar<n><nt>
 0.002268 hjartadýpi<N><Neu> dyp<n><nt>
 0.002260 ilt<N><Neu> harm<n><m>
@@ -13430,7 +12837,6 @@
 0.002193 illbøn<N><Fem> skremmebilde<n><nt>
 0.002193 handaverk<N><Neu> bilde<n><nt>
 0.002193 fangi<N><Msc> husk<n><nt>
-0.002193 Ella<N><Prop> styre<n><nt>
 0.002187 slag<N><Neu> arbeid<n><nt>
 0.002187 samkoma<N><Fem> folk<n><nt>
 0.002183 vit<N><Neu> vis<n><f>
@@ -13458,12 +12864,10 @@
 0.002173 skuld<N><Fem> hensyn<n><nt>
 0.002165 steig<N><Fem> kommandant<n><m>
 0.002165 kongasonur<N><Msc> herre<n><m>
-0.002165 Bert<N><Prop> gudstjeneste<n><m>
 0.002164 vinur<N><Msc> frende<n><m>
 0.002164 søk<N><Fem> anklage<n><m>
 0.002164 sindur<N><Neu> lenge<n><m>
 0.002164 mongd<N><Fem> gruppe<n><m>
-0.002164 Kristi<N><Prop> ansikt<n><nt>
 0.002164 kongur<N><Msc> trone<n><m>
 0.002164 ilt<N><Neu> anklage<n><m>
 0.002164 hinna<N><Fem> vismann<n><m>
@@ -13503,14 +12907,12 @@
 0.002137 fráfall<N><Neu> alt<n><nt>
 0.002135 herlið<N><Neu> hær<n><m>
 0.002132 stórverk<N><Neu> under<n><nt>
-0.002132 Ísakur<N><Prop> avskjed<n><m>
 0.002128 svik<N><Neu> plan<n><m>
 0.002128 hugsan<N><Fem> plan<n><m>
 0.002128 hugi<N><Msc> plan<n><m>
 0.002128 hermaður<N><Msc> hærmann<n><m>
 0.002128 aftan<N><Msc> grav<n><m>
 0.002126 syndafyrigeving<N><Fem> synd<n><f>
-0.002120 Land<N><Prop> land<n><nt>
 0.002119 skógar#dýr<N><Neu> skog<n><m>
 0.002119 síðu#veggur<N><Msc> vegg<n><m>
 0.002119 inntøka<N><Fem> skade<n><m>
@@ -13541,8 +12943,6 @@
 0.002105 skarn<N><Neu> verk<n><m>
 0.002105 reið<N><Fem> svar<n><nt>
 0.002105 makt<N><Fem> verk<n><m>
-0.002105 Koss<N><Prop> svar<n><nt>
-0.002105 Juda<N><Prop> folk<n><nt>
 0.002105 fólk<N><Neu> svar<n><nt>
 0.002101 tal<N><Neu> tall<n><m>
 0.002101 tal<N><Neu> tall<n><f>
@@ -13557,8 +12957,6 @@
 0.002101 herróp<N><Neu> lyd<n><m>
 0.002101 gangur<N><Msc> lyd<n><m>
 0.002098 ílat<N><Neu> ting<n><nt>
-0.002096 Sikem<N><Prop> ialphabet<n><m>
-0.002096 Pætur<N><Prop> men<n><nt>
 0.002096 gudloysi<N><Neu> neve<n><m>
 0.002096 gudloysi<N><Neu> føre<n><nt>
 0.002096 grøva<N><Fem> grav<n><m>
@@ -13575,7 +12973,6 @@
 0.002083 muður<N><Msc> gap<n><nt>
 0.002083 lið<N><Neu> arm<n><m>
 0.002083 lend<N><Fem> kjøtt<n><nt>
-0.002083 Hvar<N><Prop> selv<n><nt>
 0.002083 grundvøllur<N><Msc> by<n><m>
 0.002083 grein<N><Fem> skjær<n><nt>
 0.002083 grein<N><Fem> seder<n><m>
@@ -13658,7 +13055,6 @@
 0.002020 kríatúr<N><Neu> vederlag<n><nt>
 0.002020 fyristøðumaður<N><Msc> forstand<n><m>
 0.002020 eiturkoppur<N><Msc> vaktmann<n><m>
-0.002020 Akab<N><Prop> kong<n><m>
 0.002020 áarbakki<N><Msc> elv<n><m>
 0.002016 frelsari<N><Msc> vår<n><m>
 0.002016 fortapingar#sonur<N><Msc> vise<n><f>
@@ -13680,7 +13076,6 @@
 0.002000 avgudur<N><Msc> styggedom<n><m>
 0.001996 miskunn<N><Fem> medynk<n><m>
 0.001996 mál<N><Neu> stemme<n><m>
-0.001992 Jósef<N><Prop> Josef<np><m>-stam<n><m>
 0.001992 Ísrael<N><Neu> Israel<np><top>-stam<n><m>
 0.001984 yvirflóð<N><Fem> rest<n><m>
 0.001984 yvirflóð<N><Fem> regn<n><nt>
@@ -13691,12 +13086,10 @@
 0.001984 níðingur<N><Msc> kar<n><nt>
 0.001984 móðurlív<N><Neu> stund<n><m>
 0.001984 meistari<N><Msc> kunstner<n><m>
-0.001984 Libanon<N><Prop> seder<n><m>
 0.001984 kunnleiki<N><Msc> kunnskap<n><m>
 0.001984 klettur<N><Msc> knaus<n><m>
 0.001984 ílat<N><Neu> trau<n><nt>
 0.001984 ílat<N><Neu> part<n><m>
-0.001984 Hebron<N><Prop> *Hebron-sønn<n><m>
 0.001984 býar#stjóri<N><Msc> kommandant<n><m>
 0.001980 væl<N><Fem> dåre<n><m>
 0.001980 móti<N><Msc> sjø<n><m>
@@ -13767,7 +13160,6 @@
 0.001927 lykt<N><Fem> lys<n><nt>
 0.001927 ljóstur<N><Msc> lys<n><nt>
 0.001927 heim<N><Neu> hersker<n><m>
-0.001927 Egyptaland<N><Prop><Neu> land<n><nt>
 0.001923 vísi<N><Msc> visdom<n><m>
 0.001923 stova<N><Fem> rom<n><nt>
 0.001923 minni<N><Neu> minnesmerke<n><nt>
@@ -13840,8 +13232,6 @@
 0.001873 húsi<N><Msc> skyld<n><m>
 0.001873 húsi<N><Msc> flokk<n><m>
 0.001873 fuglur<N><Msc> slag<n><nt>
-0.001873 Eli<N><Prop> tilsyn<n><nt>
-0.001873 Áron<N><Prop> tilsyn<n><nt>
 0.001869 vask<N><Neu> re<n><m>
 0.001869 tann<N><Fem> re<n><m>
 0.001869 pápi<N><Msc> far<n><m>_ja<n><nt>
@@ -13854,7 +13244,6 @@
 0.001855 næsta<N><Fem> frende<n><m>
 0.001855 myndugleiki<N><Msc> rette<n><f>
 0.001855 misbrot<N><Neu> urett<n><m>
-0.001855 Kristi<N><Prop> navn<n><nt>
 0.001855 innbjóðing<N><Fem> fører<n><m>
 0.001855 hugsan<N><Fem> mening<n><m>
 0.001855 herhøvdingi<N><Msc> fører<n><m>
@@ -13898,7 +13287,6 @@
 0.001832 útlegd<N><Fem> fange<n><nt>
 0.001832 stríð<N><Neu> felt<n><m>
 0.001832 líki<N><Neu> *Araba-bekken<n><nt>
-0.001832 Jósafat<N><Prop> far<n><m>
 0.001832 jødakongur<N><Msc> jøde<n><m>
 0.001832 hugur<N><Msc> vilje<n><m>
 0.001832 hugur<N><Msc> kan<n><m>
@@ -13930,7 +13318,6 @@
 0.001818 bílæti<N><Neu> bilde<n><nt>
 0.001812 syndari<N><Msc> menneske<n><nt>
 0.001812 ok<N><Neu> forspann<n><nt>
-0.001812 Móses<N><Prop> fett<n><nt>
 0.001812 moldrok<N><Neu> støv<n><nt>
 0.001812 hungursneyð<N><Fem> tid<n><m>
 0.001812 frelsari<N><Msc> vår<n><m>
@@ -13987,7 +13374,6 @@
 0.001773 aftan<N><Msc> følge<n><m>
 0.001773 aftan<N><Msc> åker<n><m>
 0.001770 hvíludagur<N><Msc> sabbat<n><m>
-0.001769 Harri<N><Prop> gud<n><m>
 0.001768 hors#fjall<N><Neu> fjell<n><nt>
 0.001764 yvirflóð<N><Fem> ja<n><nt>
 0.001764 yvirflóð<N><Fem> innsikt<n><m>
@@ -14075,9 +13461,7 @@
 0.001709 hjartalag<N><Neu> sinn<n><nt>
 0.001709 heidninga#strond<N><Fem> kyst<n><m>
 0.001709 eiður<N><Msc> far<n><m>
-0.001709 Damaskus<N><Prop> by<n><m>
 0.001703 vanlukka<N><Fem> skade<n><m>
-0.001702 Ella<N><Prop> nei<n><nt>
 0.001702 arvalutur<N><Msc> landområde<n><nt>
 0.001701 vernd<N><Fem> festningsvoll<n><m>
 0.001701 veraldar#djúp<N><Neu> dyp<n><nt>
@@ -14118,8 +13502,6 @@
 0.001684 endi<N><Msc> grunne<n><f>
 0.001684 dagur<N><Msc> sky<n><m>
 0.001684 armóð<N><Neu> nød<n><f>
-0.001684 Akab<N><Prop> konge<n><m>
-0.001684 Akab<N><Prop> datter<n><m>
 0.001683 lívsdagur<N><Msc> lykke<n><m>
 0.001681 offur<N><Neu> gud<n><m>
 0.001681 ár<N><Fem> bygd<n><m>
@@ -14133,7 +13515,6 @@
 0.001667 løkur<N><Msc> dal<n><m>
 0.001667 kopar<N><Neu> malm<n><m>
 0.001667 fastir<N><Fem> lag<n><nt>
-0.001667 Elias<N><Prop> *Elia_nei<n><nt>
 0.001667 áar#líð<N><Fem> dal<n><m>
 0.001659 fólkaslag<N><Neu> stam<n><m>
 0.001658 ognarfólk<N><Neu> iver<n><m>
@@ -14192,7 +13573,6 @@
 0.001618 armur<N><Msc> makt<n><m>
 0.001613 vanlukku#garn<N><Neu> garn<n><nt>
 0.001613 far<N><Neu> vei<n><m>
-0.001613 Eina<N><Prop> håp<n><nt>
 0.001609 tíð<N><Fem> verd<n><m>
 0.001605 síggj<N><Neu> tilsyn<n><nt>
 0.001605 orrusta<N><Fem> slag<n><nt>
@@ -14248,13 +13628,11 @@
 0.001582 samkoma<N><Fem> leder<n><m>
 0.001582 salt<N><Neu> kraft<n><m>
 0.001582 oddamaður<N><Msc> leder<n><m>
-0.001582 Kol-Hoze<N><Prop> leder<n><m>
 0.001581 lag<N><Neu> fred<n><m>
 0.001579 partur<N><Msc> side<n><m>
 0.001579 fjall<N><Neu> fjell-land<n><nt>
 0.001575 ræðsla<N><Fem> forvirring<n><m>
 0.001572 óðal<N><Neu> eiendom<n><m>
-0.001572 Ísmael<N><Prop> kriger<n><m>
 0.001572 gravarmunni<N><Msc> grav<n><m>
 0.001572 bardagur<N><Msc> kriger<n><m>
 0.001570 útlegd<N><Fem> bot<n><m>
@@ -14271,7 +13649,6 @@
 0.001563 letibúkur<N><Msc> villdyr<n><nt>
 0.001563 landamark<N><Neu> fyrst<n><m>
 0.001563 jørð<N><Fem> villdyr<n><nt>
-0.001563 Høn<N><Prop> villdyr<n><nt>
 0.001558 ráð<N><Neu> vilje<n><m>
 0.001558 munnur<N><Msc> mæle<n><m>
 0.001556 høvdingur<N><Msc> kong<n><m>
@@ -14279,7 +13656,6 @@
 0.001554 viðurstygd<N><Fem> ting<n><nt>
 0.001552 hold<N><Neu> liv<n><nt>
 0.001550 skilnaðar#gáva<N><Fem> bekk<n><m>
-0.001550 Festus<N><Prop> sak<n><m>
 0.001543 víngarður<N><Msc> hage<n><m>
 0.001543 vanlukku#tíð<N><Fem> ve<n><m>
 0.001543 skip<N><Neu> *Tarsis-skip<n><nt>
@@ -14416,13 +13792,11 @@
 0.001443 máttur<N><Msc> fall<n><m>
 0.001443 himmal<N><Msc> sky<n><m>
 0.001443 fólk<N><Neu> stridsmann<n><m>
-0.001443 Akab<N><Prop> ætling<n><m>
 0.001439 mangan<N><Neu> lenge<n><f>
 0.001439 einki<N><Neu> lenge<n><f>
 0.001437 veldi<N><Neu> rikdom<n><m>
 0.001437 vanlukka<N><Fem> udåd<n><m>
 0.001437 troystari<N><Msc> kraft<n><f>
-0.001437 Samaria<N><Prop> *Samaria-dam<n><m>
 0.001437 olju#trø<N><Neu> olje<n><m>
 0.001437 mannamúgva<N><Fem> mengde<n><m>
 0.001437 lívvakt<N><Fem> borg<n><m>
@@ -14464,7 +13838,6 @@
 0.001418 fagnaðarsongur<N><Msc> jubel<n><m>
 0.001416 dust<N><Neu> jord<n><m>
 0.001414 minkur<N><Msc> sjø<n><m>
-0.001414 Enajim<N><Prop> inngang<n><m>
 0.001412 straff<N><Fem> grunn<n><m>
 0.001412 prestur<N><Msc><Indef><Cmpnd> prest<n><m>
 0.001412 oyði<N><Neu> grunn<n><m>
@@ -14494,7 +13867,6 @@
 0.001401 kvinnuhús#sinn<N><Neu> velvilje<n><m>
 0.001401 konusystir<N><Fem> søster<n><m>
 0.001401 gudur<N><Msc> gudebilde<n><nt>
-0.001401 Esau<N><Prop> uvilje<n><m>
 0.001399 loyndar#boð<N><Neu> budskap<n><nt>
 0.001399 høvuðsmaður<N><Msc> tilsyn<n><nt>
 0.001399 høvuðsmaður<N><Msc> sjef<n><m>
@@ -14511,7 +13883,6 @@
 0.001389 sett<N><Neu> verdi<n><m>
 0.001389 næsta<N><Fem> venn<n><m>
 0.001389 mjøl<N><Neu> *Asjera-pæl<n><m>
-0.001389 Krist<N><Prop> far<n><m>
 0.001389 hagi<N><Msc> var<n><m>
 0.001389 hagi<N><Msc> ar<n><nt>-bygd<n><m>
 0.001389 gonga<N><Fem> verdighet<n><m>
@@ -14535,7 +13906,6 @@
 0.001374 trongd<N><Fem> vanske<n><m>
 0.001374 trongd<N><Fem> ulykke<n><f>
 0.001374 trongd<N><Fem> fare<n><m>
-0.001374 Jósafat<N><Prop> kong<n><m>
 0.001374 hugur<N><Msc> jordbruk<n><nt>
 0.001374 fangarúm<N><Neu> rom<n><nt>
 0.001372 verk<N><Neu> skapning<n><m>
@@ -14560,7 +13930,6 @@
 0.001361 mót<N><Neu> tale<n><m>
 0.001361 mót<N><Neu> sted<n><nt>
 0.001361 mót<N><Neu> hytte<n><m>
-0.001361 Jordan<N><Prop> eie<n><nt>
 0.001355 sólskin<N><Neu> sol<n><m>
 0.001355 reinleiki<N><Msc> kan<n><m>
 0.001355 neyðartíð<N><Fem> nød<n><m>
@@ -14571,7 +13940,6 @@
 0.001353 tala<N><Fem> ord<n><nt>
 0.001351 sló<N><Fem> hånd<n><f>
 0.001351 óðal<N><Neu> del<n><m>
-0.001351 Hetta<N><Prop> hånd<n><f>
 0.001351 atburður<N><Msc> livsførsel<n><m>
 0.001350 gleði<N><Fem> vilje<n><m>
 0.001348 lamb<N><Neu> offerlam<n><nt>
@@ -14586,7 +13954,6 @@
 0.001337 undirgangur<N><Msc> ulykke<n><m>
 0.001337 undirgangur<N><Msc> brottsmann<n><m>
 0.001337 stormur<N><Msc> virvelvind<n><m>
-0.001337 Juda<N><Prop> ialphabet<n><m>
 0.001335 útflot<N><Neu> re<n><m>
 0.001335 pápi<N><Msc> farfar<n><m>
 0.001335 munnur<N><Msc> barm<n><m>
@@ -14598,7 +13965,6 @@
 0.001330 sig<N><Neu> tal<n><nt>
 0.001330 edilingur<N><Msc> plan<n><m>
 0.001330 avgrund<N><Fem> dødsrike<n><nt>
-0.001329 Jesus<N><Prop> men<n><nt>
 0.001325 hædd<N><Fem> sete<n><nt>
 0.001325 hædd<N><Fem> ås<n><m>
 0.001325 avkom<N><Neu> molok<n><m>
@@ -14640,7 +14006,6 @@
 0.001299 næsti<N><Msc> urett<n><m>
 0.001299 minkur<N><Msc> elv<n><m>
 0.001299 mánaða#tal<N><Neu> lenge<n><m>
-0.001299 Jordan<N><Prop> grense<n><m>
 0.001299 hevndar#svørð<N><Neu> hevn<n><m>
 0.001299 hevndar#klæði<N><Neu> hevn<n><m>
 0.001299 havri<N><Msc> grense<n><m>
@@ -14705,7 +14070,6 @@
 0.001263 viðhald<N><Neu> vitne<n><nt>
 0.001263 tykki<N><Neu> vitne<n><nt>
 0.001263 tak<N><Neu> loftsrom<n><nt>
-0.001263 Stefanas<N><Prop> familie<n><m>
 0.001263 skøkju#løn<N><Fem> lønn<n><m>
 0.001263 prógv<N><Neu> vitne<n><nt>
 0.001263 orð<N><Neu> tale<n><m>
@@ -14727,17 +14091,14 @@
 0.001253 blygd<N><Fem> kropp<n><m>
 0.001250 vangi<N><Msc> ansikt<n><nt>
 0.001250 múrur<N><Msc> vern<n><nt>
-0.001250 Iskariot<N><Prop> tank<n><m>
 0.001250 bróðurkona<N><Fem> enke<n><m>
 0.001250 avguda#dýrkari<N><Msc> avgud<n><m>
 0.001246 ráð<N><Neu> tank<n><m>
 0.001246 ráð<N><Neu> plan<n><nt>
 0.001246 ráð<N><Neu> herre<n><m>
 0.001244 sonur<N><Msc> gutt<n><m>
-0.001244 Ísakur<N><Prop> sønn<n><m>
 0.001242 longa<N><Fem> komme<n><nt>
 0.001242 klæði<N><Neu> klesplagg<n><nt>
-0.001242 Gilead<N><Prop> *Gilead-land<n><nt>
 0.001240 lógvi<N><Msc> hånd<n><m>
 0.001238 skýggj<N><Neu> tåkedott<n><m>
 0.001238 kletti<N><Neu> fjell<n><nt>
@@ -14759,7 +14120,6 @@
 0.001235 bróst<N><Neu> veslebarn<n><nt>
 0.001235 breyðbiti<N><Msc> stykke<n><nt>
 0.001235 bót<N><Fem> synd<n><m>
-0.001233 Jerúsalem<N><Prop> Jerusalem<np><top>-område<n><nt>
 0.001232 skipari<N><Msc> rikdom<n><m>
 0.001232 signing<N><Fem> rikdom<n><m>
 0.001232 eyga<N><Neu> rikdom<n><m>
@@ -14777,7 +14137,6 @@
 0.001225 armband<N><Neu> søster<n><m>
 0.001221 svikaráð<N><Neu> verk<n><nt>
 0.001221 stríð<N><Neu> diskusjon<n><m>
-0.001221 Jósafat<N><Prop> *Juda-kong<n><m>
 0.001221 hugur<N><Msc> kjæreste<n><m>
 0.001221 hugur<N><Msc> ialphabet<n><m>
 0.001221 dómari<N><Msc> tid<n><f>
@@ -14839,9 +14198,7 @@
 0.001182 hold<N><Neu> jord<n><m>
 0.001182 hold<N><Neu> hud<n><m>
 0.001182 hold<N><Neu> folk<n><nt>
-0.001182 Het<N><Prop> skyld<n><f>
 0.001182 hermaður<N><Msc> kong<n><m>
-0.001182 Efron<N><Prop> landsmann<n><m>
 0.001181 ræðsla<N><Fem> forvirring<n><f>
 0.001181 presta#klæði<N><Neu> klær<n><nt>
 0.001181 forgarður<N><Msc> portrom<n><nt>
@@ -14897,7 +14254,6 @@
 0.001143 kraft<N><Fem> ære<n><m>
 0.001143 il<N><Fem> hode<n><nt>
 0.001143 húgva<N><Fem> hode<n><nt>
-0.001143 Hanok<N><Prop> var<n><m>
 0.001143 dári<N><Msc> vett<n><nt>
 0.001143 dári<N><Msc> fell<n><m>
 0.001143 á<N><Fem> lyte<n><nt>
@@ -14917,7 +14273,6 @@
 0.001136 likam<N><Neu> legeme<n><nt>
 0.001136 horn<N><Neu> makt<n><f>
 0.001136 horn<N><Neu> kant<n><m>
-0.001136 Absalom<N><Prop> måte<n><m>
 0.001134 ungdóms#synd<N><Fem> synd<n><f>
 0.001134 róp<N><Neu> stønn<n><nt>
 0.001134 róp<N><Neu> klage<n><m>
@@ -14931,13 +14286,11 @@
 0.001126 ungdóms#synd<N><Fem> mot<n><nt>
 0.001126 týðing<N><Fem> hånd<n><f>
 0.001126 skýlis#klettur<N><Msc> tilflukt<n><m>
-0.001126 Galilea<N><Prop> *Dekapolis-land<n><nt>
 0.001126 fedra#húsi<N><Msc> stammehøvding<n><m>
 0.001126 áminning<N><Fem> vilje<n><m>
 0.001124 trø<N><Neu> slag<n><nt>
 0.001124 list<N><Fem> slag<n><nt>
 0.001124 esil<N><Neu> slag<n><nt>
-0.001124 Edre<N><Prop> slag<n><nt>
 0.001124 alda<N><Fem> slekt<n><f>
 0.001124 ættarliður<N><Msc> slekt<n><f>
 0.001123 boð<N><Neu> melding<n><m>
@@ -14963,7 +14316,6 @@
 0.001111 viðurstygd<N><Fem> gud<n><m>
 0.001111 trø<N><Neu> tømmerhogst<n><m>
 0.001111 strutsur<N><Msc> lag<n><nt>
-0.001111 Norðurland<N><Prop><Neu> land<n><nt>
 0.001111 háls#brot<N><Neu> dal<n><m>
 0.001111 hagi<N><Msc> gård<n><m>
 0.001111 hagi<N><Msc> by<n><m>
@@ -15010,11 +14362,9 @@
 0.001081 land<N><Neu> del<n><m>
 0.001081 gáva<N><Fem> del<n><m>
 0.001081 eiga<N><Fem> del<n><m>
-0.001079 Silvanus<N><Prop> hjelp<n><m>
 0.001079 læknaráð<N><Neu> hjelp<n><m>
 0.001079 grótrúgva<N><Fem> haug<n><m>
 0.001078 verður<N><Msc> ur<n><m>
-0.001078 Samaria<N><Prop> by<n><m>
 0.001078 fylling<N><Fem> rikdom<n><m>
 0.001078 bróðurkona<N><Fem> kone<n><m>
 0.001075 vídd<N><Fem> si<n><m>
@@ -15027,7 +14377,6 @@
 0.001075 herflokkur<N><Msc> flokk<n><m>
 0.001075 far<N><Neu> still<n><nt>
 0.001075 faðir<N><Msc> forfader<n><m>
-0.001074 Juda<N><Prop> *Juda-folk<n><nt>
 0.001074 íbúgvi<N><Msc> vold<n><m>
 0.001074 hinsur<N><Msc> vold<n><m>
 0.001073 stóð<N><Neu> side<n><m>
@@ -15052,15 +14401,11 @@
 0.001066 peningur<N><Msc> betaling<n><f>
 0.001065 orrustu#dagur<N><Msc> strid<n><m>
 0.001065 hjarta<N><Neu> hjerter<n><m>
-0.001064 Verk<N><Prop> nei<n><nt>
 0.001064 minni<N><Neu> nei<n><nt>
 0.001064 lóg<N><Fem> ordning<n><m>
-0.001064 Komi<N><Prop> nei<n><nt>
-0.001064 Gud<N><Prop> nei<n><nt>
 0.001061 fedra#hús<N><Neu> far<n><m>
 0.001059 yvirflóð<N><Fem> grunn<n><m>
 0.001059 misbrot<N><Neu> grunn<n><m>
-0.001059 Heródias<N><Prop> grunn<n><m>
 0.001059 heims#økingar#dagur<N><Msc> skade<n><m>
 0.001059 grógv<N><Fem> grunn<n><m>
 0.001059 alt<N><Fem> pynt<n><m>
@@ -15077,7 +14422,6 @@
 0.001057 herhøvdingi<N><Msc> stormann<n><m>
 0.001057 herhøvdingi<N><Msc> fører<n><m>
 0.001057 borg<N><Fem> festningsby<n><m>
-0.001055 Vatn<N><Prop> vann<n><nt>
 0.001055 vatnflóð<N><Fem> vann<n><nt>
 0.001055 træsprek<N><Neu> tre<n><nt>
 0.001055 toppur<N><Msc> tre<n><nt>
@@ -15135,7 +14479,6 @@
 0.001026 herjingar#steyp<N><Neu> beger<n><nt>
 0.001025 teljing<N><Fem> stam<n><m>
 0.001025 staður<N><Msc> land<n><nt>
-0.001025 Penuel<N><Prop> innbygger<n><m>
 0.001025 føði<N><Fem> bakverk<n><nt>
 0.001025 føði<N><Fem> arbeider<n><m>
 0.001025 arbeiði<N><Neu> tilsyn<n><nt>
@@ -15148,7 +14491,6 @@
 0.001020 landamark<N><Neu> *Moab-land<n><nt>
 0.001020 landamark<N><Neu> fyrst<n><m>
 0.001020 kvinnu#kærleiki<N><Msc> kvinne<n><f>
-0.001020 Jóhannes<N><Prop> navn<n><nt>
 0.001020 høvd<N><Neu> ferd<n><f>
 0.001019 hús<N><Neu> husstand<n><m>
 0.001019 at<N><Neu> gravplass<n><m>
@@ -15159,14 +14501,12 @@
 0.001014 grashoppu#flokkur<N><Msc> løs<n><nt>
 0.001013 kvinna<N><Fem> skyld<n><f>
 0.001013 fylgja<N><Fem> småfe<n><nt>
-0.001012 Harri<N><Prop> gud<n><m>
 0.001012 gleði<N><Fem> glad<n><nt>
 0.001010 neyt<N><Neu> småfe<n><nt>
 0.001010 líki<N><Msc> vis<n><f>
 0.001010 kopars#úla<N><Fem> stykke<n><nt>
 0.001010 fæ<N><Neu> spise<n><m>
 0.001010 andi<N><Msc> pust<n><nt>
-0.001006 Sálomo<N><Prop> var<n><m>
 0.001006 ovasti<N><Msc> korn<n><nt>
 0.001006 orrusta<N><Fem><Indef><Cmpnd> krig<n><m>
 0.001006 menniskja#barn<N><Neu> folk<n><nt>
@@ -15192,8 +14532,6 @@
 0.000998 mál<N><Neu> morsmål<n><nt>
 0.000995 streingja#leikur<N><Msc> ungdom<n><m>
 0.000992 vilji<N><Msc> forsett<n><nt>
-0.000992 Set<N><Prop> vær<n><m>
-0.000992 Nahum<N><Prop> syn<n><nt>
 0.000992 lyfti<N><Neu> vær<n><m>
 0.000992 heili<N><Msc> syn<n><nt>
 0.000992 angist<N><Fem> ferd<n><m>
@@ -15291,7 +14629,6 @@
 0.000942 maður<N><Msc> gutt<n><m>
 0.000942 hetta<N><Fem> offer<n><nt>
 0.000941 ætt<N><Fem> familie<n><m>
-0.000940 Verk<N><Prop> gjerning<n><m>
 0.000940 rot<N><Neu> kropp<n><m>
 0.000940 rødd<N><Fem> ord<n><nt>
 0.000939 mark<N><Fem> fly<n><nt>
@@ -15317,7 +14654,6 @@
 0.000926 trúgv<N><Fem> løfte<n><nt>
 0.000926 trúgv<N><Fem> får<n><m>
 0.000926 skræði<N><Neu> stykke<n><nt>
-0.000926 Saul<N><Prop> kong<n><m>
 0.000926 rættvísi<N><Neu> ferd<n><m>
 0.000926 rættferðar#eik<N><Fem> rettferd<n><m>
 0.000926 morgindagur<N><Msc> be<vblex>’al<n><nt>
@@ -15330,8 +14666,6 @@
 0.000926 býti<N><Neu> gave<n><m>
 0.000923 skal<N><Neu> skjell<n><m>
 0.000923 skal<N><Neu> kart<n><m>
-0.000923 Kristus<N><Prop> vår<n><m>
-0.000923 Ábram<N><Prop> farao<n><m>
 0.000922 gangur<N><Msc> flokk<n><m>
 0.000922 dóma#dagur<N><Msc> dom<n><m>
 0.000922 deyði<N><Msc> drep<n><m>
@@ -15340,7 +14674,6 @@
 0.000921 partur<N><Msc> mangel<n><m>
 0.000921 partur<N><Msc> land<n><nt>
 0.000919 heims#økingar#dagur<N><Msc> sykdom<n><m>
-0.000919 Absalom<N><Prop> måte<n><m>
 0.000918 maður<N><Msc> israelitt<n><m>
 0.000918 forgarður<N><Msc> hjørne<n><nt>
 0.000917 vinur<N><Msc> embetsbror<n><m>
@@ -15361,7 +14694,6 @@
 0.000912 frelsu#horn<N><Neu> horn<n><nt>
 0.000911 víngarður<N><Msc> hage<n><m>
 0.000911 reið<N><Fem> gjengjeld<n><m>
-0.000911 Ptolemais<N><Prop> slutt<n><m>
 0.000911 føði<N><Fem> husstand<n><m>
 0.000911 arbeiði<N><Neu> håndverk<n><nt>
 0.000909 yvirskrift<N><Fem> bilde<n><nt>
@@ -15405,7 +14737,6 @@
 0.000893 ætt<N><Fem> redsel<n><m>
 0.000890 ogn<N><Fem> tid<n><f>
 0.000890 ogn<N><Fem> jord<n><f>
-0.000890 Edre<N><Prop> hær<n><m>
 0.000890 as<N><Neu> hær<n><m>
 0.000889 kríatúr<N><Neu> vederlag<n><nt>
 0.000887 vreiði<N><Fem> komme<n><nt>
@@ -15499,7 +14830,6 @@
 0.000826 avguda#mynd<N><Fem> bilde<n><nt>
 0.000826 áarstreymur<N><Msc> elv<n><m>
 0.000825 menniskja#mál<N><Neu> mål<n><nt>
-0.000825 Jordan<N><Prop> side<n><m>
 0.000825 fjallatindur<N><Msc> fjell<n><nt>
 0.000823 vís#dómur<N><Msc> innsikt<n><m>
 0.000823 vís#dómur<N><Msc> forstand<n><m>
@@ -15519,7 +14849,6 @@
 0.000820 ættar#lutur<N><Msc> stam<n><m>
 0.000816 útlegd<N><Fem> var<n><m>
 0.000816 tempul<N><Neu> var<n><m>
-0.000816 Sálomo<N><Prop> var<n><m>
 0.000816 høvd<N><Neu> stammehøvding<n><m>
 0.000816 høvd<N><Neu> fører<n><m>
 0.000816 høvd<N><Neu> å<n><f>
@@ -15538,9 +14867,7 @@
 0.000809 góði<N><Msc> lykke<n><f>
 0.000809 góði<N><Msc> beste<n><nt>
 0.000809 ætlan<N><Fem> makt<n><m>
-0.000808 Egyptaland<N><Prop><Neu> land<n><nt>
 0.000807 brenna<N><Fem> offer<n><nt>
-0.000807 Abjatar<N><Prop> offer<n><nt>
 0.000806 far<N><Neu> slå<n><m>
 0.000805 heiligdagur<N><Msc> sabbat<n><m>
 0.000804 tíð<N><Fem> stund<n><m>
@@ -15564,7 +14891,6 @@
 0.000794 slekt<N><Fem> *Jehiel-sønn<n><m>
 0.000794 skyldmaður<N><Msc> slekt<n><m>
 0.000794 lívsandi<N><Msc> ialphabet<n><m>
-0.000794 Langt<N><Prop> stykke<n><nt>
 0.000794 jarn<N><Neu> stykke<n><nt>
 0.000794 jarðar#djúp<N><Neu> eie<n><nt>
 0.000794 jaksul<N><Msc> stykke<n><nt>
@@ -15572,7 +14898,6 @@
 0.000794 hagi<N><Msc> husstand<n><m>
 0.000794 grøv<N><Fem> slått<n><m>
 0.000794 garður<N><Msc> ialphabet<n><m>
-0.000794 Efrat<N><Prop> stykke<n><nt>
 0.000794 breyð<N><Neu> stykke<n><nt>
 0.000794 bit<N><Neu> stykke<n><nt>
 0.000791 skal<N><Neu> port<n><m>
@@ -15607,7 +14932,6 @@
 0.000779 ráð<N><Neu> bud<n><nt>
 0.000779 longa<N><Fem> stykke<n><nt>
 0.000776 gangari<N><Msc> hest<n><m>
-0.000776 Betlehem<N><Prop> komme<n><nt>
 0.000775 vitni<N><Neu> sak<n><m>
 0.000775 rættur<N><Msc> rettferd<n><m>
 0.000775 hetta<N><Fem> sak<n><m>
@@ -15684,19 +15008,15 @@
 0.000741 gómi<N><Msc> munn<n><m>
 0.000741 gap<N><Neu> munn<n><m>
 0.000740 veingja#hurð<N><Fem> rom<n><nt>
-0.000739 Ádam<N><Prop> mann<n><m>
 0.000738 skal<N><Neu> ting<n><nt>
 0.000738 skal<N><Neu> tid<n><f>
 0.000738 skal<N><Neu> port<n><m>
 0.000738 skal<N><Neu> klov<n><m>
 0.000738 skal<N><Neu> flom<n><m>
-0.000738 Áron<N><Prop> farao<n><m>
 0.000736 lutur<N><Msc> oppdrag<n><nt>
 0.000736 hannur<N><Msc> så<n><m>
 0.000736 hannur<N><Msc> føre<n><nt>
 0.000736 hannur<N><Msc> folk<n><nt>
-0.000735 Zion<N><Prop> *Sion-datter<n><m>
-0.000735 Zion<N><Prop> *Sion-datter<n><f>
 0.000735 vegur<N><Msc> reis<n><m>
 0.000735 vegur<N><Msc> ferd<n><f>
 0.000735 hond<N><Fem> arm<n><m>
@@ -15761,13 +15081,11 @@
 0.000717 leið<N><Fem> bakk<n><m>
 0.000717 leið<N><Fem> avvei<n><m>
 0.000715 vegur<N><Msc> side<n><m>
-0.000715 Jordan<N><Prop> side<n><m>
 0.000715 bunga<N><Fem> side<n><m>
 0.000715 armur<N><Msc> hand<n><m>
 0.000714 vørur<N><Msc> var<n><m>
 0.000714 tokki<N><Msc> ialphabet<n><m>
 0.000714 stórleiki<N><Msc> ære<n><m>
-0.000714 Onan<N><Prop> var<n><m>
 0.000714 høvda<N><Fem> hode<n><nt>
 0.000714 hár<N><Neu> hode<n><nt>
 0.000714 handaverk<N><Neu> gjerning<n><f>
@@ -15777,7 +15095,6 @@
 0.000714 fall<N><Neu> bøye<n><m>
 0.000714 dóttir<N><Fem> ialphabet<n><m>
 0.000714 dári<N><Msc> forstand<n><m>
-0.000714 Beor<N><Prop> var<n><m>
 0.000714 á<N><Fem> elvefar<n><nt>
 0.000713 vit<N><Neu> os<n><nt>
 0.000713 vatn<N><Neu> bekk<n><m>
@@ -15789,7 +15106,6 @@
 0.000712 hvíla<N><Fem> sted<n><nt>
 0.000712 herhøvdingi<N><Msc> hær<n><m>
 0.000712 guda#hús<N><Neu> tempel<n><nt>
-0.000711 Elisa<N><Prop> *class="*verse">profet<n><m>
 0.000710 teljing<N><Fem> familie<n><m>
 0.000710 slekt<N><Fem> familie<n><m>
 0.000710 olja<N><Fem> ialphabet<n><m>
@@ -15801,10 +15117,7 @@
 0.000709 hold<N><Neu> orden<n><m>
 0.000709 hold<N><Neu> motiv<n><nt>
 0.000709 heidningi<N><Msc> folk<n><nt>
-0.000709 Bileam<N><Prop> nei<n><nt>
 0.000707 tigulsteina#tún<N><Neu> inngang<n><m>
-0.000707 Jordan<N><Prop> grense<n><m>
-0.000707 Jordan<N><Prop> eie<n><nt>
 0.000706 náði<N><Fem> grunn<n><m>
 0.000706 ilt<N><Neu> ulykke<n><m>
 0.000706 hor<N><Neu> grunn<n><m>
@@ -15813,7 +15126,6 @@
 0.000706 havi<N><Msc> grunn<n><m>
 0.000706 brennioffur<N><Neu> offer<n><nt>
 0.000706 æl<N><Neu> grunn<n><m>
-0.000706 Ádam<N><Prop> grunn<n><m>
 0.000703 olju#træna<N><Fem> tre<n><nt>
 0.000703 málaflutningsmaður<N><Msc> føre<n><nt>
 0.000703 løkur<N><Msc> vann<n><nt>
@@ -15865,7 +15177,6 @@
 0.000687 krossur<N><Msc> visdom<n><m>
 0.000687 endi<N><Msc> slutter<n><m>
 0.000687 endi<N><Msc> livsløp<n><nt>
-0.000686 Issakar<N><Prop> stamme<n><m>
 0.000685 eigindómur<N><Msc> bolig<n><m>
 0.000683 rættartræta<N><Fem> innbygger<n><m>
 0.000683 fundur<N><Msc> menighet<n><m>
@@ -15909,14 +15220,12 @@
 0.000662 hædd<N><Fem> Jerusalem<np><top>-haug<n><m>
 0.000661 vitnisburðar#tjald<N><Neu> telt<n><nt>
 0.000661 seyður<N><Msc> vær<n><m>
-0.000661 Saul<N><Prop> farbror<n><m>
 0.000661 náðigáva<N><Fem> gave<n><m>
 0.000661 misbrot<N><Neu> onde<n><nt>
 0.000661 lyfti<N><Neu> vær<n><m>
 0.000661 konga#portur<N><Neu> plass<n><m>
 0.000661 koma<N><Fem> rop<n><nt>
 0.000661 kærleiki<N><Msc> glad<n><nt>
-0.000661 Habakkuk<N><Prop> syn<n><nt>
 0.000661 grund<N><Fem> undergang<n><m>
 0.000661 altar<N><Neu> hjørne<n><nt>
 0.000660 harri<N><Msc> kong<n><m>
@@ -15935,7 +15244,6 @@
 0.000649 heidningur<N><Msc> slekt<n><m>
 0.000649 bróðurkærleiki<N><Msc> hold<n><nt>
 0.000647 rødd<N><Fem> gråt<n><m>
-0.000647 Gud<N><Prop> engel<n><m>
 0.000647 deyði<N><Msc> liv<n><nt>
 0.000647 búkur<N><Msc> liv<n><nt>
 0.000646 sakloysi<N><Neu> tegn<n><nt>
@@ -15948,10 +15256,7 @@
 0.000645 far<N><Neu> merke<n><nt>
 0.000644 seyður<N><Msc> slaktefe<n><nt>
 0.000644 lutur<N><Msc> rekkverk<n><nt>
-0.000644 Juda<N><Prop> *Juda-stam<n><m>
 0.000643 tempul<N><Neu> ja<n><nt>
-0.000643 Salma<N><Prop> far<n><nt>
-0.000643 Obed<N><Prop> far<n><nt>
 0.000643 fedra#húsi<N><Msc> *class="*verse">levitt<n><m>
 0.000643 breyð<N><Neu> orm<n><m>
 0.000641 trúnaðarmaður<N><Msc> venn<n><m>
@@ -16026,7 +15331,6 @@
 0.000623 peninga#skuggi<N><Msc> penge<n><m>
 0.000622 sona#rættur<N><Msc> rett<n><m>
 0.000622 ásjón<N><Fem> blikk<n><nt>
-0.000621 Jósafat<N><Prop> *Juda-kong<n><m>
 0.000619 seli<N><Msc> fjell<n><nt>
 0.000619 altar#vígsla<N><Fem> alter<n><nt>
 0.000618 hinna<N><Fem> samvær<n><nt>
@@ -16036,7 +15340,6 @@
 0.000615 skal<N><Neu> storhav<n><nt>
 0.000615 skal<N><Neu> minne<n><nt>
 0.000615 nátt<N><Fem> farao<n><m>
-0.000615 Dagur<N><Prop> dag<n><m>
 0.000614 sjón<N><Fem> havuhyre<n><nt>
 0.000614 partur<N><Msc> religion<n><m>
 0.000614 partur<N><Msc> avdeling<n><f>
@@ -16059,7 +15362,6 @@
 0.000607 yvirluti<N><Msc> makt<n><m>
 0.000607 umsjón<N><Fem> menighet<n><m>
 0.000607 samkomuhús<N><Neu> menighet<n><m>
-0.000607 Makedonia<N><Prop> menighet<n><m>
 0.000605 ver<N><Neu> ro<n><m>
 0.000605 ver<N><Neu> leveår<n><nt>
 0.000605 ver<N><Neu> korn<n><nt>
@@ -16067,7 +15369,6 @@
 0.000605 straff<N><Fem> ulykke<n><m>
 0.000605 rættur<N><Msc> grunn<n><m>
 0.000605 presta#dømi<N><Neu> prest<n><m>
-0.000605 Patmos<N><Prop> grunn<n><m>
 0.000605 oyðing<N><Fem> ulykke<n><m>
 0.000605 óreinska<N><Fem> grunn<n><m>
 0.000605 mein<N><Neu> ulykke<n><m>
@@ -16121,10 +15422,7 @@
 0.000591 hold<N><Neu> middel<n><nt>
 0.000591 bukka#blóð<N><Neu> blod<n><nt>
 0.000590 træsprek<N><Neu> rest<n><m>
-0.000589 Suðurland<N><Prop><Neu> land<n><nt>
-0.000588 Ruben<N><Prop> stamme<n><m>
 0.000588 menniskja<N><Neu> onde<n><nt>
-0.000588 Juda<N><Prop> stamme<n><m>
 0.000588 grund<N><Fem> slektledd<n><nt>
 0.000588 grund<N><Fem> forvirring<n><m>
 0.000588 dugnamaður<N><Msc> hundre<n><nt>
@@ -16144,9 +15442,7 @@
 0.000581 steinhøggari<N><Msc> stein<n><m>
 0.000581 menniskja<N><Fem> folk<n><nt>
 0.000579 tíggjund<N><Fem> gave<n><m>
-0.000579 Saul<N><Prop> bad<n><nt>
 0.000579 HARRI<N><ACR> morgen<n><m>
-0.000579 Barnabas<N><Prop> gave<n><m>
 0.000579 ættarhøvdingi<N><Msc> ferd<n><m>
 0.000578 gleði<N><Fem> godvilje<n><m>
 0.000578 gleði<N><Fem> gledesrop<n><nt>
@@ -16183,8 +15479,6 @@
 0.000567 tigulsteina#tún<N><Neu> plass<n><m>
 0.000567 náttarvøka<N><Fem> arbeid<n><nt>
 0.000567 halgidómur<N><Msc> arbeid<n><nt>
-0.000567 Áron<N><Prop> farao<n><m>
-0.000566 Kong<N><Prop> kong<n><m>
 0.000565 skurðseyður<N><Msc> sau<n><m>
 0.000565 seyða#hirði<N><Msc> sau<n><m>
 0.000565 seyða#byrgi<N><Neu> sau<n><m>
@@ -16216,14 +15510,12 @@
 0.000558 hinsur<N><Msc> lære<n><m>
 0.000558 hinsur<N><Msc> bukk<n><m>
 0.000558 brestur<N><Msc> strid<n><m>
-0.000557 Hetta<N><Prop> alter<n><nt>
 0.000554 rættur<N><Msc> tanke<n><m>
 0.000554 rættur<N><Msc> side<n><f>
 0.000554 rættur<N><Msc> grunn<n><m>
 0.000554 rættur<N><Msc> gang<n><m>
 0.000554 ljós<N><Neu> dag<n><m>
 0.000554 harri<N><Msc> høvding<n><m>
-0.000554 Bert<N><Prop> men<n><nt>
 0.000553 fólkaslag<N><Neu> skare<n><m>
 0.000552 partur<N><Msc> tredjedel<n><m>
 0.000552 klæði<N><Neu> skrud<n><nt>
@@ -16316,7 +15608,6 @@
 0.000525 vegur<N><Msc> siderom<n><nt>
 0.000525 prís<N><Neu> lov<n><m>
 0.000525 morgunroði<N><Msc> lys<n><nt>
-0.000523 Juda<N><Prop> folk<n><nt>
 0.000523 hús<N><Neu> folk<n><nt>
 0.000523 gudur<N><Msc> gudebilde<n><nt>
 0.000523 ætt<N><Fem> folk<n><nt>
@@ -16326,7 +15617,6 @@
 0.000521 rovdýr<N><Neu> fot<n><m>
 0.000521 muður<N><Msc> slekt<n><f>
 0.000521 muður<N><Msc> gap<n><m>
-0.000521 Kristi<N><Prop> ansikt<n><nt>
 0.000521 holds#likam<N><Neu> kjøtt<n><nt>
 0.000521 fótalag<N><Neu> fot<n><m>
 0.000519 sjósíða<N><Fem> hav<n><nt>
@@ -16451,11 +15741,9 @@
 0.000477 fyriskipan<N><Fem> lov<n><m>
 0.000477 barnakona<N><Fem> kvinne<n><m>
 0.000476 skurv<N><Neu> hode<n><nt>
-0.000476 Midjan<N><Prop> var<n><m>
 0.000476 likam<N><Neu> hode<n><nt>
 0.000476 hendi<N><Neu> var<n><m>
 0.000476 fylgi<N><Neu> var<n><m>
-0.000476 Bilha<N><Prop> var<n><m>
 0.000475 skuld<N><Fem> endemål<n><nt>
 0.000475 skari<N><Msc> høvding<n><m>
 0.000475 lívvakt<N><Fem> høvding<n><m>
@@ -16467,7 +15755,6 @@
 0.000473 arvalutur<N><Msc> dele<n><nt>
 0.000473 andlit<N><Neu> nese<n><m>
 0.000473 andlit<N><Neu> kne<n><nt>
-0.000472 Áron<N><Prop> tilsyn<n><nt>
 0.000471 útveljing<N><Fem> grunn<n><m>
 0.000471 opinbering<N><Fem> grunn<n><m>
 0.000471 fótur<N><Msc> hæl<n><m>
@@ -16479,7 +15766,6 @@
 0.000469 fólk<N><Neu> landsmann<n><m>
 0.000469 fólk<N><Neu> flokk<n><m>
 0.000469 barn<N><Neu> datter<n><m>
-0.000469 Akab<N><Prop> datter<n><m>
 0.000468 týdningur<N><Msc> tid<n><f>
 0.000468 orð<N><Neu> ry<n><nt>
 0.000468 mjadnar#sina<N><Fem> slag<n><nt>
@@ -16490,10 +15776,6 @@
 0.000465 týdningur<N><Msc> sak<n><m>
 0.000465 himmal<N><Msc> ende<n><m>
 0.000465 hellismunni<N><Msc> stein<n><m>
-0.000464 Dávid<N><Prop> kong<n><m>
-0.000464 Dávid<N><Prop> David<np><m>-tårn<n><nt>
-0.000464 Dávid<N><Prop> David<np><m>-by<n><m>
-0.000464 Dávid<N><Prop> David<np><m>-ætling<n><m>
 0.000463 skemdar#atburður<N><Msc> ferd<n><m>
 0.000463 rættvísi<N><Neu> sannhet<n><f>
 0.000463 rættvísi<N><Neu> mann<n><m>
@@ -16528,13 +15810,10 @@
 0.000459 hond<N><Fem> gjerning<n><f>
 0.000459 fyrigeving<N><Fem> rest<n><m>
 0.000459 breyð<N><Neu> stykke<n><nt>
-0.000458 Zoar<N><Prop> så<n><m>
-0.000458 Silas<N><Prop> så<n><m>
 0.000458 senda<N><Fem> så<n><m>
 0.000458 olmussa<N><Fem> jøde<n><m>
 0.000458 hali<N><Msc> så<n><m>
 0.000458 grøv<N><Fem> så<n><m>
-0.000458 Dina<N><Prop> så<n><m>
 0.000458 borð<N><Neu> så<n><m>
 0.000457 vís#dómur<N><Msc> men<n><nt>
 0.000457 vís#dómur<N><Msc> hun<n><m>
@@ -16584,18 +15863,15 @@
 0.000446 ár<N><Neu> leveår<n><nt>
 0.000445 tann<N><Fem> strev<n><nt>
 0.000443 misgerð<N><Fem> forbrytelse<n><m>
-0.000443 Jesus<N><Prop> blod<n><nt>
 0.000442 fólkaslag<N><Neu> mor<n><m>
 0.000442 flugu#flokkur<N><Msc> mengde<n><m>
 0.000441 ríkisstjórn<N><Fem> tid<n><m>
 0.000441 koma<N><Fem> stige<n><m>
 0.000441 koma<N><Fem> prøve<n><f>
 0.000441 dómur<N><Msc> avgjørelse<n><m>
-0.000441 Aleksandria<N><Prop> makt<n><m>
 0.000439 vindeyga<N><Neu> port<n><m>
 0.000439 vagnur<N><Msc> tjeneste<n><m>
 0.000439 seyðahús<N><Neu> port<n><m>
-0.000439 Put<N><Prop> tjeneste<n><m>
 0.000439 keisari<N><Msc> tjeneste<n><m>
 0.000439 friðar#ráð<N><Neu> fred<n><m>
 0.000439 friðar#orð<N><Neu> fred<n><m>
@@ -16632,7 +15908,6 @@
 0.000428 boð<N><Neu> beskjed<n><m>
 0.000427 sonur<N><Msc> Aron<np><m>-sønn<n><m>
 0.000427 mót<N><Neu> sted<n><nt>
-0.000427 Mara<N><Prop> sted<n><nt>
 0.000427 kýli<N><Neu> sted<n><nt>
 0.000427 kongur<N><Msc> Israel<np><top>-kong<n><m>
 0.000427 hagi<N><Msc> *Efraim-fjell<n><nt>
@@ -16646,13 +15921,11 @@
 0.000425 vegvísari<N><Msc> vei<n><m>
 0.000425 náði<N><Fem> grunn<n><m>
 0.000425 handaverk<N><Neu> hånd<n><m>
-0.000425 Galilea<N><Prop> vei<n><m>
 0.000424 vøka<N><Fem> ja<n><nt>
 0.000424 verk<N><Neu> skapning<n><m>
 0.000424 verk<N><Neu> handling<n><m>
 0.000424 útlegd<N><Fem> land<n><nt>
 0.000424 tjóð<N><Fem> ja<n><nt>
-0.000424 Tala<N><Prop> ja<n><nt>
 0.000424 misbrot<N><Neu> ja<n><nt>
 0.000424 kall<N><Neu> ja<n><nt>
 0.000424 ger<N><Fem> ja<n><nt>
@@ -16678,7 +15951,6 @@
 0.000415 tíni<N><Neu> ungdyr<n><nt>
 0.000415 tíni<N><Neu> festning<n><m>
 0.000415 tíni<N><Neu> ansvar<n><nt>
-0.000415 Oreb<N><Prop> høvding<n><m>
 0.000415 høvdingur<N><Msc> folk<n><nt>
 0.000415 høvdingur<N><Msc> by<n><m>
 0.000415 dómari<N><Msc> høvding<n><m>
@@ -16696,7 +15968,6 @@
 0.000410 skal<N><Neu> arvegods<n><nt>
 0.000409 vegur<N><Msc> landsdel<n><m>
 0.000409 tænari<N><Msc> herre<n><m>
-0.000409 Gud<N><Prop> herre<n><m>
 0.000408 veitsla<N><Fem> var<n><m>
 0.000408 skifti<N><Neu> var<n><m>
 0.000407 land<N><Neu> grense<n><f>
@@ -16716,21 +15987,18 @@
 0.000400 ymiska<N><Fem> rett<n><m>
 0.000400 rættsinni<N><Neu> rett<n><m>
 0.000400 forhang<N><Neu> rett<n><m>
-0.000400 Esaias<N><Prop> rett<n><m>
 0.000399 veri<N><Msc> sinnelag<n><nt>
 0.000399 veri<N><Msc> langside<n><m>
 0.000399 veri<N><Msc> ekteskap<n><nt>
 0.000399 jørð<N><Fem> jorde<n><nt>
 0.000399 boð<N><Neu> mann<n><m>
 0.000398 altar#logi<N><Msc> alter<n><nt>
-0.000397 Sikem<N><Prop> ialphabet<n><m>
 0.000397 nytta<N><Fem> ialphabet<n><m>
 0.000397 náttar#dropi<N><Msc> natt<n><m>
 0.000397 møna<N><Fem> ialphabet<n><m>
 0.000397 lutur<N><Msc> *Sjalleket-port<n><m>
 0.000397 logg<N><Neu> ialphabet<n><m>
 0.000397 ljómi<N><Msc> ialphabet<n><m>
-0.000397 Kedar<N><Prop> ialphabet<n><m>
 0.000397 hugur<N><Msc> ialphabet<n><m>
 0.000397 geit<N><Fem> ialphabet<n><m>
 0.000397 garn<N><Neu> ialphabet<n><m>
@@ -16749,7 +16017,6 @@
 0.000392 stig<N><Neu> gang<n><m>
 0.000392 jørð<N><Fem> øye<n><nt>
 0.000392 hav<N><Neu> gang<n><m>
-0.000392 Doeg<N><Prop> gang<n><m>
 0.000391 banamaður<N><Msc> ansikt<n><nt>
 0.000390 tænastu#verk<N><Neu> tjeneste<n><m>
 0.000390 samkomu#fundur<N><Msc> menighet<n><m>
@@ -16797,11 +16064,8 @@
 0.000381 til<N><Neu> plank<n><m>
 0.000381 til<N><Neu> behag<n><nt>
 0.000381 lív<N><Neu> leveår<n><nt>
-0.000381 Hetta<N><Prop> så<n><m>
 0.000381 herði<N><Fem> så<n><m>
-0.000381 Gihon<N><Prop> så<n><m>
 0.000381 eydna<N><Fem> så<n><m>
-0.000381 Esaias<N><Prop> så<n><m>
 0.000380 skuld<N><Fem> kjærlighet<n><m>
 0.000379 sabbats#brennioffur<N><Neu> brennoffer<n><nt>
 0.000379 friður<N><Msc> lykke<n><f>
@@ -16829,10 +16093,8 @@
 0.000372 lóg<N><Fem> mose<n><m>
 0.000372 lóg<N><Fem> barm<n><m>
 0.000370 lívs#bók<N><Fem> liv<n><nt>
-0.000370 Jerúsalem<N><Prop> by<n><m>
 0.000370 horu#lív<N><Neu> liv<n><nt>
 0.000370 havi<N><Msc> skapning<n><m>
-0.000369 Høn<N><Prop> men<n><nt>
 0.000368 vegur<N><Msc> lei<n><f>
 0.000368 vegur<N><Msc> lede<n><m>
 0.000368 vegur<N><Msc> en<det><qnt><m><sg>-*Sjemesj-bekken<n><nt>
@@ -16877,7 +16139,6 @@
 0.000357 brennioffur<N><Neu> offerdyr<n><nt>
 0.000356 útsjónd<N><Fem> sted<n><nt>
 0.000356 mannfjøld<N><Fem> hær<n><m>
-0.000356 Josias<N><Prop> sted<n><nt>
 0.000356 avguda#tempul<N><Neu> tempel<n><nt>
 0.000355 skuld<N><Fem> fiende<n><m>
 0.000355 ørn<N><Fem> fiende<n><m>
@@ -16925,8 +16186,6 @@
 0.000341 hús#durur<N><Msc> hus<n><nt>
 0.000341 fedra#hús<N><Neu> hus<n><nt>
 0.000340 neyðardagur<N><Msc> tid<n><f>
-0.000340 Hetta<N><Prop> hånd<n><f>
-0.000340 Hetta<N><Prop> alter<n><nt>
 0.000340 eyga<N><Neu> tanke<n><m>
 0.000339 tá<N><Fem> mønster<n><nt>
 0.000339 tá<N><Fem> godlag<n><nt>
@@ -16935,10 +16194,7 @@
 0.000339 synd<N><Fem> årsak<n><m>
 0.000339 seli<N><Msc> ja<n><nt>
 0.000339 rómi<N><Msc> ja<n><nt>
-0.000339 Máur<N><Prop> ja<n><nt>
 0.000339 leys<N><Neu> ja<n><nt>
-0.000339 Harri<N><Prop> ja<n><nt>
-0.000339 Dagur<N><Prop> ja<n><nt>
 0.000338 sona#rættur<N><Msc> barn<n><nt>
 0.000338 maður<N><Msc> israelitt<n><m>
 0.000338 lend<N><Fem> barn<n><nt>
@@ -17019,7 +16275,6 @@
 0.000317 lív<N><Neu> skryt<n><nt>
 0.000317 innivist<N><Fem> hode<n><nt>
 0.000317 hús#durur<N><Msc> var<n><m>
-0.000317 Ellasar<N><Prop> konge<n><m>
 0.000317 afturvend<N><Fem> var<n><m>
 0.000317 ættarliður<N><Msc> var<n><m>
 0.000316 dimmalætting<N><Fem> morgen<n><m>
@@ -17085,11 +16340,8 @@
 0.000304 lívvaktar#portur<N><Neu> port<n><m>
 0.000304 hjarta<N><Neu> påfunn<n><nt>
 0.000303 hús#dyr<N><Fem> hus<n><nt>
-0.000303 Gud<N><Prop> hus<n><nt>
 0.000303 fíggindi<N><Msc> flom<n><m>
 0.000303 fíggindi<N><Msc> dødsfiende<n><m>
-0.000301 Juda<N><Prop> *Juda_ja<n><nt>
-0.000301 Juda<N><Prop> Josef<np><m>-sønn<n><m>
 0.000300 endurgjalds#ár<N><Neu> strid<n><m>
 0.000299 verður<N><Msc> opplæring<n><m>
 0.000299 kyn<N><Neu> folk<n><nt>
@@ -17136,7 +16388,6 @@
 0.000292 einki<N><Neu> gir<n><nt>
 0.000292 einki<N><Neu> aske<n><m>
 0.000291 skemdarverk<N><Neu> ting<n><nt>
-0.000290 Jóram<N><Prop> bror<n><m>
 0.000288 havi<N><Msc> eksempel<n><nt>
 0.000287 hav<N><Neu> løftestein<n><m>
 0.000287 eftirkomari<N><Msc> *Manasse-sønn<n><m>
@@ -17152,18 +16403,10 @@
 0.000285 Ísrael<N><Neu> Israel<np><top>-hær<n><m>
 0.000283 stað<N><Neu> land<n><nt>
 0.000283 lív<N><Neu> profet<n><m>
-0.000283 Hulda<N><Prop> profet<n><m>
-0.000283 Hetta<N><Prop> så<n><m>
-0.000283 Hetta<N><Prop> salve<n><m>
-0.000283 Hetta<N><Prop> kong<n><m>
-0.000283 Hetta<N><Prop> disse<n><m>
 0.000283 fólk<N><Neu> land<n><nt>
 0.000283 faðirsystir<N><Fem> far<n><m>
-0.000283 Esaias<N><Prop> profet<n><m>
 0.000283 dugnamaður<N><Msc> tusen<n><nt>
-0.000283 Dávid<N><Prop> kong<n><m>
 0.000283 bindi<N><Neu> profet<n><m>
-0.000283 Balak<N><Prop> kong<n><m>
 0.000282 menniskja#sál<N><Fem> menneske<n><nt>
 0.000282 longa<N><Fem> barn<n><nt>
 0.000282 konga#valdur<N><Msc> konge<n><m>
@@ -17172,7 +16415,6 @@
 0.000282 einkabarn<N><Neu> barn<n><nt>
 0.000282 breyt<N><Fem> ja<n><nt>
 0.000282 barn<N><Neu> menneske<n><nt>
-0.000282 Assur<N><Prop> ja<n><nt>
 0.000281 dagur<N><Msc> natt<n><f>
 0.000280 sál<N><Fem> hjerte<n><nt>
 0.000280 hjartadýpi<N><Neu> hjerte<n><nt>
@@ -17214,13 +16456,11 @@
 0.000272 støð<N><Fem> by<n><m>
 0.000272 longa<N><Fem> *Mea-tårn<n><nt>
 0.000272 lív<N><Neu> profet<n><m>
-0.000272 Harri<N><Prop> herr<n><m>_ja<n><nt>
 0.000271 leyvu#høvd<N><Neu> ild<n><m>
 0.000271 himmal<N><Msc> skylag<n><nt>
 0.000271 hand<N><Fem> tjener<n><m>
 0.000271 drongur<N><Msc> tjener<n><m>
 0.000270 verður<N><Msc> fattigdom<n><m>
-0.000270 Móses<N><Prop> svigerfar<n><m>
 0.000269 prýði<N><Neu> tid<n><m>
 0.000269 njóting<N><Fem> tid<n><m>
 0.000269 menta<N><Fem> tid<n><m>
@@ -17238,7 +16478,6 @@
 0.000267 dagur<N><Msc> arbeid<n><nt>
 0.000267 ásjón<N><Fem> nærvær<n><nt>
 0.000266 hjarta<N><Neu> harm<n><m>
-0.000266 Gud<N><Prop> herr<n><m>
 0.000264 vatns#ílat<N><Neu> vann<n><nt>
 0.000264 vatns#flóð<N><Fem> vann<n><nt>
 0.000264 vatns#djúp<N><Neu> vann<n><nt>
@@ -17286,13 +16525,11 @@
 0.000254 til<N><Neu> jordbruk<n><nt>
 0.000254 til<N><Neu> grushaug<n><m>
 0.000254 línklæði<N><Neu> så<n><m>
-0.000253 Gojim<N><Prop> konge<n><m>
 0.000252 navn<N><Neu> rope<vblex>-kilde<n><m>
 0.000252 navn<N><Neu> be<vblex>’al<n><nt>-navn<n><nt>
 0.000251 vørrur<N><Msc> ord<n><nt>
 0.000251 menniskja#likam<N><Neu> kropp<n><m>
 0.000251 hetta<N><Fem> ord<n><nt>
-0.000251 Gud<N><Prop> ord<n><nt>
 0.000251 einki<N><Neu> ord<n><nt>
 0.000251 ætt<N><Fem> *Levi-stam<n><m>
 0.000251 ætt<N><Fem> laug<n><nt>
@@ -17310,15 +16547,12 @@
 0.000248 vegloysi<N><Neu> vei<n><m>
 0.000248 valdur<N><Msc> hånd<n><m>
 0.000248 útvegur<N><Msc> vei<n><m>
-0.000248 Spania<N><Prop> vei<n><m>
-0.000248 Silla<N><Prop> vei<n><m>
 0.000248 mamma<N><Fem> vei<n><m>
 0.000248 lærari<N><Msc> vei<n><m>
 0.000248 grundvøllur<N><Msc> fjell<n><nt>
 0.000248 frelsa<N><Fem> vei<n><m>
 0.000248 dagur<N><Msc> vei<n><m>
 0.000248 blindi<N><Msc> vei<n><m>
-0.000247 Jerúsalem<N><Prop> bymur<n><m>
 0.000245 prís<N><Neu> herre<n><m>
 0.000244 oyðimørk<N><Fem> steppeland<n><nt>
 0.000244 land<N><Neu> trakt<n><m>
@@ -17330,9 +16564,6 @@
 0.000243 men<N><Fem> anklager<n><m>
 0.000243 kongasonur<N><Msc> kong<n><m>
 0.000243 hús<N><Neu> bygning<n><m>
-0.000243 Hetta<N><Prop> Israel<np><top>-sønn<n><m>
-0.000243 Hetta<N><Prop> hendelse<n><m>
-0.000243 Hetta<N><Prop> Benjamin<np><m>-mann<n><m>
 0.000243 gnagari<N><Msc> bud<n><nt>
 0.000243 foreldur<N><Neu> far<n><m>
 0.000243 einki<N><Neu> vett<n><nt>
@@ -17366,7 +16597,6 @@
 0.000237 heystartíð<N><Fem> sted<n><nt>
 0.000236 suður<N><Neu> land<n><nt>
 0.000236 lands#partur<N><Msc> land<n><nt>
-0.000236 Áron<N><Prop> kjøttstykke<n><nt>
 0.000235 lag<N><Neu> prest<n><m>
 0.000234 vatns#løkur<N><Msc> vann<n><nt>
 0.000234 vatns#kelda<N><Fem> vann<n><nt>
@@ -17417,9 +16647,7 @@
 0.000227 menniskja<N><Neu> onde<n><nt>
 0.000227 heim<N><Neu> hus<n><nt>
 0.000227 bústaður<N><Msc> hus<n><nt>
-0.000226 Saul<N><Prop> kong<n><m>
 0.000226 kongabók<N><Fem> kong<n><m>
-0.000226 Edom<N><Prop> kong<n><m>
 0.000225 oyðingar#fjall<N><Neu> fjell<n><nt>
 0.000225 menniskja#hjálp<N><Fem> menneske<n><nt>
 0.000224 strond<N><Fem> øye<n><nt>
@@ -17461,7 +16689,6 @@
 0.000216 bundi<N><Neu> liv<n><nt>
 0.000216 blóð<N><Neu> menneskeliv<n><nt>
 0.000215 tá<N><Fem> forsamling<n><m>
-0.000215 Juda<N><Prop> stamme<n><m>
 0.000215 býur<N><Msc> nei<n><nt>
 0.000215 býur<N><Msc> dal<n><m>
 0.000214 ráns#mannaflokkur<N><Msc> gutt<n><m>
@@ -17470,11 +16697,9 @@
 0.000214 barn<N><Neu> foster<n><nt>
 0.000213 sonur<N><Msc> far<n><nt>
 0.000213 menniskja<N><Fem> *class="*verse">menneske<n><nt>
-0.000213 Hetta<N><Prop> israelitt<n><m>
 0.000213 dóttir<N><Fem> *Sion-datter<n><m>
 0.000213 dóttir<N><Fem> *Sion-datter<n><f>
 0.000212 tænastukvinna<N><Fem> kvinne<n><m>
-0.000212 Obadja<N><Prop> vei<n><m>
 0.000212 misgerð<N><Fem> ja<n><nt>
 0.000212 lív<N><Neu> gjøremål<n><nt>
 0.000212 kvinnu#lystur<N><Msc> kvinne<n><m>
@@ -17482,8 +16707,6 @@
 0.000212 etur<N><Neu> far<n><m>
 0.000212 dreymur<N><Msc> ja<n><nt>
 0.000211 lærisveina#tunga<N><Fem> disippel<n><m>
-0.000211 Dávid<N><Prop> konge<n><m>
-0.000211 Akab<N><Prop> konge<n><m>
 0.000210 navn<N><Neu> liste<n><f>
 0.000209 hevndar#svørð<N><Neu> sverd<n><nt>
 0.000209 guda#andi<N><Msc> ånd<n><m>
@@ -17501,8 +16724,6 @@
 0.000204 nytta<N><Fem> herre<n><m>
 0.000204 menniskja<N><Neu> tale<n><m>
 0.000204 menniskja<N><Neu> gave<n><m>
-0.000204 Jerúsalem<N><Prop> by<n><m>
-0.000204 Harri<N><Prop> han<prn><p3><m><sg>_herre<n><m>
 0.000204 eyga<N><Neu> ytre<n><nt>
 0.000204 eyga<N><Neu> vold<n><m>
 0.000204 eyga<N><Neu> takk<n><f>
@@ -17511,7 +16732,6 @@
 0.000204 eyga<N><Neu> grav<n><m>
 0.000204 eyga<N><Neu> avgud<n><m>
 0.000204 biði<N><Neu> herre<n><m>
-0.000203 Móses<N><Prop> fett<n><nt>
 0.000203 land<N><Neu> utland<n><nt>
 0.000203 land<N><Neu> kant<n><m>
 0.000203 land<N><Neu> grense<n><m>
@@ -17520,7 +16740,6 @@
 0.000202 eysturland<N><Neu> land<n><nt>
 0.000202 dóms#tíð<N><Fem> tid<n><m>
 0.000202 brúdleyp<N><Neu> tid<n><m>
-0.000202 Amrafel<N><Prop> tid<n><m>
 0.000201 kona<N><Fem> *Etba’al<n><nt>
 0.000200 orð<N><Neu> profeti<n><m>
 0.000200 jørð<N><Fem> øye<n><nt>
@@ -17536,9 +16755,7 @@
 0.000196 kvinna<N><Fem> småbarn<n><nt>
 0.000196 høvdingi<N><Msc> *Jissakar-sønn<n><m>
 0.000195 sendimaður<N><Msc> bud<n><nt>
-0.000194 Sodoma<N><Prop> by<n><m>
 0.000194 moldgarður<N><Msc> fiende<n><m>
-0.000194 Jeriko<N><Prop> by<n><m>
 0.000193 ætt<N><Fem> stammehøvding<n><m>
 0.000192 dóttir<N><Fem> *Gallim-by<n><m>
 0.000191 tíð<N><Fem> levetid<n><m>
@@ -17556,10 +16773,6 @@
 0.000188 ráðgevari<N><Msc> ja<n><nt>
 0.000188 prædikari<N><Msc> ja<n><nt>
 0.000188 læra<N><Fem> ord<n><nt>
-0.000188 Kristi<N><Prop> navn<n><nt>
-0.000188 Justus<N><Prop> navn<n><nt>
-0.000188 Julius<N><Prop> navn<n><nt>
-0.000188 Jóhannes<N><Prop> navn<n><nt>
 0.000188 húsvætti<N><Neu> ja<n><nt>
 0.000188 fóra<N><Fem> ord<n><nt>
 0.000188 fólk<N><Neu> rest<n><m>
@@ -17584,7 +16797,6 @@
 0.000185 tann<N><Fem> regel<n><m>
 0.000185 tann<N><Fem> ordning<n><m>
 0.000185 stúran<N><Fem> liv<n><nt>
-0.000185 Pætur<N><Prop> men<n><nt>
 0.000185 lívsvatn<N><Neu> liv<n><nt>
 0.000185 lívsandi<N><Msc> liv<n><nt>
 0.000185 hús<N><Neu> stamme<n><m>
@@ -17603,7 +16815,6 @@
 0.000182 salur<N><Msc> hus<n><nt>
 0.000182 longa<N><Fem> *Sjemesj-kilde<n><m>
 0.000182 løða<N><Fem> hus<n><nt>
-0.000182 Elisa<N><Prop> hus<n><nt>
 0.000182 dugnamaður<N><Msc> mann<n><m>
 0.000181 kongs#alda<N><Fem> konge<n><m>
 0.000181 himmal<N><Msc> stjernehimmel<n><m>
@@ -17616,7 +16827,6 @@
 0.000177 svørð<N><Neu> jord<n><m>
 0.000177 sandur<N><Msc> land<n><nt>
 0.000177 óðal<N><Neu> jord<n><m>
-0.000177 Mark<N><Prop> land<n><nt>
 0.000177 koyril<N><Msc> jord<n><m>
 0.000177 hús<N><Neu> *Juda-folk<n><nt>
 0.000177 hjarta<N><Neu> verk<n><nt>
@@ -17635,7 +16845,6 @@
 0.000176 vísmaður<N><Msc> mann<n><m>
 0.000176 víngarðsmaður<N><Msc> så<n><m>
 0.000176 takkar#gildi<N><Neu> så<n><m>
-0.000176 Jesus<N><Prop> blod<n><nt>
 0.000176 fólk<N><Neu> folkemasse<n><m>
 0.000176 drongur<N><Msc> mann<n><m>
 0.000175 orð<N><Neu> vers<n><nt>
@@ -17662,17 +16871,12 @@
 0.000169 vissu#liga<N><Fem> ja<n><nt>
 0.000169 skyldmaður<N><Msc> ja<n><nt>
 0.000169 halgidómur<N><Msc> ja<n><nt>
-0.000168 Gud<N><Prop> tempel<n><nt>
 0.000167 lygitala<N><Fem> ord<n><nt>
-0.000167 Juda<N><Prop> villspor<n><nt>
 0.000164 vísi<N><Msc> mann<n><m>
 0.000164 dýrdar#navn<N><Neu> navn<n><nt>
 0.000164 dári<N><Msc> mann<n><m>
 0.000164 boð<N><Neu> mann<n><m>
 0.000164 blóð<N><Neu> mann<n><m>
-0.000163 Harri<N><Prop> ja<n><nt>
-0.000163 Harri<N><Prop> husk<n><m>
-0.000163 Harri<N><Prop> bry<n><nt>
 0.000162 trongdartíð<N><Fem> tid<n><m>
 0.000162 lívsdagur<N><Msc> liv<n><nt>
 0.000162 kongs#hall<N><Fem> kong<n><m>
@@ -17697,7 +16901,6 @@
 0.000159 tann<N><Fem> gjerning<n><f>
 0.000159 munnbiti<N><Msc> os<n><nt>
 0.000157 roknskapur<N><Msc> gang<n><m>
-0.000155 Dávid<N><Prop> konge<n><m>
 0.000154 trettanda<N><Fem> dag<n><m>
 0.000154 stund<N><Fem> dag<n><m>
 0.000154 neyðardagur<N><Msc> dag<n><m>
@@ -17741,7 +16944,6 @@
 0.000149 barn<N><Neu> evangelium<n><nt>
 0.000149 ár<N><Neu> årsskifte<n><nt>
 0.000148 selur<N><Msc> jord<n><m>
-0.000148 Hetta<N><Prop> israelitt<n><m>
 0.000147 útlegdar#tíð<N><Fem> tid<n><m>
 0.000147 fyrndar#tíð<N><Fem> tid<n><m>
 0.000146 staður<N><Msc> *Kjeveben-haug<n><m>
@@ -17774,10 +16976,6 @@
 0.000141 menniskja#sáð<N><Fem> menneske<n><nt>
 0.000141 menniskja#eyga<N><Neu> menneske<n><nt>
 0.000141 kýli<N><Neu> kong<n><m>
-0.000141 Krist<N><Prop> far<n><m>
-0.000141 Kaldea<N><Prop> land<n><nt>
-0.000141 Jósafat<N><Prop> far<n><m>
-0.000141 Gud<N><Prop> herr<n><m>
 0.000141 gras<N><Neu> menneske<n><nt>
 0.000141 deyði<N><Msc> menneske<n><nt>
 0.000141 bloti<N><Msc> land<n><nt>
@@ -17793,7 +16991,6 @@
 0.000139 tann<N><Fem> *Aven-dal<n><m>
 0.000139 ætt<N><Fem> Benjamin<np><m>-stam<n><m>
 0.000138 tind<N><Fem> men<n><nt>
-0.000138 Ráð<N><Prop><Neu> men<n><nt>
 0.000138 bróðirir<N><Msc> våpenbror<n><m>
 0.000138 bróðirir<N><Msc> kamerat<n><m>
 0.000138 bið<N><Neu> men<n><nt>
@@ -17802,7 +16999,6 @@
 0.000137 unglingur<N><Msc> mann<n><m>
 0.000137 sendimaður<N><Msc> mann<n><m>
 0.000137 pant<N><Neu> mann<n><m>
-0.000137 Juda<N><Prop> signetring<n><m>
 0.000137 fall<N><Neu> *Sjalleket-port<n><m>
 0.000136 tænastukvinna<N><Fem> tjener<n><m>
 0.000136 skóg<N><Fem> by<n><m>
@@ -17817,7 +17013,6 @@
 0.000135 slóðbrótari<N><Msc> vei<n><m>
 0.000135 olju#fjall<N><Neu> vei<n><m>
 0.000135 offurknívur<N><Msc> hånd<n><m>
-0.000135 Móses<N><Prop> *class="*verse">mose<n><m>
 0.000135 lyftis#orð<N><Neu> år<n><nt>
 0.000135 hungursneyð<N><Fem> tid<n><m>
 0.000135 frelsu#vegur<N><Msc> vei<n><m>
@@ -17836,8 +17031,6 @@
 0.000132 lívsdagur<N><Msc> dag<n><m>
 0.000131 vegur<N><Msc> *Sjalleket-port<n><m>
 0.000131 hond<N><Fem> ansvar<n><nt>
-0.000131 Gideon<N><Prop> israelitt<n><m>
-0.000131 Aven<N><Prop> israelitt<n><m>
 0.000130 sýnagogu#stjóri<N><Msc> hus<n><nt>
 0.000130 sleppa<N><Fem> hus<n><nt>
 0.000130 hús<N><Neu> stue<n><m>
@@ -17919,8 +17112,6 @@
 0.000117 orð<N><Neu> kogger<n><nt>
 0.000117 fólk<N><Neu> slå<n><f>
 0.000117 fólk<N><Neu> følge<n><nt>
-0.000117 Fer<N><Prop> gud<n><m>
-0.000116 Dávid<N><Prop> husstand<n><m>
 0.000115 sól<N><Fem> dag<n><m>
 0.000115 ró<N><Fem> dag<n><m>
 0.000115 hond<N><Fem> overmann<n><m>
@@ -17934,7 +17125,6 @@
 0.000113 vangi<N><Msc> by<n><m>
 0.000113 útlendingur<N><Msc> menneske<n><nt>
 0.000113 tankaloysi<N><Neu> menneske<n><nt>
-0.000113 Susan<N><Prop> by<n><m>
 0.000113 skuld<N><Fem> by<n><m>
 0.000113 reiv<N><Neu> kong<n><m>
 0.000113 oyðing<N><Fem> by<n><m>
@@ -17943,8 +17133,6 @@
 0.000113 kappi<N><Msc> by<n><m>
 0.000113 fólkateljing<N><Fem> kong<n><m>
 0.000113 bræv<N><Neu> kong<n><m>
-0.000113 Allan<N><Prop> by<n><m>
-0.000113 Akab<N><Prop> kong<n><m>
 0.000112 tíð<N><Fem> landdistrikt<n><nt>
 0.000112 misgerðar#ár<N><Neu> år<n><nt>
 0.000112 menniskja#likam<N><Neu> ånd<n><m>
@@ -17954,8 +17142,6 @@
 0.000111 móti<N><Msc> *Sjalleket-port<n><m>
 0.000111 maður<N><Msc> men<n><nt>
 0.000111 kongasonur<N><Msc> herre<n><m>
-0.000111 Jefta<N><Prop> men<n><nt>
-0.000111 Harrar<N><Prop> herr<n><m>
 0.000111 blak<N><Neu> men<n><nt>
 0.000110 silvursmiður<N><Msc> navn<n><nt>
 0.000109 maður<N><Msc> mann<n><m>_nei<n><nt>
@@ -17969,7 +17155,6 @@
 0.000108 hús<N><Neu> husbond<n><m>
 0.000108 freistingar#stund<N><Fem> tid<n><m>
 0.000107 trælaarbeiði<N><Neu> israelitt<n><m>
-0.000107 Perez<N><Prop> sønn<n><m>
 0.000107 kongasonur<N><Msc> sønn<n><m>
 0.000107 ísraelsmaður<N><Msc> sønn<n><m>
 0.000107 íbúgvi<N><Msc> folk<n><nt>
@@ -18011,7 +17196,6 @@
 0.000094 menniskja#vaktari<N><Msc> menneske<n><nt>
 0.000094 maður<N><Msc> kong<n><m>
 0.000094 kongaríki<N><Neu> kong<n><m>
-0.000094 Hetta<N><Prop> kong<n><m>
 0.000094 fólk<N><Neu> syke<n><m>
 0.000094 fólk<N><Neu> svar<n><nt>
 0.000094 fólk<N><Neu> høst<n><m>
@@ -18032,15 +17216,12 @@
 0.000092 neyð<N><Fem><Indef><Cmpnd> dag<n><m>
 0.000092 misgerð<N><Fem> men<n><nt>
 0.000092 kongur<N><Msc> men<n><nt>
-0.000092 Judas<N><Prop> men<n><nt>
-0.000092 Festus<N><Prop> men<n><nt>
 0.000092 eingil<N><Msc> men<n><nt>
 0.000091 kongs#høll<N><Fem> hus<n><nt>
 0.000091 boð<N><Neu> *Ebal-fjell<n><nt>
 0.000090 býur<N><Msc> *Merari-sønn<n><m>
 0.000090 ætt<N><Fem> *Jissakar-stam<n><m>
 0.000089 markaskjal<N><Neu> jord<n><m>
-0.000089 Hanna<N><Prop> herr<n><m>
 0.000089 fagnaðarár<N><Neu> jord<n><m>
 0.000088 tænastukvinna<N><Fem> herre<n><m>
 0.000088 orð<N><Neu> setning<n><m>
@@ -18061,7 +17242,6 @@
 0.000087 land<N><Neu> Galilea<np><top>-område<n><nt>
 0.000085 uppreistrar#býur<N><Msc> by<n><m>
 0.000085 sjógvur<N><Msc> by<n><m>
-0.000085 Samaria<N><Prop> by<n><m>
 0.000085 pápabeiggi<N><Msc> far<n><m>
 0.000085 kongur<N><Msc> dommer<n><m>
 0.000085 kongur<N><Msc> *Basan-kong<n><m>
@@ -18092,17 +17272,11 @@
 0.000081 kongs#fólk<N><Neu> kong<n><m>
 0.000081 hús<N><Neu> nabolag<n><nt>
 0.000080 sonur<N><Msc> *Levi-sønn<n><m>
-0.000080 Sem<N><Prop> sønn<n><m>
-0.000080 Sala<N><Prop> sønn<n><m>
 0.000080 jørð<N><Fem> styresmann<n><m>
 0.000080 grundvøllur<N><Msc> jord<n><m>
 0.000079 tíðindi<N><Neu> men<n><nt>
-0.000079 Pinehas<N><Prop> men<n><nt>
 0.000079 menniskja#kærleiki<N><Msc> os<n><nt>
 0.000079 høvdingur<N><Msc> land<n><nt>
-0.000079 Gud<N><Prop> ord<n><nt>
-0.000079 Gud<N><Prop> hus<n><nt>
-0.000079 Gud<N><Prop> herre<n><m>
 0.000079 endamál<N><Neu> men<n><nt>
 0.000079 deyðatøgn<N><Fem> land<n><nt>
 0.000078 tokki<N><Msc> gud<n><m>
@@ -18117,10 +17291,8 @@
 0.000078 dagur<N><Msc> handel<n><m>
 0.000078 atgongd<N><Fem> gud<n><m>
 0.000078 altar<N><Neu> gud<n><m>
-0.000077 Josias<N><Prop> dag<n><m>
 0.000077 hendi<N><Neu> dag<n><m>
 0.000077 faðirbróðirir<N><Msc> far<n><m>
-0.000077 Elisa<N><Prop> dag<n><m>
 0.000077 daga#mál<N><Neu> dag<n><m>
 0.000076 óforgeingiligleiki<N><Msc> liv<n><nt>
 0.000076 land<N><Neu> nybrott<n><nt>
@@ -18139,7 +17311,6 @@
 0.000075 heili<N><Msc> folk<n><nt>
 0.000075 guda#mynd<N><Fem> by<n><m>
 0.000075 fyrndar#orð<N><Neu> ord<n><nt>
-0.000075 Damaskus<N><Prop> by<n><m>
 0.000075 arvi<N><Msc> folk<n><nt>
 0.000072 maður<N><Msc> vise<n><f>
 0.000072 maður<N><Msc> urett<n><m>
@@ -18157,7 +17328,6 @@
 0.000071 kongur<N><Msc> medium<n><nt>
 0.000071 kongur<N><Msc> kongsmann<n><m>
 0.000071 kongur<N><Msc> kjempe<n><m>
-0.000071 Jósafat<N><Prop> kong<n><m>
 0.000071 boð<N><Neu> *Kedemot-ørken<n><m>
 0.000069 ísraelsmaður<N><Msc> *class="*verse">israelitt<n><m>
 0.000069 høvdingi<N><Msc> men<n><nt>
@@ -18171,9 +17341,7 @@
 0.000068 loysa<N><Fem> mann<n><m>
 0.000068 lítli<N><Msc> mann<n><m>
 0.000068 land<N><Neu> styresmann<n><m>
-0.000068 Hulda<N><Prop> mann<n><m>
 0.000068 høvdingur<N><Msc> by<n><m>
-0.000068 Gebal<N><Prop> mann<n><m>
 0.000068 brynja<N><Fem> mann<n><m>
 0.000068 bands#longd<N><Fem> folk<n><nt>
 0.000068 akurlendi<N><Neu> by<n><m>
@@ -18187,29 +17355,18 @@
 0.000067 dagur<N><Msc> festdag<n><m>
 0.000066 snerra<N><Fem> dag<n><m>
 0.000065 leigu#herbergi<N><Neu> hus<n><nt>
-0.000065 Juda<N><Prop> *class="*verse">*Juda-kong<n><m>
 0.000064 tari<N><Msc> sønn<n><m>
-0.000064 Serug<N><Prop> sønn<n><m>
 0.000064 orð<N><Neu> *Ruben-sønn<n><m>
 0.000064 hjálparmaður<N><Msc> land<n><nt>
-0.000064 Het<N><Prop> sønn<n><m>
 0.000064 friðar#heim<N><Neu> land<n><nt>
-0.000064 Eber<N><Prop> sønn<n><m>
-0.000064 Boas<N><Prop> sønn<n><m>
-0.000064 Asaf<N><Prop> sønn<n><m>
 0.000063 hermaður<N><Msc> kong<n><m>
 0.000062 vís#dómur<N><Msc> men<n><nt>
-0.000062 Sodoma<N><Prop> folk<n><nt>
 0.000062 óskil<N><Neu> folk<n><nt>
 0.000062 maður<N><Msc> sjømann<n><m>
 0.000062 maður<N><Msc> kommando<n><m>
 0.000062 maður<N><Msc> Israel<np><top>-mann<n><m>
 0.000062 maður<N><Msc> fiende<n><m>
 0.000062 leikur<N><Msc> folk<n><nt>
-0.000062 Karan<N><Prop> folk<n><nt>
-0.000062 Javan<N><Prop> folk<n><nt>
-0.000062 Gerar<N><Prop> folk<n><nt>
-0.000062 Dedan<N><Prop> folk<n><nt>
 0.000062 býar#stjóri<N><Msc> by<n><m>
 0.000062 bølmyrkur<N><Neu> men<n><nt>
 0.000061 land<N><Neu> kyststrøk<n><nt>
@@ -18225,8 +17382,6 @@
 0.000059 kokkur<N><Msc> mann<n><m>
 0.000059 hús<N><Neu> hemmelighet<n><f>
 0.000059 hjákona<N><Fem> mann<n><m>
-0.000059 Gud<N><Prop> sel<n><nt>
-0.000059 Gud<N><Prop> nei<n><nt>
 0.000059 gripur<N><Msc> mann<n><m>
 0.000059 fólk<N><Neu> folkeskare<n><m>
 0.000059 fólk<N><Neu> eiendom<n><m>
@@ -18255,16 +17410,12 @@
 0.000053 sonur<N><Msc> dans<n><m>
 0.000053 samtala<N><Fem> folk<n><nt>
 0.000053 runnur<N><Msc> folk<n><nt>
-0.000053 Peleg<N><Prop> sønn<n><m>
 0.000053 ósemja<N><Fem> sønn<n><m>
 0.000053 ognarfólk<N><Neu> folk<n><nt>
-0.000053 Jobab<N><Prop> sønn<n><m>
-0.000053 Ísakur<N><Prop> sønn<n><m>
 0.000053 hannur<N><Msc> folk<n><nt>
 0.000053 drongur<N><Msc> folk<n><nt>
 0.000053 dóttir<N><Fem> folk<n><nt>
 0.000053 dómari<N><Msc> folk<n><nt>
-0.000053 Bilha<N><Prop> sønn<n><m>
 0.000053 ábyrgd<N><Fem> folk<n><nt>
 0.000052 viðurstygd<N><Fem> gud<n><m>
 0.000052 sinnalag<N><Neu> gud<n><m>
@@ -18296,9 +17447,6 @@
 0.000047 landshøvdingi<N><Msc> kong<n><m>
 0.000047 land<N><Neu> *Tyros-område<n><nt>
 0.000047 høvuðsmaður<N><Msc> kong<n><m>
-0.000047 Gud<N><Prop> reis<n><nt>
-0.000047 Gud<N><Prop> gudshus<n><nt>
-0.000047 Gud<N><Prop> engel<n><m>
 0.000047 dótturmaður<N><Msc> kong<n><m>
 0.000047 avgudur<N><Msc> folk<n><nt>
 0.000046 spitalska<N><Fem> mann<n><m>
@@ -18313,7 +17461,6 @@
 0.000046 eysturland<N><Neu> mann<n><m>
 0.000046 edilingur<N><Msc> mann<n><m>
 0.000046 drongur<N><Msc> sønn<n><m>
-0.000046 Aleksander<N><Prop> mann<n><m>
 0.000044 sonur<N><Msc> vilt<n><nt>
 0.000044 sonur<N><Msc> *Itamar-sønn<n><m>
 0.000044 sonur<N><Msc> ed<n><m>
@@ -18342,8 +17489,6 @@
 0.000040 offurheyggjur<N><Msc> herr<n><m>
 0.000040 maður<N><Msc> hemmelighet<n><f>
 0.000040 maður<N><Msc> arbeidsdag<n><m>
-0.000039 Gud<N><Prop> uorden<n><m>
-0.000039 Gud<N><Prop> still<n><nt>
 0.000039 guda#vís#dómur<N><Msc> gud<n><m>
 0.000039 flugu#flokkur<N><Msc> gud<n><m>
 0.000039 dagur<N><Msc> regjeringstid<n><m>
@@ -18365,8 +17510,6 @@
 0.000036 kongur<N><Msc> *assyrer-kong<n><m>
 0.000034 ognar#tjóð<N><Fem> folk<n><nt>
 0.000034 hunda#peningur<N><Msc> mann<n><m>
-0.000034 Gud<N><Prop> varsel<n><nt>
-0.000034 Gud<N><Prop> streng<n><m>
 0.000034 gudloysingur<N><Msc> mann<n><m>
 0.000034 fornaldar#fólk<N><Neu> folk<n><nt>
 0.000033 sonur<N><Msc> søskenbarn<n><nt>
@@ -18393,7 +17536,6 @@
 0.000024 sonur<N><Msc> *Hebron-sønn<n><m>
 0.000024 sonur<N><Msc> *Asjer-sønn<n><m>
 0.000024 profeta#lærisveinur<N><Msc> dag<n><m>
-0.000024 Gud<N><Prop> gudstjeneste<n><m>
 0.000022 sonur<N><Msc> *Ussiel-sønn<n><m>
 0.000022 sonur<N><Msc> *Jaflet-sønn<n><m>
 0.000022 sonur<N><Msc> *Gersjom-sønn<n><m>
