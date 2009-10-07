@@ -1,1 +1,13 @@
 * text=auto !eol
+dev/bidix/adj.list -text
+dev/bidix/adj.scored.list -text
+dev/bidix/adv.list -text
+dev/bidix/adv.scored.list -text
+dev/bidix/calc-levenshtein.py -text
+dev/bidix/noun.list -text
+dev/bidix/noun.scored.list -text
+dev/bidix/prep.list -text
+dev/bidix/prep.scored.list -text
+dev/bidix/rerun-scores.sh -text
+dev/bidix/vblex.list -text
+dev/bidix/vblex.scored.list -text
