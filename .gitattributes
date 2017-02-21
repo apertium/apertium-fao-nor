@@ -10,10 +10,10 @@
 /apertium-fao-nor.fao-nob.t2x -text
 /apertium-fao-nor.fao-nob.t3x -text
 /apertium-fao-nor.fao-nor.dix -text
+/apertium-fao-nor.nob-fao.lrx -text
 /apertium-fao-nor.nob-fao.t1x -text
 /apertium-fao-nor.nob-fao.t2x -text
 /apertium-fao-nor.nob-fao.t3x -text
-/apertium-fao-nor.nor-fao.lrx -text
 /autogen.sh -text
 /configure.ac -text
 dev/bidix/adj.list -text

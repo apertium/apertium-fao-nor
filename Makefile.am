@@ -30,7 +30,7 @@ TARGETS_COMMON =		\
 	$(PREFIX2b).rlx.bin	\
 	$(PREFIX2b).autobil.bin	\
 	$(PREFIX2b).autolex.bin	\
-	$(PREFIX2b).autogen.bin	\
+	$(PREFIX2).autogen.hfst	\
 	$(PREFIX2b).t1x.bin	\
 	$(PREFIX2b).t2x.bin	\
 	$(PREFIX2b).t3x.bin
@@ -80,21 +80,31 @@ $(PREFIX2).autogen.hfst: .deps/$(LANG1).autogen.hfst
 # Norwegian analysis:
 # -------------------
 
-$(PREFIX2).automorf.bin: $(AP_SRC2)/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
+$(PREFIX2n).automorf.bin: $(AP_SRC2n)/$(LANG2n).automorf.bin $(PREFIX2n).autobil.bin
+	lt-trim $^ $@
+
+$(PREFIX2b).automorf.bin: $(AP_SRC2b)/$(LANG2b).automorf.bin $(PREFIX2b).autobil.bin
 	lt-trim $^ $@
 
 # -------------------
 # Norwegian generation:
 # ---------------------
 
-$(PREFIX1).autogen.bin: $(AP_SRC2)/$(LANG2).autogen.bin
+$(PREFIX1b).autogen.bin: $(AP_SRC2b)/$(LANG2b).autogen.bin
 	cp $< $@
+
+$(PREFIX1n).autogen.bin: $(AP_SRC2n)/$(LANG2n).autogen.bin
+	cp $< $@
+
 
 ###############################################################################
 ## Tagger models
 ###############################################################################
 
-$(PREFIX2).prob: $(AP_SRC2)/$(LANG2).prob
+$(PREFIX2n).prob: $(AP_SRC2n)/$(LANG2n).prob
+	cp $< $@
+
+$(PREFIX2b).prob: $(AP_SRC2b)/$(LANG2b).prob
 	cp $< $@
 
 ###############################################################################
@@ -104,7 +114,10 @@ $(PREFIX2).prob: $(AP_SRC2)/$(LANG2).prob
 $(PREFIX1).rlx.bin: $(AP_SRC1)/$(LANG1).mor.rlx.bin
 	cp $< $@
 
-$(PREFIX2).rlx.bin: $(AP_SRC2)/apertium-$(LANG2).$(LANG2).rlx
+$(PREFIX2n).rlx.bin: $(AP_SRC2n)/apertium-$(LANG2n).$(LANG2n).rlx
+	cg-comp $< $@
+
+$(PREFIX2b).rlx.bin: $(AP_SRC2b)/apertium-$(LANG2b).$(LANG2b).rlx
 	cg-comp $< $@
 
 ###############################################################################
@@ -119,7 +132,11 @@ $(PREFIX1n).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $<
 	lt-comp --var-right=nno lr $< $@
 
-$(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
+$(PREFIX2n).autobil.bin: $(BASENAME).$(PREFIX1).dix
+	apertium-validate-dictionary $<
+	lt-comp rl $< $@
+
+$(PREFIX2b).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $<
 	lt-comp rl $< $@
 
@@ -127,10 +144,16 @@ $(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
 ## Lexical selection rules
 ###############################################################################
 
-$(PREFIX1).autolex.bin: $(BASENAME).$(PREFIX1).lrx
+$(PREFIX1n).autolex.bin: $(BASENAME).$(PREFIX1n).lrx
 	lrx-comp $< $@
 
-$(PREFIX2).autolex.bin: $(BASENAME).$(PREFIX2).lrx
+$(PREFIX1b).autolex.bin: $(BASENAME).$(PREFIX1b).lrx
+	lrx-comp $< $@
+
+$(PREFIX2n).autolex.bin: $(BASENAME).$(PREFIX2n).lrx
+	lrx-comp $< $@
+
+$(PREFIX2b).autolex.bin: $(BASENAME).$(PREFIX2b).lrx
 	lrx-comp $< $@
 
 ###############################################################################
@@ -204,9 +227,9 @@ EXTRA_DIST=					\
 		$(BASENAME).$(PREFIX1).lrx	\
 		$(BASENAME).$(PREFIX1).dix	\
 		$(BASENAME).$(PREFIX2).lrx	\
-		$(BASENAME).$(PREFIX1).t1x	\
-		$(BASENAME).$(PREFIX1).t2x	\
-		$(BASENAME).$(PREFIX1).t3x	\
+		$(BASENAME).$(PREFIX1b).t1x	\
+		$(BASENAME).$(PREFIX1b).t2x	\
+		$(BASENAME).$(PREFIX1b).t3x	\
 		$(BASENAME).$(PREFIX2).t1x	\
 		$(BASENAME).$(PREFIX2).t2x	\
 		$(BASENAME).$(PREFIX2).t3x	\

@@ -9,12 +9,16 @@
     <sdef n="sg"    c="Singular"/>
     <sdef n="pl"    c="Plural"/>
     <sdef n="m"    c="Masculine"/>
+    <sdef n="sent"    c=""/>
+    <sdef n="clb"    c=""/>
   </sdefs>
 
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
 <e vr="nob"><p><l>týsdagur<s n="n"/><s n="m"/></l>	<r>tirsdag<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>týsdagur<s n="n"/><s n="m"/></l>	<r>tysdag<s n="n"/><s n="m"/></r></p></e>
+
+<e><re>[.\?;:!·…]+</re><p><l><s n="sent"/></l><r><s n="sent"/><s n="clb"/></r></p></e>
 
    </section>
 </dictionary>
