@@ -8,11 +8,14 @@
     <sdef n="n"     c="Noun"/>
     <sdef n="sg"    c="Singular"/>
     <sdef n="pl"    c="Plural"/>
+    <sdef n="m"    c="Masculine"/>
   </sdefs>
 
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
-      <e><p><l>house<s n="n"/><s n="sg"/></l><r>house<s n="n"/><s n="sg"/></r></p></e>
+<e vr="nob"><p><l>týsdagur<s n="n"/><s n="m"/></l>	<r>tirsdag<s n="n"/><s n="m"/></r></p></e>
+<e vr="nno"><p><l>týsdagur<s n="n"/><s n="m"/></l>	<r>tysdag<s n="n"/><s n="m"/></r></p></e>
+
    </section>
 </dictionary>
 

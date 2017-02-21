@@ -17,8 +17,7 @@ PREFIX2b=$(LANG2b)-$(LANG1)
 BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON =		\
-	$(PREFIX1b).automorf.bin	\
-	$(PREFIX1).prob		\
+	$(PREFIX1b).automorf.hfst \
 	$(PREFIX1).rlx.bin	\
 	$(PREFIX1b).autobil.bin	\
 	$(PREFIX1b).autolex.bin	\
@@ -48,29 +47,23 @@ TARGETS_COMMON =		\
 # Faroese analysis:
 # -------------------
 
-.deps/$(PREFIX1).autobil.prefixes: $(PREFIX1).autobil.bin .deps/.d
-	lt-print $(PREFIX1).autobil.bin | sed 's/ /@_SPACE_@/g' > .deps/$(PREFIX1).autobil.att
-	hfst-txt2fst -e ε <  .deps/$(PREFIX1).autobil.att > .deps/$(PREFIX1).autobil.hfst
-	hfst-project -p upper .deps/$(PREFIX1).autobil.hfst > .deps/$(PREFIX1).autobil.upper
+.deps/$(PREFIX1b).autobil.prefixes: $(PREFIX1b).autobil.bin .deps/.d
+	lt-print $(PREFIX1b).autobil.bin | sed 's/ /@_SPACE_@/g' > .deps/$(PREFIX1b).autobil.att
+	hfst-txt2fst -e ε <  .deps/$(PREFIX1b).autobil.att > .deps/$(PREFIX1b).autobil.hfst
+	hfst-project -p upper .deps/$(PREFIX1b).autobil.hfst > .deps/$(PREFIX1b).autobil.upper
 	echo " ?* " | hfst-regexp2fst > .deps/any-symbol.hfst
-	hfst-concatenate -1 .deps/$(PREFIX1).autobil.upper -2 .deps/any-symbol.hfst -o .deps/$(PREFIX1).autobil.prefixes
-
-$(PREFIX1).automorf.bin: $(AP_SRC1)/$(LANG1).automorf.att.gz .deps/$(PREFIX1).autobil.prefixes .deps/.d
-	$(ZCAT) $< | hfst-txt2fst > .deps/$(LANG1).automorf.hfst
-	hfst-compose-intersect -1 .deps/$(LANG1).automorf.hfst -2 .deps/$(PREFIX1).autobil.prefixes -o .deps/$(PREFIX1).automorf.trimmed
-	hfst-fst2txt -i .deps/$(PREFIX1).automorf.trimmed -o .deps/$(PREFIX1).automorf.trimmed.att
-	lt-comp lr .deps/$(PREFIX1).automorf.trimmed.att $@
+	hfst-concatenate -1 .deps/$(PREFIX1b).autobil.upper -2 .deps/any-symbol.hfst -o .deps/$(PREFIX1b).autobil.prefixes
 
 .deps/$(LANG1).automorf.hfst: $(AP_SRC1)/apertium-und.$(LANG1)-und.LR.att.gz .deps/.d
 	$(ZCAT) $< | hfst-txt2fst > $@
 
-.deps/$(PREFIX1).automorf-trimmed.hfst: .deps/$(LANG1).automorf.hfst .deps/$(PREFIX1).autobil.prefixes
-	hfst-compose-intersect -1 $< -2 .deps/$(PREFIX1).autobil.prefixes -o $@
+.deps/$(PREFIX1b).automorf-trimmed.hfst: .deps/$(LANG1).automorf.hfst .deps/$(PREFIX1b).autobil.prefixes
+	hfst-compose-intersect -1 $< -2 .deps/$(PREFIX1b).autobil.prefixes -o $@
 
-$(PREFIX1).automorf.hfst: .deps/$(PREFIX1).automorf-trimmed.hfst
+$(PREFIX1b).automorf.hfst: .deps/$(PREFIX1b).automorf-trimmed.hfst
 	hfst-fst2fst -w -i $< -o $@
 
-$(PREFIX1).automorf-untrimmed.hfst: .deps/$(LANG1).automorf.hfst
+$(PREFIX1b).automorf-untrimmed.hfst: .deps/$(LANG1).automorf.hfst
 	hfst-fst2fst -w -i $< -o $@
 
 # -------------------
@@ -101,9 +94,6 @@ $(PREFIX1).autogen.bin: $(AP_SRC2)/$(LANG2).autogen.bin
 ## Tagger models
 ###############################################################################
 
-$(PREFIX1).prob: $(AP_SRC1)/$(LANG1).prob
-	cp $< $@
-
 $(PREFIX2).prob: $(AP_SRC2)/$(LANG2).prob
 	cp $< $@
 
@@ -111,8 +101,8 @@ $(PREFIX2).prob: $(AP_SRC2)/$(LANG2).prob
 ## Disambiguation rules
 ###############################################################################
 
-$(PREFIX1).rlx.bin: $(AP_SRC1)/apertium-$(LANG1).$(LANG1).rlx
-	cg-comp $< $@
+$(PREFIX1).rlx.bin: $(AP_SRC1)/$(LANG1).mor.rlx.bin
+	cp $< $@
 
 $(PREFIX2).rlx.bin: $(AP_SRC2)/apertium-$(LANG2).$(LANG2).rlx
 	cg-comp $< $@
@@ -121,9 +111,13 @@ $(PREFIX2).rlx.bin: $(AP_SRC2)/apertium-$(LANG2).$(LANG2).rlx
 ## Bilingual dictionaries
 ###############################################################################
 
-$(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
+$(PREFIX1b).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $<
-	lt-comp lr $< $@
+	lt-comp --var-right=nob lr $< $@
+
+$(PREFIX1n).autobil.bin: $(BASENAME).$(PREFIX1).dix
+	apertium-validate-dictionary $<
+	lt-comp --var-right=nno lr $< $@
 
 $(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $<
