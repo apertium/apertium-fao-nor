@@ -3,7 +3,7 @@
 
   <!-- fao → nor -->
 
-  <mode name="fao-nob" install="yes">
+  <mode name="fao-nob" install="yes" gendebug="yes">
     <pipeline>
       <program name="hfst-proc -w">
         <file name="fao-nob.automorf.hfst"/>
@@ -33,91 +33,10 @@
       <program name="lt-proc $1">
         <file name="fao-nob.autogen.bin"/>
       </program>
-
     </pipeline>
   </mode>
 
-  <mode name="fao-nor-dgen" install="no">
-    <pipeline>
-      <program name="hfst-proc -w">
-        <file name="fao-nor.automorf.hfst"/>
-      </program>
-
-
-      <program name="cg-proc -w">
-        <file name="fao-nor.rlx.bin"/>
-      </program>
-      <program name="apertium-tagger -g $2">
-        <file name="fao-nor.prob"/>
-      </program>
-      <program name="apertium-pretransfer"/>
-      <program name="lt-proc -b">
-        <file name="fao-nor.autobil.bin"/>
-      </program>
-      <program name="apertium-transfer -b">
-        <file name="apertium-fao-nor.fao-nor.t1x"/>
-        <file name="fao-nor.t1x.bin"/>
-      </program>
-      <program name="apertium-interchunk">
-        <file name="apertium-fao-nor.fao-nor.t2x"/>
-        <file name="fao-nor.t2x.bin"/>
-      </program>
-      <program name="apertium-postchunk">
-        <file name="apertium-fao-nor.fao-nor.t3x"/>
-        <file name="fao-nor.t3x.bin"/>
-      </program>
-      <program name="lt-proc -d">
-        <file name="fao-nor.autogen.bin"/>
-      </program>
-    </pipeline>
-  </mode>
-
-  <mode name="fao-nob-morph" install="no">
-    <pipeline>
-      <program name="hfst-proc -w">
-        <file name="fao-nob.automorf.hfst"/>
-      </program>
-    </pipeline>
-  </mode>
-
-  <mode name="fao-nob-disam" install="no">
-    <pipeline>
-      <program name="hfst-proc -w">
-        <file name="fao-nob.automorf.hfst"/>
-      </program>
-      <program name="cg-conv -a"/>
-      <program name="vislcg3 --trace --grammar">
-        <file name="fao-nor.rlx.bin"/>
-      </program>
-    </pipeline>
-  </mode>
-
-  <mode name="fao-nob-tagger" install="no">
-    <pipeline>
-      <program name="hfst-proc -w">
-        <file name="fao-nob.automorf.hfst"/>
-      </program>
-
-
-      <program name="cg-proc -w -1 -n">
-        <file name="fao-nor.rlx.bin"/>
-      </program>
-    </pipeline>
-  </mode>
-
-  <mode name="fao-nob-pretransfer" install="no">
-    <pipeline>
-      <program name="hfst-proc -w">
-        <file name="fao-nob.automorf.hfst"/>
-      </program>
-      <program name="cg-proc -w -1 -n">
-        <file name="fao-nor.rlx.bin"/>
-      </program>
-      <program name="apertium-pretransfer"/>
-    </pipeline>
-  </mode>
-
-  <mode name="fao-nob-biltrans" install="no">
+  <mode name="fao-nno" install="yes" gendebug="yes">
     <pipeline>
       <program name="hfst-proc -w">
         <file name="fao-nob.automorf.hfst"/>
@@ -128,87 +47,6 @@
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
         <file name="fao-nob.autobil.bin"/>
-      </program>
-    </pipeline>
-  </mode>
-
-  <mode name="fao-nob-lex" install="no">
-    <pipeline>
-      <program name="hfst-proc -w">
-        <file name="fao-nor.automorf.hfst"/>
-      </program>
-      <program name="cg-proc -w -1 -n">
-        <file name="fao-nor.rlx.bin"/>
-      </program>
-      <program name="apertium-pretransfer"/>
-      <program name="lt-proc -b">
-        <file name="fao-nob.autobil.bin"/>
-      </program>
-      <program name="lrx-proc -m -t">
-        <file name="fao-nob.autolex.bin"/>
-      </program>
-    </pipeline>
-  </mode>
-
-  <mode name="fao-nob-transfer" install="no">
-    <pipeline>
-      <program name="hfst-proc -w">
-        <file name="fao-nob.automorf.hfst"/>
-      </program>
-      <program name="cg-proc -w -1 -n">
-        <file name="fao-nor.rlx.bin"/>
-      </program>
-      <program name="apertium-pretransfer"/>
-      <program name="lt-proc -b">
-        <file name="fao-nob.autobil.bin"/>
-      </program>
-      <program name="lrx-proc -m">
-        <file name="fao-nob.autolex.bin"/>
-      </program>
-      <program name="apertium-transfer -b -t">
-        <file name="apertium-fao-nor.fao-nob.t1x"/>
-        <file name="fao-nob.t1x.bin"/>
-      </program>
-    </pipeline>
-  </mode>
-
-  <mode name="fao-nor-interchunk" install="no">
-    <pipeline>
-      <program name="hfst-proc -w">
-        <file name="fao-nob.automorf.hfst"/>
-      </program>
-      <program name="cg-proc -w -1 -n"> 
-        <file name="fao-nor.rlx.bin"/>
-      </program>
-      <program name="apertium-pretransfer"/>
-      <program name="lt-proc -b">
-        <file name="fao-nob.autobil.bin"/>
-      </program>
-      <program name="lrx-proc -m">
-        <file name="fao-nor.autolex.bin"/>
-      </program>
-      <program name="apertium-transfer -b">
-        <file name="apertium-fao-nor.fao-nob.t1x"/>
-        <file name="fao-nob.t1x.bin"/>
-      </program>
-      <program name="apertium-interchunk -t">
-        <file name="apertium-fao-nor.fao-nob.t2x"/>
-        <file name="fao-nob.t2x.bin"/>
-      </program>
-    </pipeline>
-  </mode>
-
-  <mode name="fao-nor-postchunk" install="no">
-    <pipeline>
-      <program name="hfst-proc -w">
-        <file name="fao-nob.automorf.hfst"/>
-      </program>
-      <program name="cg-proc -w -1 -n">
-        <file name="fao-nor.rlx.bin"/>
-      </program>
-      <program name="apertium-pretransfer"/>
-      <program name="lt-proc -b">
-        <file name="fao-nor.autobil.bin"/>
       </program>
       <program name="lrx-proc -m">
         <file name="fao-nob.autolex.bin"/>
@@ -225,18 +63,19 @@
         <file name="apertium-fao-nor.fao-nob.t3x"/>
         <file name="fao-nob.t3x.bin"/>
       </program>
+      <program name="lt-proc $1">
+        <file name="fao-nob.autogen.bin"/>
+      </program>
     </pipeline>
   </mode>
 
   <!-- nor → fao -->
 
-  <mode name="nor-fao" install="yes">
+  <mode name="nor-fao" install="yes" gendebug="yes">
     <pipeline>
       <program name="lt-proc -w">
         <file name="nor-fao.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="nor-fao.rlx.bin"/>
       </program>
@@ -264,222 +103,6 @@
       </program>
       <program name="lt-proc $1">
         <file name="nor-fao.autogen.bin"/>
-      </program>
-
-    </pipeline>
-  </mode>
-
-  <mode name="nor-fao-dgen" install="no">
-    <pipeline>
-      <program name="lt-proc -w">
-        <file name="nor-fao.automorf.bin"/>
-      </program>
-
-
-      <program name="cg-proc -w">
-        <file name="nor-fao.rlx.bin"/>
-      </program>
-      <program name="apertium-tagger -g $2">
-        <file name="nor-fao.prob"/>
-      </program>
-      <program name="apertium-pretransfer"/>
-      <program name="lt-proc -b">
-        <file name="nor-fao.autobil.bin"/>
-      </program>
-      <program name="apertium-transfer -b">
-        <file name="apertium-fao-nor.nor-fao.t1x"/>
-        <file name="nor-fao.t1x.bin"/>
-      </program>
-      <program name="apertium-interchunk">
-        <file name="apertium-fao-nor.nor-fao.t2x"/>
-        <file name="nor-fao.t2x.bin"/>
-      </program>
-      <program name="apertium-postchunk">
-        <file name="apertium-fao-nor.nor-fao.t3x"/>
-        <file name="nor-fao.t3x.bin"/>
-      </program>
-      <program name="lt-proc -d">
-        <file name="nor-fao.autogen.bin"/>
-      </program>
-    </pipeline>
-  </mode>
-
-  <mode name="nor-fao-morph" install="no">
-    <pipeline>
-      <program name="lt-proc -w">
-        <file name="nor-fao.automorf.bin"/>
-      </program>
-    </pipeline>
-  </mode>
-
-  <mode name="nor-fao-disam" install="no">
-    <pipeline>
-      <program name="lt-proc -w">
-        <file name="nor-fao.automorf.bin"/>
-      </program>
-      <program name="cg-conv -a"/>
-      <program name="vislcg3 --trace --grammar">
-        <file name="nor-fao.rlx.bin"/>
-      </program>
-    </pipeline>
-  </mode>
-
-  <mode name="nor-fao-tagger" install="no">
-    <pipeline>
-      <program name="lt-proc -w">
-        <file name="nor-fao.automorf.bin"/>
-      </program>
-
-
-      <program name="cg-proc -w">
-        <file name="nor-fao.rlx.bin"/>
-      </program>
-      <program name="apertium-tagger -g $2">
-        <file name="nor-fao.prob"/>
-      </program>
-    </pipeline>
-  </mode>
-
-  <mode name="nor-fao-pretransfer" install="no">
-    <pipeline>
-      <program name="lt-proc -w">
-        <file name="nor-fao.automorf.bin"/>
-      </program>
-
-
-      <program name="cg-proc -w">
-        <file name="nor-fao.rlx.bin"/>
-      </program>
-      <program name="apertium-tagger -g $2">
-        <file name="nor-fao.prob"/>
-      </program>
-      <program name="apertium-pretransfer"/>
-    </pipeline>
-  </mode>
-
-  <mode name="nor-fao-biltrans" install="no">
-    <pipeline>
-      <program name="lt-proc -w">
-        <file name="nor-fao.automorf.bin"/>
-      </program>
-
-
-      <program name="cg-proc -w">
-        <file name="nor-fao.rlx.bin"/>
-      </program>
-      <program name="apertium-tagger -g $2">
-        <file name="nor-fao.prob"/>
-      </program>
-      <program name="apertium-pretransfer"/>
-      <program name="lt-proc -b">
-        <file name="nor-fao.autobil.bin"/>
-      </program>
-    </pipeline>
-  </mode>
-
-  <mode name="nor-fao-lex" install="no">
-    <pipeline>
-      <program name="lt-proc -w">
-        <file name="nor-fao.automorf.bin"/>
-      </program>
-
-
-      <program name="cg-proc -w">
-        <file name="nor-fao.rlx.bin"/>
-      </program>
-      <program name="apertium-tagger -g $2">
-        <file name="nor-fao.prob"/>
-      </program>
-      <program name="apertium-pretransfer"/>
-      <program name="lt-proc -b">
-        <file name="nor-fao.autobil.bin"/>
-      </program>
-      <program name="lrx-proc -m">
-        <file name="nor-fao.autolex.bin"/>
-      </program>
-    </pipeline>
-  </mode>
-
-  <mode name="nor-fao-transfer" install="no">
-    <pipeline>
-      <program name="lt-proc -w">
-        <file name="nor-fao.automorf.bin"/>
-      </program>
-
-
-      <program name="cg-proc -w">
-        <file name="nor-fao.rlx.bin"/>
-      </program>
-      <program name="apertium-tagger -g $2">
-        <file name="nor-fao.prob"/>
-      </program>
-      <program name="apertium-pretransfer"/>
-      <program name="lt-proc -b">
-        <file name="nor-fao.autobil.bin"/>
-      </program>
-      <program name="apertium-transfer -b -t">
-        <file name="apertium-fao-nor.nor-fao.t1x"/>
-        <file name="nor-fao.t1x.bin"/>
-      </program>
-    </pipeline>
-  </mode>
-
-  <mode name="nor-fao-interchunk" install="no">
-    <pipeline>
-      <program name="lt-proc -w">
-        <file name="nor-fao.automorf.bin"/>
-      </program>
-
-
-      <program name="cg-proc -w">
-        <file name="nor-fao.rlx.bin"/>
-      </program>
-      <program name="apertium-tagger -g $2">
-        <file name="nor-fao.prob"/>
-      </program>
-      <program name="apertium-pretransfer"/>
-      <program name="lt-proc -b">
-        <file name="nor-fao.autobil.bin"/>
-      </program>
-      <program name="apertium-transfer -b">
-        <file name="apertium-fao-nor.nor-fao.t1x"/>
-        <file name="nor-fao.t1x.bin"/>
-      </program>
-      <program name="apertium-interchunk -t">
-        <file name="apertium-fao-nor.nor-fao.t2x"/>
-        <file name="nor-fao.t2x.bin"/>
-      </program>
-    </pipeline>
-  </mode>
-
-  <mode name="nor-fao-postchunk" install="no">
-    <pipeline>
-      <program name="lt-proc -w">
-        <file name="nor-fao.automorf.bin"/>
-      </program>
-
-
-      <program name="cg-proc -w">
-        <file name="nor-fao.rlx.bin"/>
-      </program>
-      <program name="apertium-tagger -g $2">
-        <file name="nor-fao.prob"/>
-      </program>
-      <program name="apertium-pretransfer"/>
-      <program name="lt-proc -b">
-        <file name="nor-fao.autobil.bin"/>
-      </program>
-      <program name="apertium-transfer -b">
-        <file name="apertium-fao-nor.nor-fao.t1x"/>
-        <file name="nor-fao.t1x.bin"/>
-      </program>
-      <program name="apertium-interchunk">
-        <file name="apertium-fao-nor.nor-fao.t2x"/>
-        <file name="nor-fao.t2x.bin"/>
-      </program>
-      <program name="apertium-postchunk">
-        <file name="apertium-fao-nor.nor-fao.t3x"/>
-        <file name="nor-fao.t3x.bin"/>
       </program>
     </pipeline>
   </mode>

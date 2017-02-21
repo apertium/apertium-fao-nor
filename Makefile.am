@@ -253,7 +253,7 @@ apertium_fao_nor_DATA=	\
 	$(BASENAME).$(PREFIX2b).t3x
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
-noinst_DATA=modes/$(PREFIX1).mode
+noinst_DATA=modes/$(PREFIX1n).mode
 
 install-data-local: install-modes
 
