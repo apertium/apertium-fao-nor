@@ -5,30 +5,36 @@
 VERSION=0.1.0
 LANG1=fao
 LANG2=nor
+LANG2n=nno
+LANG2b=nob
 PREFIX1=$(LANG1)-$(LANG2)
+PREFIX1n=$(LANG1)-$(LANG2n)
+PREFIX1b=$(LANG1)-$(LANG2b)
 PREFIX2=$(LANG2)-$(LANG1)
+PREFIX2n=$(LANG2n)-$(LANG1)
+PREFIX2b=$(LANG2b)-$(LANG1)
 
 BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON =		\
-	$(PREFIX1).automorf.bin	\
+	$(PREFIX1b).automorf.bin	\
 	$(PREFIX1).prob		\
 	$(PREFIX1).rlx.bin	\
-	$(PREFIX1).autobil.bin	\
-	$(PREFIX1).autolex.bin	\
-	$(PREFIX1).autogen.bin	\
-	$(PREFIX1).t1x.bin	\
-	$(PREFIX1).t2x.bin	\
-	$(PREFIX1).t3x.bin	\
-	$(PREFIX2).automorf.bin	\
-	$(PREFIX2).prob		\
-	$(PREFIX2).rlx.bin	\
-	$(PREFIX2).autobil.bin	\
-	$(PREFIX2).autolex.bin	\
-	$(PREFIX2).autogen.bin	\
-	$(PREFIX2).t1x.bin	\
-	$(PREFIX2).t2x.bin	\
-	$(PREFIX2).t3x.bin
+	$(PREFIX1b).autobil.bin	\
+	$(PREFIX1b).autolex.bin	\
+	$(PREFIX1b).autogen.bin	\
+	$(PREFIX1b).t1x.bin	\
+	$(PREFIX1b).t2x.bin	\
+	$(PREFIX1b).t3x.bin	\
+	$(PREFIX2b).automorf.bin	\
+	$(PREFIX2b).prob		\
+	$(PREFIX2b).rlx.bin	\
+	$(PREFIX2b).autobil.bin	\
+	$(PREFIX2b).autolex.bin	\
+	$(PREFIX2b).autogen.bin	\
+	$(PREFIX2b).t1x.bin	\
+	$(PREFIX2b).t2x.bin	\
+	$(PREFIX2b).t3x.bin
 
 
 # This include defines goals for install-modes, .deps/.d and .mode files:
@@ -55,15 +61,27 @@ $(PREFIX1).automorf.bin: $(AP_SRC1)/$(LANG1).automorf.att.gz .deps/$(PREFIX1).au
 	hfst-fst2txt -i .deps/$(PREFIX1).automorf.trimmed -o .deps/$(PREFIX1).automorf.trimmed.att
 	lt-comp lr .deps/$(PREFIX1).automorf.trimmed.att $@
 
+.deps/$(LANG1).automorf.hfst: $(AP_SRC1)/apertium-und.$(LANG1)-und.LR.att.gz .deps/.d
+	$(ZCAT) $< | hfst-txt2fst > $@
+
+.deps/$(PREFIX1).automorf-trimmed.hfst: .deps/$(LANG1).automorf.hfst .deps/$(PREFIX1).autobil.prefixes
+	hfst-compose-intersect -1 $< -2 .deps/$(PREFIX1).autobil.prefixes -o $@
+
+$(PREFIX1).automorf.hfst: .deps/$(PREFIX1).automorf-trimmed.hfst
+	hfst-fst2fst -w -i $< -o $@
+
+$(PREFIX1).automorf-untrimmed.hfst: .deps/$(LANG1).automorf.hfst
+	hfst-fst2fst -w -i $< -o $@
+
 # -------------------
 # Faroese generation:
 # ---------------------
 
-$(PREFIX2).autogen.hfst: $(AP_SRC1)/$(LANG1).autogen.hfst
-	cp $< $@
+.deps/$(LANG1).autogen.hfst: $(AP_SRC1)/apertium-$(LANG1).$(LANG1).RL.att.gz .deps/.d
+	$(ZCAT) $< | hfst-txt2fst > $@
 
-$(PREFIX2).autogen.bin: $(AP_SRC1)/$(LANG1).autogen.bin
-	cp $< $@
+$(PREFIX2).autogen.hfst: .deps/$(LANG1).autogen.hfst
+	hfst-fst2fst -O -i $< -o $@
 
 # -------------------
 # Norwegian analysis:
@@ -75,7 +93,6 @@ $(PREFIX2).automorf.bin: $(AP_SRC2)/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
 # -------------------
 # Norwegian generation:
 # ---------------------
-
 
 $(PREFIX1).autogen.bin: $(AP_SRC2)/$(LANG2).autogen.bin
 	cp $< $@
@@ -126,28 +143,52 @@ $(PREFIX2).autolex.bin: $(BASENAME).$(PREFIX2).lrx
 ## Structural transfer rules
 ###############################################################################
 
-$(PREFIX1).t1x.bin: $(BASENAME).$(PREFIX1).t1x
+$(PREFIX1n).t1x.bin: $(BASENAME).$(PREFIX1n).t1x
 	apertium-validate-transfer $<
 	apertium-preprocess-transfer $< $@
 
-$(PREFIX1).t2x.bin: $(BASENAME).$(PREFIX1).t2x
+$(PREFIX1n).t2x.bin: $(BASENAME).$(PREFIX1n).t2x
 	apertium-validate-interchunk $<
 	apertium-preprocess-transfer $< $@
 
-$(PREFIX1).t3x.bin: $(BASENAME).$(PREFIX1).t3x
+$(PREFIX1n).t3x.bin: $(BASENAME).$(PREFIX1n).t3x
+	apertium-validate-postchunk $<
+	apertium-preprocess-transfer $< $@
+
+$(PREFIX2n).t1x.bin: $(BASENAME).$(PREFIX2n).t1x
+	apertium-validate-transfer $<
+	apertium-preprocess-transfer $< $@
+
+$(PREFIX2n).t2x.bin: $(BASENAME).$(PREFIX2n).t2x
+	apertium-validate-interchunk $<
+	apertium-preprocess-transfer $< $@
+
+$(PREFIX2n).t3x.bin: $(BASENAME).$(PREFIX2n).t3x
 	apertium-validate-postchunk $<
 	apertium-preprocess-transfer $< $@
 
 
-$(PREFIX2).t1x.bin: $(BASENAME).$(PREFIX2).t1x
+$(PREFIX1b).t1x.bin: $(BASENAME).$(PREFIX1b).t1x
 	apertium-validate-transfer $<
 	apertium-preprocess-transfer $< $@
 
-$(PREFIX2).t2x.bin: $(BASENAME).$(PREFIX2).t2x
+$(PREFIX1b).t2x.bin: $(BASENAME).$(PREFIX1b).t2x
 	apertium-validate-interchunk $<
 	apertium-preprocess-transfer $< $@
 
-$(PREFIX2).t3x.bin: $(BASENAME).$(PREFIX2).t3x
+$(PREFIX1b).t3x.bin: $(BASENAME).$(PREFIX1b).t3x
+	apertium-validate-postchunk $<
+	apertium-preprocess-transfer $< $@
+
+$(PREFIX2b).t1x.bin: $(BASENAME).$(PREFIX2b).t1x
+	apertium-validate-transfer $<
+	apertium-preprocess-transfer $< $@
+
+$(PREFIX2b).t2x.bin: $(BASENAME).$(PREFIX2b).t2x
+	apertium-validate-interchunk $<
+	apertium-preprocess-transfer $< $@
+
+$(PREFIX2b).t3x.bin: $(BASENAME).$(PREFIX2b).t3x
 	apertium-validate-postchunk $<
 	apertium-preprocess-transfer $< $@
 
