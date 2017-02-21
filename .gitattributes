@@ -1,4 +1,21 @@
 * text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-fao-nor.fao-nor.dix -text
+/apertium-fao-nor.fao-nor.lrx -text
+/apertium-fao-nor.fao-nor.t1x -text
+/apertium-fao-nor.fao-nor.t2x -text
+/apertium-fao-nor.fao-nor.t3x -text
+/apertium-fao-nor.nor-fao.lrx -text
+/apertium-fao-nor.nor-fao.t1x -text
+/apertium-fao-nor.nor-fao.t2x -text
+/apertium-fao-nor.nor-fao.t3x -text
+/autogen.sh -text
+/configure.ac -text
 dev/bidix/adj.list -text
 dev/bidix/adj.scored.list -text
 dev/bidix/adv.list -text
@@ -11,3 +28,4 @@ dev/bidix/prep.scored.list -text
 dev/bidix/rerun-scores.sh -text
 dev/bidix/vblex.list -text
 dev/bidix/vblex.scored.list -text
+/modes.xml -text
