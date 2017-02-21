@@ -30,7 +30,7 @@ TARGETS_COMMON =		\
 	$(PREFIX2b).rlx.bin	\
 	$(PREFIX2b).autobil.bin	\
 	$(PREFIX2b).autolex.bin	\
-	$(PREFIX2).autogen.hfst	\
+	$(PREFIX2).autogen.hfst	 \
 	$(PREFIX2b).t1x.bin	\
 	$(PREFIX2b).t2x.bin	\
 	$(PREFIX2b).t3x.bin
@@ -197,6 +197,7 @@ $(PREFIX1b).t3x.bin: $(BASENAME).$(PREFIX1b).t3x
 	apertium-validate-postchunk $<
 	apertium-preprocess-transfer $< $@
 
+
 $(PREFIX2b).t1x.bin: $(BASENAME).$(PREFIX2b).t1x
 	apertium-validate-transfer $<
 	apertium-preprocess-transfer $< $@
@@ -244,12 +245,12 @@ apertium_fao_nordir=$(prefix)/share/apertium/$(BASENAME)/
 # Files which should be installed to $(prefix)/share/apertium/$(BASENAME)/:
 apertium_fao_nor_DATA=	\
 	$(TARGETS_COMMON)				\
-	$(BASENAME).$(PREFIX1).t1x			\
-	$(BASENAME).$(PREFIX1).t2x			\
-	$(BASENAME).$(PREFIX1).t3x			\
-	$(BASENAME).$(PREFIX2).t1x			\
-	$(BASENAME).$(PREFIX2).t2x			\
-	$(BASENAME).$(PREFIX2).t3x
+	$(BASENAME).$(PREFIX1b).t1x			\
+	$(BASENAME).$(PREFIX1b).t2x			\
+	$(BASENAME).$(PREFIX1b).t3x			\
+	$(BASENAME).$(PREFIX2b).t1x			\
+	$(BASENAME).$(PREFIX2b).t2x			\
+	$(BASENAME).$(PREFIX2b).t3x
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode
