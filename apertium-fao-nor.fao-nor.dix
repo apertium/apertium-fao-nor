@@ -8,6 +8,7 @@
   <sdef n="comp"/>
   <sdef n="vblex"/>
   <sdef n="num"/>
+  <sdef n="itg"/>
   <sdef n="nt"/>
   <sdef n="ant"/>
   <sdef n="p1"/>
@@ -59,6 +60,8 @@
 <e><p><l>Jákup<s n="np"/><s n="ant"/></l><r>Jákup<s n="np"/><s n="ant"/></r></p></e>
 
 <!-- SECTION: Adverbs -->
+<e vr="nob"><p><l>hví<s n="adv"/><s n="itg"/></l>	<r>hvordan<s n="adv"/><s n="itg"/></r></p></e>
+<e vr="nno"><p><l>hví<s n="adv"/><s n="itg"/></l>	<r>kvifor<s n="adv"/><s n="itg"/></r></p></e>
 <e vr="nob"><p><l>ikki<s n="adv"/></l>	<r>ikke<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>ikki<s n="adv"/></l>	<r>ikkje<s n="adv"/></r></p></e>
 <e vr="nob"><p><l>eisini<s n="adv"/></l>	<r>også<s n="adv"/></r></p></e>
