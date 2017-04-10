@@ -37,6 +37,7 @@
 <!-- SECTION: Conjunctions -->
 <e><p><l>og<s n="cnjcoo"/></l><r>og<s n="cnjcoo"/></r></p></e>
 <e><p><l>men<s n="cnjcoo"/></l><r>men<s n="cnjcoo"/></r></p></e>
+<e><p><l>ella<s n="cnjcoo"/></l><r>eller<s n="cnjcoo"/></r></p></e>
 
 <!-- SECTION: Prepositions -->
 <e><p><l>í<s n="pr"/></l><r>i<s n="pr"/></r></p></e>
@@ -44,6 +45,8 @@
 <e><p><l>eftir<s n="pr"/></l><r>etter<s n="pr"/></r></p></e>
 <e><p><l>til<s n="pr"/></l><r>til<s n="pr"/></r></p></e>
 <e><p><l>hjá<s n="pr"/></l><r>hjå<s n="pr"/></r></p></e>
+<e vr="nob"><p><l>frá<s n="pr"/></l><r>fra<s n="pr"/></r></p></e>
+<e vr="nno"><p><l>frá<s n="pr"/></l><r>frå<s n="pr"/></r></p></e>
 <e><p><l>hjá<s n="pr"/></l><r>på<s n="pr"/></r></p></e>
 
 <!-- SECTION: Numerals -->
