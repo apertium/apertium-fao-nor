@@ -42,6 +42,9 @@
 <e><p><l>í<s n="pr"/></l><r>i<s n="pr"/></r></p></e>
 <e><p><l>í<s n="pr"/></l><r>på<s n="pr"/></r></p></e>
 <e><p><l>eftir<s n="pr"/></l><r>etter<s n="pr"/></r></p></e>
+<e><p><l>til<s n="pr"/></l><r>til<s n="pr"/></r></p></e>
+<e><p><l>hjá<s n="pr"/></l><r>hjå<s n="pr"/></r></p></e>
+<e><p><l>hjá<s n="pr"/></l><r>på<s n="pr"/></r></p></e>
 
 <!-- SECTION: Numerals -->
 
@@ -62,6 +65,9 @@
 <!-- SECTION: Adverbs -->
 <e vr="nob"><p><l>hví<s n="adv"/><s n="itg"/></l>	<r>hvordan<s n="adv"/><s n="itg"/></r></p></e>
 <e vr="nno"><p><l>hví<s n="adv"/><s n="itg"/></l>	<r>kvifor<s n="adv"/><s n="itg"/></r></p></e>
+<e vr="nob"><p><l>hvar<s n="adv"/><s n="itg"/></l>	<r>hvor<s n="adv"/><s n="itg"/></r></p></e>
+<e vr="nno"><p><l>hvar<s n="adv"/><s n="itg"/></l>	<r>kvor<s n="adv"/><s n="itg"/></r></p></e>
+
 <e vr="nob"><p><l>ikki<s n="adv"/></l>	<r>ikke<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>ikki<s n="adv"/></l>	<r>ikkje<s n="adv"/></r></p></e>
 <e vr="nob"><p><l>eisini<s n="adv"/></l>	<r>også<s n="adv"/></r></p></e>
