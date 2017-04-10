@@ -7,6 +7,7 @@
   <sdef n="pp"/>
   <sdef n="comp"/>
   <sdef n="vblex"/>
+  <sdef n="sint"/>
   <sdef n="num"/>
   <sdef n="itg"/>
   <sdef n="nt"/>
@@ -60,10 +61,14 @@
 <e><p><l>havi<s n="n"/><s n="m"/></l>	<r>hage<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hundur<s n="n"/><s n="m"/></l>	<r>hund<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hús<s n="n"/><s n="nt"/></l>	<r>hus<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>træ<s n="n"/><s n="nt"/></l>	<r>tre<s n="n"/><s n="nt"/></r></p></e>
 
-<!-- SECTION: Punctuation -->
+<!-- SECTION: Proper nouns -->
 <e><p><l>Maria<s n="np"/><s n="ant"/></l><r>Maria<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Jákup<s n="np"/><s n="ant"/></l><r>Jákup<s n="np"/><s n="ant"/></r></p></e>
+
+<!-- SECTION: Adjectives -->
+<e><p><l>gamal<s n="adj"/></l>	<r>gammel<s n="adj"/><s n="sint"/></r></p></e>
 
 <!-- SECTION: Adverbs -->
 <e vr="nob"><p><l>hví<s n="adv"/><s n="itg"/></l>	<r>hvordan<s n="adv"/><s n="itg"/></r></p></e>
@@ -75,7 +80,7 @@
 <e vr="nno"><p><l>ikki<s n="adv"/></l>	<r>ikkje<s n="adv"/></r></p></e>
 <e vr="nob"><p><l>eisini<s n="adv"/></l>	<r>også<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>eisini<s n="adv"/></l>	<r>òg<s n="adv"/></r></p></e>
-<e><p><l>i<b/>dag<s n="adv"/></l>	<r>i<b/>dag<s n="adv"/></r></p></e>
+<e><p><l>í<b/>dag<s n="adv"/></l>	<r>i<b/>dag<s n="adv"/></r></p></e>
 
 <!-- SECTION: Verbs -->
 <e><p><l>hava<s n="vblex"/></l><r>ha<s n="vblex"/></r></p></e>
