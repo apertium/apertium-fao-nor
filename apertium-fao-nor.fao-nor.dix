@@ -11,12 +11,19 @@
     <sdef n="m"    c="Masculine"/>
     <sdef n="sent"    c=""/>
     <sdef n="clb"    c=""/>
+    <sdef n="adv"    c=""/>
   </sdefs>
 
    <section id="main" type="standard">
-      <!-- Define entries within <e> here. -->
+<!-- SECTION: Nouns -->
 <e vr="nob"><p><l>týsdagur<s n="n"/><s n="m"/></l>	<r>tirsdag<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>týsdagur<s n="n"/><s n="m"/></l>	<r>tysdag<s n="n"/><s n="m"/></r></p></e>
+
+<!-- SECTION: Adverbs -->
+<e vr="nob"><p><l>ikki<s n="adv"/></l>	<r>ikke<s n="adv"/></r></p></e>
+<e vr="nno"><p><l>ikki<s n="adv"/></l>	<r>ikkje<s n="adv"/></r></p></e>
+
+<!-- SECTION: Punctuation -->
 
 <e><re>[.\?;:!·…]+</re><p><l><s n="sent"/></l><r><s n="sent"/><s n="clb"/></r></p></e>
 
