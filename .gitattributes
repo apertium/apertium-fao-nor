@@ -28,6 +28,7 @@ dev/bidix/prep.scored.list -text
 dev/bidix/rerun-scores.sh -text
 dev/bidix/vblex.list -text
 dev/bidix/vblex.scored.list -text
+dev/fao-nor-generated.dix -text
 /modes.xml -text
 texts/story.fao.txt -text
 texts/story.nob.txt -text
