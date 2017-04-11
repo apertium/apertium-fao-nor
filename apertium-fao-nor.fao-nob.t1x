@@ -22,6 +22,10 @@
     <def-attr n="v_mood">
       <attr-item tags="ind"/>
     </def-attr>
+    <def-attr n="v_num">
+      <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
+    </def-attr>
   </section-def-attrs>
 
   <section-def-vars>
@@ -38,10 +42,15 @@
       </choose>
     </def-macro>
 
-  	    <def-macro n="rm_ind" npar="1">
+  	    <def-macro n="rm_ind_pl" npar="1">
       <choose>
         <when><test><equal><clip pos="1" side="sl" part="v_mood"/><lit-tag v="ind"/></equal></test>
               <let><clip pos="1" side="tl" part="v_mood"/><lit v=""/></let>
+        </when>
+      </choose>
+      <choose>
+        <when><test><equal><clip pos="1" side="sl" part="v_num"/><lit-tag v="pl"/></equal></test>
+              <let><clip pos="1" side="tl" part="v_num"/><lit v=""/></let>
         </when>
       </choose>
     </def-macro>
@@ -87,12 +96,12 @@
       </action>
     </rule>
 
-	<rule comment="REMOVE ind">
+	<rule comment="REMOVE ind and pl">
 	  <pattern>
 	  	<pattern-item n="verb"/>
 	  </pattern>
 	  <action>
-	    <call-macro n="rm_ind">
+	    <call-macro n="rm_ind_pl">
           <with-param pos="1"/>
         </call-macro>
 	    <out>
