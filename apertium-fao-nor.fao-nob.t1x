@@ -13,6 +13,12 @@
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
     </def-cat>
+    <def-cat n="det">
+      <cat-item tags="det.*"/>
+    </def-cat>
+    <def-cat n="numeral">
+      <cat-item tags="num.*"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -163,6 +169,48 @@
 	<rule comment="REMOVE adj stuff">
 	  <pattern>
 	  	<pattern-item n="adj"/>
+	  </pattern>
+	  <action>
+	    <call-macro n="rm_case">
+          <with-param pos="1"/>
+        </call-macro>
+	    <out>
+	      <chunk name="sent" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SENT"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="whole"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
+	
+	<rule comment="REMOVE det stuff">
+	  <pattern>
+	  	<pattern-item n="det"/>
+	  </pattern>
+	  <action>
+	    <call-macro n="rm_case">
+          <with-param pos="1"/>
+        </call-macro>
+	    <out>
+	      <chunk name="sent" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SENT"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="whole"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
+	
+	<rule comment="REMOVE numeral stuff">
+	  <pattern>
+	  	<pattern-item n="numeral"/>
 	  </pattern>
 	  <action>
 	    <call-macro n="rm_case">
