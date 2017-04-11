@@ -39,6 +39,13 @@
 <e><p><l>og<s n="cnjcoo"/></l><r>og<s n="cnjcoo"/></r></p></e>
 <e><p><l>men<s n="cnjcoo"/></l><r>men<s n="cnjcoo"/></r></p></e>
 <e><p><l>ella<s n="cnjcoo"/></l><r>eller<s n="cnjcoo"/></r></p></e>
+<e vr="nob"><p><l>tá<s n="cnjcoo"/></l>	<r>da<s n="cnjcoo"/></r></p></e>
+<e vr="nno"><p><l>tá<s n="cnjcoo"/></l>	<r>då<s n="cnjcoo"/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+
+
 
 <!-- SECTION: Prepositions -->
 <e><p><l>í<s n="pr"/></l><r>i<s n="pr"/></r></p></e>
@@ -49,6 +56,11 @@
 <e vr="nob"><p><l>frá<s n="pr"/></l><r>fra<s n="pr"/></r></p></e>
 <e vr="nno"><p><l>frá<s n="pr"/></l><r>frå<s n="pr"/></r></p></e>
 <e><p><l>hjá<s n="pr"/></l><r>på<s n="pr"/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
 
 <!-- SECTION: Numerals -->
 
@@ -62,6 +74,13 @@
 <e><p><l>hundur<s n="n"/><s n="m"/></l>	<r>hund<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hús<s n="n"/><s n="nt"/></l>	<r>hus<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>træ<s n="n"/><s n="nt"/></l>	<r>tre<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>veður<s n="n"/><s n="nt"/></l>	<r>vær<s n=n/><s n="nt"/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+
 
 <!-- SECTION: Proper nouns -->
 <e><p><l>Maria<s n="np"/><s n="ant"/></l><r>Maria<s n="np"/><s n="ant"/></r></p></e>
@@ -69,6 +88,16 @@
 
 <!-- SECTION: Adjectives -->
 <e><p><l>gamal<s n="adj"/></l>	<r>gammel<s n="adj"/><s n="sint"/></r></p></e>
+<e><p><l>góður<s n="adj"/></l>	<r>god<s n="adj"/><s n="sint"/></r></p></e>
+<e><p><l>heitur<s n="adj"/></l>	<r>varm<s n="adj"/><s n="sint"></r></p></e>
+<e><p><l>kaldur<s n="adj"/></l>	<r>kald<s n="adj"/><s n="sint"></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+
+
 
 <!-- SECTION: Adverbs -->
 <e vr="nob"><p><l>hví<s n="adv"/><s n="itg"/></l>	<r>hvordan<s n="adv"/><s n="itg"/></r></p></e>
@@ -82,6 +111,13 @@
 <e vr="nno"><p><l>eisini<s n="adv"/></l>	<r>òg<s n="adv"/></r></p></e>
 <e><p><l>í<b/>dag<s n="adv"/></l>	<r>i<b/>dag<s n="adv"/></r></p></e>
 
+<e><p><l>ógvuliga<s n="adv"/></l>	<r>veldig<s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+
 <!-- SECTION: Verbs -->
 <e><p><l>hava<s n="vblex"/></l><r>ha<s n="vblex"/></r></p></e>
 <e vr="nob"><p><l>vera<s n="vblex"/></l><r>være<s n="vblex"/></r></p></e>
@@ -89,7 +125,14 @@
 <e><p><l>finna<s n="vblex"/></l><r>finne<s n="vblex"/></r></p></e>
 <e><p><l>fara<s n="vblex"/></l><r>fare<s n="vblex"/></r></p></e>
 <e><p><l>fara<s n="vblex"/></l><r>gå<s n="vblex"/></r></p></e>
+<e><p><l>kunna<s n="vblex"/></l>	<r>kan<s n="vblex"/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
+<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>
 
+<!-- SECTION: Determiners? -->
+<e><p><l>tað<s n="det"/></l>	<r>det<s n="det"/></r></p></e>
 
 
 <!-- SECTION: Punctuation -->
