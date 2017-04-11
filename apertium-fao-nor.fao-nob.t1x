@@ -7,6 +7,9 @@
     <def-cat n="verb">
       <cat-item tags="vblex.*"/>
     </def-cat>
+    <def-cat n="ant">
+      <cat-item tags="np.ant.*"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -18,6 +21,10 @@
       <attr-item tags="dat"/>
       <attr-item tags="nom"/>
       <attr-item tags="gen"/>
+    </def-attr>
+    <def-attr n="a_num">
+      <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
     </def-attr>
     <def-attr n="v_mood">
       <attr-item tags="ind"/>
@@ -41,8 +48,12 @@
         </when>
       </choose>
     </def-macro>
+    
+    <def-macro n="rm_case_and_num" npar="1">
+      <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+    </def-macro>
 
-  	    <def-macro n="rm_ind_pl" npar="1">
+  	<def-macro n="rm_stuff" npar="1">
       <choose>
         <when><test><equal><clip pos="1" side="sl" part="v_mood"/><lit-tag v="ind"/></equal></test>
               <let><clip pos="1" side="tl" part="v_mood"/><lit v=""/></let>
@@ -55,6 +66,7 @@
       </choose>
     </def-macro>
   </section-def-macros>
+
 
   <section-rules>
     <rule comment="REGLA: NOM">
@@ -75,7 +87,7 @@
             </lu>
           </chunk>
         </out>
-      </action>
+	  </action>      
     </rule>
 
     <rule comment="REGLA: SENT">
@@ -96,12 +108,12 @@
       </action>
     </rule>
 
-	<rule comment="REMOVE ind and pl">
+	<rule comment="REMOVE verb stuff">
 	  <pattern>
 	  	<pattern-item n="verb"/>
 	  </pattern>
 	  <action>
-	    <call-macro n="rm_ind_pl">
+	    <call-macro n="rm_stuff">
           <with-param pos="1"/>
         </call-macro>
 	    <out>
@@ -116,6 +128,28 @@
 	    </out>
 	  </action>
 	</rule>
+	
+	<rule comment="REMOVE np stuff">
+	  <pattern>
+	  	<pattern-item n="ant"/>
+	  </pattern>
+	  <action>
+	    <call-macro n="rm_case_and_num">
+          <with-param pos="1"/>
+        </call-macro>
+	    <out>
+	      <chunk name="sent" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SENT"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="whole"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
+	
   </section-rules>
 </transfer>
 
