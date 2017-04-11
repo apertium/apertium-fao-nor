@@ -5,7 +5,7 @@
       <cat-item tags="n.*"/>
     </def-cat>
     <def-cat n="verb">
-      <cat-item tags="vlex.*"/>
+      <cat-item tags="vblex.*"/>
     </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
@@ -89,7 +89,7 @@
 
 	<rule comment="REMOVE <ind>">
 	  <pattern>
-	  	<pattern-item n=verb>
+	  	<pattern-item n="verb">
 	  </pattern>
 	  <action>
 	    <call-macro n="rm_ind">
