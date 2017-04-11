@@ -32,6 +32,11 @@
     <def-attr n="v_mood">
       <attr-item tags="ind"/>
     </def-attr>
+    <def-attr n="v_pers">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+    </def-attr>
   </section-def-attrs>
 
   <section-def-vars>
@@ -57,7 +62,6 @@
       <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
     </def-macro>
     
-    
     <def-macro n="rm_v_num" npar="1">
       <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
     </def-macro>
@@ -69,6 +73,7 @@
         </when>
       </choose>
       <let><clip pos="1" side="tl" part="num"/><lit v=""/></let>
+      <let><clip pos="1" side="tl" part="v_pers"/><lit v=""/></let>
     </def-macro>
   </section-def-macros>
 
