@@ -52,6 +52,7 @@
 <pardefs>
    <pardef n="adj:adj_sint">
      <e><p><l></l><r><s n="pst"/></r></p></e>
+     <e><p><l><s n="adv"/></l><r><s n="pst"/><s n="nt"/><s n="sg"/><s n="ind"/></r></p></e>
      <e><p><l><s n="comp"/></l><r><s n="comp"/></r></p></e>
      <e><p><l><s n="sup"/></l><r><s n="sup"/></r></p></e>
    </pardef>
@@ -456,6 +457,7 @@
 <e vr="nob"><p><l>eisini<s n="adv"/></l>	<r>også<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>eisini<s n="adv"/></l>	<r>òg<s n="adv"/></r></p></e>
 <e><p><l>í<b/>dag<s n="adv"/></l>	<r>i<b/>dag<s n="adv"/></r></p></e>
+<e><p><l>í<b/>gjár<s n="adv"/></l>	<r>i<b/>går<s n="adv"/></r></p></e>
 <e><p><l>ógvuliga<s n="adv"/></l>	<r>veldig<s n="adv"/></r></p></e>
 <e><p><l>úti<s n="adv"/></l>	<r>ute<s n="adv"/></r></p></e>
 <e><p><l>inni<s n="adv"/></l>	<r>inn<s n="adv"/></r></p></e>
