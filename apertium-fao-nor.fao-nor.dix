@@ -145,12 +145,12 @@
 
 <!-- SECTION: Pronouns -->
 <e><p><l>tey<s n="prn"/><s n="pl"/><s n="pers"/></l>	<r>de<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></r></p></e>
-<e><p><l>hann<s n="prn"/><s n="pers"/><s n="sg"/></l>	<r>han<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/></r></p></e>
-<e vr="nob"><p><l>hon<s n="prn"/><s n="pers"/><s n="sg"/></l>	<r>hun<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/></r></p></e>
-<e vr="nno"><p><l>hon<s n="prn"/><s n="pers"/><s n="sg"/></l>	<r>ho<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/></r></p></e>
-<e vr="nob"><p><l>eg<s n="prn"/><s n="pers"/><s n="sg"/></l><r>jeg<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></r></p></e>
-<e vr="nno"><p><l>eg<s n="prn"/><s n="pers"/><s n="sg"/></l><r>eg<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></r></p></e>
-<e><p><l>tú<s n="prn"/><s n="pers"/><s n="sg"/></l><r>du<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></r></p></e>
+<e><p><l>hann<s n="prn"/><s n="pers"/><s n="sg"/></l>	<r>han<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e vr="nob"><p><l>hon<s n="prn"/><s n="pers"/><s n="sg"/></l>	<r>hun<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e vr="nno"><p><l>hon<s n="prn"/><s n="pers"/><s n="sg"/></l>	<r>ho<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e vr="nob"><p><l>eg<s n="prn"/><s n="pers"/><s n="sg"/></l><r>jeg<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+<e vr="nno"><p><l>eg<s n="prn"/><s n="pers"/><s n="sg"/></l><r>eg<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+<e><p><l>tú<s n="prn"/><s n="pers"/><s n="sg"/></l><r>du<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
 <e><p><l>báðir<s n="prn"/><s n="ind"/></l><r>begge<s n="prn"/><s n="ind"/></r></p></e>
 <e><p><l>seg<s n="prn"/><s n="ref"/></l><r>seg<s n="prn"/><s n="ref"/></r></p></e>
 <e><p><l>tað<s n="prn"/><s n="pers"/><s n="pl"/></l> <r>de<s n="prn"/><s n="pers"/><s n="p3"/><s n="un"/><s n="pl"/></r></p></e>
