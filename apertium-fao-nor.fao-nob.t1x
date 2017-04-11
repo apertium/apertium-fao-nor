@@ -25,16 +25,12 @@
       <attr-item tags="nom"/>
       <attr-item tags="gen"/>
     </def-attr>
-    <def-attr n="a_num">
+    <def-attr n="num">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
     </def-attr>
     <def-attr n="v_mood">
       <attr-item tags="ind"/>
-    </def-attr>
-    <def-attr n="v_num">
-      <attr-item tags="sg"/>
-      <attr-item tags="pl"/>
     </def-attr>
   </section-def-attrs>
 
@@ -54,10 +50,15 @@
     
     <def-macro n="rm_case_and_num" npar="1">
       <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
-      <let><clip pos="1" side="tl" part="a_num"/><lit v=""/></let>
+      <let><clip pos="1" side="tl" part="num"/><lit v=""/></let>
     </def-macro>
     
     <def-macro n="rm_case" npar="1">
+      <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+    </def-macro>
+    
+    
+    <def-macro n="rm_v_num" npar="1">
       <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
     </def-macro>
 
@@ -67,11 +68,7 @@
               <let><clip pos="1" side="tl" part="v_mood"/><lit v=""/></let>
         </when>
       </choose>
-      <choose>
-        <when><test><equal><clip pos="1" side="sl" part="v_num"/><lit-tag v="pl"/></equal></test>
-              <let><clip pos="1" side="tl" part="v_num"/><lit v=""/></let>
-        </when>
-      </choose>
+      <let><clip pos="1" side="tl" part="num"/><lit v=""/></let>
     </def-macro>
   </section-def-macros>
 
