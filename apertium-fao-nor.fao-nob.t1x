@@ -10,6 +10,9 @@
     <def-cat n="ant">
       <cat-item tags="np.ant.*"/>
     </def-cat>
+    <def-cat n="adj">
+      <cat-item tags="adj.*"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -52,6 +55,10 @@
     <def-macro n="rm_case_and_num" npar="1">
       <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_num"/><lit v=""/></let>
+    </def-macro>
+    
+    <def-macro n="rm_case" npar="1">
+      <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
     </def-macro>
 
   	<def-macro n="rm_stuff" npar="1">
@@ -136,6 +143,27 @@
 	  </pattern>
 	  <action>
 	    <call-macro n="rm_case_and_num">
+          <with-param pos="1"/>
+        </call-macro>
+	    <out>
+	      <chunk name="sent" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SENT"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="whole"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
+	
+	<rule comment="REMOVE adj stuff">
+	  <pattern>
+	  	<pattern-item n="adj"/>
+	  </pattern>
+	  <action>
+	    <call-macro n="rm_case">
           <with-param pos="1"/>
         </call-macro>
 	    <out>
