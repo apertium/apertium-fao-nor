@@ -10,14 +10,21 @@
   <sdef n="pers"/>
   <sdef n="sint"/>
   <sdef n="un"/>
+  <sdef n="apos"/>
   <sdef n="ij"/>
   <sdef n="sg"/>
+  <sdef n="cm"/>
   <sdef n="num"/>
   <sdef n="itg"/>
   <sdef n="nt"/>
   <sdef n="ant"/>
   <sdef n="p1"/>
   <sdef n="pl"/>
+  <sdef n="lpar"/>
+  <sdef n="rpar"/>
+  <sdef n="lquot"/>
+  <sdef n="rquot"/>
+  <sdef n="qnt"/>
   <sdef n="prn"/>
   <sdef n="f"/>
   <sdef n="ind"/>
@@ -511,7 +518,16 @@
 
 
 <!-- SECTION: Punctuation -->
+
+<e><re>[\(\[]</re><p><l><s n="lpar"/></l><r><s n="lpar"/></r></p></e>
+<e><re>[\)\]]</re><p><l><s n="rpar"/></l><r><s n="rpar"/></r></p></e>
 <e><re>[.\?;:!·…]+</re><p><l><s n="sent"/></l><r><s n="sent"/><s n="clb"/></r></p></e>
+<e><re>'</re><p><l><s n="apos"/></l><r><s n="apos"/></r></p></e>
+<e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
+<e><re>«</re><p><l><s n="lquot"/></l><r><s n="lquot"/></r></p></e>
+<e><re>»</re><p><l><s n="rquot"/></l><r><s n="rquot"/></r></p></e>
+<e><re>[0-9]+([.,][0-9]+)*( ?%)?</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/></r></p></e>
+<e><re>[IVXLCDM\-]+</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/></r></p></e>
 
 
 
