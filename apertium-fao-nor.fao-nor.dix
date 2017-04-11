@@ -63,11 +63,13 @@
 <e><p><l>hjá<s n="pr"/></l><r>på<s n="pr"/></r></p></e>
 <e vr="nob"><p><l>frammanfyri<s n="pr"/></l>	<r>utenfor<s n="pr"/></r></p></e>
 <e vr="nno"><p><l>frammanfyri<s n="pr"/></l>	<r>utanfor<s n="pr"/></r></p></e>
-<!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
-<!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
-<!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
-<!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
-<!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
+<e><p><l>eftir<s n="pr"/></l><r>etter<s n="pr"/></r></p></e>
+<e><p><l>fyri<s n="pr"/></l><r>til<s n="pr"/></r></p></e>
+<e><p><l>gjøgnum<s n="pr"/></l><r>gjennom<s n="pr"/></r></p></e>
+<e><p><l>kring<s n="pr"/></l><r>omkring<s n="pr"/></r></p></e>
+<e><p><l>undir<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
+<e><p><l>uppá<s n="pr"/></l><r>opp<s n="pr"/></r></p></e>
+<e><p><l>við<s n="pr"/></l><r>med<s n="pr"/></r></p></e>
 
 <!-- SECTION: Numerals -->
 
@@ -131,13 +133,11 @@
 <e vr="nno"><p><l>hví<s n="adv"/><s n="itg"/></l>	<r>kvifor<s n="adv"/><s n="itg"/></r></p></e>
 <e vr="nob"><p><l>hvar<s n="adv"/><s n="itg"/></l>	<r>hvor<s n="adv"/><s n="itg"/></r></p></e>
 <e vr="nno"><p><l>hvar<s n="adv"/><s n="itg"/></l>	<r>kvor<s n="adv"/><s n="itg"/></r></p></e>
-
 <e vr="nob"><p><l>ikki<s n="adv"/></l>	<r>ikke<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>ikki<s n="adv"/></l>	<r>ikkje<s n="adv"/></r></p></e>
 <e vr="nob"><p><l>eisini<s n="adv"/></l>	<r>også<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>eisini<s n="adv"/></l>	<r>òg<s n="adv"/></r></p></e>
 <e><p><l>í<b/>dag<s n="adv"/></l>	<r>i<b/>dag<s n="adv"/></r></p></e>
-
 <e><p><l>ógvuliga<s n="adv"/></l>	<r>veldig<s n="adv"/></r></p></e>
 <e><p><l>úti<s n="adv"/></l>	<r>ute<s n="adv"/></r></p></e>
 <e><p><l>altíð<s n="adv"/></l>	<r>alltid<s n="adv"/></r></p></e>
@@ -147,7 +147,6 @@
 <e vr="nno"><p><l>eisini<s n="adv"/></l>	<r>òg<s n="adv"/></r></p></e>
 <e vr="nob"><p><l>nú<s n="adv"/></l>	<r>nå<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>nú<s n="adv"/></l>	<r>no<s n="adv"/></r></p></e>
-
 <e><p><l>aftur<s n="adv"/></l><r>igjen<s n="adv"/></r></p></e>
 <e><p><l>allastaðni<s n="adv"/></l><r>overalt<s n="adv"/></r></p></e>
 <e><p><l>har<s n="adv"/></l><r>der<s n="adv"/></r></p></e>
