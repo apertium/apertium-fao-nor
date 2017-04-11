@@ -94,10 +94,32 @@
 <e vr="nob"><p><l>systir<s n="n"/><s n="f"/></l>	<r>søster<s n="n"/><s n="mf"/></r></p></e>
 <e vr="nno"><p><l>systir<s n="n"/><s n="f"/></l>	<r>syster<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>barn<s n="n"/><s n="nt"/></l>	<r>barn<s n="n"/><s n="nt"/></r></p></e>
-<!--<e><p><l><s n=""/></l>	<r><s n=""/><s n=""/></r></p></e>-->
-<!--<e><p><l><s n=""/></l>	<r><s n=""/><s n=""/></r></p></e>-->
-<!--<e><p><l><s n=""/></l>	<r><s n=""/><s n=""/></r></p></e>-->
-<!--<e><p><l><s n=""/></l>	<r><s n=""/><s n=""/></r></p></e>-->
+<e><p><l>djór<s n="n"/><s n="nt"/></l><r>dyr<s n="n"/><s n="nt"/></r></p></e>
+<e vr="nob"><p><l>eyga<s n="n"/><s n="nt"/></l><r>øye<s n="n"/><s n="nt"/></r></p></e>
+<e vr="nno"><p><l>eyga<s n="n"/><s n="nt"/></l><r>auge<s n="n"/><s n="nt"/></r></p></e>
+<e vr="nob"><p><l>fólk<s n="n"/><s n="nt"/></l><r>mennesker<s n="n"/><s n="nt"/></r></p></e>
+<e vr="nno"><p><l>fólk<s n="n"/><s n="nt"/></l><r>menneske<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>fuglur<s n="n"/><s n="m"/></l><r>fugl<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>glaða<s n="n"/><s n="f"/></l><r>røyk<s n="n"/><s n="f"/></r></p></e>
+<e vr="nob"><p><l>hond<s n="n"/><s n="f"/></l><r>hånd<s n="n"/><s n="f"/></r></p></e>
+<e vr="nno"><p><l>hond<s n="n"/><s n="f"/></l><r>hand<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>ketta<s n="n"/><s n="f"/></l><r>katt<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>ljóð<s n="n"/><s n="nt"/></l><r>lyd<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>mamma<s n="n"/><s n="f"/></l><r>mamma<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>spurningur<s n="n"/><s n="m"/></l><r>spørsmål<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>stólur<s n="n"/><s n="m"/></l><r>stol<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>svar<s n="n"/><s n="nt"/></l><r>svar<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>træ<s n="n"/><s n="nt"/></l><r>tre<s n="n"/><s n="nt"/></r></p></e>
+<e vr="nob"><p><l>vatn<s n="n"/><s n="nt"/></l><r>vann<s n="n"/><s n="nt"/></r></p></e>
+<e vr="nno"><p><l>vatn<s n="n"/><s n="nt"/></l><r>vatn<s n="n"/><s n="nt"/></r></p></e>
+<e vr="nob"><p><l>vindeyga<s n="n"/><s n="nt"/></l><r>vindu<s n="n"/><s n="nt"/></r></p></e>
+<e vr="nno"><p><l>vindeyga<s n="n"/><s n="nt"/></l><r>vindauge<s n="n"/><s n="nt"/></r></p></e>
+
+
+
+
+
+
 
 <!-- SECTION: Proper nouns -->
 <e><p><l>Maria<s n="np"/><s n="ant"/></l><r>Maria<s n="np"/><s n="ant"/></r></p></e>
