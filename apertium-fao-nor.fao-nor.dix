@@ -24,9 +24,11 @@
   <sdef n="adv"/>
   <sdef n="acr"/>
   <sdef n="p3"/>
+  <sdef n="p2"/>
   <sdef n="sup"/>
   <sdef n="a"/>
   <sdef n="mf"/>
+  <sdef n="ref"/>
   <sdef n="sent"/>
   <sdef n="cnjcoo"/>
   <sdef n="clb"/>
@@ -185,7 +187,7 @@
 <e><p><l>síðani<s n="adv"/></l><r>da<s n="adv"/></r></p></e>
 <e vr="nob"><p><l>sjálvandi<s n="adv"/></l><r>selvfølgelig<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>sjálvandi<s n="adv"/></l><r>sjølvsagt<s n="adv"/></r></p></e>
-<e  r="nob"><p><l>sjálvt<b/>um<s n="adv"/></l><r>selv<b/>om<s n="adv"/></r></p></e>
+<e vr="nob"><p><l>sjálvt<b/>um<s n="adv"/></l><r>selv<b/>om<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>sjálvt<b/>um<s n="adv"/></l><r>sjølv<b/>om<s n="adv"/></r></p></e>
 <e><p><l>so<s n="adv"/></l><r>så<s n="adv"/></r></p></e>
 <e vr="nob"><p><l>tá<s n="adv"/></l>	<r>da<s n="adv"/></r></p></e>
