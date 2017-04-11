@@ -43,9 +43,8 @@
 <e><p><l>og<s n="cnjcoo"/></l><r>og<s n="cnjcoo"/></r></p></e>
 <e><p><l>men<s n="cnjcoo"/></l><r>men<s n="cnjcoo"/></r></p></e>
 <e><p><l>ella<s n="cnjcoo"/></l><r>eller<s n="cnjcoo"/></r></p></e>
-<!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
-<!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
-<!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
+<e><p><l>báðir<s n="cnjcoo"/></l><r>både<s n="cnjcoo"/></r></p></e>
+
 
 
 <!-- SECTION: Particles -->
@@ -72,7 +71,6 @@
 <e><p><l>við<s n="pr"/></l><r>med<s n="pr"/></r></p></e>
 
 <!-- SECTION: Numerals -->
-
 <e vr="nob"><p><l>ein<s n="num"/></l><r>en<s n="num"/></r></p></e>
 <e vr="nno"><p><l>ein<s n="num"/></l><r>ein<s n="num"/></r></p></e>
 <e><p><l>tveir<s n="num"/></l>	<r>to<s n="num"/></r></p></e>
@@ -112,20 +110,23 @@
 <e><p><l>kaldur<s n="adj"/></l>	<r>kald<s n="adj"/><s n="sint"/></r></p></e>
 <e><p><l>stórur<s n="adj"/></l>	<r>stor<s n="adj"/><s n="sint"/></r></p></e>
 <e><p><l>lítil<s n="adj"/></l>	<r>litt<s n="adj"/></r></p></e>
-<e><p><l>bæði<s n="adj"/></l>	<r>begge<s n="adj"/></r></p></e>
 <e><p><l>glaður<s n="adj"/></l>	<r>glad<s n="adj"/></r></p></e>
 <!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
 <!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
 <!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
 
 <!-- SECTION: Pronouns -->
-<e><p><l>tey<s n="prn"/><s n="p3"/><s n="pl"/><s n="pers"/></l>	<r>de<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></r></p></e>
-<e><p><l>hann<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="m"/></l>	<r>han<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/></r></p></e>
-<e vr="nob"><p><l>hon<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/></l>	<r>hun<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/></r></p></e>
-<e vr="nno"><p><l>hon<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/></l>	<r>ho<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/></r></p></e>
-<e vr="nob"><p><l>eg<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></l><r>jeg<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></r></p></e>
-<e vr="nno"><p><l>eg<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></l><r>eg<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></r></p></e>
-<e><p><l>tú<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></l><r>du<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></r></p></e>
+<e><p><l>tey<s n="prn"/><s n="pl"/><s n="pers"/></l>	<r>de<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></r></p></e>
+<e><p><l>hann<s n="prn"/><s n="pers"/><s n="sg"/><s n="m"/></l>	<r>han<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/></r></p></e>
+<e vr="nob"><p><l>hon<s n="prn"/><s n="pers"/><s n="sg"/><s n="f"/></l>	<r>hun<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/></r></p></e>
+<e vr="nno"><p><l>hon<s n="prn"/><s n="pers"/><s n="sg"/><s n="f"/></l>	<r>ho<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/></r></p></e>
+<e vr="nob"><p><l>eg<s n="prn"/><s n="pers"/><s n="sg"/></l><r>jeg<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></r></p></e>
+<e vr="nno"><p><l>eg<s n="prn"/><s n="pers"/><s n="sg"/></l><r>eg<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></r></p></e>
+<e><p><l>tú<s n="prn"/><s n="pers"/><s n="sg"/></l><r>du<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></r></p></e>
+<e><p><l>báðir<s n="prn"/><s n="ind"/></l><r>begge<s n="prn"/><s n="ind"/></r></p></e>
+<e><p><l>seg<s n="prn"/><s n="ref"/></l><r>seg<s n="prn"/><s n="ref"/></r></p></e>
+<e><p><l>tað<s n="prn"/><s n="pers"/><s n="pl"/></l> <r>de<s n="prn"/><s n="pers"/><s n="p3"/><s n="un"/><s n="pl"/></r></p></e>
+<e><p><l>tað<s n="prn"/><s n="pers"/><s n="sg"/></l> <r>den<s n="prn"/><s n="pers"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
 
 
 <!-- SECTION: Adverbs -->
@@ -232,12 +233,6 @@
 <e vr="nno"><p><l>tosa<s n="vblex"/></l><r>snakka<s n="vblex"/></r></p></e>
 <e><p><l>veiða<s n="vblex"/></l><r>fange<s n="vblex"/></r></p></e>
 <e><p><l>vilja<s n="vblex"/></l><r>vil<s n="vblex"/></r></p></e>
-
-
-
-<!-- SECTION: Determiners? -->
-<e><p><l>tað<s n="prn"/><s n="pers"/><s n="pl"/></l> <r>de<s n="prn"/><s n="pers"/><s n="p3"/><s n="un"/><s n="pl"/></r></p></e>
-<e><p><l>tað<s n="prn"/><s n="pers"/><s n="sg"/></l> <r>den<s n="prn"/><s n="pers"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
 
 
 <!-- SECTION: Punctuation -->
