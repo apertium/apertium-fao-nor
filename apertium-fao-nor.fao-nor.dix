@@ -177,7 +177,7 @@
 <!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
 
 <!-- SECTION: Determiners? -->
-<e><p><l>tað<s n="prn"/><s n="pers"/><s n="p1"/></l> <r>de<s n="prn"/><s n="pers"/><s n="p3"/><s n="un"/><s n="pl"/></r></p></e>
+<e><p><l>tað<s n="prn"/><s n="pers"/><s n="pl"/></l> <r>de<s n="prn"/><s n="pers"/><s n="p3"/><s n="un"/><s n="pl"/></r></p></e>
 <e><p><l>tað<s n="prn"/><s n="pers"/><s n="sg"/></l> <r>den<s n="prn"/><s n="pers"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
 
 
