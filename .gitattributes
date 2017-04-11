@@ -16,6 +16,7 @@
 /apertium-fao-nor.nob-fao.t3x -text
 /autogen.sh -text
 /configure.ac -text
+dev/apertium-fao-nor.fao-nob.t1x -text
 dev/bidix/adj.list -text
 dev/bidix/adj.scored.list -text
 dev/bidix/adv.list -text
