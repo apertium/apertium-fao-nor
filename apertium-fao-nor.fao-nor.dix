@@ -56,6 +56,9 @@
      <e><p><l><s n="comp"/></l><r><s n="comp"/></r></p></e>
      <e><p><l><s n="sup"/></l><r><s n="sup"/></r></p></e>
    </pardef>
+   <pardef n="num:det_qnt">
+     <e><p><l></l><r><s n="un"/><s n="pl"/></r></p></e>
+   </pardef>
 </pardefs>
 <section id="main" type="standard">
 
@@ -131,9 +134,9 @@
 <!-- SECTION: Numerals -->
 <e vr="nob"><p><l>eitt<s n="num"/></l><r>en<s n="det"/><s n="qnt"/></r></p></e>
 <e vr="nno"><p><l>eitt<s n="num"/></l><r>ein<s n="det"/><s n="qnt"/></r></p></e>
-<e><p><l>tveir<s n="num"/></l>	<r>to<s n="det"/><s n="qnt"/></r></p></e>
-<e><p><l>fimm<s n="num"/></l>	<r>fem<s n="det"/><s n="qnt"/></r></p></e>
-<e><p><l>seks<s n="num"/></l>	<r>seks<s n="det"/><s n="qnt"/></r></p></e>
+<e><p><l>tveir<s n="num"/></l>	<r>to<s n="det"/><s n="qnt"/></r></p><par n="num:det_qnt"/></e>
+<e><p><l>fimm<s n="num"/></l>	<r>fem<s n="det"/><s n="qnt"/></r></p><par n="num:det_qnt"/></e>
+<e><p><l>seks<s n="num"/></l>	<r>seks<s n="det"/><s n="qnt"/></r></p><par n="num:det_qnt"/></e>
 
 
 <!-- SECTION: Nouns -->
