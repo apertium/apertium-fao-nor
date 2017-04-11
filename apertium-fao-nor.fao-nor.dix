@@ -119,13 +119,13 @@
 <!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
 
 <!-- SECTION: Pronouns -->
-<e><p><l>tey<s n="prn"/><s n="p3"/><s n="pl"/></l>	<r>de<s n="prn"/><s n="p3"/><s n="pl"/></r></p></e>
-<e><p><l>hann<s n="prn"/><s n="p3"/><s n="sg"/><s n="m"/></l>	<r>han<s n="prn"/><s n="p3"/><s n="sg"/><s n="f"/></r></p></e>
-<e vr="nob"><p><l>hon<s n="prn"/><s n="p3"/><s n="sg"/><s n="f"/></l>	<r>hun<s n="prn"/><s n="p3"/><s n="sg"/><s n="f"/></r></p></e>
-<e vr="nno"><p><l>hon<s n="prn"/><s n="p3"/><s n="sg"/><s n="f"/></l>	<r>ho<s n="prn"/><s n="p3"/><s n="sg"/><s n="f"/></r></p></e>
-<!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
-<!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
-
+<e><p><l>tey<s n="prn"/><s n="p3"/><s n="pl"/><s n="pers"/></l>	<r>de<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></r></p></e>
+<e><p><l>hann<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="m"/></l>	<r>han<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/></r></p></e>
+<e vr="nob"><p><l>hon<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/></l>	<r>hun<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/></r></p></e>
+<e vr="nno"><p><l>hon<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/></l>	<r>ho<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/></r></p></e>
+<e vr="nob"><p><l>eg<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></l><r>jeg<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></r></p></e>
+<e vr="nno"><p><l>eg<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></l><r>eg<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></r></p></e>
+<e><p><l>tú<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></l><r>du<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></r></p></e>
 
 
 <!-- SECTION: Adverbs -->
