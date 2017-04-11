@@ -83,6 +83,7 @@
 <e vr="nno"><p><l>týsdagur<s n="n"/><s n="m"/></l>	<r>tysdag<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>havi<s n="n"/><s n="m"/></l>	<r>hage<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hundur<s n="n"/><s n="m"/></l>	<r>hund<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>dagur<s n="n"/><s n="m"/></l>	<r>dag<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hús<s n="n"/><s n="nt"/></l>	<r>hus<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>træ<s n="n"/><s n="nt"/></l>	<r>tre<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>veður<s n="n"/><s n="nt"/></l>	<r>vær<s n="n"/><s n="nt"/></r></p></e>
@@ -158,12 +159,18 @@
 <e><p><l>fara<s n="vblex"/></l><r>fare<s n="vblex"/></r></p></e>
 <e><p><l>fara<s n="vblex"/></l><r>gå<s n="vblex"/></r></p></e>
 <e><p><l>kunna<s n="vblex"/></l>	<r>kan<s n="vblex"/></r></p></e>
+<e><p><l>fáa<s n="vblex"/></l>	<r>få<s n="vblex"/></r></p></e>
 <e vr="nob"><p><l>spæla<s n="vblex"/></l>	<r>leke<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>spæla<s n="vblex"/></l>	<r>leike<s n="vblex"/></r></p></e>
 <e vr="nob"><p><l>elska<s n="vblex"/></l>	<r>elske<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>elska<s n="vblex"/></l>	<r>elska<s n="vblex"/></r></p></e>
 <e vr="nob"><p><l>eiga<s n="vblex"/></l>	<r>eie<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>eiga<s n="vblex"/></l>	<r>eige<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>drekka<s n="vblex"/></l>	<r>drikke<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>drekka<s n="vblex"/></l>	<r>drykke<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>eta<s n="vblex"/></l>	<r>spise<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>eta<s n="vblex"/></l>	<r>spise<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>eta<s n="vblex"/></l>	<r>ete<s n="vblex"/></r></p></e>
 <!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
 <!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
 <!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
