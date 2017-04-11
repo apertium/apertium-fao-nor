@@ -5,11 +5,13 @@
   <sdef n="pr"/>
   <sdef n="pprs"/>
   <sdef n="pp"/>
-  <sdef n="comp"/>
   <sdef n="vblex"/>
   <sdef n="pers"/>
   <sdef n="sint"/>
   <sdef n="un"/>
+  <sdef n="sup"/>
+  <sdef n="comp"/>
+  <sdef n="pst"/>
   <sdef n="apos"/>
   <sdef n="ij"/>
   <sdef n="sg"/>
@@ -33,7 +35,6 @@
   <sdef n="acr"/>
   <sdef n="p3"/>
   <sdef n="p2"/>
-  <sdef n="sup"/>
   <sdef n="a"/>
   <sdef n="mf"/>
   <sdef n="ref"/>
@@ -48,6 +49,13 @@
   <sdef n="np"/>
   <sdef n="part"/>
 </sdefs>
+<pardefs>
+   <pardef n="adj:adj_sint">
+     <e><p><l></l><r><s n="pst"/></r></p></e>
+     <e><p><l><s n="comp"/></l><r><s n="comp"/></r></p></e>
+     <e><p><l><s n="sup"/></l><r><s n="sup"/></r></p></e>
+   </pardef>
+</pardefs>
 <section id="main" type="standard">
 
 
@@ -213,11 +221,11 @@
 
 
 <!-- SECTION: Adjectives -->
-<e><p><l>gamal<s n="adj"/></l>	<r>gammel<s n="adj"/><s n="sint"/></r></p></e>
-<e><p><l>góður<s n="adj"/></l>	<r>god<s n="adj"/><s n="sint"/></r></p></e>
-<e><p><l>heitur<s n="adj"/></l>	<r>varm<s n="adj"/><s n="sint"/></r></p></e>
-<e><p><l>kaldur<s n="adj"/></l>	<r>kald<s n="adj"/><s n="sint"/></r></p></e>
-<e><p><l>stórur<s n="adj"/></l>	<r>stor<s n="adj"/><s n="sint"/></r></p></e>
+<e><p><l>gamal<s n="adj"/></l>	<r>gammel<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>góður<s n="adj"/></l>	<r>god<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>heitur<s n="adj"/></l>	<r>varm<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>kaldur<s n="adj"/></l>	<r>kald<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>stórur<s n="adj"/></l>	<r>stor<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>lítil<s n="adj"/></l>	<r>litt<s n="adj"/></r></p></e>
 <e><p><l>glaður<s n="adj"/></l>	<r>glad<s n="adj"/></r></p></e>
 <e vr="nob"><p><l>annar<s n="adj"/></l><r>annen<s n="adj"/></r></p></e>
