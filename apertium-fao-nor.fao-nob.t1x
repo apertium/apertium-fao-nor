@@ -87,9 +87,9 @@
       </action>
     </rule>
 
-	<rule comment="REMOVE <ind>">
+	<rule comment="REMOVE ind">
 	  <pattern>
-	  	<pattern-item n="verb">
+	  	<pattern-item n="verb"/>
 	  </pattern>
 	  <action>
 	    <call-macro n="rm_ind">
@@ -97,7 +97,7 @@
         </call-macro>
 	    <out>
 	      <lu>
-	      	<clip pos=1 side='tl' part='whole'>
+	      	<clip pos="1" side="tl" part="whole"/>
 	      </lu>
 	    </out>
 	  </action>
