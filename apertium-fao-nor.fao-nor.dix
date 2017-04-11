@@ -159,12 +159,48 @@
 <e vr="nob"><p><l>hond<s n="n"/><s n="f"/></l><r>hånd<s n="n"/><s n="f"/></r></p></e>
 <e vr="nno"><p><l>hond<s n="n"/><s n="f"/></l><r>hand<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ketta<s n="n"/><s n="f"/></l><r>katt<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>ljóð<s n="n"/><s n="nt"/></l><r>lyd<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>mamma<s n="n"/><s n="f"/></l><r>mamma<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>spurningur<s n="n"/><s n="m"/></l><r>spørsmål<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>ljóð<s n="n"/><s n="nt"/></l><r>lyd<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>mamma<s n="n"/><s n="f"/></l><r>mamma<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>spurningur<s n="n"/><s n="m"/></l><r>spørsmål<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>stólur<s n="n"/><s n="m"/></l><r>stol<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>svar<s n="n"/><s n="nt"/></l><r>svar<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>træ<s n="n"/><s n="nt"/></l><r>tre<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>ár<s n="n"/><s n="nt"/></l><r>år<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>øld<s n="n"/><s n="nt"/></l><r>alder<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Føroyar<s n="n"/><s n="f"/></l><r>Færøyane<s n="np"/><s n="pl"/></r></p></e>
+<e><p><l>land<s n="n"/><s n="nt"/></l><r>land<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>fólk<s n="n"/><s n="nt"/></l><r>folk<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>kommuna<s n="n"/><s n="m"/></l><r>kommune<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>býur<s n="n"/><s n="m"/></l><r>by<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>mál<s n="n"/><s n="nt"/></l><r>mål<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>tann<s n="n"/><s n="f"/></l><r>tann<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>heimur<s n="n"/><s n="m"/></l><r>verd<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>heimur<s n="n"/><s n="m"/></l><r>verden<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>partur<s n="n"/><s n="m"/></l><r>part<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>ferð<s n="n"/><s n="f"/></l><r>ferd<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>heim<s n="n"/><s n="nt"/></l><r>heim<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>bygd<s n="n"/><s n="f"/></l><r>bygd<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>oyggj<s n="n"/><s n="f"/></l><r>øy<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>maður<s n="n"/><s n="m"/></l><r>mann<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>felag<s n="n"/><s n="m"/></l><r>felle<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Svøríki<s n="n"/><s n="m"/></l><r>Sverige<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>navn<s n="n"/><s n="nt"/></l><r>namn<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>kirkja<s n="n"/><s n="f"/></l><r>kyrkje<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>kirkja<s n="n"/><s n="f"/></l><r>kirke<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>sangur<s n="n"/><s n="m"/></l><r>sang<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>bólkur<s n="n"/><s n="m"/></l><r>bolk<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>filmur<s n="n"/><s n="m"/></l><r>film<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>søga<s n="n"/><s n="f"/></l><r>soge<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>flokkur<s n="n"/><s n="m"/></l><r>flokk<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>flokkur<s n="n"/><s n="m"/></l><r>parti<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>dømi<s n="n"/><s n="nt"/></l><r>eksempel<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>barn<s n="n"/><s n="nt"/></l><r>barn<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>havn<s n="n"/><s n="nt"/></l><r>hamn<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>januar<s n="n"/><s n="m"/></l><r>januar<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>august<s n="n"/><s n="m"/></l><r>august<s n="n"/><s n="nt"/></r></p></e>
+
+
+
 <e vr="nob"><p><l>vatn<s n="n"/><s n="nt"/></l><r>vann<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nno"><p><l>vatn<s n="n"/><s n="nt"/></l><r>vatn<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nob"><p><l>vindeyga<s n="n"/><s n="nt"/></l><r>vindu<s n="n"/><s n="nt"/></r></p></e>
