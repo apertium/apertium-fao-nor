@@ -189,10 +189,51 @@
 <e vr="nob"><p><l>eta<s n="vblex"/></l>	<r>spise<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>eta<s n="vblex"/></l>	<r>spise<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>eta<s n="vblex"/></l>	<r>ete<s n="vblex"/></r></p></e>
-<!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
-<!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
-<!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
-<!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
+<e><p><l>dáma<s n="vblex"/></l><r>like<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>duga<s n="vblex"/></l><r>vet<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>duga<s n="vblex"/></l><r>veit<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>fjala<s n="vblex"/></l><r>gjemme<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>fjala<s n="vblex"/></l><r>gøyma<s n="vblex"/></r></p></e>
+<e><p><l>flenna<s n="vblex"/></l><r>le<s n="vblex"/></r></p></e>
+<e><p><l>ganga<s n="vblex"/></l><r>gå<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>gera<s n="vblex"/></l><r>gjøre<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>gera<s n="vblex"/></l><r>gjera<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>halda<s n="vblex"/></l><r>synes<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>halda<s n="vblex"/></l><r>synst<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>hella<s n="vblex"/></l><r>helle<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>hella<s n="vblex"/></l><r>hella<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>hoyra<s n="vblex"/></l><r>høre<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>hoyra<s n="vblex"/></l><r>høyra<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>hyggja<s n="vblex"/></l><r>se<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>hyggja<s n="vblex"/></l><r>sjå<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>koma<s n="vblex"/></l><r>komme<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>koma<s n="vblex"/></l><r>koma<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>leita<s n="vblex"/></l><r>søke<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>leita<s n="vblex"/></l><r>søkja<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>líta<s n="vblex"/></l><r>se<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>líta<s n="vblex"/></l><r>sjå<s n="vblex"/></r></p></e>
+<e><p><l>ljóða<s n="vblex"/></l><r>@ljóða<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>lurta<s n="vblex"/></l><r>lytte<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>lurta<s n="vblex"/></l><r>laut<s n="vblex"/></r></p></e>
+<e><p><l>mega<s n="vblex"/></l><r>må<s n="vblex"/></r></p></e>
+<e><p><l>royna<s n="vblex"/></l><r>prøve<s n="vblex"/></r></p></e>
+<e><p><l>siga<s n="vblex"/></l><r>si<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>sita<s n="vblex"/></l><r>sitte<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>sita<s n="vblex"/></l><r>sitja<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>sova<s n="vblex"/></l><r>sover<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>sova<s n="vblex"/></l><r>søv<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>spyrja<s n="vblex"/></l><r>spørre<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>spyrja<s n="vblex"/></l><r>spørja<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>svara<s n="vblex"/></l><r>svare<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>svara<s n="vblex"/></l><r>svara<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>telja<s n="vblex"/></l><r>telle<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>telja<s n="vblex"/></l><r>telja<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>tosa<s n="vblex"/></l><r>snakke<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>tosa<s n="vblex"/></l><r>snakka<s n="vblex"/></r></p></e>
+<e><p><l>veiða<s n="vblex"/></l><r>fange<s n="vblex"/></r></p></e>
+<e><p><l>vilja<s n="vblex"/></l><r>vil<s n="vblex"/></r></p></e>
+
+
 
 <!-- SECTION: Determiners? -->
 <e><p><l>tað<s n="prn"/><s n="pers"/><s n="pl"/></l> <r>de<s n="prn"/><s n="pers"/><s n="p3"/><s n="un"/><s n="pl"/></r></p></e>
