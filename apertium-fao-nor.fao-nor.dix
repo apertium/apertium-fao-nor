@@ -43,8 +43,6 @@
 <e><p><l>og<s n="cnjcoo"/></l><r>og<s n="cnjcoo"/></r></p></e>
 <e><p><l>men<s n="cnjcoo"/></l><r>men<s n="cnjcoo"/></r></p></e>
 <e><p><l>ella<s n="cnjcoo"/></l><r>eller<s n="cnjcoo"/></r></p></e>
-<e vr="nob"><p><l>tá<s n="cnjcoo"/></l>	<r>da<s n="cnjcoo"/></r></p></e>
-<e vr="nno"><p><l>tá<s n="cnjcoo"/></l>	<r>då<s n="cnjcoo"/></r></p></e>
 <!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
 <!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
 <!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
@@ -75,8 +73,10 @@
 
 <e vr="nob"><p><l>ein<s n="num"/></l><r>en<s n="num"/></r></p></e>
 <e vr="nno"><p><l>ein<s n="num"/></l><r>ein<s n="num"/></r></p></e>
-<e><p><l>seks<s n="num"/></l>	<r>seks<s n="num"/></r></p></e>
+<e><p><l>tveir<s n="num"/></l>	<r>to<s n="num"/></r></p></e>
 <e><p><l>fimm<s n="num"/></l>	<r>fem<s n="num"/></r></p></e>
+<e><p><l>seks<s n="num"/></l>	<r>seks<s n="num"/></r></p></e>
+
 
 <!-- SECTION: Nouns -->
 <e vr="nob"><p><l>týsdagur<s n="n"/><s n="m"/></l>	<r>tirsdag<s n="n"/><s n="m"/></r></p></e>
@@ -93,7 +93,7 @@
 <e><p><l>gentan<s n="n"/><s n="f"/></l>	<r>jente<s n="n"/><s n="mf"/></r></p></e>
 <e vr="nob"><p><l>systir<s n="n"/><s n="f"/></l>	<r>søster<s n="n"/><s n="mf"/></r></p></e>
 <e vr="nno"><p><l>systir<s n="n"/><s n="f"/></l>	<r>syster<s n="n"/><s n="mf"/></r></p></e>
-<!--<e><p><l><s n=""/></l>	<r><s n=""/><s n=""/></r></p></e>-->
+<e><p><l>barn<s n="n"/><s n="nt"/></l>	<r>barn<s n="n"/><s n="nt"/></r></p></e>
 <!--<e><p><l><s n=""/></l>	<r><s n=""/><s n=""/></r></p></e>-->
 <!--<e><p><l><s n=""/></l>	<r><s n=""/><s n=""/></r></p></e>-->
 <!--<e><p><l><s n=""/></l>	<r><s n=""/><s n=""/></r></p></e>-->
@@ -110,9 +110,8 @@
 <e><p><l>kaldur<s n="adj"/></l>	<r>kald<s n="adj"/><s n="sint"/></r></p></e>
 <e><p><l>stórur<s n="adj"/></l>	<r>stor<s n="adj"/><s n="sint"/></r></p></e>
 <e><p><l>lítil<s n="adj"/></l>	<r>litt<s n="adj"/></r></p></e>
-<!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
-<!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
-<!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
+<e><p><l>bæði<s n="adj"/></l>	<r>begge<s n="adj"/></r></p></e>
+<e><p><l>glaður<s n="adj"/></l>	<r>glad<s n="adj"/></r></p></e>
 <!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
 <!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
 <!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
@@ -148,8 +147,28 @@
 <e vr="nno"><p><l>eisini<s n="adv"/></l>	<r>òg<s n="adv"/></r></p></e>
 <e vr="nob"><p><l>nú<s n="adv"/></l>	<r>nå<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>nú<s n="adv"/></l>	<r>no<s n="adv"/></r></p></e>
-<!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
-<!--<e><p><l><s n=""/></l>	<r><s n=""/></r></p></e>-->
+
+<e><p><l>aftur<s n="adv"/></l><r>igjen<s n="adv"/></r></p></e>
+<e><p><l>allastaðni<s n="adv"/></l><r>overalt<s n="adv"/></r></p></e>
+<e><p><l>har<s n="adv"/></l><r>der<s n="adv"/></r></p></e>
+<e><p><l>ið<s n="adv"/></l><r>at<s n="adv"/></r></p></e>
+<e><p><l>innanfyri<s n="adv"/></l><r>innsiden<s n="adv"/></r></p></e>
+<e vr="nob"><p><l>nærri<s n="adv"/></l><r>nærmere<s n="adv"/></r></p></e>
+<e vr="nno"><p><l>nærri<s n="adv"/></l><r>nærare<s n="adv"/></r></p></e>
+<e><p><l>ongantíð<s n="adv"/></l><r>aldri<s n="adv"/></r></p></e>
+<e><p><l>síðani<s n="adv"/></l><r>da<s n="adv"/></r></p></e>
+<e vr="nob"><p><l>sjálvandi<s n="adv"/></l><r>selvfølgelig<s n="adv"/></r></p></e>
+<e vr="nno"><p><l>sjálvandi<s n="adv"/></l><r>sjølvsagt<s n="adv"/></r></p></e>
+<e  r="nob"><p><l>sjálvt<b/>um<s n="adv"/></l><r>selv<b/>om<s n="adv"/></r></p></e>
+<e vr="nno"><p><l>sjálvt<b/>um<s n="adv"/></l><r>sjølv<b/>om<s n="adv"/></r></p></e>
+<e><p><l>so<s n="adv"/></l><r>så<s n="adv"/></r></p></e>
+<e vr="nob"><p><l>tá<s n="adv"/></l>	<r>da<s n="adv"/></r></p></e>
+<e vr="nno"><p><l>tá<s n="adv"/></l>	<r>då<s n="adv"/></r></p></e>
+<e><p><l>út<s n="adv"/></l><r>ute<s n="adv"/></r></p></e>
+<e><p><l>úti<s n="adv"/></l><r>ute<s n="adv"/></r></p></e>
+
+
+
 
 <!-- SECTION: Verbs -->
 <e><p><l>hava<s n="vblex"/></l><r>ha<s n="vblex"/></r></p></e>
