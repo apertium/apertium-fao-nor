@@ -129,11 +129,11 @@
 
 
 <!-- SECTION: Numerals -->
-<e vr="nob"><p><l>eitt<s n="num"/></l><r>en<s n="num"/></r></p></e>
-<e vr="nno"><p><l>eitt<s n="num"/></l><r>ein<s n="num"/></r></p></e>
-<e><p><l>tveir<s n="num"/></l>	<r>to<s n="num"/></r></p></e>
-<e><p><l>fimm<s n="num"/></l>	<r>fem<s n="num"/></r></p></e>
-<e><p><l>seks<s n="num"/></l>	<r>seks<s n="num"/></r></p></e>
+<e vr="nob"><p><l>eitt<s n="num"/></l><r>en<s n="det"/><s n="qnt"/></r></p></e>
+<e vr="nno"><p><l>eitt<s n="num"/></l><r>ein<s n="det"/><s n="qnt"/></r></p></e>
+<e><p><l>tveir<s n="num"/></l>	<r>to<s n="det"/><s n="qnt"/></r></p></e>
+<e><p><l>fimm<s n="num"/></l>	<r>fem<s n="det"/><s n="qnt"/></r></p></e>
+<e><p><l>seks<s n="num"/></l>	<r>seks<s n="det"/><s n="qnt"/></r></p></e>
 
 
 <!-- SECTION: Nouns -->
@@ -535,7 +535,7 @@
 <e vr="nno"><p><l>leita<s n="vblex"/></l><r>søkje<s n="vblex"/></r></p></e>
 <e vr="nob"><p><l>líta<s n="vblex"/></l><r>se<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>líta<s n="vblex"/></l><r>sjå<s n="vblex"/></r></p></e>
-<e><p><l>ljóða<s n="vblex"/></l><r>@ljóða<s n="vblex"/></r></p></e>
+<!--<e><p><l>ljóða<s n="vblex"/></l><r>@ljóða<s n="vblex"/></r></p></e>-->
 <e vr="nob"><p><l>lurta<s n="vblex"/></l><r>lytte<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>lurta<s n="vblex"/></l><r>laut<s n="vblex"/></r></p></e>
 <e><p><l>mega<s n="vblex"/></l><r>måtte<s n="vblex"/></r></p></e>
