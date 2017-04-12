@@ -102,7 +102,8 @@
          <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
       </when>
       <when>
-         <test><equal><clip pos="1" side="tl" part="a_grau"/><lit-tag v="pst"/></equal></test>
+         <test><and><equal><clip pos="1" side="tl" part="a_grau"/><lit-tag v="pst"/></equal>
+         	<equal><clip pos="1" side="tl" part="a_def"/><lit-tag v="def"/></equal></and></test>
          <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="un"/></let>
          <let><clip pos="1" side="tl" part="a_num"/><lit-tag v="sp"/></let>
          <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
