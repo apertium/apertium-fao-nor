@@ -43,6 +43,27 @@
       <attr-item tags="p2"/>
       <attr-item tags="p3"/>
     </def-attr>
+    <def-attr n="a_num">
+      <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
+      <attr-item tags="sp"/>
+    </def-attr>
+    <def-attr n="a_grau">
+  	  <attr-item tags="comp"/>
+  	  <attr-item tags="sup"/>
+  	  <attr-item tags="pst"/>
+	</def-attr>
+    <def-attr n="a_gen">
+  	  <attr-item tags="f"/>
+  	  <attr-item tags="m"/>
+  	  <attr-item tags="nt"/>
+  	  <attr-item tags="un"/>
+	</def-attr>
+	<def-attr n="a_def">
+  	  <attr-item tags="ind"/>
+  	  <attr-item tags="def"/>
+	</def-attr>
+
   </section-def-attrs>
 
   <section-def-vars>
@@ -65,7 +86,47 @@
     </def-macro>
     
     <def-macro n="rm_case" npar="1">
+      <choose>
+  <when> <!-- 1-->
+     <test><equal><clip pos="1" side="tl" part="a_grau"/><lit-tag v="comp"/></equal></test>
+     <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="un"/></let>
+     <let><clip pos="1" side="tl" part="a_num"/><lit-tag v="sp"/></let>
+     <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
+     <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+  </when>
+  <when> <!--2,3-->
+     <test><equal><clip pos="1" side="tl" part="a_grau"/><lit-tag v="sup"/></equal></test>
+     <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="un"/></let>
+     <let><clip pos="1" side="tl" part="a_num"/><lit-tag v="sp"/></let>
+     <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+  </when>
+  <when><!-- 4-->
+     <test><equal><clip pos="1" side="tl" part="a_grau"/><lit-tag v="pst"/></equal></test>
+     <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="un"/></let>
+     <let><clip pos="1" side="tl" part="a_num"/><lit-tag v="sp"/></let>
+     <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+  </when>
+  <when><!--5,6-->
+      <test><and><equal><clip pos="1" side="tl" part="a_grau"/><lit-tag v="pst"/></equal>
+          <or><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="f"/></equal>
+              <equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="m"/></equal></or>
+              <equal><clip pos="1" side="tl" part="a_num"/><lit-tag v="sg"/></equal></and></test>
+      <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="mf"/></let>
+     <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+  </when>
+    <when><!--7-->
+      <test><and><equal><clip pos="1" side="tl" part="a_grau"/><lit-tag v="pst"/></equal>
+          <equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="nt"/></equal>
+          <equal><clip pos="1" side="tl" part="a_num"/><lit-tag v="sg"/></equal></and></test>
+     <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+  </when>
+  <when><!--8-->
+      <test><and><equal><clip pos="1" side="tl" part="a_grau"/><lit-tag v="pst"/></equal>
+          <equal><clip pos="1" side="tl" part="a_num"/><lit-tag v="pl"/></equal></and></test>
       <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+      <let><clip pos="1" side="tl" part="a_gen"/><lit v="un"/></let>
+  </when>
+</choose>
     </def-macro>
     
     <def-macro n="rm_v_num" npar="1">
