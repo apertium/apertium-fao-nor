@@ -231,7 +231,7 @@
 <e><p><l>kalur<s n="adj"/></l>	<r>kald<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>kaldur<s n="adj"/></l>	<r>kald<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>stórur<s n="adj"/></l>	<r>stor<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e><p><l>lítil<s n="adj"/></l>	<r>litt<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>lítil<s n="adj"/></l>	<r>liten<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>glaður<s n="adj"/></l>	<r>glad<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e vr="nob"><p><l>annar<s n="adj"/></l><r>annen<s n="adj"/></r></p></e>
 <e vr="nno"><p><l>annar<s n="adj"/></l><r>annan<s n="adj"/></r></p></e>
