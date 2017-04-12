@@ -435,6 +435,8 @@
 <e><p><l>seg<s n="prn"/><s n="ref"/></l><r>seg<s n="prn"/><s n="ref"/></r></p></e>
 <e><p><l>tað<s n="prn"/><s n="pers"/><s n="pl"/></l> <r>de<s n="prn"/><s n="pers"/><s n="p3"/><s n="un"/><s n="pl"/></r></p></e>
 <e><p><l>tað<s n="prn"/><s n="pers"/><s n="sg"/></l> <r>den<s n="prn"/><s n="pers"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
+<e vr="nob"><p><l>hvør<s n="prn"/><s n="itg"/></l><r>hva<s n="prn"/><s n="itg"/></r></p></e>
+<e vr="nno"><p><l>hvør<s n="prn"/><s n="itg"/></l><r>kva<s n="prn"/><s n="itg"/></r></p></e>
 
 <!-- SECTION: Determiners-->
 
