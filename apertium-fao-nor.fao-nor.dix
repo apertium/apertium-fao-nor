@@ -14,6 +14,7 @@
   <sdef n="pst"/>
   <sdef n="apos"/>
   <sdef n="ij"/>
+  <sdef n="sp"/>
   <sdef n="sg"/>
   <sdef n="cm"/>
   <sdef n="num"/>
@@ -432,7 +433,7 @@
 <e vr="nno"><p><l>eg<s n="prn"/><s n="pers"/><s n="sg"/></l><r>eg<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
 <e><p><l>tú<s n="prn"/><s n="pers"/><s n="sg"/></l><r>du<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
 <e><p><l>báðir<s n="prn"/><s n="ind"/></l><r>begge<s n="prn"/><s n="ind"/></r></p></e>
-<e><p><l>seg<s n="prn"/><s n="ref"/></l><r>seg<s n="prn"/><s n="ref"/></r></p></e>
+<e><p><l>seg<s n="prn"/><s n="ref"/></l><r>seg<s n="prn"/><s n="ref"/><s n="p3"/><s n="un"/><s n="sp"/></r></p></e>
 <e><p><l>tað<s n="prn"/><s n="pers"/><s n="pl"/></l> <r>de<s n="prn"/><s n="pers"/><s n="p3"/><s n="un"/><s n="pl"/></r></p></e>
 <e><p><l>tað<s n="prn"/><s n="pers"/><s n="sg"/></l> <r>den<s n="prn"/><s n="pers"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
 <e vr="nob"><p><l>hvør<s n="prn"/><s n="itg"/></l><r>hva<s n="prn"/><s n="itg"/></r></p></e>
