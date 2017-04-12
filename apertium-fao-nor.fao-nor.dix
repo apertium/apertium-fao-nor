@@ -231,15 +231,14 @@
 <e><p><l>kalur<s n="adj"/></l>	<r>kald<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>kaldur<s n="adj"/></l>	<r>kald<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>stórur<s n="adj"/></l>	<r>stor<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e><p><l>lítil<s n="adj"/></l>	<r>litt<s n="adj"/></r></p></e>
-<e><p><l>glaður<s n="adj"/></l>	<r>glad<s n="adj"/></r></p></e>
+<e><p><l>lítil<s n="adj"/></l>	<r>litt<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>glaður<s n="adj"/></l>	<r>glad<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e vr="nob"><p><l>annar<s n="adj"/></l><r>annen<s n="adj"/></r></p></e>
 <e vr="nno"><p><l>annar<s n="adj"/></l><r>annan<s n="adj"/></r></p></e>
 <e><p><l>liðugur<s n="adj"/></l><r>ferdig<s n="adj"/></r></p></e>
 <e><p><l>skjótur<s n="adj"/></l><r>rask<s n="adj"/></r></p></e>
 <e><p><l>nógvur<s n="adj"/></l><r>mange<s n="adj"/></r></p></e>
-<e><p><l>stórur<s n="adj"/></l><r>stor<s n="adj"/></r></p></e>
-<e><p><l>mikil<s n="adj"/></l><r>stor<s n="adj"/></r></p></e>
+<e><p><l>mikil<s n="adj"/></l><r>stor<s n="adj"/><s n="sint"/></r></p></e>
 <e><p><l>fyrstur<s n="adj"/></l><r>først<s n="adj"/></r></p></e>
 <e><p><l>mangur<s n="adj"/></l><r>mange<s n="adj"/></r></p></e>
 <e><p><l>føroyskur<s n="adj"/></l><r>færøysk<s n="adj"/></r></p></e>
@@ -247,7 +246,7 @@
 <e><p><l>seinur<s n="adj"/></l><r>sein<s n="adj"/></r></p></e>
 <e><p><l>samur<s n="adj"/></l><r>same<s n="adj"/></r></p></e>
 <e><p><l>danskur<s n="adj"/></l><r>dansk<s n="adj"/></r></p></e>
-<e><p><l>langur<s n="adj"/></l><r>lang<s n="adj"/></r></p></e>
+<e><p><l>langur<s n="adj"/></l><r>lang<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>nýggjur<s n="adj"/></l><r>ny<s n="adj"/></r></p></e>
 <e><p><l>berur<s n="adj"/></l><r>bar<s n="adj"/></r></p></e>
 <e><p><l>serur<s n="adj"/></l><r>sær<s n="adj"/></r></p></e>
