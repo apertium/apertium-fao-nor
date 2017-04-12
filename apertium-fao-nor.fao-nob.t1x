@@ -56,6 +56,7 @@
     <def-attr n="a_gen">
   	  <attr-item tags="f"/>
   	  <attr-item tags="m"/>
+  	  <attr-item tags="mf"/>
   	  <attr-item tags="nt"/>
   	  <attr-item tags="un"/>
 	</def-attr>
