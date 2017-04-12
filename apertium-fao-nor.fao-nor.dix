@@ -168,7 +168,6 @@
 <e vr="nob"><p><l>fólk<s n="n"/><s n="nt"/></l><r>mennesker<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nno"><p><l>fólk<s n="n"/><s n="nt"/></l><r>menneske<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>fuglur<s n="n"/><s n="m"/></l><r>fugl<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>glaða<s n="n"/><s n="f"/></l><r>røyk<s n="n"/><s n="f"/></r></p></e>
 <e vr="nob"><p><l>hond<s n="n"/><s n="f"/></l><r>hånd<s n="n"/><s n="f"/></r></p></e>
 <e vr="nno"><p><l>hond<s n="n"/><s n="f"/></l><r>hand<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ketta<s n="n"/><s n="f"/></l><r>katt<s n="n"/><s n="m"/></r></p></e>
@@ -509,6 +508,7 @@
 <e vr="nno"><p><l>spæla<s n="vblex"/></l>	<r>leike<s n="vblex"/></r></p></e>
 <e vr="nob"><p><l>elska<s n="vblex"/></l>	<r>elske<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>elska<s n="vblex"/></l>	<r>elska<s n="vblex"/></r></p></e>
+<e><p><l>eiga<s n="vblex"/></l>	<r>ha<s n="vblex"/></r></p></e>
 <e vr="nob"><p><l>eiga<s n="vblex"/></l>	<r>eie<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>eiga<s n="vblex"/></l>	<r>eige<s n="vblex"/></r></p></e>
 <e vr="nob"><p><l>drekka<s n="vblex"/></l>	<r>drikke<s n="vblex"/></r></p></e>
