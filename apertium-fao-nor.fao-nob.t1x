@@ -410,7 +410,15 @@
     		<let><clip pos="1" side="tl" part="whole"/>
             <concat><lit v="hans"/><lit-tag v="det.pos.nt.sg"/></concat></let>
   		  </when>
-		</choose>
+  		</choose>
+        <choose>
+          <when>
+            <test><and><equal><clip pos="1" side="sl" part="tags"/><lit-tag v="prn.pers.pl.gen"/></equal>
+              <equal><clip pos="1" side="sl" part="lem"/><lit v="tað"/></equal></and></test>
+            <let><clip pos="1" side="tl" part="whole"/>
+            <concat><lit v="deres¹"/><lit-tag v="det.pos.nt.sg"/></concat></let>
+          </when>
+        </choose>
 	    <out>
 	      <chunk name="a" case="caseFirstWord">
             <tags>
