@@ -86,6 +86,16 @@
       <let><clip pos="1" side="tl" part="num"/><lit v=""/></let>
     </def-macro>
     
+    <def-macro n="rm_gender_from_plurals_and_case" npar="1">
+      <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+      <choose>
+        <when>
+          <test><equal><clip pos="1" side="tl" part="num"/><lit-tag v="pl"/></equal></test>
+          <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="un"/></let>
+        </when>
+      </choose>
+    </def-macro>
+    
     <def-macro n="rm_case" npar="1">
       <choose>
       <when> 
@@ -237,7 +247,7 @@
 	  	<pattern-item n="det"/>
 	  </pattern>
 	  <action>
-	    <call-macro n="rm_case">
+	    <call-macro n="rm_gender_from_plurals_and_case">
           <with-param pos="1"/>
         </call-macro>
 	    <out>
