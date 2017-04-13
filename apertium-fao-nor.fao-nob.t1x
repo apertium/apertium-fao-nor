@@ -15,12 +15,10 @@
     </def-cat>
     <def-cat n="det">
       <cat-item tags="det.*"/>
+      <cat-item lemma="annar" tags="adj.*"/>
     </def-cat>
     <def-cat n="numeral">
       <cat-item tags="num.*"/>
-    </def-cat>
-    <def-cat n="itg_pronoun">
-      <cat-item tags="prn-itg.*"/>
     </def-cat>
     <def-cat n="prn-itg">
       <cat-item tags="prn.itg.*"/>
