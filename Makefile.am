@@ -18,13 +18,20 @@ BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON =		\
 	$(PREFIX1b).automorf.hfst \
+	$(PREFIX1n).automorf.hfst \
 	$(PREFIX1).rlx.bin	\
 	$(PREFIX1b).autobil.bin	\
 	$(PREFIX1b).autolex.bin	\
 	$(PREFIX1b).autogen.bin	\
+	$(PREFIX1n).autobil.bin	\
+	$(PREFIX1n).autolex.bin	\
+	$(PREFIX1n).autogen.bin	\
 	$(PREFIX1b).t1x.bin	\
 	$(PREFIX1b).t2x.bin	\
 	$(PREFIX1b).t3x.bin	\
+	$(PREFIX1n).t1x.bin	\
+	$(PREFIX1n).t2x.bin	\
+	$(PREFIX1n).t3x.bin	\
 	$(PREFIX2b).automorf.bin	\
 	$(PREFIX2b).prob		\
 	$(PREFIX2b).rlx.bin	\
@@ -60,11 +67,19 @@ TARGETS_COMMON =		\
 .deps/$(PREFIX1b).automorf-trimmed.hfst: .deps/$(LANG1).automorf.hfst .deps/$(PREFIX1b).autobil.prefixes
 	hfst-compose-intersect -1 $< -2 .deps/$(PREFIX1b).autobil.prefixes -o $@
 
+.deps/$(PREFIX1n).automorf-trimmed.hfst: .deps/$(LANG1).automorf.hfst .deps/$(PREFIX1n).autobil.prefixes
+	hfst-compose-intersect -1 $< -2 .deps/$(PREFIX1n).autobil.prefixes -o $@
+
 $(PREFIX1b).automorf.hfst: .deps/$(PREFIX1b).automorf-trimmed.hfst
 	hfst-fst2fst -w -i $< -o $@
 
 $(PREFIX1b).automorf-untrimmed.hfst: .deps/$(LANG1).automorf.hfst
 	hfst-fst2fst -w -i $< -o $@
+
+$(PREFIX1n).automorf.hfst: .deps/$(PREFIX1n).automorf-trimmed.hfst
+	hfst-fst2fst -w -i $< -o $@
+
+
 
 # -------------------
 # Faroese generation:
