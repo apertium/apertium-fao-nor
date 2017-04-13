@@ -44,6 +44,10 @@
       <attr-item tags="nom"/>
       <attr-item tags="gen"/>
     </def-attr>
+    <def-attr n="a_nonfinite">
+      <attr-item tags="supn"/>
+      <attr-item tags="pp"/>
+    </def-attr>
     <def-attr n="num">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
@@ -240,6 +244,12 @@
          	<let><clip pos="1" side="tl" part="a_voice"/><lit-tag v="pasv"/></let>
      	  </when>
      	</choose>
+     	<choose>
+      	  <when> 
+         	<test><equal><clip pos="1" side="tl" part="a_nonfinite"/><lit-tag v="supn"/></equal></test>
+         	<let><clip pos="1" side="tl" part="a_nonfinite"/><lit-tag v="pp"/></let>
+     	  </when>
+     	</choose>
 	    <out>
 	      <chunk name="v" case="caseFirstWord">
             <tags>
@@ -387,6 +397,11 @@
 	    <call-macro n="turn_dat_into_acc">
           <with-param pos="1"/>
         </call-macro>
+	    <choose>
+        <when><test><equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/></equal></test>
+              <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="pos"/></let>
+        </when>
+      	</choose>
 	    <out>
 	      <chunk name="a" case="caseFirstWord">
             <tags>
