@@ -235,8 +235,8 @@
 <e><p><l>stórur<s n="adj"/></l>	<r>stor<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>lítil<s n="adj"/></l>	<r>liten<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>glaður<s n="adj"/></l>	<r>glad<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e vr="nob"><p><l>annar<s n="adj"/></l><r>annen<s n="adj"/></r></p></e>
-<e vr="nno"><p><l>annar<s n="adj"/></l><r>annan<s n="adj"/></r></p></e>
+<e vr="nob"><p><l>annar<s n="adj"/></l><r>annen<s n="det"/><s n="dem"/></r></p></e>
+<e vr="nno"><p><l>annar<s n="adj"/></l><r>annan<s n="det"/><s n="dem"/></r></p></e>
 <e><p><l>liðugur<s n="adj"/></l><r>ferdig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>skjótur<s n="adj"/></l><r>rask<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>nógvur<s n="adj"/></l><r>mange<s n="adj"/></r></p></e>

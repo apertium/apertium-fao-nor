@@ -28,6 +28,9 @@
     <def-cat n="prn-ref">
       <cat-item tags="prn.ref.*"/>
     </def-cat>
+    <def-cat n="prn-pers">
+      <cat-item tags="prn.pers.*"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -51,6 +54,9 @@
       <attr-item tags="p1"/>
       <attr-item tags="p2"/>
       <attr-item tags="p3"/>
+    </def-attr>
+    <def-attr n="a_voice">
+      <attr-item tags="pass"/>
     </def-attr>
     <def-attr n="a_num">
       <attr-item tags="sg"/>
@@ -183,6 +189,7 @@
       <let><clip pos="1" side="tl" part="num"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="v_pers"/><lit v=""/></let>
     </def-macro>
+    
   </section-def-macros>
 
 
@@ -218,7 +225,7 @@
 	  </action>      
     </rule>
 
-	<rule comment="REMOVE verb stuff">
+	<rule comment="verb stuff">
 	  <pattern>
 	  	<pattern-item n="verb"/>
 	  </pattern>
@@ -226,6 +233,12 @@
 	    <call-macro n="rm_stuff">
           <with-param pos="1"/>
         </call-macro>
+        <choose>
+      	  <when> 
+         	<test><equal><clip pos="1" side="tl" part="a_voice"/><lit-tag v="pass"/></equal></test>
+         	<let><clip pos="1" side="tl" part="a_voice"/><lit-tag v="pasv"/></let>
+     	  </when>
+     	</choose>
 	    <out>
 	      <chunk name="v" case="caseFirstWord">
             <tags>
@@ -364,6 +377,28 @@
 	    </out>
 	  </action>
 	</rule>
+	
+	<rule comment="prn-pers stuff">
+	  <pattern>
+	  	<pattern-item n="prn-pers"/>
+	  </pattern>
+	  <action>
+	    <call-macro n="turn_dat_into_acc">
+          <with-param pos="1"/>
+        </call-macro>
+	    <out>
+	      <chunk name="a" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="PersPrn"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="whole"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
+	
 	
     <rule comment="REGLA: SENT">
       <pattern>
