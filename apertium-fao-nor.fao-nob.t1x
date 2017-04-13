@@ -19,6 +19,15 @@
     <def-cat n="numeral">
       <cat-item tags="num.*"/>
     </def-cat>
+    <def-cat n="itg_pronoun">
+      <cat-item tags="prn-itg.*"/>
+    </def-cat>
+    <def-cat n="prn-itg">
+      <cat-item tags="prn.itg.*"/>
+    </def-cat>
+    <def-cat n="prn-ref">
+      <cat-item tags="prn.ref.*"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -84,6 +93,21 @@
     <def-macro n="rm_case_and_num" npar="1">
       <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="num"/><lit v=""/></let>
+    </def-macro>
+    
+    <def-macro n="rm_case_num_and_gen" npar="1">
+      <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+      <let><clip pos="1" side="tl" part="num"/><lit v=""/></let>
+      <let><clip pos="1" side="tl" part="a_gen"/><lit v=""/></let>
+    </def-macro>
+    
+    <def-macro n="turn_dat_into_acc" npar="1">
+      <choose>
+        <when>
+          <test><equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="dat"/></equal></test>
+          <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="acc"/></let>
+        </when>
+      </choose>
     </def-macro>
     
     <def-macro n="rm_gender_from_plurals_and_case" npar="1">
@@ -283,7 +307,49 @@
 	    </out>
 	  </action>
 	</rule>
-
+	
+	<rule comment="prn-ref stuff">
+	  <pattern>
+	  	<pattern-item n="prn-ref"/>
+	  </pattern>
+	  <action>
+	    <call-macro n="turn_dat_into_acc">
+          <with-param pos="1"/>
+        </call-macro>
+	    <out>
+	      <chunk name="r" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="Refprn"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="whole"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
+	
+	<rule comment="prn-itg stuff">
+	  <pattern>
+	  	<pattern-item n="prn-itg"/>
+	  </pattern>
+	  <action>
+	    <call-macro n="rm_case_num_and_gen">
+          <with-param pos="1"/>
+        </call-macro>
+	    <out>
+	      <chunk name="r" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="Itgprn"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="whole"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
+	
     <rule comment="REGLA: SENT">
       <pattern>
         <pattern-item n="sent"/>
