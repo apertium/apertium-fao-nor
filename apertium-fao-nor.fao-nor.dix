@@ -442,7 +442,7 @@
 
 <!-- SECTION: Determiners-->
 
-<e><p><l>eingin<s n="det"/></l><r>ingen<s n="det"/></r></p></e>
+<e><p><l>eingin<s n="det"/><s n="ind"/></l><r>ingen<s n="det"/><s n="qnt"/></r></p></e>
 <!--<e vr="nob"><p><l>hvør<s n="det"/></l><r>hvor<s n="det"/></r></p></e>-->
 <!--<e vr="nno"><p><l>hvør<s n="det"/></l><r>kor<s n="det"/></r></p></e>-->
 <e vr="nob"><p><l>nakar<s n="det"/></l><r>noen<s n="det"/></r></p></e>
