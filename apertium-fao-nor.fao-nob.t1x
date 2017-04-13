@@ -268,7 +268,7 @@
 	  	<pattern-item n="numeral"/>
 	  </pattern>
 	  <action>
-	    <call-macro n="rm_case">
+	    <call-macro n="rm_gender_from_plurals_and_case">
           <with-param pos="1"/>
         </call-macro>
 	    <out>
