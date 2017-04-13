@@ -44,6 +44,9 @@
       <attr-item tags="nom"/>
       <attr-item tags="gen"/>
     </def-attr>
+    <def-attr n="a_posessive">
+      <attr-item tags="pos"/>
+    </def-attr>
     <def-attr n="a_nonfinite">
       <attr-item tags="supn"/>
       <attr-item tags="pp"/>
@@ -83,6 +86,9 @@
 	<def-attr n="a_def">
   	  <attr-item tags="ind"/>
   	  <attr-item tags="def"/>
+	</def-attr>
+	<def-attr n="a_det">
+  	  <attr-item tags="det"/>
 	</def-attr>
 
   </section-def-attrs>
@@ -397,11 +403,14 @@
 	    <call-macro n="turn_dat_into_acc">
           <with-param pos="1"/>
         </call-macro>
-	    <choose>
-        <when><test><equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/></equal></test>
-              <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="pos"/></let>
-        </when>
-      	</choose>
+        <choose>
+ 		  <when>
+    		<test><and><equal><clip pos="1" side="sl" part="tags"/><lit-tag v="prn.pers.sg.gen"/></equal>
+              <equal><clip pos="1" side="sl" part="lem"/><lit v="hann"/></equal></and></test>
+    		<let><clip pos="1" side="tl" part="whole"/>
+            <concat><lit v="hans"/><lit-tag v="det.pos.nt.sg"/></concat></let>
+  		  </when>
+		</choose>
 	    <out>
 	      <chunk name="a" case="caseFirstWord">
             <tags>
