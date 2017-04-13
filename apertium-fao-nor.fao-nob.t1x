@@ -31,6 +31,9 @@
     <def-cat n="prn-pers">
       <cat-item tags="prn.pers.*"/>
     </def-cat>
+    <def-cat n="prn-def">
+      <cat-item tags="prn.def.*"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -390,6 +393,29 @@
 	      <chunk name="a" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="PersPrn"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="whole"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
+	
+	<rule comment="prn-def stuff">
+	  <pattern>
+	  	<pattern-item n="prn-def"/>
+	  </pattern>
+	  <action>
+	    <choose>
+        <when><test><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="nt"/></equal></test>
+              <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="un"/></let>
+        </when>
+      	</choose>
+	    <out>
+	      <chunk name="a" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="DefPrn"/></tag>
             </tags>
 	        <lu>
 	      	  <clip pos="1" side="tl" part="whole"/>
