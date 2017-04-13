@@ -31,8 +31,8 @@
     <def-cat n="prn-pers">
       <cat-item tags="prn.pers.*"/>
     </def-cat>
-    <def-cat n="prn-def">
-      <cat-item tags="prn.def.*"/>
+    <def-cat n="prn-ind">
+      <cat-item tags="prn.ind.*"/>
     </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
@@ -402,9 +402,9 @@
 	  </action>
 	</rule>
 	
-	<rule comment="prn-def stuff">
+	<rule comment="prn-ind stuff">
 	  <pattern>
-	  	<pattern-item n="prn-def"/>
+	  	<pattern-item n="prn-ind"/>
 	  </pattern>
 	  <action>
 	    <choose>
@@ -415,7 +415,7 @@
 	    <out>
 	      <chunk name="a" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="DefPrn"/></tag>
+              <tag><lit-tag v="IndPrn"/></tag>
             </tags>
 	        <lu>
 	      	  <clip pos="1" side="tl" part="whole"/>
