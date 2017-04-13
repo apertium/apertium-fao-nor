@@ -90,6 +90,11 @@
       </choose>
     </def-macro>
     
+    <def-macro n="swap_gen_and_ind" npar="1">
+      <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+      <let><clip pos="1" side="tl" part="num"/><lit v=""/></let>
+    </def-macro>
+    
     <def-macro n="rm_case_and_num" npar="1">
       <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="num"/><lit v=""/></let>
@@ -190,6 +195,16 @@
         <call-macro n="f_default1">
           <with-param pos="1"/>
         </call-macro>
+        <choose>
+          <when>
+            <test>
+              <and><equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/></equal>
+                <equal><clip pos="1" side="tl" part="a_def"/><lit-tag v="ind"/></equal></and>
+              </test>
+        	<let><clip pos="1" side="tl" part="a_def"/><lit-tag v="gen"/></let>
+      		<let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="ind"/></let>
+          </when>
+      	</choose>
         <out>
           <chunk name="n" case="caseFirstWord">
             <tags>
