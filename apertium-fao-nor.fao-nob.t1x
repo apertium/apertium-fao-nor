@@ -15,7 +15,7 @@
     </def-cat>
     <def-cat n="det">
       <cat-item tags="det.*"/>
-      <cat-item lemma="annar" tags="adj.*"/>
+      <cat-item lemma="annen" tags="det.*"/>
     </def-cat>
     <def-cat n="numeral">
       <cat-item tags="num.*"/>
@@ -220,9 +220,9 @@
       	</choose>
     </def-macro>
     
-    
-    
   </section-def-macros>
+
+
 
   <section-rules>
   
@@ -337,6 +337,12 @@
 	  	<pattern-item n="det"/>
 	  </pattern>
 	  <action>
+	    <choose>
+ 		  <when>
+    		<test><equal><clip pos="1" side="tl" part="lemma"/><lit v="annen"/></equal></test>
+    		<let><clip pos="1" side="tl" part="lemma"/><lit v="lol"/></let>
+  		  </when>
+  		</choose>
 	    <call-macro n="rm_gender_from_plurals_and_case">
           <with-param pos="1"/>
         </call-macro>
