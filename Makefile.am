@@ -33,6 +33,7 @@ TARGETS_COMMON =		\
 	$(PREFIX1n).t2x.bin	\
 	$(PREFIX1n).t3x.bin	\
 	$(PREFIX2b).automorf.bin	\
+	$(PREFIX1).prob		\
 	$(PREFIX2b).prob		\
 	$(PREFIX2b).rlx.bin	\
 	$(PREFIX2b).autobil.bin	\
@@ -115,6 +116,9 @@ $(PREFIX1n).autogen.bin: $(AP_SRC2n)/$(LANG2n).autogen.bin
 ###############################################################################
 ## Tagger models
 ###############################################################################
+
+$(PREFIX1).prob: $(AP_SRC1)/$(LANG1).prob
+	cp $< $@
 
 $(PREFIX2n).prob: $(AP_SRC2n)/$(LANG2n).prob
 	cp $< $@

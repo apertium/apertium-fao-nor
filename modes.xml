@@ -8,8 +8,11 @@
       <program name="hfst-proc -w">
         <file name="fao-nob.automorf.hfst"/>
       </program>
-      <program name="cg-proc -w -1 -n">
+      <program name="cg-proc -w">
         <file name="fao-nor.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -u 2 -g $2">
+        <file name="fao-nor.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
@@ -41,8 +44,11 @@
       <program name="hfst-proc -w">
         <file name="fao-nno.automorf.hfst"/>
       </program>
-      <program name="cg-proc -w -1 -n">
+      <program name="cg-proc -w">
         <file name="fao-nor.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -u 2 -g $2">
+        <file name="fao-nor.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
