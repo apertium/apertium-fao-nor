@@ -251,8 +251,7 @@
 <e><p><l>samur<s n="adj"/></l><r>same<s n="adj"/></r></p></e>
 <e><p><l>danskur<s n="adj"/></l><r>dansk<s n="adj"/></r></p></e>
 <e><p><l>langur<s n="adj"/></l><r>lang<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e vr="nob"><p><l>heitur<s n="adj"/></l><r>het<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e vr="nno"><p><l>heitur<s n="adj"/></l><r>heit<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>heitur<s n="adj"/></l><r>varm<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>nýggjur<s n="adj"/></l><r>ny<s n="adj"/></r></p></e>
 <e><p><l>berur<s n="adj"/></l><r>bar<s n="adj"/></r></p></e>
 <e><p><l>serur<s n="adj"/></l><r>sær<s n="adj"/></r></p></e>
@@ -271,7 +270,7 @@
 <e><p><l>egin<s n="adj"/></l><r>eigen<s n="adj"/></r></p></e>
 <e><p><l>heilur<s n="adj"/></l><r>heil<s n="adj"/></r></p></e>
 <e><p><l>politiskur<s n="adj"/></l><r>politisk<s n="adj"/></r></p></e>
-<e><p><l>skjótur<s n="adj"/></l><r>kvikk<s n="adj"/><s n="sint"/></r></p></e>
+<e><p><l>skjótur<s n="adj"/></l><r>kvikk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>ungur<s n="adj"/></l><r>ung<s n="adj"/></r></p></e>
 <e><p><l>franskur<s n="adj"/></l><r>fransk<s n="adj"/></r></p></e>
 <e><p><l>stuttur<s n="adj"/></l><r>stutt<s n="adj"/></r></p></e>
