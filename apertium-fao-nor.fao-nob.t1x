@@ -35,6 +35,9 @@
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
+    <def-cat n="prn-pers-gen">
+      <cat-item tags="prn.pers.*.gen"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
@@ -44,7 +47,11 @@
       <attr-item tags="nom"/>
       <attr-item tags="gen"/>
     </def-attr>
-    <def-attr n="a_posessive">
+    <def-attr n="POS">
+      <attr-item tags="n"/>
+      <attr-item tags="prn"/>
+    </def-attr>
+    <def-attr n="a_possessive">
       <attr-item tags="pos"/>
     </def-attr>
     <def-attr n="a_nonfinite">
@@ -97,8 +104,7 @@
   </section-def-attrs>
 
   <section-def-vars>
-    <def-var n="number"/>
-    <def-var n="mood"/>
+    <def-var n="prn_lemma"/>
   </section-def-vars>
 
   <section-def-macros>
@@ -204,10 +210,22 @@
       <let><clip pos="1" side="tl" part="v_pers"/><lit v=""/></let>
     </def-macro>
     
+    <def-macro n="prn_to_det" npar="2">
+      <choose>
+          <when>
+            <test><equal><clip pos="2" side="tl" part="a_cas"/><lit-tag v="gen"/></equal></test>
+            <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
+        	<let><clip pos="1" side="tl" part="a_def"/><lit-tag v="def"/></let>
+          </when>
+      	</choose>
+    </def-macro>
+    
+    
+    
   </section-def-macros>
 
-
   <section-rules>
+  
     <rule comment="REGLA: NOM">
       <pattern>
         <pattern-item n="nom"/>
@@ -435,6 +453,47 @@
 	  </action>
 	</rule>
 	
+	<rule comment="noun+pos=noun-def">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="prn-pers-gen"/>
+      </pattern>
+      <action>
+        <choose>
+          <when>
+            <test><equal><clip pos="2" side="tl" part="lem"/><lit v="han"/></equal></test>
+            <let><var n="prn_lemma"/><lit v="hans"/></let>
+          </when>
+          <when>
+            <test><equal><clip pos="2" side="tl" part="lem"/><lit v="de"/></equal></test>
+            <let><var n="prn_lemma"/><lit v="deres¹"/></let>
+          </when>
+        </choose>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="POS"/>
+              <clip pos="1" side="tl" part="a_gen"/>
+              <clip pos="1" side="tl" part="a_num"/>
+              <lit-tag v="def"/>
+            </lu>
+            <b />
+            <lu>
+              <var n="prn_lemma"/>
+              <clip pos="2" side="tl" part="POS"/>
+              <lit-tag v="pos"/>
+              <clip pos="2" side="tl" part="a_gen"/>
+              <clip pos="2" side="tl" part="a_num"/>
+            </lu>
+          </chunk>
+        </out>
+          </action>      
+    </rule>
+	
 	<rule comment="prn-ind stuff">
 	  <pattern>
 	  	<pattern-item n="prn-ind"/>
@@ -457,7 +516,6 @@
 	    </out>
 	  </action>
 	</rule>
-	
 	
     <rule comment="REGLA: SENT">
       <pattern>
