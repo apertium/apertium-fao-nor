@@ -251,6 +251,8 @@
 <e><p><l>samur<s n="adj"/></l><r>same<s n="adj"/></r></p></e>
 <e><p><l>danskur<s n="adj"/></l><r>dansk<s n="adj"/></r></p></e>
 <e><p><l>langur<s n="adj"/></l><r>lang<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e vr="nob"><p><l>heitur<s n="adj"/></l><r>het<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e vr="nno"><p><l>heitur<s n="adj"/></l><r>heit<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>nýggjur<s n="adj"/></l><r>ny<s n="adj"/></r></p></e>
 <e><p><l>berur<s n="adj"/></l><r>bar<s n="adj"/></r></p></e>
 <e><p><l>serur<s n="adj"/></l><r>sær<s n="adj"/></r></p></e>
@@ -288,7 +290,6 @@
 <e><p><l>vísur<s n="adj"/></l><r>vis<s n="adj"/></r></p></e>
 <e><p><l>beinur<s n="adj"/></l><r>bein<s n="adj"/></r></p></e>
 <e><p><l>kristin<s n="adj"/></l><r>kristen<s n="adj"/></r></p></e>
-<e><p><l>heitur<s n="adj"/></l><r>heit<s n="adj"/></r></p></e>
 <e><p><l>fríur<s n="adj"/></l><r>fri<s n="adj"/></r></p></e>
 <e><p><l>líkur<s n="adj"/></l><r>lik<s n="adj"/></r></p></e>
 <e><p><l>tættur<s n="adj"/></l><r>tett<s n="adj"/></r></p></e>
