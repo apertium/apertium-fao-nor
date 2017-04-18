@@ -33,7 +33,6 @@ TARGETS_COMMON =		\
 	$(PREFIX1n).t2x.bin	\
 	$(PREFIX1n).t3x.bin	\
 	$(PREFIX2b).automorf.bin	\
-	$(PREFIX1).prob		\
 	$(PREFIX2b).prob		\
 	$(PREFIX2b).rlx.bin	\
 	$(PREFIX2b).autobil.bin	\
@@ -43,6 +42,7 @@ TARGETS_COMMON =		\
 	$(PREFIX2b).t2x.bin	\
 	$(PREFIX2b).t3x.bin
 
+# $(PREFIX1).prob
 
 # This include defines goals for install-modes, .deps/.d and .mode files:
 @ap_include@

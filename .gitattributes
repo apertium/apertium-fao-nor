@@ -34,6 +34,7 @@ dev/bidix/rerun-scores.sh -text
 dev/bidix/vblex.list -text
 dev/bidix/vblex.scored.list -text
 dev/fao-nor-generated.dix -text
+/fao-nor.prob -text svneol=unset#unset
 /metalrx-to-lrx.xslt -text svneol=unset#application/xml
 /modes.xml -text
 texts/story.fao-nob.postedit.txt -text
