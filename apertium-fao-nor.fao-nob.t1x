@@ -15,7 +15,7 @@
     </def-cat>
     <def-cat n="det">
       <cat-item tags="det.*"/>
-      <cat-item lemma="annen" tags="det.*"/>
+      <cat-item lemma="annen" tags="adj.*"/>
     </def-cat>
     <def-cat n="numeral">
       <cat-item tags="num.*"/>
