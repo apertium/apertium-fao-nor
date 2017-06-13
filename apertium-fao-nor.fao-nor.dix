@@ -52,6 +52,10 @@
   <sdef n="part"/>
   <sdef n="dem"/>
   <sdef n="def"/>
+  <sdef n="punct"/>
+  <sdef n="abbr"/>
+  <sdef n="quot"/>
+  
 </sdefs>
 <pardefs>
    <pardef n="adj:adj_sint">
@@ -664,9 +668,9 @@
 <e><p><l>hesin<s n="prn"/><s n="dem"/></l><r>denne<s n="prn"/><s n="dem"/></r></p></e>
 <e><p><l>biskupur<s n="n"/><s n="m"/></l><r>biskop<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ting<s n="n"/><s n="nt"/></l><r>ting<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>)<s n="punct"/><s n="right"/></l><r>)<s n="punct"/><s n="right"/></r></p></e>
+<e><p><l>)<s n="punct"/><s n="rquot"/></l><r>)<s n="punct"/><s n="rquot"/></r></p></e>
 <e><p><l>•<s n="punct"/></l><r>•<s n="punct"/></r></p></e>
-<e><p><l>(<s n="lquot"/></l><r>(<s n="lquot"/></r></p></e>
+<e><p><l>(<s n="lquot"/><s n="punct"/></l><r>(<s n="lquot"/><s n="punct"/></r></p></e>
 <e><p><l>kongur<s n="n"/><s n="m"/></l><r>konge<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>taka<s n="vblex"/></l><r>ta<s n="vblex"/></r></p></e>
 <e><p><l>stovnur<s n="n"/><s n="m"/></l><r>bestand<s n="n"/><s n="m"/></r></p></e>
@@ -684,7 +688,7 @@
 <e vr="nno"><p><l>skúli<s n="n"/><s n="m"/></l><r>skule<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>skip<s n="n"/><s n="nt"/></l><r>skip<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>seyður<s n="n"/><s n="m"/></l><r>sau<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>”<s n="punct"/><s n="right"/></l><r>”<s n="punct"/><s n="right"/></r></p></e>
+<e><p><l>”<s n="punct"/><s n="rquot"/></l><r>”<s n="punct"/><s n="rquot"/></r></p></e>
 <e vr="nob"><p><l>nevna<s n="vblex"/></l><r>presentere<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>nevna<s n="vblex"/></l><r>presentera<s n="vblex"/></r></p></e>
 <e><p><l>máur<s n="n"/><s n="m"/></l><r>måke<s n="n"/><s n="m"/></r></p></e>
