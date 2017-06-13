@@ -38,6 +38,9 @@
     <def-cat n="prn-pers-gen">
       <cat-item tags="prn.pers.*.gen"/>
     </def-cat>
+    <def-cat n="sin">
+      <cat-item tags="det.pos.*"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
@@ -523,6 +526,24 @@
 	  </action>
 	</rule>
 	
+    <rule comment="stuffen sin">
+      <pattern>
+        <pattern-item n="sin"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="sent" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="sin"/></tag>
+            </tags>
+            <lu>
+              <lit v="lah"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    
     <rule comment="REGLA: SENT">
       <pattern>
         <pattern-item n="sent"/>

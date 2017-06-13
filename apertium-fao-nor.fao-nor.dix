@@ -236,7 +236,7 @@
 <e vr="nob"><p><l>Noreg<s n="np"/><s n="ant"/></l><r>Noreg<s n="np"/><s n="ant"/></r></p></e>
 <e vr="nob"><p><l>Norge<s n="np"/><s n="ant"/></l><r>Norge<s n="np"/><s n="ant"/></r></p></e>
 <e vr="nno"><p><l>Føroyar<s n="np"/><s n="ant"/></l><r>Færøyane<s n="np"/><s n="ant"/></r></p></e>
-<e vr="nob"><p><l>Føroyar<s n="np"/><s n="ant"/></l><r>færøyene<s n="np"/><s n="ant"/></r></p></e>
+<e vr="nob"><p><l>Føroyar<s n="np"/><s n="ant"/></l><r>Færøyene<s n="np"/><s n="ant"/></r></p></e>
 
 
 <!-- SECTION: Adjectives -->
@@ -609,6 +609,48 @@
 <e><re>»</re><p><l><s n="rquot"/></l><r><s n="rquot"/></r></p></e>
 <e><re>[0-9]+([.,][0-9]+)*( ?%)?</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/></r></p></e>
 <e><re>[IVXLCDM\-]+</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/></r></p></e>
+
+
+
+<!-- to be sorted etc -->
+
+<e><p><l>ístíð<s n="n"/><s n="f"/></l><r>istid<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>ísur<s n="n"/><s n="m"/></l><r>is<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>lóg<s n="n"/><s n="f"/></l><r>lov<s n="n"/><s n="m"/></r></p></e>
+<e vr="nob"><p><l>liggja<s n="n"/><s n="f"/></l><r>ligge<s n="n"/><s n="m"/></r></p></e>
+<e vr="nno"><p><l>liggja<s n="n"/><s n="f"/></l><r>liggja<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>túsund<s n="num"/></l><r>tusen<s n="num"/></r></p></e>
+<e vr="nno"><p><l>sjálvt<s n="cnjcoo"/></l><r>òg<s n="cnjcoo"/></r></p></e>
+<e vr="nob"><p><l>sjálvt<s n="cnjcoo"/></l><r>også<s n="cnjcoo"/></r></p></e>
+<e vr="nob"><p><l>búsetur<s n="n"/><s n="m"/></l><r>bosted<s n="n"/><s n="nt"/></r></p></e>
+<e vr="nno"><p><l>búsetur<s n="n"/><s n="m"/></l><r>bustad<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Orknoy<s n="np"/></l><r>Orknøy<s n="np"/></r></p></e>
+<e><p><l>Hetland<s n="np"/><s n="ant"/></l><r>Shetland<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>horvin<s n="adj"/></l><r>fortapt<s n="adj"/></r></p></e>
+<e><p><l>gróður<s n="n"/><s n="m"/></l><r>vegetasjon<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>umsíðir<s n="adv"/></l><r>til<b/>sist<s n="adv"/></r></p></e>
+<e vr="nob"><p><l>bera<s n="vblex"/></l><r>bære<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>bera<s n="vblex"/></l><r>bera<s n="vblex"/></r></p></e>
+<e><p><l>vindur<s n="n"/><s n="m"/></l><r>vind<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>líða<s n="vblex"/></l><r>godta<s n="vblex"/></r></p></e>
+<e><p><l>dalur<s n="n"/><s n="m"/></l><r>dal<s n="n"/><s n="m"/></r></p></e>
+<e vr="nob"><p><l>valla<s n="vblex"/></l><r>valler<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>valla<s n="vblex"/></l><r>vallar<s n="vblex"/></r></p></e>
+<e><p><l>rannsókn<s n="n"/><s n="f"/></l><r>forskning<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>benda<s n="vblex"/></l><r>avslå<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>búseta<s n="vblex"/></l><r>bosette<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>búseta<s n="vblex"/></l><r>busetja<s n="vblex"/></r></p></e>
+<e><p><l>Hoydalur<s n="np"/><s n="m"/></l><r>Høydal<s n="np"/><s n="m"/></r></p></e>
+<e><p><l>planta<s n="vblex"/></l><r>plante<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>fylgja<s n="vblex"/></l><r>følge<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>fylgja<s n="vblex"/></l><r>følgje<s n="vblex"/></r></p></e>
+<e><p><l>menniskja<s n="n"/><s n="f"/></l><r>menneske<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Pytheas<s n="np"/><s n="n"/></l><r>Pytheas<s n="np"/><s n="n"/></r></p></e>
+<e><p><l>Massalia<s n="np"/><s n="n"/></l><r>Massalia<s n="np"/><s n="n"/></r></p></e>
+<e><p><l>Norðuratlantshavið<s n="np"/><s n="f"/></l><r>Nordsjø<s n="np"/><s n="f"/></r></p></e>
+<e><p><l>Bretland<s n="np"/><s n="nt"/></l><r>Storbritannia<s n="np"/><s n="f"/></r></p></e>
+<e><p><l>haðan<s n="adv"/></l><r>derfra<s n="adv"/></r></p></e>
+
 
 
 
