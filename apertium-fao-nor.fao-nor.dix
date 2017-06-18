@@ -980,8 +980,8 @@
 <e vr="nob"><p><l>eldur<s n="n"/><s n="m"/></l><r>ild<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>eldur<s n="n"/><s n="m"/></l><r>eld<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>eingin<s n="prn"/><s n="ind"/></l><r>ingen<s n="prn"/><s n="ind"/></r></p></e>
-<e vr="nob"><p><l>ein<s n="det"/></l><r>en<s n="det"/></r></p></e>
-<e vr="nno"><p><l>ein<s n="det"/></l><r>ein<s n="det"/></r></p></e>
+<e vr="nob"><p><l>ein<s n="det"/></l><r>en<s n="det"/><s n="qnt"/></r></p></e>
+<e vr="nno"><p><l>ein<s n="det"/></l><r>ein<s n="det"/><s n="qnt"/></r></p></e>
 <e vr="nob"><p><l>eg<s n="prn"/><s n="pers"/></l><r>jeg<s n="prn"/><s n="pers"/></r></p></e>
 <e vr="nno"><p><l>eg<s n="prn"/><s n="pers"/></l><r>eg<s n="prn"/><s n="pers"/></r></p></e>
 <e><p><l>Effersøe<s n="np"/></l><r>Effersøe<s n="np"/></r></p></e>
