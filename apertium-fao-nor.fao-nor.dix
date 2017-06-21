@@ -116,8 +116,10 @@
 <e vr="nno"><p><l>norðanfyri<s n="pr"/></l><r>nordafor<s n="pr"/></r></p></e>
 <e><p><l>nær<s n="pr"/></l><r>nær<s n="pr"/></r></p></e>
 <e><p><l>sum<s n="pr"/></l><r>som<s n="pr"/></r></p></e>
-<e><p><l>sunnan<s n="pr"/></l><r>sønnafor<s n="pr"/></r></p></e>
-<e><p><l>sunnanfyri<s n="pr"/></l><r>sønnafor<s n="pr"/></r></p></e>
+<e vr="nob"><p><l>sunnan<s n="pr"/></l><r>sønnenfor<s n="pr"/></r></p></e>
+<e vr="nno"><p><l>sunnan<s n="pr"/></l><r>sønnafor<s n="pr"/></r></p></e>
+<e vr="nob"><p><l>sunnanfyri<s n="pr"/></l><r>sønnenfor<s n="pr"/></r></p></e>
+<e vr="nno"><p><l>sunnanfyri<s n="pr"/></l><r>sønnafor<s n="pr"/></r></p></e>
 <e><p><l>síðan<s n="pr"/></l><r>siden<s n="pr"/></r></p></e>
 <e><p><l>til<s n="pr"/></l><r>til<s n="pr"/></r></p></e>
 <e><p><l>um<s n="pr"/></l><r>om<s n="pr"/></r></p></e>
