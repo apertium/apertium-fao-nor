@@ -104,7 +104,8 @@
 <e><p><l>fyri<s n="pr"/></l><r>til<s n="pr"/></r></p></e>
 <e><p><l>gjøgnum<s n="pr"/></l><r>gjennom<s n="pr"/></r></p></e>
 <e><p><l>hjá<s n="pr"/></l><r>på<s n="pr"/></r></p></e>
-<e><p><l>innan<s n="pr"/></l><r>innan<s n="pr"/></r></p></e>
+<e vr="nob"><p><l>innan<s n="pr"/></l><r>innen<s n="pr"/></r></p></e>
+<e vr="nno"><p><l>innan<s n="pr"/></l><r>innan<s n="pr"/></r></p></e>
 <e><p><l>inntil<s n="pr"/></l><r>inntil<s n="pr"/></r></p></e>
 <e><p><l>kring<s n="pr"/></l><r>kring<s n="pr"/></r></p></e>
 <e><p><l>kring<s n="pr"/></l><r>omkring<s n="pr"/></r></p></e>
@@ -120,7 +121,7 @@
 <e vr="nno"><p><l>sunnan<s n="pr"/></l><r>sønnafor<s n="pr"/></r></p></e>
 <e vr="nob"><p><l>sunnanfyri<s n="pr"/></l><r>sønnenfor<s n="pr"/></r></p></e>
 <e vr="nno"><p><l>sunnanfyri<s n="pr"/></l><r>sønnafor<s n="pr"/></r></p></e>
-<e><p><l>síðan<s n="pr"/></l><r>siden<s n="pr"/></r></p></e>
+<e><p><l>síðan<s n="pr"/></l><r>siden<s n="adv"/></r></p></e>
 <e><p><l>til<s n="pr"/></l><r>til<s n="pr"/></r></p></e>
 <e><p><l>um<s n="pr"/></l><r>om<s n="pr"/></r></p></e>
 <e><p><l>umframt<s n="pr"/></l><r>etter<s n="pr"/></r></p></e>
@@ -131,7 +132,8 @@
 <e><p><l>uppá<s n="pr"/></l><r>opp<s n="pr"/></r></p></e>
 <e><p><l>uppá<s n="pr"/></l><r>oppå<s n="pr"/></r></p></e>
 <e><p><l>uppí<s n="pr"/></l><r>oppi<s n="pr"/></r></p></e>
-<e><p><l>uttan<s n="pr"/></l><r>utan<s n="pr"/></r></p></e>
+<e vr="nno"><p><l>uttan<s n="pr"/></l><r>utan<s n="pr"/></r></p></e>
+<e vr="nob"><p><l>uttan<s n="pr"/></l><r>uten<s n="pr"/></r></p></e>
 <e><p><l>vegna<s n="pr"/></l><r>på<b/>grunn<b/>av<s n="pr"/></r></p></e>
 <e><p><l>vestan<s n="pr"/></l><r>vestfor<s n="pr"/></r></p></e>
 <e><p><l>við<s n="pr"/></l><r>med<s n="pr"/></r></p></e>
