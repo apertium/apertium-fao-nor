@@ -4,6 +4,10 @@
     <def-cat n="prop">
       <cat-item tags="np.*"/>
     </def-cat>
+    <def-cat n="prep">
+      <cat-item tags="pr"/>
+      <cat-item tags="pr.*"/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
@@ -266,7 +270,9 @@
               <tag><lit-tag v="SN"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="whole"/>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="tags"/>
+              <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
@@ -579,7 +585,26 @@
       </action>
     </rule>
     
-    <rule comment="REGLA: SENT">
+    <rule comment="REGLA: PREP">
+      <pattern>
+        <pattern-item n="prep"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="pr" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="PREP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="tags"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+	    <rule comment="REGLA: SENT">
       <pattern>
         <pattern-item n="sent"/>
       </pattern>

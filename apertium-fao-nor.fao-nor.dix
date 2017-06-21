@@ -95,7 +95,7 @@
 <e vr="nob"><p><l>frammanfyri<s n="pr"/></l><r>utenfor<s n="pr"/></r></p></e>
 <e vr="nob"><p><l>frá<s n="pr"/></l><r>fra<s n="pr"/></r></p></e>
 <e vr="nob"><p><l>hóast<s n="pr"/></l><r>selv<b/>om<s n="cnjsub"/></r></p></e>
-<e vr="nob"><p><l>sambært<s n="pr"/></l><r>svarende<g><b/>til</g><s n="adj"/><s n="pprs"/></r></p></e>
+<e vr="nob"><p><l>sambært<s n="pr"/></l><r>svare<g><b/>til</g><s n="adj"/><s n="pprs"/></r></p></e>
 <e><p><l>aftan<s n="pr"/></l><r>etter<s n="pr"/></r></p></e>
 <e><p><l>at<s n="pr"/></l><r>mot<s n="pr"/></r></p></e>
 <e><p><l>av<s n="pr"/></l><r>av<s n="pr"/></r></p></e>
@@ -247,6 +247,8 @@
 
 <e><p><l>Maria<s n="np"/><s n="ant"/></l><r>Maria<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Jákup<s n="np"/><s n="ant"/></l><r>Jákup<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Kristoffur<s n="np"/><s n="ant"/><s n="m"/></l><r>Kristoffur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+
 <e><p><l>Danmark<s n="np"/><s n="ant"/></l><r>Danmark<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Svøríki<s n="np"/><s n="ant"/></l><r>Sverige<s n="np"/><s n="ant"/></r></p></e>
 <e vr="nob"><p><l>Noreg<s n="np"/><s n="ant"/></l><r>Noreg<s n="np"/><s n="ant"/></r></p></e>
@@ -287,10 +289,9 @@
 <e vr="nob"><p><l>løgtingsval<s n="n"/><s n="nt"/></l><r>Valg<b/>på<b/>Færøyene<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nno"><p><l>løgtingsval<s n="n"/><s n="nt"/></l><r>Val<b/>på<b/>Færøyene<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>Leivur<s n="np"/></l><r>Leiv<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Kristoffur<s n="np"/></l><r>Kristoffur<s n="np"/></r></p></e>
 <e><p><l>Kirkjubøur<s n="np"/></l><r>Kirkjubøur<s n="np"/></r></p></e>
 <e><p><l>Kiel<s n="np"/></l><r>Kiel<s n="np"/></r></p></e>
-<e><p><l>Keypmannahavn<s n="np"/></l><r>Keypmannahavn<s n="np"/></r></p></e>
+<e><p><l>Keypmannahavn<s n="np"/></l><r>København<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Jóansøka<s n="np"/></l><r>Sankthans<s n="np"/></r></p></e>
 <e><p><l>Jens<s n="np"/></l><r>Jens<s n="np"/></r></p></e>
 <e><p><l>Jakobsen<s n="np"/></l><r>Jakobsen<s n="np"/></r></p></e>
@@ -921,7 +922,7 @@
 <e vr="nno"><p><l>longur<s n="adv"/><s n="cmp"/></l><r>lengjer<s n="adv"/><s n="cmp"/></r></p></e>
 <e vr="nob"><p><l>longu<s n="adv"/></l><r>allerede<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>longu<s n="adv"/></l><r>allereie<s n="adv"/></r></p></e>
-<e><p><l>løgtingsmaður<s n="n"/><s n="m"/></l><r>medlem<b/>av<b/>parlamentet<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>løgtingsmaður<s n="n"/><s n="m"/></l><r>medlem<g><b/>av<b/>parlamentet</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>limur<s n="n"/><s n="m"/></l><r>medlem<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>liggja<s n="vblex"/></l><r>ligge<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>liggja<s n="vblex"/></l><r>liggja<s n="vblex"/></r></p></e>
