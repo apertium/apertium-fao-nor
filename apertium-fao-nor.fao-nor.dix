@@ -837,7 +837,7 @@
 <e vr="nno"><p><l>útgáva<s n="n"/><s n="f"/></l><r>utgåve<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>uppskot<s n="n"/><s n="nt"/></l><r>bykart<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>undirvísa<s n="vblex"/></l><r>lære<s n="vblex"/></r></p></e>
-<e><p><l>u. <s n="abbr"/></l><r>u. <s n="abbr"/></r></p></e>
+<e><p><l>u.<s n="abbr"/></l><r>u.<s n="abbr"/></r></p></e>
 <e><p><l>týða<s n="vblex"/></l><r>oversette<s n="vblex"/></r></p></e>
 <e><p><l>týða<s n="vblex"/></l><r>omsetja<s n="vblex"/></r></p></e>
 <e><p><l>tvey<s n="num"/></l><r>to<s n="num"/></r></p></e>
@@ -949,10 +949,10 @@
 <e vr="nob"><p><l>keypa<s n="vblex"/></l><r>kjøpe<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>keypa<s n="vblex"/></l><r>kjøpa<s n="vblex"/></r></p></e>
 <e><p><l>kambur<s n="n"/><s n="m"/></l><r>nokke<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>jørð<s n="n"/><s n="f"/></l><r>jord <s n="n"/><s n="f"/></r></p></e>
+<e><p><l>jørð<s n="n"/><s n="f"/></l><r>jord<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>jóladagur<s n="n"/><s n="m"/></l><r>juledag<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>Jóannes<s n="np"/></l><r>@óannes<s n="np"/></r></p></e>
-<e><p><l>íslendingur<s n="n"/><s n="m"/></l><r>islending <s n="n"/><s n="m"/></r></p></e>
+<e><p><l>íslendingur<s n="n"/><s n="m"/></l><r>islending<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>i<s n="pr"/></l><r>i<s n="pr"/></r></p></e>
 <e><p><l>indi<s n="n"/><s n="m"/></l><r>inder<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>hvør<s n="det"/></l><r>hvem<s n="det"/></r></p></e>
