@@ -254,6 +254,78 @@
 <e vr="nno"><p><l>Føroyar<s n="np"/><s n="ant"/></l><r>Færøyane<s n="np"/><s n="ant"/></r></p></e>
 <e vr="nob"><p><l>Føroyar<s n="np"/><s n="ant"/></l><r>Færøyene<s n="np"/><s n="ant"/></r></p></e>
 
+<e vr="nob"><p><l>Noreg<s n="np"/></l><r>Norge<s n="np"/></r></p></e>
+<e vr="nno"><p><l>Noreg<s n="np"/></l><r>Noreg<s n="np"/></r></p></e>
+<e><p><l>Danmark<s n="np"/></l><r>Danmark<s n="np"/></r></p></e>
+<e><p><l>Tróndur<s n="np"/></l><r>Tron<s n="np"/></r></p></e>
+<e><p><l>Sæland<s n="np"/></l><r>Sjælland<s n="np"/></r></p></e>
+<e><p><l>Postverk<s n="n"/><s n="nt"/></l><r>Postverk<s n="np"/></r></p></e>
+<e><p><l>Páll<s n="np"/></l><r>Paul<s n="np"/></r></p></e>
+<e><p><l>Nólsoy<s n="np"/></l><r>Nólsoy<s n="np"/></r></p></e>
+<e><p><l>Ísland<s n="np"/></l><r>Island<s n="np"/></r></p></e>
+<e><p><l>Hvalba<s n="np"/></l><r>Hvalba<s n="np"/></r></p></e>
+<e><p><l>Hetland<s n="np"/></l><r>Hetland<s n="np"/></r></p></e>
+<e><p><l>Hammershaimb<s n="np"/></l><r>Hammershaimb<s n="np"/></r></p></e>
+<e><p><l>Føring<s n="np"/></l><r>Føring<s n="np"/></r></p></e>
+<e><p><l>Erlendur<s n="np"/></l><r>Erlendur<s n="np"/></r></p></e>
+<e><p><l>E<s n="abbr"/></l><r>E<s n="abbr"/></r></p></e>
+<e><p><l>Bergen<s n="np"/></l><r>Bergen<s n="np"/></r></p></e>
+<e><p><l>Tórshavn<s n="np"/></l><r>Tórshavn<s n="np"/></r></p></e>
+<e><p><l>tinghús<s n="n"/><s n="nt"/></l><r>Parlamentet<b/>hus<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Tinganes<s n="np"/></l><r>Tinganes<s n="np"/></r></p></e>
+<e><p><l>Thule<s n="np"/></l><r>Thule<s n="np"/></r></p></e>
+<e><p><l>Svabo<s n="np"/></l><r>Svabo<s n="np"/></r></p></e>
+<e><p><l>Ryberg<s n="np"/></l><r>Ryberg<s n="np"/></r></p></e>
+<e><p><l>Roskilde<s n="np"/></l><r>Roskilde<s n="np"/></r></p></e>
+<e><p><l>Reise<s n="np"/></l><r>Reise<s n="np"/></r></p></e>
+<e><p><l>Rasmus<s n="np"/></l><r>Rasmus<s n="np"/></r></p></e>
+<e><p><l>Patursson<s n="np"/></l><r>Patursson<s n="np"/></r></p></e>
+<e><p><l>Norðurland<s n="np"/></l><r>Norden<s n="np"/></r></p></e>
+<e><p><l>Nidaros<s n="np"/></l><r>Nidaros<s n="np"/></r></p></e>
+<e><p><l>Mortensen<s n="np"/></l><r>Mortensen<s n="np"/></r></p></e>
+<e><p><l>Massalia<s n="np"/></l><r>Massalia<s n="np"/></r></p></e>
+<e vr="nob"><p><l>løgtingsval<s n="n"/><s n="nt"/></l><r>Valg<b/>på<b/>Færøyene<s n="n"/><s n="nt"/></r></p></e>
+<e vr="nno"><p><l>løgtingsval<s n="n"/><s n="nt"/></l><r>Val<b/>på<b/>Færøyene<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Leivur<s n="np"/></l><r>Leiv<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Kristoffur<s n="np"/></l><r>Kristoffur<s n="np"/></r></p></e>
+<e><p><l>Kirkjubøur<s n="np"/></l><r>Kirkjubøur<s n="np"/></r></p></e>
+<e><p><l>Kiel<s n="np"/></l><r>Kiel<s n="np"/></r></p></e>
+<e><p><l>Keypmannahavn<s n="np"/></l><r>Keypmannahavn<s n="np"/></r></p></e>
+<e><p><l>Jóansøka<s n="np"/></l><r>Sankthans<s n="np"/></r></p></e>
+<e><p><l>Jens<s n="np"/></l><r>Jens<s n="np"/></r></p></e>
+<e><p><l>Jakobsen<s n="np"/></l><r>Jakobsen<s n="np"/></r></p></e>
+<e><p><l>Hagalóg<s n="np"/></l><r>Hagalóg<s n="np"/></r></p></e>
+<e><p><l>Grønland<s n="np"/></l><r>Grønland<s n="np"/></r></p></e>
+<e><p><l>Grímur<s n="np"/></l><r>Grímur<s n="np"/></r></p></e>
+<e><p><l>Gablatíð<s n="np"/></l><r>Gablatíð<s n="np"/></r></p></e>
+
+<e><p><l>Orknoy<s n="np"/></l><r>Orknøy<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Hetland<s n="np"/><s n="ant"/></l><r>Shetland<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Hoydalur<s n="np"/><s n="m"/></l><r>Høydal<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Pytheas<s n="np"/><s n="n"/></l><r>Pytheas<s n="np"/><s n="n"/></r></p></e>
+<e><p><l>Massalia<s n="np"/><s n="n"/></l><r>Massalia<s n="np"/><s n="n"/></r></p></e>
+<e><p><l>Norðuratlantshavið<s n="np"/><s n="f"/></l><r>Nordsjø<s n="np"/><s n="f"/></r></p></e>
+<e><p><l>Bretland<s n="np"/><s n="nt"/></l><r>Storbritannia<s n="np"/><s n="top"/></r></p></e>
+
+<e><p><l>Føroyar<s n="np"/></l><r>Færøyene<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Løgting<s n="np"/></l><r>Lagtinget<s n="np"/></r></p></e>
+<e><p><l>V<s n="abbr"/></l><r>V<s n="abbr"/></r></p></e>
+<e><p><l>Gabel<s n="np"/></l><r>Gabel<s n="np"/></r></p></e>
+<e><p><l>Fríða<s n="np"/></l><r>Fríða<s n="np"/></r></p></e>
+<e><p><l>Fólkaflokkur<s n="np"/></l><r>Folkeparti<s n="np"/></r></p></e>
+<e><p><l>Færøerne<s n="np"/></l><r>Færøerne<s n="np"/></r></p></e>
+<e><p><l>Færøe<s n="np"/></l><r>Færøe<s n="np"/></r></p></e>
+<e><p><l>Færoæ<s n="np"/></l><r>Færoæ<s n="np"/></r></p></e>
+<e><p><l>Effersøe<s n="np"/></l><r>Effersøe<s n="np"/></r></p></e>
+<e><p><l>Dimmalætting<s n="np"/></l><r>Dimmalætting<s n="np"/></r></p></e>
+<e><p><l>Dicuil<s n="np"/></l><r>Dicuil<s n="np"/></r></p></e>
+<e><p><l>Debe<s n="np"/></l><r>Debe<s n="np"/></r></p></e>
+<e><p><l>Christian<s n="np"/></l><r>Christian<s n="np"/></r></p></e>
+<e><p><l>C<s n="abbr"/></l><r>C<s n="abbr"/></r></p></e>
+<e><p><l>Amtstidende<s n="np"/></l><r>Amtstidende<s n="np"/></r></p></e>
+<e><p><l>Algeria<s n="np"/></l><r>Algeria<s n="np"/><s n="top"/></r></p></e>
+
+
 
 <!-- SECTION: Adjectives -->
 <e><p><l>gamal<s n="adj"/></l>	<r>gammel<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
@@ -644,8 +716,6 @@
 <e vr="nob"><p><l>sjálvt<s n="cnjcoo"/></l><r>også<s n="cnjcoo"/></r></p></e>
 <e vr="nob"><p><l>búsetur<s n="n"/><s n="m"/></l><r>bosted<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nno"><p><l>búsetur<s n="n"/><s n="m"/></l><r>bustad<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>Orknoy<s n="np"/></l><r>Orknøy<s n="np"/></r></p></e>
-<e><p><l>Hetland<s n="np"/><s n="ant"/></l><r>Shetland<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>horvin<s n="adj"/></l><r>fortapt<s n="adj"/></r></p></e>
 <e><p><l>gróður<s n="n"/><s n="m"/></l><r>vegetasjon<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>umsíðir<s n="adv"/></l><r>til<b/>sist<s n="adv"/></r></p></e>
@@ -660,17 +730,10 @@
 <e><p><l>benda<s n="vblex"/></l><r>avslå<s n="vblex"/></r></p></e>
 <e vr="nob"><p><l>búseta<s n="vblex"/></l><r>bosette<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>búseta<s n="vblex"/></l><r>busetja<s n="vblex"/></r></p></e>
-<e><p><l>Hoydalur<s n="np"/><s n="m"/></l><r>Høydal<s n="np"/><s n="m"/></r></p></e>
 <e><p><l>planta<s n="vblex"/></l><r>plante<s n="vblex"/></r></p></e>
 <e vr="nob"><p><l>fylgja<s n="vblex"/></l><r>følge<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>fylgja<s n="vblex"/></l><r>følgje<s n="vblex"/></r></p></e>
 <e><p><l>menniskja<s n="n"/><s n="f"/></l><r>menneske<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>Pytheas<s n="np"/><s n="n"/></l><r>Pytheas<s n="np"/><s n="n"/></r></p></e>
-<e><p><l>Massalia<s n="np"/><s n="n"/></l><r>Massalia<s n="np"/><s n="n"/></r></p></e>
-<e><p><l>Norðuratlantshavið<s n="np"/><s n="f"/></l><r>Nordsjø<s n="np"/><s n="f"/></r></p></e>
-<e><p><l>Bretland<s n="np"/><s n="nt"/></l><r>Storbritannia<s n="np"/><s n="f"/></r></p></e>
-
-<e><p><l>Føroyar<s n="np"/></l><r>Færøyene<s n="np"/></r></p></e>
 <e><p><l>ur<s n="n"/><s n="nt"/></l><r>ur<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nob"><p><l>stovna<s n="vblex"/></l><r>skape<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>stovna<s n="vblex"/></l><r>skapa<s n="vblex"/></r></p></e>
@@ -678,7 +741,6 @@
 <e vr="nob"><p><l>verða<s n="vblex"/></l><r>bli<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>verða<s n="vblex"/></l><r>vert<s n="vblex"/></r></p></e>
 <e><p><l>skula<s n="vblex"/></l><r>skulle<s n="vblex"/></r></p></e>
-<e><p><l>Løgting<s n="np"/></l><r>Lagtinget<s n="np"/></r></p></e>
 <e vr="nob"><p><l>hin<s n="det"/></l><r>annen<s n="det"/></r></p></e>
 <e vr="nno"><p><l>hin<s n="det"/></l><r>annan<s n="det"/></r></p></e>
 <e><p><l>hesin<s n="prn"/><s n="dem"/></l><r>denne<s n="prn"/><s n="dem"/></r></p></e>
@@ -693,8 +755,6 @@
 <e vr="nno"><p><l>skriva<s n="vblex"/></l><r>skriva<s n="vblex"/></r></p></e>
 <e vr="nob"><p><l>seta<s n="vblex"/></l><r>legge<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>seta<s n="vblex"/></l><r>leggja<s n="vblex"/></r></p></e>
-<e vr="nob"><p><l>Noreg<s n="np"/></l><r>Norge<s n="np"/></r></p></e>
-<e vr="nno"><p><l>Noreg<s n="np"/></l><r>Noreg<s n="np"/></r></p></e>
 <e><p><l>handil<s n="n"/><s n="m"/></l><r>forretning<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>gildi<s n="adj"/></l><r>gyldig<s n="adj"/></r></p></e>
 <e><p><l>bók<s n="n"/><s n="f"/></l><r>bok<s n="n"/><s n="m"/></r></p></e>
@@ -712,7 +772,6 @@
 <e vr="nob"><p><l>felag<s n="n"/><s n="nt"/></l><r>forening<s n="n"/><s n="mf"/></r></p></e>
 <e vr="nno"><p><l>felag<s n="n"/><s n="nt"/></l><r>samskipnad<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>danskur<s n="adj"/></l><r>dansk<s n="adj"/></r></p></e>
-<e><p><l>Danmark<s n="np"/></l><r>Danmark<s n="np"/></r></p></e>
 <e vr="nob"><p><l>byrja<s n="vblex"/></l><r>begynne<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>byrja<s n="vblex"/></l><r>byrja<s n="vblex"/></r></p></e>
 <e><p><l>bræv<s n="n"/><s n="nt"/></l><r>brev<s n="n"/><s n="nt"/></r></p></e>
@@ -720,7 +779,6 @@
 <e><p><l>uppruni<s n="n"/><s n="m"/></l><r>proveniens<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>undirvísing<s n="n"/><s n="f"/></l><r>utdanning<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>umboð<s n="n"/><s n="nt"/></l><r>eiendomsmekler<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Tróndur<s n="np"/></l><r>Tron<s n="np"/></r></p></e>
 <e><p><l>standa<s n="vblex"/></l><r>stå<s n="vblex"/></r></p></e>
 <e vr="nob"><p><l>sonur<s n="n"/><s n="m"/></l><r>sønn<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>sonur<s n="n"/><s n="m"/></l><r>son<s n="n"/><s n="m"/></r></p></e>
@@ -733,34 +791,23 @@
 <e vr="nno"><p><l>sigla<s n="vblex"/></l><r>segl<s n="vblex"/></r></p></e>
 <e vr="nob"><p><l>senda<s n="vblex"/></l><r>sende<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>senda<s n="vblex"/></l><r>senda<s n="vblex"/></r></p></e>
-<e><p><l>Sæland<s n="np"/></l><r>Sjælland<s n="np"/></r></p></e>
 <e><p><l>ráð<s n="n"/><s n="nt"/></l><r>råd<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>ráðgevandi<s n="adj"/></l><r>rådgiver<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ráðgevandi<s n="adj"/></l><r>rådgjevar<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>"<s n="quot"/></l><r>"<s n="quot"/></r></p></e>
-<e><p><l>Postverk<s n="n"/><s n="nt"/></l><r>Postverk<s n="np"/></r></p></e>
-<e><p><l>Páll<s n="np"/></l><r>Paul<s n="np"/></r></p></e>
 <e><p><l>oddur<s n="n"/><s n="m"/></l><r>slutt<s n="vblex"/></r></p></e>
-<e><p><l>Nólsoy<s n="np"/></l><r>Nólsoy<s n="np"/></r></p></e>
 <e><p><l>m<s n="abbr"/></l><r>m<s n="abbr"/></r></p></e>
 <e><p><l>lið<s n="n"/><s n="nt"/></l><r>lag<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nob"><p><l>kongligur<s n="adj"/></l><r>kongelig<s n="adj"/></r></p></e>
 <e vr="nno"><p><l>kongligur<s n="adj"/></l><r>kongeleg<s n="adj"/></r></p></e>
-<e><p><l>Ísland<s n="np"/></l><r>Island<s n="np"/></r></p></e>
-<e><p><l>Hvalba<s n="np"/></l><r>Hvalba<s n="np"/></r></p></e>
-<e><p><l>Hetland<s n="np"/></l><r>Hetland<s n="np"/></r></p></e>
 <e vr="nob"><p><l>helst<s n="adv"/></l><r>antakeligvis<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>helst<s n="adv"/></l><r>sannsynlegvis<s n="adv"/></r></p></e>
-<e><p><l>Hammershaimb<s n="np"/></l><r>Hammershaimb<s n="np"/></r></p></e>
 <e><p><l>gøta<s n="n"/><s n="f"/></l><r>gate<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>fundur<s n="n"/><s n="m"/></l><r>møte<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>føroyskur<s n="adj"/></l><r>færøysk<s n="adj"/></r></p></e>
-<e><p><l>Føring<s n="np"/></l><r>Føring<s n="np"/></r></p></e>
 <e><p><l>fjórðingur<s n="n"/><s n="m"/></l><r>fjerdedel<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>far<s n="n"/><s n="nt"/></l><r>fartøy<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>Erlendur<s n="np"/></l><r>Erlendur<s n="np"/></r></p></e>
 <e><p><l>einahandil<s n="n"/><s n="m"/></l><r>monopol<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>E<s n="abbr"/></l><r>E<s n="abbr"/></r></p></e>
 <e><p><l>byggja<s n="vblex"/></l><r>bygge<s n="vblex"/></r></p></e>
 <e><p><l>byggja<s n="vblex"/></l><r>byggja<s n="vblex"/></r></p></e>
 <e><p><l>burtur<s n="adv"/></l><r>langt<b/>borte<s n="adv"/></r></p></e>
@@ -768,7 +815,6 @@
 <e><p><l>bispur<s n="n"/><s n="m"/></l><r>løper<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bispur<s n="n"/><s n="m"/></l><r>løpar<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>biskupsdømi<s n="n"/><s n="nt"/></l><r>bispedømme<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>Bergen<s n="np"/></l><r>Bergen<s n="np"/></r></p></e>
 <e><p><l>ár<s n="n"/><s n="f"/></l><r>år<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>apríl<s n="n"/><s n="m"/></l><r>april<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>vøra<s n="n"/><s n="f"/></l><r>middel<s n="n"/><s n="nt"/></r></p></e>
@@ -784,7 +830,6 @@
 <e vr="nno"><p><l>velja<s n="vblex"/></l><r>velja<s n="vblex"/></r></p></e>
 <e vr="nob"><p><l>vaksa<s n="vblex"/></l><r>vokse<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>vaksa<s n="vblex"/></l><r>veksa<s n="vblex"/></r></p></e>
-<e><p><l>V<s n="abbr"/></l><r>V<s n="abbr"/></r></p></e>
 <e><p><l>útvarp<s n="n"/><s n="nt"/></l><r>radio<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>útgáva<s n="n"/><s n="f"/></l><r>utgave<s n="n"/><s n="f"/></r></p></e>
 <e vr="nno"><p><l>útgáva<s n="n"/><s n="f"/></l><r>utgåve<s n="n"/><s n="f"/></r></p></e>
@@ -798,17 +843,12 @@
 <e vr="nno"><p><l>turkur<s n="n"/><s n="m"/></l><r>tyrkar<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>trúgv<s n="n"/><s n="f"/></l><r>tro<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>trúgv<s n="n"/><s n="f"/></l><r>tru<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Tórshavn<s n="np"/></l><r>Tórshavn<s n="np"/></r></p></e>
 <e vr="nob"><p><l>tó<s n="adv"/></l><r>enda<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>tó<s n="adv"/></l><r>endå<s n="adv"/></r></p></e>
 <e><p><l>tjóðveldisflokkur<s n="n"/><s n="m"/></l><r>republikanske parti<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>tinghús<s n="n"/><s n="nt"/></l><r>Parlamentet<b/>hus<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>Tinganes<s n="np"/></l><r>Tinganes<s n="np"/></r></p></e>
-<e><p><l>Thule<s n="np"/></l><r>Thule<s n="np"/></r></p></e>
 <e><p><l>tekstur<s n="n"/><s n="m"/></l><r>tekst<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tann<s n="prn"/><s n="dem"/></l><r>den<s n="prn"/><s n="dem"/></r></p></e>
 <e><p><l>tak<s n="n"/><s n="nt"/></l><r>tak<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>Svabo<s n="np"/></l><r>Svabo<s n="np"/></r></p></e>
 <e vr="nob"><p><l>suður<s n="n"/><s n="nt"/></l><r>syd<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nno"><p><l>suður<s n="n"/><s n="nt"/></l><r>sør<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nob"><p><l>studentaskúli<s n="n"/><s n="m"/></l><r>gymnasium<s n="n"/><s n="m"/></r></p></e>
@@ -835,18 +875,14 @@
 <e><p><l>samband<s n="n"/><s n="nt"/></l><r>kontakt<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>salt<s n="n"/><s n="nt"/></l><r>salt<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>salta<s n="vblex"/></l><r>salte<s n="vblex"/></r></p></e>
-<e><p><l>Ryberg<s n="np"/></l><r>Ryberg<s n="np"/></r></p></e>
 <e><p><l>roynd<s n="n"/><s n="f"/></l><r>forsøk<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Roskilde<s n="np"/></l><r>Roskilde<s n="np"/></r></p></e>
 <e vr="nob"><p><l>rørsla<s n="n"/><s n="f"/></l><r>bevegelse<s n="n"/><s n="f"/></r></p></e>
 <e vr="nno"><p><l>rørsla<s n="n"/><s n="f"/></l><r>rørsle<s n="n"/><s n="f"/></r></p></e>
 <e vr="nob"><p><l>rómi<s n="n"/><s n="m"/></l><r>fløte<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>rómi<s n="n"/><s n="m"/></l><r>fløta<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>rokna<s n="vblex"/></l><r>anta<s n="vblex"/></r></p></e>
 <e><p><l>reka<s n="vblex"/></l><r>trykk<s n="vblex"/></r></p></e>
-<e><p><l>Reise<s n="np"/></l><r>Reise<s n="np"/></r></p></e>
 <e><p><l>realskúli<s n="n"/><s n="m"/></l><r>videregående<b/>skole<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Rasmus<s n="np"/></l><r>Rasmus<s n="np"/></r></p></e>
 <e vr="nob"><p><l>ránsmaður<s n="n"/><s n="m"/></l><r>raner<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>ránsmaður<s n="n"/><s n="m"/></l><r>ranar<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>rán<s n="n"/><s n="nt"/></l><r>bytte<s n="n"/><s n="nt"/></r></p></e>
@@ -857,26 +893,21 @@
 <e><p><l>prestur<s n="n"/><s n="m"/></l><r>prest<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>prædika<s n="vblex"/></l><r>preke<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>prædika<s n="vblex"/></l><r>preika<s n="vblex"/></r></p></e>
-<e><p><l>Patursson<s n="np"/></l><r>Patursson<s n="np"/></r></p></e>
 <e><p><l>ormur<s n="n"/><s n="m"/></l><r>orm<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>ogn<s n="n"/><s n="f"/></l><r>eiendom<s n="n"/><s n="f"/></r></p></e>
 <e vr="nno"><p><l>ogn<s n="n"/><s n="f"/></l><r>eigedom<s n="n"/><s n="f"/></r></p></e>
 <e vr="nob"><p><l>nýta<s n="vblex"/></l><r>legge<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>nýta<s n="vblex"/></l><r>leggja<s n="vblex"/></r></p></e>
 <e><p><l>nýggjur<s n="adj"/></l><r>ny<s n="adj"/></r></p></e>
-<e><p><l>Norðurland<s n="np"/></l><r>Norden<s n="np"/></r></p></e>
 <e><p><l>norðureftir<s n="adv"/></l><r>nordover<s n="adv"/></r></p></e>
 <e><p><l>niðurlag<s n="n"/><s n="nt"/></l><r>kor<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>Nidaros<s n="np"/></l><r>Nidaros<s n="np"/></r></p></e>
 <e vr="nob"><p><l>myndugleiki<s n="n"/><s n="m"/></l><r>myndighet<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>myndugleiki<s n="n"/><s n="m"/></l><r>styresmakt<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>múrur<s n="n"/><s n="m"/></l><r>vegg<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>munkur<s n="n"/><s n="m"/></l><r>munk<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Mortensen<s n="np"/></l><r>Mortensen<s n="np"/></r></p></e>
 <e><p><l>mikla<s n="vblex"/></l><r>flott<s n="vblex"/></r></p></e>
 <e vr="nob"><p><l>merkja<s n="vblex"/></l><r>betegne<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>merkja<s n="vblex"/></l><r>kalla<s n="vblex"/></r></p></e>
-<e><p><l>Massalia<s n="np"/></l><r>Massalia<s n="np"/></r></p></e>
 <e><p><l>mars<s n="n"/><s n="m"/></l><r>mars<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>marknaður<s n="n"/><s n="m"/></l><r>marked<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>marknaður<s n="n"/><s n="m"/></l><r>marknad<s n="n"/><s n="m"/></r></p></e>
@@ -890,20 +921,16 @@
 <e vr="nno"><p><l>longur<s n="adv"/><s n="cmp"/></l><r>lengjer<s n="adv"/><s n="cmp"/></r></p></e>
 <e vr="nob"><p><l>longu<s n="adv"/></l><r>allerede<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>longu<s n="adv"/></l><r>allereie<s n="adv"/></r></p></e>
-<e vr="nob"><p><l>løgtingsval<s n="n"/><s n="nt"/></l><r>Valg<b/>på<b/>Færøyene<s n="n"/><s n="nt"/></r></p></e>
-<e vr="nno"><p><l>løgtingsval<s n="n"/><s n="nt"/></l><r>Val<b/>på<b/>Færøyene<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>løgtingsmaður<s n="n"/><s n="m"/></l><r>medlem<b/>av<b/>parlamentet<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>limur<s n="n"/><s n="m"/></l><r>medlem<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>liggja<s n="vblex"/></l><r>ligge<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>liggja<s n="vblex"/></l><r>liggja<s n="vblex"/></r></p></e>
 <e><p><l>lið<s n="n"/><s n="nt"/></l><r>lag<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>Leivur<s n="np"/></l><r>Leiv<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>leggja<s n="vblex"/></l><r>legge<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>leggja<s n="vblex"/></l><r>leggja<s n="vblex"/></r></p></e>
 <e><p><l>latínskúli<s n="n"/><s n="m"/></l><r>latinskole<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>læra<s n="vblex"/></l><r>lære<s n="vblex"/></r></p></e>
 <e><p><l>læraraskúli<s n="n"/><s n="m"/></l><r>læreskole<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Kristoffur<s n="np"/></l><r>Kristoffur<s n="np"/></r></p></e>
 <e><p><l>kringur<s n="n"/><s n="m"/></l><r>sirkel<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>kreppa<s n="n"/><s n="f"/></l><r>krise<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>konufólk<s n="n"/><s n="nt"/></l><r>kone<s n="n"/><s n="nt"/></r></p></e>
@@ -914,20 +941,14 @@
 <e><p><l>kjak<s n="n"/><s n="nt"/></l><r>debatt<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>kirkjumál<s n="n"/><s n="nt"/></l><r>kirke<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>kirkjumál<s n="n"/><s n="nt"/></l><r>kyrkje<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>Kirkjubøur<s n="np"/></l><r>Kirkjubøur<s n="np"/></r></p></e>
 <e vr="nob"><p><l>kirkja<s n="n"/><s n="f"/></l><r>kirkja<s n="n"/><s n="mf"/></r></p></e>
 <e vr="nno"><p><l>kirkja<s n="n"/><s n="f"/></l><r>kyrkje<s n="n"/><s n="mf"/></r></p></e>
-<e><p><l>Kiel<s n="np"/></l><r>Kiel<s n="np"/></r></p></e>
-<e><p><l>Keypmannahavn<s n="np"/></l><r>Keypmannahavn<s n="np"/></r></p></e>
 <e vr="nob"><p><l>keypa<s n="vblex"/></l><r>kjøpe<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>keypa<s n="vblex"/></l><r>kjøpa<s n="vblex"/></r></p></e>
 <e><p><l>kambur<s n="n"/><s n="m"/></l><r>nokke<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>jørð<s n="n"/><s n="f"/></l><r>jord <s n="n"/><s n="f"/></r></p></e>
 <e><p><l>jóladagur<s n="n"/><s n="m"/></l><r>juledag<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Jóansøka<s n="np"/></l><r>Sankthans<s n="np"/></r></p></e>
 <e><p><l>Jóannes<s n="np"/></l><r>@óannes<s n="np"/></r></p></e>
-<e><p><l>Jens<s n="np"/></l><r>Jens<s n="np"/></r></p></e>
-<e><p><l>Jakobsen<s n="np"/></l><r>Jakobsen<s n="np"/></r></p></e>
 <e><p><l>íslendingur<s n="n"/><s n="m"/></l><r>islending <s n="n"/><s n="m"/></r></p></e>
 <e><p><l>i<s n="pr"/></l><r>i<s n="pr"/></r></p></e>
 <e><p><l>indi<s n="n"/><s n="m"/></l><r>inder<s n="n"/><s n="m"/></r></p></e>
@@ -945,11 +966,8 @@
 <e vr="nob"><p><l>háskúli<s n="n"/><s n="m"/></l><r>høgskole<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>háskúli<s n="n"/><s n="m"/></l><r>høgskule<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hann<s n="prn"/><s n="pers"/></l><r>han<s n="prn"/><s n="pers"/></r></p></e>
-<e><p><l>Hagalóg<s n="np"/></l><r>Hagalóg<s n="np"/></r></p></e>
 <e><p><l>grund<s n="n"/><s n="f"/></l><r>bakke<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Grønland<s n="np"/></l><r>Grønland<s n="np"/></r></p></e>
 <e><p><l>grína<s n="vblex"/></l><r>le<s n="vblex"/></r></p></e>
-<e><p><l>Grímur<s n="np"/></l><r>Grímur<s n="np"/></r></p></e>
 <e><p><l>grasfræ<s n="n"/><s n="nt"/></l><r>gressfrø<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>gonga<s n="n"/><s n="f"/></l><r>flokk<s n="n"/><s n="f"/></r></p></e>
 <e vr="nob"><p><l>góðkenna<s n="vblex"/></l><r>vedta<s n="vblex"/></r></p></e>
@@ -958,8 +976,6 @@
 <e><p><l>gir<s n="n"/><s n="nt"/></l><r>utstyr<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>geva<s n="vblex"/></l><r>gi<s n="vblex"/></r></p></e>
 <e><p><l>geva<s n="vblex"/></l><r>gje<s n="vblex"/></r></p></e>
-<e><p><l>Gablatíð<s n="np"/></l><r>Gablatíð<s n="np"/></r></p></e>
-<e><p><l>Gabel<s n="np"/></l><r>Gabel<s n="np"/></r></p></e>
 <e><p><l>fyrsti<s n="adj"/></l><r>først<s n="adj"/></r></p></e>
 <e><p><l>fyrr<s n="adv"/></l><r>før<s n="adv"/></r></p></e>
 <e><p><l>fyriskipan<s n="n"/><s n="f"/></l><r>edikt<s n="n"/><s n="f"/></r></p></e>
@@ -970,7 +986,6 @@
 <e vr="nno"><p><l>fylgja<s n="n"/><s n="f"/></l><r>følgje<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fróðskaparsetur<s n="n"/><s n="nt"/></l><r>universitet<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>frímerki<s n="n"/><s n="nt"/></l><r>frimerke<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>Fríða<s n="np"/></l><r>Fríða<s n="np"/></r></p></e>
 <e><p><l>fremja<s n="adv"/></l><r>framover<s n="adv"/></r></p></e>
 <e><p><l>framburður<s n="n"/><s n="m"/></l><r>uttale<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>formaður<s n="n"/><s n="m"/></l><r>sjef<s n="n"/><s n="m"/></r></p></e>
@@ -978,15 +993,11 @@
 <e vr="nob"><p><l>fólkatal<s n="n"/><s n="nt"/></l><r>folketall<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nno"><p><l>fólkatal<s n="n"/><s n="nt"/></l><r>folketal<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>fólkaháskúli<s n="n"/><s n="m"/></l><r>folkehøgskole<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Fólkaflokkur<s n="np"/></l><r>Folkeparti<s n="np"/></r></p></e>
 <e><p><l>fólkaatkvøða<s n="n"/><s n="f"/></l><r>folkeavstemning<s n="n"/><s n="f"/></r></p></e>
 <e vr="nob"><p><l>flyta<s n="vblex"/></l><r>bevege<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>flyta<s n="vblex"/></l><r>røra<s n="vblex"/></r></p></e>
 <e><p><l>flagg<s n="n"/><s n="nt"/></l><r>flagg<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>fiskur<s n="n"/><s n="m"/></l><r>fisk<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Færøerne<s n="np"/></l><r>Færøerne<s n="np"/></r></p></e>
-<e><p><l>Færøe<s n="np"/></l><r>Færøe<s n="np"/></r></p></e>
-<e><p><l>Færoæ<s n="np"/></l><r>Færoæ<s n="np"/></r></p></e>
 <e vr="nob"><p><l>eystureftir<s n="adv"/></l><r>østover<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>eystureftir<s n="adv"/></l><r>austover<s n="adv"/></r></p></e>
 <e vr="nob"><p><l>endamál<s n="n"/><s n="nt"/></l><r>hensikt<s n="n"/><s n="nt"/></r></p></e>
@@ -998,7 +1009,6 @@
 <e vr="nno"><p><l>ein<s n="det"/></l><r>ein<s n="det"/><s n="qnt"/></r></p></e>
 <e vr="nob"><p><l>eg<s n="prn"/><s n="pers"/></l><r>jeg<s n="prn"/><s n="pers"/></r></p></e>
 <e vr="nno"><p><l>eg<s n="prn"/><s n="pers"/></l><r>eg<s n="prn"/><s n="pers"/></r></p></e>
-<e><p><l>Effersøe<s n="np"/></l><r>Effersøe<s n="np"/></r></p></e>
 <e><p><l>dýr<s n="n"/><s n="nt"/></l><r>dýr<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nob"><p><l>drepa<s n="vblex"/></l><r>drepe<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>drepa<s n="vblex"/></l><r>drepa<s n="vblex"/></r></p></e>
@@ -1006,13 +1016,8 @@
 <e vr="nob"><p><l>døma<s n="vblex"/></l><r>dømme<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>døma<s n="vblex"/></l><r>dømma<s n="vblex"/></r></p></e>
 <e><p><l>doktari<s n="n"/><s n="m"/></l><r>dokter<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Dimmalætting<s n="np"/></l><r>Dimmalætting<s n="np"/></r></p></e>
-<e><p><l>Dicuil<s n="np"/></l><r>Dicuil<s n="np"/></r></p></e>
 <e><p><l>desember<s n="n"/><s n="m"/></l><r>desember<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Debe<s n="np"/></l><r>Debe<s n="np"/></r></p></e>
 <e><p><l>dampur<s n="n"/><s n="nt"/></l><r>røyk<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>Christian<s n="np"/></l><r>Christian<s n="np"/></r></p></e>
-<e><p><l>C<s n="abbr"/></l><r>C<s n="abbr"/></r></p></e>
 <e><p><l>bygningur<s n="n"/><s n="m"/></l><r>bygning<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>broyting<s n="n"/><s n="f"/></l><r>endring<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>broyta<s n="vblex"/></l><r>forandre<s n="vblex"/></r></p></e>
@@ -1020,10 +1025,8 @@
 <e vr="nob"><p><l>brenna<s n="vblex"/></l><r>brenne<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>brenna<s n="vblex"/></l><r>brenna<s n="vblex"/></r></p></e>
 <e><p><l>bøur<s n="n"/><s n="m"/></l><r>leir<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Amtstidende<s n="np"/></l><r>Amtstidende<s n="np"/></r></p></e>
 <e><p><l>amtmaður<s n="n"/><s n="m"/></l><r>prefekt<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>allur<s n="n"/><s n="m"/></l><r>alle<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Algeria<s n="np"/></l><r>Algeria<s n="np"/></r></p></e>
 
 </section>
 </dictionary>
