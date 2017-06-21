@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
   <section-def-cats>
+    <def-cat n="ncmp">
+      <cat-item tags="n.*.*.*.cmp"/>
+    </def-cat>
     <def-cat n="prop">
       <cat-item tags="np.*"/>
     </def-cat>
@@ -72,6 +75,9 @@
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
     </def-attr>
+    <def-attr n="a_cmp">
+      <attr-item tags="cmp"/>
+    </def-attr>
     <def-attr n="v_mood">
       <attr-item tags="ind"/>
     </def-attr>
@@ -120,6 +126,7 @@
 
   <section-def-vars>
     <def-var n="prn_lemma"/>
+    <def-var n="ntags"/>
   </section-def-vars>
 
   <section-def-macros>
@@ -127,6 +134,11 @@
       <choose>
         <when><test><not><equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/></equal></not></test>
               <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+        </when>
+      </choose>
+      <choose>
+        <when><test><equal><clip pos="1" side="tl" part="a_cmp"/><lit-tag v="cmp"/></equal></test>
+              <let><clip pos="1" side="tl" part="a_cmp"/><lit-tag v="ind"/></let>
         </when>
       </choose>
     </def-macro>
@@ -278,6 +290,29 @@
         </out>
 	  </action>      
     </rule>
+
+    <rule comment="NCMP N: ytelse ytelse => ytingsyting
+                   Remove the space that pretransfer added">
+      <pattern>
+        <pattern-item n="ncmp"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <call-macro n="f_default1"><with-param pos="1"/></call-macro>
+        <call-macro n="f_default1"><with-param pos="2"/></call-macro>
+
+<!--        <call-macro n="set_caseFirstWord"><with-param pos="1"/></call-macro>
+        <call-macro n="set_ntags"><with-param pos="2"/></call-macro>-->
+        <out>
+          <chunk name="n_n" case="caseFirstWord">
+            <tags><tag><var n="ntags"/></tag></tags>
+            <lu><clip pos="1" side="tl" part="whole"/></lu>
+            <lu><clip pos="2" side="tl" part="whole"/></lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 	<rule comment="verb stuff">
 	  <pattern>
