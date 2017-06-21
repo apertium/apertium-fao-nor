@@ -91,7 +91,7 @@
 <e vr="nno"><p><l>hjá<s n="pr"/></l><r>hjå<s n="pr"/></r></p></e>
 <e vr="nno"><p><l>hóast<s n="pr"/></l><r>sjølv<b/>om<s n="pr"/></r></p></e>
 <e vr="nno"><p><l>sambært<s n="pr"/></l><r>svarande<b/>til<s n="pr"/></r></p></e>
-<e vr="nob"><p><l>frammanfyri<s n="pr"/></l>	<r>utenfor<s n="pr"/></r></p></e>
+<e vr="nob"><p><l>frammanfyri<s n="pr"/></l><r>utenfor<s n="pr"/></r></p></e>
 <e vr="nob"><p><l>frá<s n="pr"/></l><r>fra<s n="pr"/></r></p></e>
 <e vr="nob"><p><l>hóast<s n="pr"/></l><r>selv<b/>om<s n="pr"/></r></p></e>
 <e vr="nob"><p><l>sambært<s n="pr"/></l><r>svarende<b/>til<s n="pr"/></r></p></e>
@@ -99,8 +99,8 @@
 <e><p><l>at<s n="pr"/></l><r>mot<s n="pr"/></r></p></e>
 <e><p><l>av<s n="pr"/></l><r>av<s n="pr"/></r></p></e>
 <e><p><l>eftir<s n="pr"/></l><r>etter<s n="pr"/></r></p></e>
-<e vr="nob"><p><l>eystan<s n="pr"/></l><r>austenfor<s n="pr"/></r></p></e>
 <e vr="nno"><p><l>eystan<s n="pr"/></l><r>austafor<s n="pr"/></r></p></e>
+<e vr="nob"><p><l>eystan<s n="pr"/></l><r>austenfor<s n="pr"/></r></p></e>
 <e><p><l>fyri<s n="pr"/></l><r>til<s n="pr"/></r></p></e>
 <e><p><l>gjøgnum<s n="pr"/></l><r>gjennom<s n="pr"/></r></p></e>
 <e><p><l>hjá<s n="pr"/></l><r>på<s n="pr"/></r></p></e>
@@ -110,8 +110,10 @@
 <e><p><l>kring<s n="pr"/></l><r>omkring<s n="pr"/></r></p></e>
 <e><p><l>millum<s n="pr"/></l><r>mellom<s n="pr"/></r></p></e>
 <e><p><l>móti<s n="pr"/></l><r>mot<s n="pr"/></r></p></e>
-<e><p><l>norðan<s n="pr"/></l><r>nordafor<s n="pr"/></r></p></e>
-<e><p><l>norðanfyri<s n="pr"/></l><r>nordafor<s n="pr"/></r></p></e>
+<e vr="nno"><p><l>norðan<s n="pr"/></l><r>nordafor<s n="pr"/></r></p></e>
+<e vr="nob"><p><l>norðan<s n="pr"/></l><r>nordenfor<s n="pr"/></r></p></e>
+<e vr="nob"><p><l>norðanfyri<s n="pr"/></l><r>nordenfor<s n="pr"/></r></p></e>
+<e vr="nno"><p><l>norðanfyri<s n="pr"/></l><r>nordafor<s n="pr"/></r></p></e>
 <e><p><l>nær<s n="pr"/></l><r>nær<s n="pr"/></r></p></e>
 <e><p><l>sum<s n="pr"/></l><r>som<s n="pr"/></r></p></e>
 <e><p><l>sunnan<s n="pr"/></l><r>sønnafor<s n="pr"/></r></p></e>
