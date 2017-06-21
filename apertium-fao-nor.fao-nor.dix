@@ -922,7 +922,8 @@
 <e vr="nno"><p><l>longur<s n="adv"/><s n="cmp"/></l><r>lengjer<s n="adv"/><s n="cmp"/></r></p></e>
 <e vr="nob"><p><l>longu<s n="adv"/></l><r>allerede<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>longu<s n="adv"/></l><r>allereie<s n="adv"/></r></p></e>
-<e><p><l>løgtingsmaður<s n="n"/><s n="m"/></l><r>medlem<g><b/>av<b/>parlamentet</g><s n="n"/><s n="nt"/></r></p></e>
+<!--<e><p><l>løgtingsmaður<s n="n"/><s n="m"/></l><r>medlem<g><b/>av<b/>parlamentet</g><s n="n"/><s n="nt"/></r></p></e>-->
+<e><p><l>løgtingsmaður<s n="n"/><s n="m"/></l><r>parlamentsmedlem<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>limur<s n="n"/><s n="m"/></l><r>medlem<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>liggja<s n="vblex"/></l><r>ligge<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>liggja<s n="vblex"/></l><r>liggja<s n="vblex"/></r></p></e>
