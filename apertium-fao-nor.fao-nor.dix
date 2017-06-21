@@ -7,6 +7,7 @@
   <sdef n="pprs"/>
   <sdef n="pp"/>
   <sdef n="vblex"/>
+  <sdef n="top"/>
   <sdef n="pers"/>
   <sdef n="sint"/>
   <sdef n="un"/>
@@ -200,7 +201,6 @@
 <e><p><l>træ<s n="n"/><s n="nt"/></l><r>tre<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>ár<s n="n"/><s n="nt"/></l><r>år<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>øld<s n="n"/><s n="nt"/></l><r>alder<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Føroyar<s n="n"/><s n="f"/></l><r>Færøyane<s n="np"/><s n="pl"/></r></p></e>
 <e><p><l>land<s n="n"/><s n="nt"/></l><r>land<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>fólk<s n="n"/><s n="nt"/></l><r>folk<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>kommuna<s n="n"/><s n="m"/></l><r>kommune<s n="n"/><s n="m"/></r></p></e>
@@ -216,7 +216,6 @@
 <e><p><l>oyggj<s n="n"/><s n="f"/></l><r>øy<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>maður<s n="n"/><s n="m"/></l><r>mann<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>felag<s n="n"/><s n="m"/></l><r>felle<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Svøríki<s n="n"/><s n="m"/></l><r>Sverige<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>navn<s n="n"/><s n="nt"/></l><r>namn<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>kirkja<s n="n"/><s n="f"/></l><r>kyrkje<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>kirkja<s n="n"/><s n="f"/></l><r>kirke<s n="n"/><s n="f"/></r></p></e>
@@ -241,6 +240,11 @@
 
 
 <!-- SECTION: Proper nouns -->
+
+<e vr="nno"><p><l>Føroyar<s n="np"/><s n="f"/><s n="pl"/></l><r>Færøyane<s n="np"/><s n="top"/></r></p></e>
+<e vr="nob"><p><l>Føroyar<s n="np"/><s n="f"/><s n="pl"/></l><r>Færøyene<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Svøríki<s n="np"/><s n="nt"/><s n="sg"/></l><r>Sverige<s n="np"/><s n="top"/></r></p></e>
+
 <e><p><l>Maria<s n="np"/><s n="ant"/></l><r>Maria<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Jákup<s n="np"/><s n="ant"/></l><r>Jákup<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Danmark<s n="np"/><s n="ant"/></l><r>Danmark<s n="np"/><s n="ant"/></r></p></e>
@@ -676,9 +680,8 @@
 <e><p><l>hesin<s n="prn"/><s n="dem"/></l><r>denne<s n="prn"/><s n="dem"/></r></p></e>
 <e><p><l>biskupur<s n="n"/><s n="m"/></l><r>biskop<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ting<s n="n"/><s n="nt"/></l><r>ting<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>)<s n="punct"/><s n="rquot"/></l><r>)<s n="punct"/><s n="rquot"/></r></p></e>
-<e><p><l>•<s n="punct"/></l><r>•<s n="punct"/></r></p></e>
-<e><p><l>(<s n="lquot"/><s n="punct"/></l><r>(<s n="lquot"/><s n="punct"/></r></p></e>
+<e><p><l>)<s n="punct"/><s n="rquot"/></l><r>)<s n="rpar"/></r></p></e>
+<e><p><l>(<s n="lquot"/><s n="punct"/></l><r>(<s n="lpar"/></r></p></e>
 <e><p><l>kongur<s n="n"/><s n="m"/></l><r>konge<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>taka<s n="vblex"/></l><r>ta<s n="vblex"/></r></p></e>
 <e><p><l>stovnur<s n="n"/><s n="m"/></l><r>bestand<s n="n"/><s n="m"/></r></p></e>
@@ -696,7 +699,7 @@
 <e vr="nno"><p><l>skúli<s n="n"/><s n="m"/></l><r>skule<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>skip<s n="n"/><s n="nt"/></l><r>skip<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>seyður<s n="n"/><s n="m"/></l><r>sau<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>”<s n="punct"/><s n="rquot"/></l><r>”<s n="punct"/><s n="rquot"/></r></p></e>
+<e><p><l>”<s n="punct"/><s n="rquot"/></l><r>”<s n="rquot"/></r></p></e>
 <e vr="nob"><p><l>nevna<s n="vblex"/></l><r>presentere<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>nevna<s n="vblex"/></l><r>presentera<s n="vblex"/></r></p></e>
 <e><p><l>máur<s n="n"/><s n="m"/></l><r>måke<s n="n"/><s n="m"/></r></p></e>

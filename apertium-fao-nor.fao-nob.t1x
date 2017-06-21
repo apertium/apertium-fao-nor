@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
   <section-def-cats>
+    <def-cat n="prop">
+      <cat-item tags="np.*"/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
@@ -68,6 +71,11 @@
     <def-attr n="v_mood">
       <attr-item tags="ind"/>
     </def-attr>
+    <def-attr n="a_prop">
+      <attr-item tags="np.top"/>
+      <attr-item tags="np.ant"/>
+      <attr-item tags="np.cog"/>
+    </def-attr>
     <def-attr n="v_pers">
       <attr-item tags="p1"/>
       <attr-item tags="p2"/>
@@ -127,6 +135,11 @@
     <def-macro n="rm_case_and_num" npar="1">
       <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="num"/><lit v=""/></let>
+      <choose> 
+        <when><test><equal><clip pos="1" side="tl" part="a_prop"/><lit-tag v="np.top"/></equal></test>
+              <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
+        </when>
+      </choose> 
     </def-macro>
     
     <def-macro n="rm_case_num_and_gen" npar="1">
@@ -292,7 +305,29 @@
 	    </out>
 	  </action>
 	</rule>
+		
+	<rule comment="REMOVE prop">
+	  <pattern>
+	  	<pattern-item n="prop"/>
+	  </pattern>
+	  <action>
+	    <call-macro n="rm_case_and_num">
+          <with-param pos="1"/>
+        </call-macro>
+	    <out>
+	      <chunk name="prop" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="whole"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
 	
+
 	<rule comment="REMOVE np stuff">
 	  <pattern>
 	  	<pattern-item n="ant"/>
