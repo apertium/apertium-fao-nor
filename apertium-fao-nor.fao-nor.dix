@@ -639,7 +639,7 @@
 <e><p><l>lóg<s n="n"/><s n="f"/></l><r>lov<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>liggja<s n="n"/><s n="f"/></l><r>ligge<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>liggja<s n="n"/><s n="f"/></l><r>liggja<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>túsund<s n="num"/></l><r>tusen<s n="num"/></r></p></e>
+<e><p><l>túsund<s n="num"/></l><r>tusen<s n="det"/><s n="qnt"/><s n="un"/><s n="pl"/></r></p></e>
 <e vr="nno"><p><l>sjálvt<s n="cnjcoo"/></l><r>òg<s n="cnjcoo"/></r></p></e>
 <e vr="nob"><p><l>sjálvt<s n="cnjcoo"/></l><r>også<s n="cnjcoo"/></r></p></e>
 <e vr="nob"><p><l>búsetur<s n="n"/><s n="m"/></l><r>bosted<s n="n"/><s n="nt"/></r></p></e>
