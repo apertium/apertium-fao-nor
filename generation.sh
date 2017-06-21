@@ -87,7 +87,7 @@ analyser_to_hfst () {
 analysis_expansion_hfst () {
     analyser_to_hfst "$1" \
         | hfst-project -p lower \
-        | hfst-fst2strings -c"${CYCLES}"  \
+        | hfst-fst2strings -c0  \
         | awk -v clb="$2" '
           /[][$^{}\\]/{next} # skip escaping hell
           /<compound-(R|only-L)>|DUE_TO_LT_PROC_HANG|__REGEXP__/ {next}
@@ -188,7 +188,10 @@ if $HFST; then
     if [[ ${dix} = guess ]]; then
         dix=$(xmllint --xpath "string(/modes/mode[@name = '${mode}']/pipeline/program[1]/file[1]/@name)" modes.xml)
     fi
-    analysis_expansion_hfst "${dix}" "${clb}" \
+    echo "?* %<cmp%> ?*" | hfst-regexp2fst -o /tmp/cmp.hfst
+    hfst-compose-intersect -1 .deps/fao-nob.automorf-trimmed.hfst -2 /tmp/cmp.hfst -o /tmp/allcmpnd.hfst
+    hfst-subtract -1 .deps/fao-nob.automorf-trimmed.hfst -2 /tmp/allcmpnd.hfst -o /tmp/fao-nob.automorf-trimmed.hfst
+    analysis_expansion_hfst "/tmp/fao-nob.automorf-trimmed.hfst" "${clb}" \
         | run_mode "${mode_after_tagger}"     \
         | only_errs
 else
