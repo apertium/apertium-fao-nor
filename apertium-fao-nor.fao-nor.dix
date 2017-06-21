@@ -623,7 +623,11 @@
 <e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
 <e><re>«</re><p><l><s n="lquot"/></l><r><s n="lquot"/></r></p></e>
 <e><re>»</re><p><l><s n="rquot"/></l><r><s n="rquot"/></r></p></e>
-<e><re>[0-9]+([.,][0-9]+)*( ?%)?</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/></r></p></e>
+
+<e><re>1</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/><s n="un"/><s n="sg"/></r></p></e>
+<e><re>[02-9]</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/><s n="un"/><s n="pl"/></r></p></e>
+<e><re>[0-9][0-9]+</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/><s n="un"/><s n="pl"/></r></p></e> 
+
 <e><re>[IVXLCDM\-]+</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/></r></p></e>
 
 
