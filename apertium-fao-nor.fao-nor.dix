@@ -70,6 +70,12 @@
      <e><p><l></l><r><s n="pst"/></r></p></e>
      <e><p><l><s n="adv"/></l><r><s n="pst"/><s n="nt"/><s n="sg"/><s n="ind"/></r></p></e>
    </pardef>
+   <pardef n="vblex:vblex">
+     <e><p><l><s n="vblex"/><s n="pprs"/></l><r><s n="adj"/><s n="pprs"/></r></p></e>
+     <e><p><l><s n="vblex"/><s n="pp"/></l><r><s n="adj"/><s n="pp"/></r></p></e>
+     <e><p><l><s n="vblex"/></l><r><s n="vblex"/></r></p></e>
+   </pardef>
+
 
    <pardef n="num:det_qnt">
      <e><p><l></l><r><s n="un"/><s n="pl"/></r></p></e>
@@ -259,10 +265,10 @@
 <e><p><l>Danmark<s n="np"/><s n="top"/></l><r>Danmark<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Svøríki<s n="np"/><s n="top"/></l><r>Sverige<s n="np"/><s n="top"/></r></p></e>
 
-<e vr="nob"><p><l>Noreg<s n="np"/></l><r>Norge<s n="np"/><s n="top"/></r></p></e>
-<e vr="nno"><p><l>Noreg<s n="np"/></l><r>Noreg<s n="np"/><s n="top"/></r></p></e>
+<e vr="nob"><p><l>Noreg<s n="np"/><s n="nt"/></l><r>Norge<s n="np"/><s n="top"/></r></p></e>
+<e vr="nno"><p><l>Noreg<s n="np"/><s n="nt"/></l><r>Noreg<s n="np"/><s n="top"/></r></p></e>
 
-<e><p><l>Danmark<s n="np"/></l><r>Danmark<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Danmark<s n="np"/><s n="f"/></l><r>Danmark<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Tróndur<s n="np"/></l><r>Tron<s n="np"/></r></p></e>
 <e><p><l>Sæland<s n="np"/></l><r>Sjælland<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Postverk<s n="n"/><s n="nt"/></l><r>Postverk<s n="np"/></r></p></e>
@@ -295,13 +301,13 @@
 <e vr="nno"><p><l>løgtingsval<s n="n"/><s n="nt"/></l><r>løgtingsval<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>Leivur<s n="np"/></l><r>Leiv<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Kirkjubøur<s n="np"/></l><r>Kirkjubøur<s n="np"/></r></p></e>
-<e><p><l>Kiel<s n="np"/></l><r>Kiel<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Kiel<s n="np"/><s n="top"/></l><r>Kiel<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Keypmannahavn<s n="np"/></l><r>København<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Jóansøka<s n="np"/></l><r>Sankthans<s n="np"/></r></p></e>
 <e><p><l>Jens<s n="np"/></l><r>Jens<s n="np"/></r></p></e>
 <e><p><l>Jakobsen<s n="np"/></l><r>Jakobsen<s n="np"/></r></p></e>
 <e><p><l>Hagalóg<s n="np"/></l><r>Hagalóg<s n="np"/></r></p></e>
-<e><p><l>Grønland<s n="np"/></l><r>Grønland<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Grønland<s n="np"/><s n="nt"/></l><r>Grønland<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Grímur<s n="np"/></l><r>Grímur<s n="np"/></r></p></e>
 <e><p><l>Gablatíð<s n="np"/></l><r>Gablatíð<s n="np"/></r></p></e>
 
@@ -369,7 +375,7 @@
 <e><p><l>ymiskur<s n="adj"/></l><r>forskjellig<s n="adj"/></r></p></e>
 <e><p><l>illur<s n="adj"/></l><r>dårleg<s n="adj"/></r></p></e>
 <e><p><l>deyður<s n="adj"/></l><r>daud<s n="adj"/></r></p></e>
-<e><p><l>svenskur<s n="adj"/></l><r>svensk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>svenskur<s n="adj"/></l><r>svensk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>almennur<s n="adj"/></l><r>allmenn<s n="adj"/></r></p></e>
 <e><p><l>ringur<s n="adj"/></l><r>ring<s n="adj"/></r></p></e>
 <e><p><l>egin<s n="adj"/></l><r>eigen<s n="adj"/></r></p></e>
@@ -612,7 +618,8 @@
 
 <!-- SECTION: Verbs -->
 <e><p><l>hava<s n="vblex"/></l><r>ha<s n="vblex"/></r></p></e>
-<e><p><l>verða<s n="vblex"/></l><r>bli<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>verða</l><r>bli</r></p><par n="vblex:vblex"/></e>
+<e vr="nno"><p><l>verða</l><r>vert</r></p><par n="vblex:vblex"/></e>
 <e><p><l>búgva<s n="vblex"/></l><r>bu<s n="vblex"/></r></p></e>
 
 <e vr="nob"><p><l>vera<s n="vblex"/></l><r>være<s n="vblex"/></r></p></e>
@@ -755,8 +762,6 @@
 <e vr="nob"><p><l>stovna<s n="vblex"/></l><r>skape<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>stovna<s n="vblex"/></l><r>skapa<s n="vblex"/></r></p></e>
 <e><p><l>føroyingur<s n="n"/><s n="m"/></l><r>færøying<s n="n"/><s n="m"/></r></p></e>
-<e vr="nob"><p><l>verða<s n="vblex"/></l><r>bli<s n="vblex"/></r></p></e>
-<e vr="nno"><p><l>verða<s n="vblex"/></l><r>vert<s n="vblex"/></r></p></e>
 <e><p><l>skula<s n="vblex"/></l><r>skulle<s n="vblex"/></r></p></e>
 <e vr="nob"><p><l>hin<s n="det"/></l><r>annen<s n="det"/></r></p></e>
 <e vr="nno"><p><l>hin<s n="det"/></l><r>annan<s n="det"/></r></p></e>
