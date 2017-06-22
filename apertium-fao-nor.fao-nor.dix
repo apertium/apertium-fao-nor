@@ -701,6 +701,8 @@
 <e><p><l>)<s n="punct"/><s n="rquot"/></l><r>)<s n="rpar"/></r></p></e>
 <e><p><l>(<s n="lquot"/><s n="punct"/></l><r>(<s n="lpar"/></r></p></e>
 <e><p><l>”<s n="punct"/><s n="rquot"/></l><r>”<s n="rquot"/></r></p></e>
+<e><p><l>"<s n="quot"/></l><r>"<s n="quot"/></r></p></e>
+<e><p><l>m<s n="abbr"/></l><r>m<s n="abbr"/></r></p></e>
 -->
 
 <e><re>1</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/><s n="un"/><s n="sg"/></r></p></e>
@@ -798,9 +800,7 @@
 <e><p><l>ráð<s n="n"/><s n="nt"/></l><r>råd<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>ráðgevandi<s n="adj"/></l><r>rådgiver<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ráðgevandi<s n="adj"/></l><r>rådgjevar<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>"<s n="quot"/></l><r>"<s n="quot"/></r></p></e>
 <e><p><l>oddur<s n="n"/><s n="m"/></l><r>slutt<s n="vblex"/></r></p></e>
-<e><p><l>m<s n="abbr"/></l><r>m<s n="abbr"/></r></p></e>
 <e><p><l>lið<s n="n"/><s n="nt"/></l><r>lag<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nob"><p><l>kongligur<s n="adj"/></l><r>kongelig<s n="adj"/></r></p></e>
 <e vr="nno"><p><l>kongligur<s n="adj"/></l><r>kongeleg<s n="adj"/></r></p></e>
