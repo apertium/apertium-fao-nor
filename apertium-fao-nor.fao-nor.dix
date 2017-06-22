@@ -263,7 +263,7 @@
 <e><p><l>Nólsoy<s n="np"/></l><r>Nólsoy<s n="np"/></r></p></e>
 <e><p><l>Ísland<s n="np"/></l><r>Island<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Hvalba<s n="np"/></l><r>Hvalba<s n="np"/></r></p></e>
-<e><p><l>Hetland<s n="np"/></l><r>Hetland<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Hetland<s n="np"/><s n="nt"/></l><r>Hetland<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Hammershaimb<s n="np"/></l><r>Hammershaimb<s n="np"/></r></p></e>
 <e><p><l>Føring<s n="np"/></l><r>Føring<s n="np"/></r></p></e>
 <e><p><l>Erlendur<s n="np"/></l><r>Erlendur<s n="np"/></r></p></e>
