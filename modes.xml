@@ -41,6 +41,19 @@
     </pipeline>
   </mode>
 
+  <mode name="fao-nob-disam-debug" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="fao-nob.automorf.hfst"/>
+      </program>
+      <program name="cg-conv -a -l"/>
+      <program name="vislcg3 --trace --grammar">
+        <file name="fao-nor.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
   <mode name="fao-nno" install="yes" gendebug="yes">
     <pipeline>
       <program name="hfst-proc -w">

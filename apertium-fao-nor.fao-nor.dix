@@ -249,54 +249,51 @@
 <e><p><l>Jákup<s n="np"/><s n="ant"/></l><r>Jákup<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Kristoffur<s n="np"/><s n="ant"/><s n="m"/></l><r>Kristoffur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
-<e><p><l>Danmark<s n="np"/><s n="ant"/></l><r>Danmark<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Svøríki<s n="np"/><s n="ant"/></l><r>Sverige<s n="np"/><s n="ant"/></r></p></e>
-<e vr="nob"><p><l>Noreg<s n="np"/><s n="ant"/></l><r>Noreg<s n="np"/><s n="ant"/></r></p></e>
-<e vr="nob"><p><l>Norge<s n="np"/><s n="ant"/></l><r>Norge<s n="np"/><s n="ant"/></r></p></e>
-<e vr="nno"><p><l>Føroyar<s n="np"/><s n="ant"/></l><r>Færøyane<s n="np"/><s n="ant"/></r></p></e>
-<e vr="nob"><p><l>Føroyar<s n="np"/><s n="ant"/></l><r>Færøyene<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Danmark<s n="np"/><s n="top"/></l><r>Danmark<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Svøríki<s n="np"/><s n="top"/></l><r>Sverige<s n="np"/><s n="top"/></r></p></e>
 
-<e vr="nob"><p><l>Noreg<s n="np"/></l><r>Norge<s n="np"/></r></p></e>
-<e vr="nno"><p><l>Noreg<s n="np"/></l><r>Noreg<s n="np"/></r></p></e>
-<e><p><l>Danmark<s n="np"/></l><r>Danmark<s n="np"/></r></p></e>
+<e vr="nob"><p><l>Noreg<s n="np"/></l><r>Norge<s n="np"/><s n="top"/></r></p></e>
+<e vr="nno"><p><l>Noreg<s n="np"/></l><r>Noreg<s n="np"/><s n="top"/></r></p></e>
+
+<e><p><l>Danmark<s n="np"/></l><r>Danmark<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Tróndur<s n="np"/></l><r>Tron<s n="np"/></r></p></e>
-<e><p><l>Sæland<s n="np"/></l><r>Sjælland<s n="np"/></r></p></e>
+<e><p><l>Sæland<s n="np"/></l><r>Sjælland<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Postverk<s n="n"/><s n="nt"/></l><r>Postverk<s n="np"/></r></p></e>
 <e><p><l>Páll<s n="np"/></l><r>Paul<s n="np"/></r></p></e>
 <e><p><l>Nólsoy<s n="np"/></l><r>Nólsoy<s n="np"/></r></p></e>
-<e><p><l>Ísland<s n="np"/></l><r>Island<s n="np"/></r></p></e>
+<e><p><l>Ísland<s n="np"/></l><r>Island<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Hvalba<s n="np"/></l><r>Hvalba<s n="np"/></r></p></e>
-<e><p><l>Hetland<s n="np"/></l><r>Hetland<s n="np"/></r></p></e>
+<e><p><l>Hetland<s n="np"/></l><r>Hetland<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Hammershaimb<s n="np"/></l><r>Hammershaimb<s n="np"/></r></p></e>
 <e><p><l>Føring<s n="np"/></l><r>Føring<s n="np"/></r></p></e>
 <e><p><l>Erlendur<s n="np"/></l><r>Erlendur<s n="np"/></r></p></e>
 <e><p><l>E<s n="abbr"/></l><r>E<s n="abbr"/></r></p></e>
 <e><p><l>Bergen<s n="np"/></l><r>Bergen<s n="np"/></r></p></e>
 <e><p><l>Tórshavn<s n="np"/></l><r>Tórshavn<s n="np"/></r></p></e>
-<e><p><l>tinghús<s n="n"/><s n="nt"/></l><r>Parlamentet<b/>hus<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>tinghús<s n="n"/><s n="nt"/></l><r>parlamentshus<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>Tinganes<s n="np"/></l><r>Tinganes<s n="np"/></r></p></e>
 <e><p><l>Thule<s n="np"/></l><r>Thule<s n="np"/></r></p></e>
 <e><p><l>Svabo<s n="np"/></l><r>Svabo<s n="np"/></r></p></e>
 <e><p><l>Ryberg<s n="np"/></l><r>Ryberg<s n="np"/></r></p></e>
-<e><p><l>Roskilde<s n="np"/></l><r>Roskilde<s n="np"/></r></p></e>
+<e><p><l>Roskilde<s n="np"/></l><r>Roskilde<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Reise<s n="np"/></l><r>Reise<s n="np"/></r></p></e>
 <e><p><l>Rasmus<s n="np"/></l><r>Rasmus<s n="np"/></r></p></e>
 <e><p><l>Patursson<s n="np"/></l><r>Patursson<s n="np"/></r></p></e>
-<e><p><l>Norðurland<s n="np"/></l><r>Norden<s n="np"/></r></p></e>
+<e><p><l>Norðurland<s n="np"/></l><r>Norden<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Nidaros<s n="np"/></l><r>Nidaros<s n="np"/></r></p></e>
 <e><p><l>Mortensen<s n="np"/></l><r>Mortensen<s n="np"/></r></p></e>
 <e><p><l>Massalia<s n="np"/></l><r>Massalia<s n="np"/></r></p></e>
-<e vr="nob"><p><l>løgtingsval<s n="n"/><s n="nt"/></l><r>Valg<b/>på<b/>Færøyene<s n="n"/><s n="nt"/></r></p></e>
-<e vr="nno"><p><l>løgtingsval<s n="n"/><s n="nt"/></l><r>Val<b/>på<b/>Færøyene<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>Leivur<s n="np"/></l><r>Leiv<s n="n"/><s n="m"/></r></p></e>
+<e vr="nob"><p><l>løgtingsval<s n="n"/><s n="nt"/></l><r>løgtingsval<s n="n"/><s n="nt"/></r></p></e>
+<e vr="nno"><p><l>løgtingsval<s n="n"/><s n="nt"/></l><r>løgtingsval<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Leivur<s n="np"/></l><r>Leiv<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Kirkjubøur<s n="np"/></l><r>Kirkjubøur<s n="np"/></r></p></e>
-<e><p><l>Kiel<s n="np"/></l><r>Kiel<s n="np"/></r></p></e>
+<e><p><l>Kiel<s n="np"/></l><r>Kiel<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Keypmannahavn<s n="np"/></l><r>København<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Jóansøka<s n="np"/></l><r>Sankthans<s n="np"/></r></p></e>
 <e><p><l>Jens<s n="np"/></l><r>Jens<s n="np"/></r></p></e>
 <e><p><l>Jakobsen<s n="np"/></l><r>Jakobsen<s n="np"/></r></p></e>
 <e><p><l>Hagalóg<s n="np"/></l><r>Hagalóg<s n="np"/></r></p></e>
-<e><p><l>Grønland<s n="np"/></l><r>Grønland<s n="np"/></r></p></e>
+<e><p><l>Grønland<s n="np"/></l><r>Grønland<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Grímur<s n="np"/></l><r>Grímur<s n="np"/></r></p></e>
 <e><p><l>Gablatíð<s n="np"/></l><r>Gablatíð<s n="np"/></r></p></e>
 
@@ -686,6 +683,9 @@
 <!-- SECTION: Interjections -->
 <e><p><l>nei<s n="ij"/></l><r>nei<s n="ij"/></r></p></e>
 
+<!-- SECTION: Abbreviations -->
+
+<e><p><l>f.Kr.<s n="abbr"/></l><r>f.Kr.<s n="abbr"/></r></p></e>
 
 <!-- SECTION: Punctuation -->
 
@@ -699,7 +699,7 @@
 
 <e><re>1</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/><s n="un"/><s n="sg"/></r></p></e>
 <e><re>[02-9]</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/><s n="un"/><s n="pl"/></r></p></e>
-<e><re>[0-9][0-9]+</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/><s n="un"/><s n="pl"/></r></p></e> 
+<e><re>[0-9][0-9]+([0-9]+)*</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/><s n="un"/><s n="pl"/></r></p></e> 
 
 <e><re>[IVXLCDM\-]+</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/></r></p></e>
 
