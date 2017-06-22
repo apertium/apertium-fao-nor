@@ -656,7 +656,8 @@
         </choose>
         <choose>
           <when>
-            <test><equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="dat"/></equal></test>
+            <test><or><equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="dat"/></equal>
+              <equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/></equal></or></test>
             <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="acc"/></let>
           </when>
         </choose>
