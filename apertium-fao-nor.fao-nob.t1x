@@ -54,6 +54,9 @@
     <def-cat n="sin">
       <cat-item tags="det.pos.*"/>
     </def-cat>
+    <def-cat n="prn-dem">
+      <cat-item tags="prn.dem.*"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
@@ -129,6 +132,7 @@
 
   <section-def-vars>
     <def-var n="prn_lemma"/>
+    <def-var n="dem_lemma"/>
     <def-var n="ntags"/>
   </section-def-vars>
 
@@ -633,23 +637,47 @@
           </action>      
     </rule>
 	
-    <rule comment="stuffen sin">
-      <pattern>
-        <pattern-item n="sin"/>
-      </pattern>
-      <action>
-        <out>
-          <chunk name="sent" case="caseFirstWord">
+	<rule comment="prn-dem stuff">
+	  <pattern>
+	  	<pattern-item n="prn-dem"/>
+	  </pattern>
+	  <action>
+	    <choose>
+          <when>
+            <test><equal><clip pos="1" side="tl" part="num"/><lit-tag v="sg"/></equal></test>
+            <let><var n="dem_lemma"/><lit v="den"/></let>
+        	<let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="mf"/></let>
+          </when>
+          <when>
+            <test><equal><clip pos="1" side="tl" part="num"/><lit-tag v="pl"/></equal></test>
+            <let><var n="dem_lemma"/><lit v="de"/></let>
+            <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="un"/></let>
+          </when>
+        </choose>
+        <choose>
+          <when>
+            <test><equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="dat"/></equal></test>
+            <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="acc"/></let>
+          </when>
+        </choose>
+	    <out>
+	      <chunk name="r" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="sin"/></tag>
+              <tag><lit-tag v="Itgprn"/></tag>
             </tags>
-            <lu>
-              <lit v="lah"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
+	        <lu>
+	      	  <var n="dem_lemma"/>
+              <clip pos="1" side="tl" part="POS"/>
+              <lit-tag v="pers"/>
+              <lit-tag v="p3"/>
+              <clip pos="1" side="tl" part="a_gen"/>
+              <clip pos="1" side="tl" part="a_num"/>
+              <clip pos="1" side="tl" part="a_cas"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
     
     <rule comment="REGLA: PREP">
       <pattern>
@@ -670,7 +698,9 @@
         </out>
       </action>
     </rule>
-	    <rule comment="REGLA: SENT">
+    
+    
+    <rule comment="REGLA: SENT">
       <pattern>
         <pattern-item n="sent"/>
       </pattern>
