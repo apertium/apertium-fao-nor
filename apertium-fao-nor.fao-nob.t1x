@@ -258,6 +258,41 @@
 
   <section-rules>
   
+  	<rule comment="prn-ind_num_gen_cas">
+	  <pattern>
+	  	<pattern-item n="prn-ind"/>
+	  </pattern>
+	  <action>
+	    <choose>
+ 		  <when>
+    		<test><equal><clip pos="1" side="tl" part="a_num"/><lit v="pl"/></equal></test>
+    		<let><clip pos="1" side="tl" part="a_gen"/><lit v="un"/></let>
+  		  </when>
+  		  <when>
+    		<test><and><equal><clip pos="1" side="tl" part="a_num"/><lit v="sg"/></equal>
+    			<equal><clip pos="1" side="tl" part="a_gen"/><lit v="m"/></equal></and></test>
+    		<let><clip pos="1" side="tl" part="a_gen"/><lit v="mf"/></let>
+  		  </when>
+  		</choose>
+  		<choose>
+ 		  <when>
+    		<test><equal><clip pos="1" side="tl" part="a_cas"/><lit v="dat"/></equal></test>
+    		<let><clip pos="1" side="tl" part="a_cas"/><lit v="acc"/></let>
+  		  </when>
+  		</choose>
+	    <out>
+	      <chunk name="prn-ind" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="IndPrn"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="whole"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
+  
     <rule comment="REGLA: NOM">
       <pattern>
         <pattern-item n="nom"/>
@@ -578,29 +613,6 @@
         </out>
           </action>      
     </rule>
-	
-	<rule comment="prn-ind stuff">
-	  <pattern>
-	  	<pattern-item n="prn-ind"/>
-	  </pattern>
-	  <action>
-	    <choose>
-        <when><test><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="nt"/></equal></test>
-              <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="un"/></let>
-        </when>
-      	</choose>
-	    <out>
-	      <chunk name="a" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="IndPrn"/></tag>
-            </tags>
-	        <lu>
-	      	  <clip pos="1" side="tl" part="whole"/>
-	        </lu>
-		  </chunk>
-	    </out>
-	  </action>
-	</rule>
 	
     <rule comment="stuffen sin">
       <pattern>
