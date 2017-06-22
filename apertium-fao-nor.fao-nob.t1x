@@ -48,6 +48,9 @@
     <def-cat n="prn-pers-gen">
       <cat-item tags="prn.pers.*.gen"/>
     </def-cat>
+    <def-cat n="prn-pers-pl">
+      <cat-item tags="prn.pers.pl.*"/>
+    </def-cat>
     <def-cat n="sin">
       <cat-item tags="det.pos.*"/>
     </def-cat>
@@ -273,13 +276,13 @@
     			<equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="m"/></equal></and></test>
     		<let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="mf"/></let>
   		  </when>
-  	</choose>
-  	<choose>
+  		</choose>
+  		<choose>
  		  <when>
     		<test><equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="dat"/></equal></test>
     		<let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="acc"/></let>
   		  </when>
-  	</choose>
+  		</choose>
 	    <out>
 	      <chunk name="prn-ind" case="caseFirstWord">
             <tags>
@@ -551,15 +554,31 @@
     		<let><clip pos="1" side="tl" part="whole"/>
             <concat><lit v="hans"/><lit-tag v="det.pos.nt.sg"/></concat></let>
   		  </when>
+  		  <when>
+    		<test><and><equal><clip pos="1" side="sl" part="tags"/><lit-tag v="prn.pers.sg.gen"/></equal>
+              <equal><clip pos="1" side="sl" part="lem"/><lit v="eg"/></equal></and></test>
+    		<let><clip pos="1" side="tl" part="whole"/>
+            <concat><lit v="min"/><lit-tag v="prn.pos.nt.sg"/></concat></let>
+  		  </when>
+  		  <when>
+    		<test><and><equal><clip pos="1" side="sl" part="tags"/><lit-tag v="prn.pers.pl.gen"/></equal>
+              <equal><clip pos="1" side="sl" part="lem"/><lit v="eg"/></equal></and></test>
+    		<let><clip pos="1" side="tl" part="whole"/>
+            <concat><lit v="vår"/><lit-tag v="prn.pos.nt.sg"/></concat></let>
+  		  </when>
+  		  <when>
+    		<test><and><equal><clip pos="1" side="tl" part="tags"/><lit-tag v="prn.pers.pl.acc"/></equal>
+              <equal><clip pos="1" side="sl" part="lem"/><lit v="eg"/></equal></and></test>
+    		<let><clip pos="1" side="tl" part="whole"/>
+            <concat><lit v="vi"/><lit-tag v="prn.pers.p1.un.pl.acc"/></concat></let>
+  		  </when>
+  		  <when>
+    		<test><and><equal><clip pos="1" side="sl" part="tags"/><lit-tag v="prn.pers.pl.nom"/></equal>
+              <equal><clip pos="1" side="sl" part="lem"/><lit v="eg"/></equal></and></test>
+    		<let><clip pos="1" side="tl" part="whole"/>
+            <concat><lit v="vi"/><lit-tag v="prn.pers.p1.un.pl.nom"/></concat></let>
+  		  </when>
   		</choose>
-        <choose>
-          <when>
-            <test><and><equal><clip pos="1" side="sl" part="tags"/><lit-tag v="prn.pers.pl.gen"/></equal>
-              <equal><clip pos="1" side="sl" part="lem"/><lit v="tað"/></equal></and></test>
-            <let><clip pos="1" side="tl" part="whole"/>
-            <concat><lit v="deres¹"/><lit-tag v="det.pos.nt.sg"/></concat></let>
-          </when>
-        </choose>
 	    <out>
 	      <chunk name="a" case="caseFirstWord">
             <tags>
