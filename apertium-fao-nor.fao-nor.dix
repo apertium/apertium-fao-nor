@@ -354,7 +354,7 @@
 <e><p><l>varur<s n="adj"/></l><r>var<s n="adj"/></r></p></e>
 <e><p><l>seinur<s n="adj"/></l><r>sein<s n="adj"/></r></p></e>
 <e><p><l>samur<s n="adj"/></l><r>same<s n="adj"/></r></p></e>
-<e><p><l>danskur<s n="adj"/></l><r>dansk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>danskur<s n="adj"/></l><r>dansk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>langur<s n="adj"/></l><r>lang<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>heitur<s n="adj"/></l><r>varm<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>nýggjur<s n="adj"/></l><r>ny<s n="adj"/></r></p></e>
@@ -785,7 +785,6 @@
 <e><p><l>fyrsta<s n="n"/><s n="f"/></l><r>straks<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>felag<s n="n"/><s n="nt"/></l><r>forening<s n="n"/><s n="f"/></r></p></e>
 <e vr="nno"><p><l>felag<s n="n"/><s n="nt"/></l><r>samskipnad<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>danskur<s n="adj"/></l><r>dansk<s n="adj"/></r></p></e>
 <e vr="nob"><p><l>byrja<s n="vblex"/></l><r>begynne<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>byrja<s n="vblex"/></l><r>byrja<s n="vblex"/></r></p></e>
 <e><p><l>bræv<s n="n"/><s n="nt"/></l><r>brev<s n="n"/><s n="nt"/></r></p></e>
