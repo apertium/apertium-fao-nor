@@ -27,9 +27,6 @@
       <cat-item tags="det.*"/>
       <cat-item lemma="annen" tags="adj.*"/>
     </def-cat>
-    <def-cat n="tad">
-      <cat-item lemma="de" tags="prn.pers.p3.un.pl.gen"/>
-    </def-cat>
     <def-cat n="numeral">
       <cat-item tags="num.*"/>
     </def-cat>
@@ -59,6 +56,9 @@
     </def-cat>
     <def-cat n="prn-dem">
       <cat-item tags="prn.dem.*"/>
+    </def-cat>
+    <def-cat n="prn-def">
+      <cat-item tags="prn.def.*"/>
     </def-cat>
   </section-def-cats>
 
@@ -708,30 +708,31 @@
 	    </out>
 	  </action>
 	</rule>
-    
-    <rule comment="tad-stuff">
-      <pattern>
-        <pattern-item n="tad"/>
-      </pattern>
-      <action>
-        <choose>
+	
+	<rule comment="prn-def stuff (begge)">
+	  <pattern>
+	  	<pattern-item n="prn-def"/>
+	  </pattern>
+	  <action>
+	    <choose>
           <when>
-            <test><equal><clip pos="1" side="sl" part="lem"/><lit v="tað"/></equal></test>
-            <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="acc"/></let>
+            <test><and><equal><clip pos="1" side="tl" part="lem"/><lit v="begge"/></equal>
+              <equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/></equal></and></test>
+        	<let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="acc"/></let>
           </when>
         </choose>
-        <out>
-          <chunk name="tad" case="caseFirstWord">
+	    <out>
+	      <chunk name="r" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="tad"/></tag>
+              <tag><lit-tag v="Defprn"/></tag>
             </tags>
-            <lu>
+	        <lu>
               <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
     
     <rule comment="REGLA: PREP">
       <pattern>
