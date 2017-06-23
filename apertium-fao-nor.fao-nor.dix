@@ -218,6 +218,7 @@
 <e><p><l>kommuna<s n="n"/><s n="m"/></l><r>kommune<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>býur<s n="n"/><s n="m"/></l><r>by<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>mál<s n="n"/><s n="nt"/></l><r>mål<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>skriftmál<s n="n"/><s n="nt"/></l><r>skriftspråk<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>tann<s n="n"/><s n="f"/></l><r>tann<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>heimur<s n="n"/><s n="m"/></l><r>verd<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>heimur<s n="n"/><s n="m"/></l><r>verden<s n="n"/><s n="m"/></r></p></e>
@@ -231,8 +232,8 @@
 <e><p><l>navn<s n="n"/><s n="nt"/></l><r>namn<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nno"><p><l>kirkja<s n="n"/><s n="f"/></l><r>kyrkje<s n="n"/><s n="f"/></r></p></e>
 <e vr="nob"><p><l>kirkja<s n="n"/><s n="f"/></l><r>kirke<s n="n"/><s n="f"/></r></p></e>
-<e vr="nob"><p><l>kirkjumál<s n="n"/><s n="nt"/></l><r>kirkemål<s n="n"/><s n="nt"/></r></p></e>
-<e vr="nno"><p><l>kirkjumál<s n="n"/><s n="nt"/></l><r>kyrkjemål<s n="n"/><s n="nt"/></r></p></e>
+<e vr="nob"><p><l>kirkjumál<s n="n"/><s n="nt"/></l><r>kirkespråk<s n="n"/><s n="nt"/></r></p></e>
+<e vr="nno"><p><l>kirkjumál<s n="n"/><s n="nt"/></l><r>kyrkjespråk<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>sangur<s n="n"/><s n="m"/></l><r>sang<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bólkur<s n="n"/><s n="m"/></l><r>bolk<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>filmur<s n="n"/><s n="m"/></l><r>film<s n="n"/><s n="m"/></r></p></e>
