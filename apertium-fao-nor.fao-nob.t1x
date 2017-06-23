@@ -522,7 +522,7 @@
         <choose>
  		  <when>
     		<test><and><equal><clip pos="1" side="tl" part="lem"/><lit v="seg"/></equal>
-    		  <equal><clip pos="1" side="tl" part="tags"/><lit-tag v="prn.def.p3.un.sp.gen"/></equal></and></test>
+    		  <equal><clip pos="1" side="tl" part="tags"/><lit-tag v="prn.ref.p3.un.sp.gen"/></equal></and></test>
     		<let><clip pos="1" side="tl" part="tags"/><lit-tag v="prn.ref.p3.un.sp.acc"/></let>
   		  </when>
   		</choose>
