@@ -100,6 +100,10 @@
       <attr-item tags="p2"/>
       <attr-item tags="p3"/>
     </def-attr>
+    <def-attr n="a_genind">
+      <attr-item tags="gen.ind"/>
+      <attr-item tags="ind.gen"/>
+    </def-attr>
     <def-attr n="a_voice">
       <attr-item tags="pass"/>
     </def-attr>
@@ -154,8 +158,7 @@
     </def-macro>
     
     <def-macro n="swap_gen_and_ind" npar="1">
-      <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
-      <let><clip pos="1" side="tl" part="num"/><lit v=""/></let>
+      <let><clip pos="1" side="tl" part="a_genind"/><lit-tag v="ind.gen"/></let>
     </def-macro>
     
     <def-macro n="rm_case_and_num" npar="1">
@@ -351,6 +354,7 @@
       </pattern>
       <action>
         <call-macro n="f_default1"><with-param pos="1"/></call-macro>
+        <call-macro n="swap_gen_and_ind"><with-param pos="1"/></call-macro>
         <call-macro n="f_default1"><with-param pos="2"/></call-macro>
 
 <!--        <call-macro n="set_caseFirstWord"><with-param pos="1"/></call-macro>
