@@ -60,6 +60,9 @@
     <def-cat n="prn-def">
       <cat-item tags="prn.def.*"/>
     </def-cat>
+    <def-cat n="sin-prn-def">
+      <cat-item tags="prn.def.p3.un.sp.gen"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
@@ -268,11 +271,18 @@
 
   <section-rules>
   
-  	<rule comment="prn-ind_num_gen_cas">
+  	<rule comment="prn-ind">
 	  <pattern>
 	  	<pattern-item n="prn-ind"/>
 	  </pattern>
 	  <action>
+	  	<choose>
+          <when>
+            <test><and><equal><clip pos="1" side="tl" part="lem"/><lit v="begge"/></equal>
+              <equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/></equal></and></test>
+        	<let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="acc"/></let>
+          </when>
+        </choose>
 	    <choose>
  		  <when>
     		<test><equal><clip pos="1" side="tl" part="a_num"/><lit-tag v="pl"/></equal></test>
@@ -709,31 +719,7 @@
 	  </action>
 	</rule>
 	
-	<rule comment="prn-def stuff (begge)">
-	  <pattern>
-	  	<pattern-item n="prn-def"/>
-	  </pattern>
-	  <action>
-	    <choose>
-          <when>
-            <test><and><equal><clip pos="1" side="tl" part="lem"/><lit v="begge"/></equal>
-              <equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/></equal></and></test>
-        	<let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="acc"/></let>
-          </when>
-        </choose>
-	    <out>
-	      <chunk name="r" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="Defprn"/></tag>
-            </tags>
-	        <lu>
-              <clip pos="1" side="tl" part="whole"/>
-	        </lu>
-		  </chunk>
-	    </out>
-	  </action>
-	</rule>
-    
+
     <rule comment="REGLA: PREP">
       <pattern>
         <pattern-item n="prep"/>
