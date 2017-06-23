@@ -818,7 +818,7 @@
 <e vr="nno"><p><l>kongligur<s n="adj"/></l><r>kongeleg<s n="adj"/></r></p></e>
 <e vr="nob"><p><l>helst<s n="adv"/></l><r>antakeligvis<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>helst<s n="adv"/></l><r>sannsynlegvis<s n="adv"/></r></p></e>
-<e><p><l>gøta<s n="n"/><s n="f"/></l><r>gate<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>gøta<s n="n"/><s n="f"/></l><r>gate<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fundur<s n="n"/><s n="m"/></l><r>møte<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>fjórðingur<s n="n"/><s n="m"/></l><r>fjerdedel<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>far<s n="n"/><s n="nt"/></l><r>fartøy<s n="n"/><s n="nt"/></r></p></e>
@@ -1004,7 +1004,8 @@
 <e><p><l>føra<s n="vblex"/></l><r>bringe<s n="vblex"/></r></p></e>
 <e vr="nob"><p><l>fólkatal<s n="n"/><s n="nt"/></l><r>folketall<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nno"><p><l>fólkatal<s n="n"/><s n="nt"/></l><r>folketal<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>fólkaháskúli<s n="n"/><s n="m"/></l><r>folkehøgskole<s n="n"/><s n="m"/></r></p></e>
+<e vr="nno"><p><l>fólkaháskúli<s n="n"/><s n="m"/></l><r>folkehøgskole<s n="n"/><s n="m"/></r></p></e>
+<e vr="nob"><p><l>fólkaháskúli<s n="n"/><s n="m"/></l><r>folkehøyskole<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fólkaatkvøða<s n="n"/><s n="f"/></l><r>folkeavstemning<s n="n"/><s n="f"/></r></p></e>
 <e vr="nob"><p><l>flyta<s n="vblex"/></l><r>bevege<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>flyta<s n="vblex"/></l><r>røra<s n="vblex"/></r></p></e>
@@ -1012,7 +1013,7 @@
 <e><p><l>fiskur<s n="n"/><s n="m"/></l><r>fisk<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>eystureftir<s n="adv"/></l><r>østover<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>eystureftir<s n="adv"/></l><r>austover<s n="adv"/></r></p></e>
-<e vr="nob"><p><l>endamál<s n="n"/><s n="nt"/></l><r>hensikt<s n="n"/><s n="nt"/></r></p></e>
+<e vr="nob"><p><l>endamál<s n="n"/><s n="nt"/></l><r>hensikt<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>endamál<s n="n"/><s n="nt"/></l><r>føremål<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nob"><p><l>eldur<s n="n"/><s n="m"/></l><r>ild<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>eldur<s n="n"/><s n="m"/></l><r>eld<s n="n"/><s n="m"/></r></p></e>
