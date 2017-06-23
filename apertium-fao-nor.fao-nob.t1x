@@ -588,6 +588,24 @@
             <concat><lit v="vår"/><lit-tag v="prn.pos.nt.sg"/></concat></let>
   		  </when>
   		  <when>
+    		<test><and><equal><clip pos="1" side="sl" part="tags"/><lit-tag v="prn.pers.pl.gen"/></equal>
+              <equal><clip pos="1" side="sl" part="lem"/><lit v="hann"/></equal></and></test>
+    		<let><clip pos="1" side="tl" part="whole"/>
+            <concat><lit v="deres¹"/><lit-tag v="prn.pos.nt.sg"/></concat></let>
+  		  </when>
+  		  <when>
+    		<test><and><equal><clip pos="1" side="tl" part="tags"/><lit-tag v="prn.pers.pl.acc"/></equal>
+              <equal><clip pos="1" side="sl" part="lem"/><lit v="hann"/></equal></and></test>
+    		<let><clip pos="1" side="tl" part="whole"/>
+            <concat><lit v="de"/><lit-tag v="prn.pers.p3.un.pl.acc"/></concat></let>
+  		  </when>
+  		  <when>
+    		<test><and><equal><clip pos="1" side="sl" part="tags"/><lit-tag v="prn.pers.pl.nom"/></equal>
+              <equal><clip pos="1" side="sl" part="lem"/><lit v="hann"/></equal></and></test>
+    		<let><clip pos="1" side="tl" part="whole"/>
+            <concat><lit v="de"/><lit-tag v="prn.pers.p3.un.pl.nom"/></concat></let>
+  		  </when>
+  		  <when>
     		<test><and><equal><clip pos="1" side="tl" part="tags"/><lit-tag v="prn.pers.pl.acc"/></equal>
               <equal><clip pos="1" side="sl" part="lem"/><lit v="eg"/></equal></and></test>
     		<let><clip pos="1" side="tl" part="whole"/>
