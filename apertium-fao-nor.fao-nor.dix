@@ -824,8 +824,8 @@
 <e><p><l>fjórðingur<s n="n"/><s n="m"/></l><r>fjerdedel<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>far<s n="n"/><s n="nt"/></l><r>fartøy<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>einahandil<s n="n"/><s n="m"/></l><r>monopol<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>byggja<s n="vblex"/></l><r>bygge<s n="vblex"/></r></p></e>
-<e><p><l>byggja<s n="vblex"/></l><r>byggja<s n="vblex"/></r></p></e>
+<e vr="nob"><p><l>byggja<s n="vblex"/></l><r>bygge<s n="vblex"/></r></p></e>
+<e vr="nno"><p><l>byggja<s n="vblex"/></l><r>byggja<s n="vblex"/></r></p></e>
 <e><p><l>burtur<s n="adv"/></l><r>langt<b/>borte<s n="adv"/></r></p></e>
 <e><p><l>blað<s n="n"/><s n="nt"/></l><r>blad<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>bispur<s n="n"/><s n="m"/></l><r>løper<s n="n"/><s n="m"/></r></p></e>
