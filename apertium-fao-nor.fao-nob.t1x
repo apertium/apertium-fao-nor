@@ -60,9 +60,6 @@
     <def-cat n="prn-def">
       <cat-item tags="prn.def.*"/>
     </def-cat>
-    <def-cat n="sin-prn-def">
-      <cat-item tags="prn.def.p3.un.sp.gen"/>
-    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
@@ -522,6 +519,13 @@
 	    <call-macro n="turn_dat_into_acc">
           <with-param pos="1"/>
         </call-macro>
+        <choose>
+ 		  <when>
+    		<test><and><equal><clip pos="1" side="tl" part="lem"/><lit v="seg"/></equal>
+    		  <equal><clip pos="1" side="tl" part="tags"/><lit-tag v="prn.def.p3.un.sp.gen"/></equal></and></test>
+    		<let><clip pos="1" side="tl" part="tags"/><lit-tag v="prn.ref.p3.un.sp.acc"/></let>
+  		  </when>
+  		</choose>
 	    <out>
 	      <chunk name="r" case="caseFirstWord">
             <tags>
