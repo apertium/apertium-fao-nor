@@ -84,6 +84,9 @@
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
     </def-attr>
+    <def-attr n="a_guess">
+      <attr-item tags="guess"/>
+    </def-attr>
     <def-attr n="a_cmp">
       <attr-item tags="cmp"/>
     </def-attr>
@@ -145,6 +148,7 @@
 
   <section-def-macros>
     <def-macro n="f_default1" npar="1">
+      <let><clip pos="1" side="tl" part="a_guess"/><lit v=""/></let>
       <choose>
         <when><test><not><equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/></equal></not></test>
               <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
@@ -408,6 +412,7 @@
 	  	<pattern-item n="prop"/>
 	  </pattern>
 	  <action>
+	    <call-macro n="f_default1"><with-param pos="1"/></call-macro>
 	    <call-macro n="rm_case_and_num">
           <with-param pos="1"/>
         </call-macro>
