@@ -10,6 +10,10 @@
   <sdef n="top"/>
   <sdef n="pers"/>
   <sdef n="sint"/>
+  <sdef n="nom"/>
+  <sdef n="acc"/>
+  <sdef n="gen"/>
+  <sdef n="dat"/>
   <sdef n="un"/>
   <sdef n="sup"/>
   <sdef n="comp"/>
@@ -59,6 +63,10 @@
   <sdef n="quot"/>
   <sdef n="prfprc"/>  
   <sdef n="cog"/>
+  <sdef n="DD"/>
+  <sdef n="GD"/>
+  <sdef n="ND"/>
+  <sdef n="CD"/>
 </sdefs>
 <pardefs>
    <pardef n="adj:adj_sint">
@@ -71,6 +79,7 @@
      <e><p><l></l><r><s n="pst"/></r></p></e>
      <e><p><l><s n="adv"/></l><r><s n="pst"/><s n="nt"/><s n="sg"/><s n="ind"/></r></p></e>
    </pardef>
+
    <pardef n="vblex:vblex">
      <e><p><l><s n="vblex"/><s n="pprs"/></l><r><s n="adj"/><s n="pprs"/></r></p></e>
      <e><p><l><s n="vblex"/><s n="pp"/></l><r><s n="adj"/><s n="pp"/></r></p></e>
@@ -355,7 +364,7 @@
 <e vr="nno"><p><l>annar<s n="adj"/></l><r>annan<s n="det"/><s n="dem"/></r></p></e>
 <e><p><l>liðugur<s n="adj"/></l><r>ferdig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>skjótur<s n="adj"/></l><r>rask<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e><p><l>nógvur<s n="adj"/></l><r>mange<s n="adj"/></r></p></e>
+<e><p><l>nógvur<s n="adj"/></l><r>mange<s n="adj"/><s n="sint"/></r></p></e>
 <e><p><l>mikil<s n="adj"/><s n="adv"/></l><r>stor<s n="adj"/><s n="sint"/></r></p></e>
 <e><p><l>fyrstur<s n="adj"/><s n="adj"/></l><r>først<s n="adj"/></r></p></e>
 <e><p><l>mangur<s n="adj"/></l><r>mange<s n="adj"/></r></p></e>
