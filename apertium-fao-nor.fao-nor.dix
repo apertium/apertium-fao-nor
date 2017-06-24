@@ -286,7 +286,7 @@
 <e><p><l>Hvalba<s n="np"/><s n="f"/><s n="ind"/></l><r>Hvalba<s n="np"/></r></p></e>
 <e><p><l>Hetland<s n="np"/><s n="nt"/></l><r>Hetland<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Hammershaimb<s n="np"/><s n="cog"/><s n="np"/></l><r>Hammershaimb<s n="np"/></r></p></e>
-<e><p><l>Føring<s n="np"/></l><r>Føring<s n="np"/></r></p></e>
+<e><p><l>Føring<s n="np"/><s n="np"/></l><r>Føring<s n="np"/></r></p></e>
 <e><p><l>Erlendur<s n="np"/><s n="np"/><s n="ant"/><s n="m"/></l><r>Erlendur<s n="np"/></r></p></e>
 <e><p><l>Bergen<s n="np"/><s n="top"/></l><r>Bergen<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Tórshavn<s n="np"/><s n="f"/></l><r>Tórshavn<s n="np"/><s n="top"/></r></p></e>
@@ -294,12 +294,12 @@
 <e><p><l>Tinganes<s n="np"/><s n="top"/><s n="nt"/></l><r>Tinganes<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Thule<s n="np"/></l><r>Thule<s n="np"/></r></p></e>
 <e><p><l>Svabo<s n="np"/><s n="np"/><s n="cog"/></l><r>Svabo<s n="np"/></r></p></e>
-<e><p><l>Ryberg<s n="np"/></l><r>Ryberg<s n="np"/></r></p></e>
-<e><p><l>Roskilde<s n="np"/></l><r>Roskilde<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Reise<s n="np"/></l><r>Reise<s n="np"/></r></p></e>
+<e><p><l>Ryberg<s n="np"/><s n="np"/></l><r>Ryberg<s n="np"/></r></p></e>
+<e><p><l>Roskilde<s n="np"/><s n="np"/><s n="top"/></l><r>Roskilde<s n="np"/></r></p></e>
+<e><p><l>Reise<s n="np"/><s n="np"/></l><r>Reise<s n="np"/></r></p></e>
 <e><p><l>Rasmus<s n="np"/></l><r>Rasmus<s n="np"/></r></p></e>
-<e><p><l>Patursson<s n="np"/></l><r>Patursson<s n="np"/></r></p></e>
-<e><p><l>Norðurland<s n="np"/></l><r>Norden<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Patursson<s n="np"/><s n="np"/><s n="cog"/></l><r>Patursson<s n="np"/></r></p></e>
+<e><p><l>Norðurland<s n="np"/><s n="np"/><s n="top"/><s n="nt"/></l><r>Norden<s n="np"/></r></p></e>
 <e><p><l>Nidaros<s n="np"/></l><r>Nidaros<s n="np"/></r></p></e>
 <e><p><l>Mortensen<s n="np"/></l><r>Mortensen<s n="np"/></r></p></e>
 <e><p><l>Massalia<s n="np"/></l><r>Massalia<s n="np"/></r></p></e>
@@ -314,7 +314,7 @@
 <e><p><l>Jakobsen<s n="np"/></l><r>Jakobsen<s n="np"/></r></p></e>
 <e><p><l>Hagalóg<s n="np"/></l><r>Hagalóg<s n="np"/></r></p></e>
 <e><p><l>Grønland<s n="np"/><s n="nt"/></l><r>Grønland<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Grímur<s n="np"/></l><r>Grímur<s n="np"/></r></p></e>
+<e><p><l>Grímur<s n="np"/><s n="np"/><s n="ant"/><s n="m"/></l><r>Grímur<s n="np"/></r></p></e>
 <e><p><l>Gablatíð<s n="np"/><s n="np"/><s n="f"/><s n="def"/></l><r>Gablatíð<s n="np"/></r></p></e>
 
 <e><p><l>Orknoy<s n="np"/></l><r>Orknøy<s n="np"/><s n="top"/></r></p></e>
@@ -328,8 +328,8 @@
 <e><p><l>Løgting<s n="np"/></l><r>Lagtinget<s n="np"/></r></p></e>
 <e><p><l>V<s n="abbr"/><s n="n"/><s n="acr"/></l><r>V<s n="abbr"/></r></p></e>
 <e><p><l>Gabel<s n="np"/><s n="np"/></l><r>Gabel<s n="np"/></r></p></e>
-<e><p><l>Fríða<s n="np"/></l><r>Fríða<s n="np"/></r></p></e>
-<e><p><l>Fólkaflokkur<s n="np"/></l><r>Folkeparti<s n="np"/></r></p></e>
+<e><p><l>Fríða<s n="np"/><s n="np"/><s n="ant"/><s n="f"/></l><r>Fríða<s n="np"/></r></p></e>
+<e><p><l>Fólkaflokkur<s n="np"/><s n="np"/><s n="cog"/></l><r>Folkeparti<s n="np"/></r></p></e>
 <e><p><l>Færøe<s n="np"/><s n="np"/></l><r>Færøe<s n="np"/></r></p></e>
 <e><p><l>Færoæ<s n="np"/><s n="np"/></l><r>Færoæ<s n="np"/></r></p></e>
 <e><p><l>Effersøe<s n="np"/><s n="np"/></l><r>Effersøe<s n="np"/></r></p></e>
