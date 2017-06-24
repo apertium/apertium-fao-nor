@@ -337,7 +337,7 @@
 <e><p><l>Dicuil<s n="np"/></l><r>Dicuil<s n="np"/></r></p></e>
 <e><p><l>Debe<s n="np"/></l><r>Debe<s n="np"/></r></p></e>
 <e><p><l>Christian<s n="np"/></l><r>Christian<s n="np"/></r></p></e>
-<e><p><l>C<s n="abbr"/></l><r>C<s n="abbr"/></r></p></e>
+<e><p><l>C<s n="abbr"/><s n="n"/><s n="acr"/></l><r>C<s n="abbr"/></r></p></e>
 <e><p><l>Amtstidende<s n="np"/></l><r>Amtstidende<s n="np"/></r></p></e>
 <e><p><l>Algeria<s n="np"/></l><r>Algeria<s n="np"/><s n="top"/></r></p></e>
 
