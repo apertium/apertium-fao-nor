@@ -356,7 +356,7 @@
 <e><p><l>liðugur<s n="adj"/></l><r>ferdig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>skjótur<s n="adj"/></l><r>rask<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>nógvur<s n="adj"/></l><r>mange<s n="adj"/></r></p></e>
-<e><p><l>mikil<s n="adj"/></l><r>stor<s n="adj"/><s n="sint"/></r></p></e>
+<e><p><l>mikil<s n="adj"/><s n="adv"/></l><r>stor<s n="adj"/><s n="sint"/></r></p></e>
 <e><p><l>fyrstur<s n="adj"/><s n="adj"/></l><r>først<s n="adj"/></r></p></e>
 <e><p><l>mangur<s n="adj"/></l><r>mange<s n="adj"/></r></p></e>
 <e><p><l>føroyskur<s n="adj"/></l><r>færøysk<s n="adj"/></r></p><par n="adj:adj"/></e>
@@ -402,7 +402,7 @@
 <e><p><l>bretskur<s n="adj"/></l><r>britisk<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>vísur<s n="adj"/></l><r>vis<s n="adj"/></r></p></e>
 <e><p><l>beinur<s n="adj"/></l><r>bein<s n="adj"/></r></p></e>
-<e><p><l>kristin<s n="adj"/></l><r>kristen<s n="adj"/></r></p></e>
+<e><p><l>kristin<s n="adj"/></l><r>kristen<s n="adj"/><s n="pst"/></r></p></e>
 <e><p><l>fríur<s n="adj"/></l><r>fri<s n="adj"/></r></p></e>
 <e><p><l>líkur<s n="adj"/></l><r>lik<s n="adj"/></r></p></e>
 <e><p><l>tættur<s n="adj"/></l><r>tett<s n="adj"/></r></p></e>
@@ -472,7 +472,7 @@
 <e><p><l>pólskur<s n="adj"/></l><r>polsk<s n="adj"/></r></p></e>
 <e><p><l>muslimskur<s n="adj"/></l><r>muslimsk<s n="adj"/></r></p></e>
 <e><p><l>portugisiskur<s n="adj"/></l><r>portugisisk<s n="adj"/></r></p></e>
-<e><p><l>turkiskur<s n="adj"/></l><r>tyrkisk<s n="adj"/></r></p></e>
+<e><p><l>turkiskur<s n="adj"/><s n="adv"/></l><r>tyrkisk<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>privatur<s n="adj"/></l><r>privat<s n="adj"/></r></p></e>
 <e><p><l>jødiskur<s n="adj"/></l><r>jødisk<s n="adj"/></r></p></e>
 <e><p><l>núverandi<s n="adj"/></l><r>noverande<s n="adj"/></r></p></e>
@@ -863,7 +863,7 @@
 <e vr="nno"><p><l>trúgv<s n="n"/><s n="f"/></l><r>tru<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>tó<s n="adv"/></l><r>enda<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>tó<s n="adv"/></l><r>endå<s n="adv"/></r></p></e>
-<e><p><l>tjóðveldisflokkur<s n="n"/><s n="m"/></l><r>republikanske parti<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>tjóðveldisflokkur<s n="n"/><s n="m"/></l><r>republikansk<s n="adj"/><s n="pst"/><b />parti<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>tekstur<s n="n"/><s n="m"/></l><r>tekst<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tann<s n="prn"/><s n="dem"/></l><r>den<s n="prn"/><s n="dem"/></r></p></e>
 <e><p><l>tak<s n="n"/><s n="nt"/></l><r>tak<s n="n"/><s n="nt"/></r></p></e>
@@ -937,7 +937,7 @@
 <e><p><l>limur<s n="n"/><s n="m"/></l><r>medlem<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>lið<s n="n"/><s n="nt"/></l><r>lag<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>latínskúli<s n="n"/><s n="m"/></l><r>latinskole<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>læraraskúli<s n="n"/><s n="m"/></l><r>læreskole<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>læraraskúli<s n="n"/><s n="m"/><s n="n"/><s n="m"/></l><r>læreskole<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>kringur<s n="n"/><s n="m"/></l><r>sirkel<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>kreppa<s n="n"/><s n="f"/></l><r>krise<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>konufólk<s n="n"/><s n="nt"/></l><r>kone<s n="n"/><s n="f"/></r></p></e>
@@ -961,8 +961,8 @@
 <e><p><l>Jóannes<s n="np"/><s n="np"/><s n="ant"/><s n="m"/></l><r>Jóannes<s n="np"/></r></p></e>
 <e><p><l>i<s n="pr"/></l><r>i<s n="pr"/></r></p></e>
 
-<e vr="nob"><p><l>hvør<s n="det"/></l><r>hvem<s n="det"/></r></p></e>
-<e vr="nno"><p><l>hvør<s n="det"/></l><r>kven<s n="det"/></r></p></e>
+<e vr="nob"><p><l>hvør<s n="det"/></l><r>hvem<s n="prn"/></r></p></e>
+<e vr="nno"><p><l>hvør<s n="det"/></l><r>kven<s n="prn"/></r></p></e>
 
 <e><p><l>klippfiskur<s n="n"/><s n="m"/></l><r>salttorsk<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>kjak<s n="n"/><s n="nt"/></l><r>debatt<s n="n"/><s n="m"/></r></p></e>
@@ -999,7 +999,7 @@
 <e><p><l>geva<s n="vblex"/></l><r>gje<s n="vblex"/></r></p></e>
 <e><p><l>fyrsti<s n="adj"/><s n="adj"/></l><r>først<s n="adj"/></r></p></e>
 <e><p><l>fyrr<s n="adv"/></l><r>før<s n="adv"/></r></p></e>
-<e><p><l>fyriskipan<s n="n"/><s n="f"/></l><r>edikt<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>fyriskipan<s n="n"/><s n="f"/></l><r>edikt<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nob"><p><l>fyribils<s n="adv"/></l><r>midlertidig<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>fyribils<s n="adv"/></l><r>mellombels<s n="adv"/></r></p></e>
 <e><p><l>fyl<s n="n"/><s n="nt"/></l><r>føll<s n="n"/><s n="nt"/></r></p></e>
