@@ -394,6 +394,18 @@
          	<let><clip pos="1" side="tl" part="a_nonfinite"/><lit-tag v="pp"/></let>
      	  </when>
      	</choose>
+     	<choose>
+      	  <when> 
+         	<test><equal><clip pos="1" side="tl" part="tags"/><lit-tag v="vblex"/></equal></test>
+         	<let><clip pos="1" side="tl" part="tags"/><lit-tag v="vblex.inf"/></let>
+     	  </when>
+     	</choose>
+     	<choose>
+      	  <when> 
+         	<test><equal><clip pos="1" side="tl" part="tags"/><lit-tag v="vblex.adj.*"/></equal></test>
+         	<let><clip pos="1" side="tl" part="tags"/><lit-tag v="vblex.inf"/></let>
+     	  </when>
+     	</choose>
 	    <out>
 	      <chunk name="v" case="caseFirstWord">
             <tags>

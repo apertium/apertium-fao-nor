@@ -244,7 +244,7 @@
 <e><p><l>dømi<s n="n"/><s n="nt"/></l><r>eksempel<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>barn<s n="n"/><s n="nt"/></l><r>barn<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>havn<s n="n"/><s n="nt"/></l><r>hamn<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>januar<s n="n"/><s n="m"/></l><r>januar<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>januar<s n="n"/><s n="m"/></l><r>januar<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>august<s n="n"/><s n="m"/></l><r>august<s n="n"/><s n="nt"/></r></p></e>
 
 
@@ -364,7 +364,7 @@
 <e><p><l>varur<s n="adj"/></l><r>var<s n="adj"/></r></p></e>
 <e><p><l>seinur<s n="adj"/></l><r>sein<s n="adj"/></r></p></e>
 <e><p><l>samur<s n="adj"/></l><r>same<s n="adj"/></r></p></e>
-<e><p><l>danskur<s n="adj"/></l><r>dansk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>danskur<s n="adj"/><s n="adv"/></l><r>dansk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>langur<s n="adj"/></l><r>lang<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>heitur<s n="adj"/></l><r>varm<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>nýggjur<s n="adj"/></l><r>ny<s n="adj"/></r></p></e>
@@ -569,7 +569,7 @@
 <e><p><l>tann<s n="det"/></l><r>den<s n="det"/><s n="dem"/></r></p></e>
 <e><p><l>tað<s n="det"/></l><r>den<s n="det"/><s n="dem"/></r></p></e>
 <e><p><l>sín<s n="det"/></l><r>sin<s n="det"/></r></p></e>
-<e><p><l>allur<s n="det"/></l><r>all<s n="det"/></r></p></e>
+<e><p><l>allur<s n="det"/><s n="qnt"/></l><r>all<s n="det"/></r></p></e>
 
 
 
@@ -769,8 +769,8 @@
 <e vr="nno"><p><l>stovna<s n="vblex"/><s n="prfprc"/></l><r>skapa<s n="vblex"/></r></p></e>
 <e><p><l>føroyingur<s n="n"/><s n="m"/></l><r>færøying<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>skula<s n="vblex"/></l><r>skulle<s n="vblex"/></r></p></e>
-<e vr="nob"><p><l>hin<s n="det"/></l><r>annen<s n="det"/></r></p></e>
-<e vr="nno"><p><l>hin<s n="det"/></l><r>annan<s n="det"/></r></p></e>
+<e vr="nob"><p><l>hin<s n="det"/><s n="dem"/></l><r>annen<s n="det"/></r></p></e>
+<e vr="nno"><p><l>hin<s n="det"/><s n="dem"/></l><r>annan<s n="det"/></r></p></e>
 <e><p><l>hesin<s n="prn"/><s n="dem"/></l><r>denne<s n="prn"/><s n="dem"/></r></p></e>
 <e><p><l>biskupur<s n="n"/><s n="m"/></l><r>biskop<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ting<s n="n"/><s n="nt"/></l><r>ting<s n="n"/><s n="nt"/></r></p></e>
@@ -858,7 +858,7 @@
 <e><p><l>undirvísa<s n="vblex"/></l><r>lære<s n="vblex"/></r></p></e>
 <e vr="nob"><p><l>týða<s n="vblex"/></l><r>oversette<s n="vblex"/></r></p></e>
 <e vr="nno"><p><l>týða<s n="vblex"/></l><r>omsetja<s n="vblex"/></r></p></e>
-<e><p><l>tvey<s n="num"/></l><r>to<s n="num"/></r></p></e>
+<e><p><l>tvey<s n="num"/><s n="det"/><s n="qnt"/></l><r>to<s n="num"/></r></p></e>
 <e vr="nob"><p><l>turkur<s n="n"/><s n="m"/></l><r>tyrker<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>turkur<s n="n"/><s n="m"/></l><r>tyrkar<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>trúgv<s n="n"/><s n="f"/></l><r>tro<s n="n"/><s n="m"/></r></p></e>
@@ -871,7 +871,7 @@
 <e><p><l>tak<s n="n"/><s n="nt"/></l><r>tak<s n="n"/><s n="nt"/></r></p></e>
 <!--<e vr="nob"><p><l>suður<s n="n"/><s n="nt"/></l><r>syd<s n="n"/><s n="nt"/></r></p></e>-->
 <!--<e vr="nno"><p><l>suður<s n="n"/><s n="nt"/></l><r>sør<s n="n"/><s n="nt"/></r></p></e>-->
-<e vr="nob"><p><l>studentaskúli<s n="n"/><s n="m"/></l><r>gymnasium<s n="n"/><s n="m"/></r></p></e>
+<e vr="nob"><p><l>studentaskúli<s n="n"/><s n="m"/></l><r>gymnasium<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nno"><p><l>studentaskúli<s n="n"/><s n="m"/></l><r>gymnas<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>stríð<s n="n"/><s n="nt"/></l><r>pine<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>stríð<s n="n"/><s n="nt"/></l><r>pina<s n="n"/><s n="m"/></r></p></e>
