@@ -11,8 +11,14 @@
       <cat-item tags="pr"/>
       <cat-item tags="pr.*"/>
     </def-cat>
+    <def-cat n="verða">
+      <cat-item lemma="verða" tags="vblex.*"/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
+    </def-cat>
+    <def-cat n="pp">
+      <cat-item tags="vblex.pp.*"/>
     </def-cat>
     <def-cat n="verb">
       <cat-item tags="vblex.*"/>
@@ -255,6 +261,21 @@
       <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
     </def-macro>
 
+    <def-macro n="verb_stuff1" npar="1">
+        <choose>
+      	  <when> 
+         	<test><equal><clip pos="1" side="tl" part="a_voice"/><lit-tag v="pass"/></equal></test>
+         	<let><clip pos="1" side="tl" part="a_voice"/><lit-tag v="pasv"/></let>
+     	  </when>
+     	</choose>
+     	<choose>
+      	  <when> 
+         	<test><equal><clip pos="1" side="tl" part="a_nonfinite"/><lit-tag v="supn"/></equal></test>
+         	<let><clip pos="1" side="tl" part="a_nonfinite"/><lit-tag v="pp"/></let>
+     	  </when>
+     	</choose>
+    </def-macro>
+
   	<def-macro n="rm_stuff" npar="1">
       <choose>
         <when><test><equal><clip pos="1" side="sl" part="v_mood"/><lit-tag v="ind"/></equal></test>
@@ -388,30 +409,9 @@
 	    <call-macro n="rm_stuff">
           <with-param pos="1"/>
         </call-macro>
-        <choose>
-      	  <when> 
-         	<test><equal><clip pos="1" side="tl" part="a_voice"/><lit-tag v="pass"/></equal></test>
-         	<let><clip pos="1" side="tl" part="a_voice"/><lit-tag v="pasv"/></let>
-     	  </when>
-     	</choose>
-     	<choose>
-      	  <when> 
-         	<test><equal><clip pos="1" side="tl" part="a_nonfinite"/><lit-tag v="supn"/></equal></test>
-         	<let><clip pos="1" side="tl" part="a_nonfinite"/><lit-tag v="pp"/></let>
-     	  </when>
-     	</choose>
-     	<choose>
-      	  <when> 
-         	<test><equal><clip pos="1" side="tl" part="tags"/><lit-tag v="vblex"/></equal></test>
-         	<let><clip pos="1" side="tl" part="tags"/><lit-tag v="vblex.inf"/></let>
-     	  </when>
-     	</choose>
-     	<choose>
-      	  <when> 
-         	<test><equal><clip pos="1" side="tl" part="tags"/><lit-tag v="vblex.adj.*"/></equal></test>
-         	<let><clip pos="1" side="tl" part="tags"/><lit-tag v="vblex.inf"/></let>
-     	  </when>
-     	</choose>
+	    <call-macro n="verb_stuff1">
+          <with-param pos="1"/>
+        </call-macro>
 	    <out>
 	      <chunk name="v" case="caseFirstWord">
             <tags>
@@ -775,6 +775,39 @@
 	</rule>
 	
 
+    <rule comment="REGLA: verða pp">
+      <pattern>
+        <pattern-item n="verða"/>
+        <pattern-item n="pp"/>
+      </pattern>
+      <action>
+	    <call-macro n="rm_stuff">
+          <with-param pos="1"/>
+        </call-macro>
+	    <call-macro n="verb_stuff1">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="verða_pp" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="tags"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <lit-tag v="vblex.pp"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+ 
     <rule comment="REGLA: PREP">
       <pattern>
         <pattern-item n="prep"/>
