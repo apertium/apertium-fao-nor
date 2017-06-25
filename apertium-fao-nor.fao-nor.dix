@@ -85,6 +85,14 @@
      <e><p><l><s n="vblex"/><s n="pp"/></l><r><s n="adj"/><s n="pp"/></r></p></e>
      <e><p><l><s n="vblex"/></l><r><s n="vblex"/></r></p></e>
    </pardef>
+   
+    <pardef n="prn:prn_itg">
+     <e><p><l><s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/></l><r><s n="prn"/><s n="itg"/></r></p></e>
+   </pardef>
+   
+   <pardef n="det:det_dem">
+     <e><p><l><s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="acc"/></l><r><s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
+   </pardef>
 
 
    <pardef n="num:det_qnt">
@@ -358,10 +366,10 @@
 <e><p><l>kalur<s n="adj"/></l>	<r>kald<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>kaldur<s n="adj"/></l>	<r>kald<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>stórur<s n="adj"/></l>	<r>stor<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e><p><l>lítil<s n="adj"/></l>	<r>liten<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>lítil<s n="adj"/><s n="adv"/></l>	<r>liten<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>glaður<s n="adj"/></l>	<r>glad<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e vr="nob"><p><l>annar<s n="adj"/></l><r>annen<s n="det"/><s n="dem"/></r></p></e>
-<e vr="nno"><p><l>annar<s n="adj"/></l><r>annan<s n="det"/><s n="dem"/></r></p></e>
+<e vr="nob"><p><l>annar<s n="adj"/></l><r>annen<s n="det"/><s n="dem"/></r></p><par n="det:det_dem"/></e>
+<e vr="nno"><p><l>annar<s n="adj"/></l><r>annan<s n="det"/><s n="dem"/></r></p><par n="det:det_dem"/></e>
 <e><p><l>liðugur<s n="adj"/></l><r>ferdig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>skjótur<s n="adj"/></l><r>rask<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>nógvur<s n="adj"/></l><r>mange<s n="adj"/><s n="sint"/></r></p></e>
@@ -372,7 +380,7 @@
 <e><p><l>varur<s n="adj"/></l><r>var<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>seinur<s n="adj"/><s n="cmp"/></l><r>sein<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>samur<s n="prn"/></l><r>samme<s n="prn"/></r></p></e>
-<e><p><l>danskur<s n="adj"/></l><r>dansk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>danskur<s n="adj"/><s n="adv"/></l><r>dansk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>langur<s n="adj"/></l><r>lang<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>heitur<s n="adj"/></l><r>varm<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>nýggjur<s n="adj"/><s n="adv"/></l><r>ny<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
@@ -384,7 +392,7 @@
 <e><p><l>amerikanskur<s n="adj"/></l><r>amerikansk<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>høgur<s n="adj"/></l><r>høg<s n="adj"/></r></p></e>
 <e><p><l>enskur<s n="adj"/></l><r>engelsk<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>fáur<s n="adj"/></l><r>få<s n="adj"/></r></p></e>
+<e><p><l>fáur<s n="adj"/><s n="adv"/></l><r>få<s n="adj"/></r></p></e>
 <e><p><l>ymiskur<s n="adj"/></l><r>forskjellig<s n="adj"/></r></p></e>
 <e><p><l>illur<s n="adj"/></l><r>dårleg<s n="adj"/></r></p></e>
 <e><p><l>deyður<s n="adj"/></l><r>daud<s n="adj"/></r></p></e>
@@ -419,7 +427,7 @@
 <e><p><l>royndur<s n="adj"/></l><r>røynd<s n="adj"/></r></p></e>
 <e><p><l>ríkur<s n="adj"/></l><r>rik<s n="adj"/></r></p></e>
 <e><p><l>víður<s n="adj"/></l><r>vid<s n="adj"/></r></p></e>
-<e><p><l>smáur<s n="adj"/></l><r>liten<s n="adj"/></r></p></e>
+<e><p><l>smáur<s n="adj"/><s n="adv"/></l><r>liten<s n="adj"/></r></p></e>
 <e><p><l>upprunaligur<s n="adj"/></l><r>opprinneleg<s n="adj"/></r></p></e>
 <e><p><l>fastur<s n="adj"/></l><r>fast<s n="adj"/></r></p></e>
 <e><p><l>lættur<s n="adj"/></l><r>lett<s n="adj"/></r></p></e>
@@ -693,8 +701,8 @@
 <e><p><l>menniskja<s n="n"/><s n="f"/></l><r>menneske<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>ur<s n="n"/><s n="nt"/></l><r>ur<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>føroyingur<s n="n"/><s n="m"/></l><r>færøying<s n="n"/><s n="m"/></r></p></e>
-<e vr="nob"><p><l>hin<s n="det"/><s n="dem"/></l><r>annen<s n="det"/></r></p></e>
-<e vr="nno"><p><l>hin<s n="det"/><s n="dem"/></l><r>annan<s n="det"/></r></p></e>
+<e vr="nob"><p><l>hin<s n="det"/><s n="dem"/></l><r>annen<s n="det"/></r></p><par n="det:det_dem"/></e>
+<e vr="nno"><p><l>hin<s n="det"/><s n="dem"/></l><r>annan<s n="det"/></r></p><par n="det:det_dem"/></e>
 <e><p><l>hesin<s n="prn"/><s n="dem"/></l><r>denne<s n="prn"/><s n="dem"/></r></p></e>
 <e><p><l>biskupur<s n="n"/><s n="m"/></l><r>biskop<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ting<s n="n"/><s n="nt"/></l><r>ting<s n="n"/><s n="nt"/></r></p></e>
@@ -829,7 +837,7 @@
 <e><p><l>Jóannes<s n="np"/><s n="np"/><s n="ant"/><s n="m"/></l><r>Jóannes<s n="np"/></r></p></e>
 <e><p><l>i<s n="pr"/></l><r>i<s n="pr"/></r></p></e>
 
-<e vr="nob"><p><l>hvør<s n="det"/></l><r>hvem<s n="prn"/></r></p></e>
+<e vr="nob"><p><l>hvør<s n="det"/></l><r>hvem<s n="prn"/></r></p><par n="prn:prn_itg"/></e>
 <e vr="nno"><p><l>hvør<s n="det"/></l><r>kven<s n="prn"/></r></p></e>
 
 <e><p><l>klippfiskur<s n="n"/><s n="m"/></l><r>salttorsk<s n="n"/><s n="m"/></r></p></e>
@@ -914,7 +922,7 @@
 <e><p><l>búgva</l><r>bu</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>búseta</l><r>bosette</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>búseta</l><r>busetja</r></p><par n="vblex:vblex"/></e>
-<e vr="nob"><p><l>byggja</l><r>bygge</r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>byggja<s n="vblex"/></l><r>bygge<s n="vblex"/></r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>byggja</l><r>byggja</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>byrja</l><r>begynne</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>byrja</l><r>byrja</r></p><par n="vblex:vblex"/></e>
@@ -952,7 +960,7 @@
 <e vr="nob"><p><l>gera</l><r>gjøre</r></p><par n="vblex:vblex"/></e>
 <e><p><l>geva</l><r>gi</r></p><par n="vblex:vblex"/></e>
 <e><p><l>geva</l><r>gje</r></p><par n="vblex:vblex"/></e>
-<e><p><l>gita</l><r>gjete</r></p><par n="vblex:vblex"/></e>
+<e><p><l>gita<s n="vblex"/></l><r>gjete<s n="vblex"/></r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>góðkenna</l><r>vedtak</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>góðkenna</l><r>vedta</r></p><par n="vblex:vblex"/></e>
 <e><p><l>grína</l><r>le</r></p><par n="vblex:vblex"/></e>
@@ -1035,8 +1043,8 @@
 <e vr="nno"><p><l>spyrja</l><r>spørje</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>spyrja</l><r>spørre</r></p><par n="vblex:vblex"/></e>
 <e><p><l>standa</l><r>stå</r></p><par n="vblex:vblex"/></e>
-<e vr="nno"><p><l>stovna</l><r>skapa</r></p><par n="vblex:vblex"/></e>
-<e vr="nob"><p><l>stovna</l><r>skape</r></p><par n="vblex:vblex"/></e>
+<e vr="nno"><p><l>stovna<s n="vblex"/></l><r>skapa<s n="vblex"/></r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>stovna<s n="vblex"/></l><r>skape<s n="vblex"/></r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>svara</l><r>svara</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>svara</l><r>svare</r></p><par n="vblex:vblex"/></e>
 <e><p><l>taka</l><r>ta</r></p><par n="vblex:vblex"/></e>
