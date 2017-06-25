@@ -375,7 +375,8 @@
 <e><p><l>danskur<s n="adj"/><s n="adv"/></l><r>dansk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>langur<s n="adj"/></l><r>lang<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>heitur<s n="adj"/></l><r>varm<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e><p><l>nýggjur<s n="adj"/></l><r>ny<s n="adj"/></r></p></e>
+<e><p><l>nýggjur<s n="adj"/></l><r>ny<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>nýur<s n="adj"/></l><r>ny<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>berur<s n="adj"/></l><r>bar<s n="adj"/></r></p></e>
 <e><p><l>serur<s n="adj"/></l><r>sær<s n="adj"/></r></p></e>
 <e><p><l>vanligur<s n="adj"/></l><r>vanleg<s n="adj"/></r></p></e>
@@ -532,7 +533,6 @@
 <e><p><l>tryggur<s n="adj"/></l><r>trygg<s n="adj"/></r></p></e>
 <e><p><l>nøgdur<s n="adj"/></l><r>nøgd<s n="adj"/></r></p></e>
 <e><p><l>kristiligur<s n="adj"/></l><r>kristeleg<s n="adj"/></r></p></e>
-<e><p><l>nýur<s n="adj"/></l><r>ny<s n="adj"/></r></p></e>
 <e><p><l>kvinnuligur<s n="adj"/></l><r>kvinneleg<s n="adj"/></r></p></e>
 <e><p><l>asiatiskur<s n="adj"/></l><r>asiatisk<s n="adj"/></r></p></e>
 <e><p><l>álvarsligur<s n="adj"/></l><r>alvorleg<s n="adj"/></r></p></e>
@@ -798,7 +798,6 @@
 <e><p><l>ormur<s n="n"/><s n="m"/></l><r>orm<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>ogn<s n="n"/><s n="f"/></l><r>eiendom<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>ogn<s n="n"/><s n="f"/></l><r>eigedom<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>nýggjur<s n="adj"/></l><r>ny<s n="adj"/></r></p></e>
 <e><p><l>norðureftir<s n="adv"/></l><r>nordover<s n="adv"/></r></p></e>
 <e><p><l>niðurlag<s n="n"/><s n="nt"/></l><r>kor<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nob"><p><l>myndugleiki<s n="n"/><s n="m"/></l><r>myndighet<s n="n"/><s n="m"/></r></p></e>
