@@ -111,7 +111,11 @@
 <e><p><l>at<s n="cnjsub"/></l><r>at<s n="cnjsub"/></r></p></e>
 <e><p><l>sum<s n="cnjsub"/></l><r>som<s n="cnjsub"/></r></p></e>
 <e><p><l>ella<s n="cnjcoo"/></l><r>eller<s n="cnjcoo"/></r></p></e>
-<e><p><l>báðir<s n="cnjcoo"/></l><r>både<s n="cnjcoo"/></r></p></e>
+<e><p><l>bæði<s n="cnjcoo"/></l><r>både<s n="cnjcoo"/></r></p></e>
+<e><p><l>antin<s n="cnjcoo"/></l><r>enten<s n="cnjcoo"/></r></p></e>
+<e><p><l>men<s n="cnjcoo"/></l><r>men<s n="cnjcoo"/></r></p></e>
+<e vr="nob"><p><l>hvørki<s n="cnjcoo"/></l><r>verken<s n="cnjcoo"/></r></p></e>
+<e vr="nno"><p><l>hvørki<s n="cnjcoo"/></l><r>korkje<s n="cnjcoo"/></r></p></e>
 
 
 <!-- SECTION: Particles -->
