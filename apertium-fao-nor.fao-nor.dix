@@ -980,7 +980,9 @@
 <e vr="nno"><p><l>liggja</l><r>liggja</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>líta</l><r>se</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>líta</l><r>sjå</r></p><par n="vblex:vblex"/></e>
-<!--<e><p><l>ljóða</l><r>@ljóða</r></p><par n="vblex:vblex"/></e>-->
+<e><p><l>ljóða</l><r>lyde</r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>ljóða</l><r>høres</r></p><par n="vblex:vblex"/></e>
+<e vr="nno"><p><l>ljóða</l><r>høyrest</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>loyva</l><r>tåle</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>loyva</l><r>tola</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>lurta</l><r>laut</r></p><par n="vblex:vblex"/></e>
