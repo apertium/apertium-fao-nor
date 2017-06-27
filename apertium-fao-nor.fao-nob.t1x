@@ -223,7 +223,6 @@
          <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="un"/></let>
          <let><clip pos="1" side="tl" part="a_num"/><lit-tag v="sp"/></let>
          <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
-         <let><clip pos="1" side="tl" part="a_adv"/><lit-tag v="def"/></let>
       </when>
       <when>
          <test><and><equal><clip pos="1" side="tl" part="a_grau"/><lit-tag v="pst"/></equal>
@@ -259,6 +258,7 @@
            <let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.sint.pst.un.pl.ind"/></let>
        </when>
      </choose>
+     <let><clip pos="1" side="tl" part="a_adv"/><lit-tag v="ind"/></let>
     </def-macro>
     
     <def-macro n="rm_v_num" npar="1">
