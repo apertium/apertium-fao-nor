@@ -32,6 +32,7 @@
     <def-cat n="det">
       <cat-item tags="det.*"/>
       <cat-item lemma="annen" tags="adj.*"/>
+      <cat-item lemma="annar" tags="adj.*"/>
     </def-cat>
     <def-cat n="numeral">
       <cat-item tags="num.*"/>
@@ -472,6 +473,33 @@
 	    </out>
 	  </action>
 	</rule>
+
+	<rule comment="det stuff">
+	  <pattern>
+	  	<pattern-item n="det"/>
+	  </pattern>
+	  <action>
+	    <choose>
+ 		  <when>
+    		<test><equal caseless="yes"><clip pos="1" side="tl" part="lem"/><lit v="annen"/></equal></test>
+    		<let><clip pos="1" side="tl" part="whole"/><concat><clip pos="1" side="tl" part="whole"/><lit-tag v="sg.ind"/></concat></let>
+  		  </when>
+  		</choose>
+	    <call-macro n="rm_gender_from_plurals_and_case">
+          <with-param pos="1"/>
+        </call-macro>
+	    <out>
+	      <chunk name="det" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="Det"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="whole"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
 	
 	<rule comment="REMOVE adj stuff">
 	  <pattern>
@@ -494,32 +522,6 @@
 	  </action>
 	</rule>
 	
-	<rule comment="det stuff">
-	  <pattern>
-	  	<pattern-item n="det"/>
-	  </pattern>
-	  <action>
-	    <choose>
- 		  <when>
-    		<test><equal><clip pos="1" side="tl" part="lemma"/><lit v="annen"/></equal></test>
-    		<let><clip pos="1" side="tl" part="lemma"/><lit v="lol"/></let>
-  		  </when>
-  		</choose>
-	    <call-macro n="rm_gender_from_plurals_and_case">
-          <with-param pos="1"/>
-        </call-macro>
-	    <out>
-	      <chunk name="det" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="Det"/></tag>
-            </tags>
-	        <lu>
-	      	  <clip pos="1" side="tl" part="whole"/>
-	        </lu>
-		  </chunk>
-	    </out>
-	  </action>
-	</rule>
 	
 	<rule comment="REMOVE numeral stuff">
 	  <pattern>
