@@ -93,6 +93,9 @@
     <def-attr n="a_guess">
       <attr-item tags="guess"/>
     </def-attr>
+    <def-attr n="a_adv">
+      <attr-item tags="adv"/>
+    </def-attr>
     <def-attr n="a_cmp">
       <attr-item tags="cmp"/>
     </def-attr>
@@ -206,7 +209,7 @@
       </choose>
     </def-macro>
     
-    <def-macro n="rm_case" npar="1">
+    <def-macro n="f_adj_infl1" npar="1">
       <choose>
       <when> 
          <test><equal><clip pos="1" side="tl" part="a_grau"/><lit-tag v="comp"/></equal></test>
@@ -220,6 +223,7 @@
          <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="un"/></let>
          <let><clip pos="1" side="tl" part="a_num"/><lit-tag v="sp"/></let>
          <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+         <let><clip pos="1" side="tl" part="a_adv"/><lit-tag v="def"/></let>
       </when>
       <when>
          <test><and><equal><clip pos="1" side="tl" part="a_grau"/><lit-tag v="pst"/></equal>
@@ -474,7 +478,7 @@
 	  	<pattern-item n="adj"/>
 	  </pattern>
 	  <action>
-	    <call-macro n="rm_case">
+	    <call-macro n="f_adj_infl1">
           <with-param pos="1"/>
         </call-macro>
 	    <out>
