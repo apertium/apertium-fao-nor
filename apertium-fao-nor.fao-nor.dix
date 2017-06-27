@@ -414,7 +414,7 @@
 <e><p><l>amerikanskur<s n="adj"/></l><r>amerikansk<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>høgur<s n="adj"/></l><r>høg<s n="adj"/></r></p></e>
 <e><p><l>enskur<s n="adj"/></l><r>engelsk<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>fáur<s n="adj"/></l><r>få<s n="adj"/></r></p></e>
+<e><p><l>fáur<s n="adj"/></l><r>få<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>ymiskur<s n="adj"/></l><r>forskjellig<s n="adj"/></r></p></e>
 <e><p><l>illur<s n="adj"/></l><r>dårleg<s n="adj"/></r></p></e>
 <e><p><l>deyður<s n="adj"/></l><r>daud<s n="adj"/></r></p></e>
@@ -545,7 +545,6 @@
 <e><p><l>innleiðandi<s n="adj"/></l><r>innleidande<s n="adj"/></r></p></e>
 <e><p><l>gráur<s n="adj"/></l><r>grå<s n="adj"/></r></p></e>
 <e><p><l>grønlendskur<s n="adj"/></l><r>grønlandsk<s n="adj"/></r></p></e>
-<e><p><l>saltur<s n="adj"/></l><r>salt<s n="adj"/></r></p></e>
 <e><p><l>ólógligur<s n="adj"/></l><r>ulovleg<s n="adj"/></r></p></e>
 <e><p><l>skeivur<s n="adj"/></l><r>skeiv<s n="adj"/></r></p></e>
 <e><p><l>hebraiskur<s n="adj"/></l><r>hebraisk<s n="adj"/></r></p></e>
@@ -790,7 +789,7 @@
 <e vr="nno"><p><l>trúgv<s n="n"/><s n="f"/></l><r>tru<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>tó<s n="adv"/></l><r>enda<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>tó<s n="adv"/></l><r>endå<s n="adv"/></r></p></e>
-<e><p><l>tjóðveldisflokkur<s n="n"/><s n="m"/></l><r>republikansk<s n="adj"/><s n="pst"/><b />parti<s n="n"/><s n="nt"/></r></p><par n="adj:adj"/></e>
+<e><p><l>tjóðveldisflokkur<s n="n"/><s n="m"/></l><r>republikanske<b/>parti<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>tekstur<s n="n"/><s n="m"/></l><r>tekst<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tann<s n="prn"/><s n="dem"/></l><r>den<s n="prn"/><s n="dem"/></r></p></e>
 <e><p><l>tak<s n="n"/><s n="nt"/></l><r>tak<s n="n"/><s n="nt"/></r></p></e>
