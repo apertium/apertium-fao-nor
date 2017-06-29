@@ -85,6 +85,8 @@
     <def-attr n="POS">
       <attr-item tags="n"/>
       <attr-item tags="prn"/>
+      <attr-item tags="adj"/>
+      <attr-item tags="vblex"/>
     </def-attr>
     <def-attr n="a_possessive">
       <attr-item tags="pos"/>
@@ -438,6 +440,50 @@
         </out>
       </action>
     </rule>
+    
+    <rule comment="pp agrement">
+	  <pattern>
+	  	<pattern-item n="pp"/>
+	  </pattern>
+	  <action>
+	    <call-macro n="rm_case">
+          <with-param pos="1"/>
+        </call-macro>
+        <let><clip pos="1" side="tl" part="POS"/><lit-tag v="adj"/></let>
+        <choose>
+          <when>
+            <test><and><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="f"/></equal>
+              <equal><clip pos="1" side="tl" part="num"/><lit-tag v="sg"/></equal></and></test>
+        	<let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="mf"/></let>
+          </when>
+          <when>
+            <test><and><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="m"/></equal>
+              <equal><clip pos="1" side="tl" part="num"/><lit-tag v="sg"/></equal></and></test>
+        	<let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="mf"/></let>
+          </when>
+          <when>
+            <test><and><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="f"/></equal>
+              <equal><clip pos="1" side="tl" part="num"/><lit-tag v="pl"/></equal></and></test>
+        	<let><clip pos="1" side="tl" part="a_gen"/><lit v=""/></let>
+          </when>
+          <when>
+            <test><and><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="m"/></equal>
+              <equal><clip pos="1" side="tl" part="num"/><lit-tag v="pl"/></equal></and></test>
+        	<let><clip pos="1" side="tl" part="a_gen"/><lit v=""/></let>
+          </when>
+        </choose>
+	    <out>
+	      <chunk name="r" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="AdjPP"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="whole"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
 
 
 	<rule comment="verb stuff">
@@ -847,49 +893,6 @@
         </out>
       </action>
     </rule>
- 
-	<rule comment="adj-pp agrement">
-	  <pattern>
-	  	<pattern-item n="adj-pp"/>
-	  </pattern>
-	  <action>
-	    <call-macro n="rm_case">
-          <with-param pos="1"/>
-        </call-macro>
-        <choose>
-          <when>
-            <test><and><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="f"/></equal>
-              <equal><clip pos="1" side="tl" part="num"/><lit-tag v="sg"/></equal></and></test>
-        	<let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="mf"/></let>
-          </when>
-          <when>
-            <test><and><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="m"/></equal>
-              <equal><clip pos="1" side="tl" part="num"/><lit-tag v="sg"/></equal></and></test>
-        	<let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="mf"/></let>
-          </when>
-          <when>
-            <test><and><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="f"/></equal>
-              <equal><clip pos="1" side="tl" part="num"/><lit-tag v="pl"/></equal></and></test>
-        	<let><clip pos="1" side="tl" part="a_gen"/><lit v=""/></let>
-          </when>
-          <when>
-            <test><and><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="m"/></equal>
-              <equal><clip pos="1" side="tl" part="num"/><lit-tag v="pl"/></equal></and></test>
-        	<let><clip pos="1" side="tl" part="a_gen"/><lit v=""/></let>
-          </when>
-        </choose>
-	    <out>
-	      <chunk name="r" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="AdjPP"/></tag>
-            </tags>
-	        <lu>
-	      	  <clip pos="1" side="tl" part="whole"/>
-	        </lu>
-		  </chunk>
-	    </out>
-	  </action>
-	</rule>
  
     <rule comment="REGLA: PREP">
       <pattern>
