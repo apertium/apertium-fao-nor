@@ -70,6 +70,9 @@
     <def-cat n="prn-def">
       <cat-item tags="prn.def.*"/>
     </def-cat>
+    <def-cat n="adj-pp">
+      <cat-item tags="adj.pp.*"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
@@ -192,6 +195,10 @@
       <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="num"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_gen"/><lit v=""/></let>
+    </def-macro>
+    
+    <def-macro n="rm_case" npar="1">
+      <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
     </def-macro>
     
     <def-macro n="turn_dat_into_acc" npar="1">
@@ -840,6 +847,49 @@
         </out>
       </action>
     </rule>
+ 
+	<rule comment="adj-pp agrement">
+	  <pattern>
+	  	<pattern-item n="adj-pp"/>
+	  </pattern>
+	  <action>
+	    <call-macro n="rm_case">
+          <with-param pos="1"/>
+        </call-macro>
+        <choose>
+          <when>
+            <test><and><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="f"/></equal>
+              <equal><clip pos="1" side="tl" part="num"/><lit-tag v="sg"/></equal></and></test>
+        	<let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="mf"/></let>
+          </when>
+          <when>
+            <test><and><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="m"/></equal>
+              <equal><clip pos="1" side="tl" part="num"/><lit-tag v="sg"/></equal></and></test>
+        	<let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="mf"/></let>
+          </when>
+          <when>
+            <test><and><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="f"/></equal>
+              <equal><clip pos="1" side="tl" part="num"/><lit-tag v="pl"/></equal></and></test>
+        	<let><clip pos="1" side="tl" part="a_gen"/><lit v=""/></let>
+          </when>
+          <when>
+            <test><and><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="m"/></equal>
+              <equal><clip pos="1" side="tl" part="num"/><lit-tag v="pl"/></equal></and></test>
+        	<let><clip pos="1" side="tl" part="a_gen"/><lit v=""/></let>
+          </when>
+        </choose>
+	    <out>
+	      <chunk name="r" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="AdjPP"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="whole"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
  
     <rule comment="REGLA: PREP">
       <pattern>
