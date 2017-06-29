@@ -55,13 +55,6 @@ TARGETS_COMMON =		\
 # Faroese analysis:
 # -------------------
 
-.deps/$(PREFIX1b).autobil.prefixes: $(PREFIX1b).autobil.bin .deps/.d
-	lt-print $(PREFIX1b).autobil.bin | sed 's/ /@_SPACE_@/g' > .deps/$(PREFIX1b).autobil.att
-	hfst-txt2fst -e ε <  .deps/$(PREFIX1b).autobil.att > .deps/$(PREFIX1b).autobil.hfst
-	hfst-project -p upper .deps/$(PREFIX1b).autobil.hfst > .deps/$(PREFIX1b).autobil.upper
-	echo " ?* " | hfst-regexp2fst > .deps/any-symbol.hfst
-	hfst-concatenate -1 .deps/$(PREFIX1b).autobil.upper -2 .deps/any-symbol.hfst -o .deps/$(PREFIX1b).autobil.prefixes
-
 .deps/$(LANG1).automorf.hfst: $(AP_SRC1)/apertium-und.$(LANG1)-und.LR.att.gz .deps/.d
 	$(ZCAT) $< | hfst-txt2fst > $@
 
