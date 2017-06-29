@@ -18,7 +18,9 @@ BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON =		\
 	$(PREFIX1b).automorf.hfst \
+	$(PREFIX1b).automorf-untrimmed.hfst \
 	$(PREFIX1n).automorf.hfst \
+	$(PREFIX1n).automorf-untrimmed.hfst \
 	$(PREFIX1).rlx.bin	\
 	$(PREFIX1b).autobil.bin	\
 	$(PREFIX1b).autolex.bin	\
@@ -67,11 +69,17 @@ TARGETS_COMMON =		\
 $(PREFIX1b).automorf.hfst: .deps/$(PREFIX1b).automorf-trimmed.hfst
 	hfst-fst2fst -w -i $< -o $@
 
-$(PREFIX1b).automorf-untrimmed.hfst: .deps/$(LANG1).automorf.hfst
-	hfst-fst2fst -w -i $< -o $@
-
 $(PREFIX1n).automorf.hfst: .deps/$(PREFIX1n).automorf-trimmed.hfst
 	hfst-fst2fst -w -i $< -o $@
+
+.deps/$(PREFIX1).automorf-untrimmed.hfst: .deps/$(LANG1).automorf.hfst
+	hfst-fst2fst -w -i $< -o $@
+
+$(PREFIX1b).automorf-untrimmed.hfst: .deps/$(PREFIX1).automorf-untrimmed.hfst
+	cp $< $@
+
+$(PREFIX1n).automorf-untrimmed.hfst: .deps/$(PREFIX1).automorf-untrimmed.hfst
+	cp $< $@
 
 
 
