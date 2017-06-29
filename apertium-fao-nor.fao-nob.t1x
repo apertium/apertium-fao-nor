@@ -21,7 +21,7 @@
       <cat-item tags="vblex.pp.*"/>
     </def-cat>
     <def-cat n="pret-pass">
-      <cat-item tags="vblex.pret.pass"/>
+      <cat-item tags="vblex.ind.pret.*.pass"/>
     </def-cat>
     <def-cat n="verb">
       <cat-item tags="vblex.*"/>
