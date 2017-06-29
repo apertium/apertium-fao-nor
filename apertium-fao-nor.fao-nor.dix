@@ -604,7 +604,7 @@
 <e><p><l>tann<s n="det"/></l><r>den<s n="det"/><s n="dem"/></r></p></e>
 <e><p><l>tað<s n="det"/></l><r>den<s n="det"/><s n="dem"/></r></p></e>
 <e><p><l>sín<s n="det"/></l><r>sin<s n="det"/></r></p></e>
-<e><p><l>allur<s n="det"/><s n="qnt"/></l><r>all<s n="det"/></r></p></e>
+<e><p><l>allur<s n="det"/></l><r>all<s n="det"/><s n="qnt"/></r></p></e>
 
 
 
@@ -966,8 +966,8 @@
 <e vr="nno"><p><l>eta</l>	<r>spise</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>eta</l>	<r>spise</r></p><par n="vblex:vblex"/></e>
 <e><p><l>fáa</l>	<r>få</r></p><par n="vblex:vblex"/></e>
-<e><p><l>fara<s n="vblex"/></l><r>fare<s n="vblex"/></r></p><par n="vblex:vblex"/></e>
-<e><p><l>fara<s n="vblex"/></l><r>gå<s n="vblex"/></r></p><par n="vblex:vblex"/></e>
+<e><p><l>fara</l><r>fare</r></p><par n="vblex:vblex"/></e>
+<e><p><l>fara</l><r>gå</r></p><par n="vblex:vblex"/></e>
 <e><p><l>finna</l><r>finne</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>fjala</l><r>gjemme</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>fjala</l><r>gøyma</r></p><par n="vblex:vblex"/></e>
@@ -982,7 +982,7 @@
 <e vr="nob"><p><l>gera</l><r>gjøre</r></p><par n="vblex:vblex"/></e>
 <e><p><l>geva</l><r>gi</r></p><par n="vblex:vblex"/></e>
 <e><p><l>geva</l><r>gje</r></p><par n="vblex:vblex"/></e>
-<e><p><l>gita<s n="vblex"/></l><r>gjete<s n="vblex"/></r></p><par n="vblex:vblex"/></e>
+<e><p><l>gita</l><r>gjete</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>góðkenna</l><r>vedtak</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>góðkenna</l><r>vedta</r></p><par n="vblex:vblex"/></e>
 <e><p><l>grína</l><r>le</r></p><par n="vblex:vblex"/></e>
@@ -1030,7 +1030,7 @@
 <e vr="nob"><p><l>prædika</l><r>preke</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>ræna</l><r>rana</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>ræna</l><r>rane</r></p><par n="vblex:vblex"/></e>
-<e><p><l>reka<s n="vblex"/></l><r>trykk<s n="vblex"/></r></p><par n="vblex:vblex"/></e>
+<e><p><l>reka</l><r>trykk</r></p><par n="vblex:vblex"/></e>
 <e><p><l>renna</l><r>løpe</r></p><par n="vblex:vblex"/></e>
 <e><p><l>renna</l><r>springe</r></p><par n="vblex:vblex"/></e>
 <e><p><l>rokna</l><r>anta</r></p><par n="vblex:vblex"/></e>
@@ -1040,8 +1040,8 @@
 <e><p><l>salta</l><r>salte</r></p><par n="vblex:vblex"/></e>
 <e><p><l>samtykja</l><r>godta</r></p><par n="vblex:vblex"/></e>
 <e><p><l>senda</l><r>sende</r></p><par n="vblex:vblex"/></e>
-<e vr="nob"><p><l>seta<s n="vblex"/></l><r>legge<s n="vblex"/></r></p><par n="vblex:vblex"/></e>
-<e vr="nno"><p><l>seta<s n="vblex"/></l><r>leggja<s n="vblex"/></r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>seta</l><r>legge</r></p><par n="vblex:vblex"/></e>
+<e vr="nno"><p><l>seta</l><r>leggja</r></p><par n="vblex:vblex"/></e>
 <e><p><l>siga</l><r>si</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>síggja</l><r>se</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>síggja</l><r>sjå</r></p><par n="vblex:vblex"/></e>
@@ -1053,7 +1053,7 @@
 <e><p><l>skilja</l><r>forstå</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>skipa</l><r>ordna</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>skipa</l><r>ordne</r></p><par n="vblex:vblex"/></e>
-<e><p><l>skriva<s n="vblex"/></l><r>skrive<s n="vblex"/></r></p><par n="vblex:vblex"/></e>
+<e><p><l>skriva</l><r>skrive</r></p><par n="vblex:vblex"/></e>
 <e><p><l>skula</l><r>skulle</r></p><par n="vblex:vblex"/></e>
 <e><p><l>slatra</l><r>sladre</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>sleppa</l><r>forlata</r></p><par n="vblex:vblex"/></e>
@@ -1065,8 +1065,8 @@
 <e vr="nno"><p><l>spyrja</l><r>spørje</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>spyrja</l><r>spørre</r></p><par n="vblex:vblex"/></e>
 <e><p><l>standa</l><r>stå</r></p><par n="vblex:vblex"/></e>
-<e vr="nno"><p><l>stovna<s n="vblex"/></l><r>skapa<s n="vblex"/></r></p><par n="vblex:vblex"/></e>
-<e vr="nob"><p><l>stovna<s n="vblex"/></l><r>skape<s n="vblex"/></r></p><par n="vblex:vblex"/></e>
+<e vr="nno"><p><l>stovna</l><r>skapa</r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>stovna</l><r>skape</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>svara</l><r>svara</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>svara</l><r>svare</r></p><par n="vblex:vblex"/></e>
 <e><p><l>taka</l><r>ta</r></p><par n="vblex:vblex"/></e>
