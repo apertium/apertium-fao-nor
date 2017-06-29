@@ -212,6 +212,7 @@
 <e><p><l>havi<s n="n"/><s n="m"/></l>	<r>hage<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>kommuna<s n="n"/><s n="f"/></l>	<r>kommune<s n="n"/><s n="m"/></r></p></e>
 
+<e><p><l>fak<s n="n"/><s n="nt"/></l>	<r>fag<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>gjár<s n="n"/><s n="m"/></l>	<r>går<s n="n"/><s n="mf"/></r></p></e>
 <e vr="nob"><p><l>spæl<s n="n"/><s n="nt"/></l>	<r>spill<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nno"><p><l>spæl<s n="n"/><s n="nt"/></l>	<r>spel<s n="n"/><s n="nt"/></r></p></e>
@@ -730,8 +731,8 @@
 <e><p><l>gildi<s n="adj"/></l><r>gyldig<s n="adj"/></r></p></e>
 <e><p><l>bók<s n="n"/><s n="f"/></l><r>bok<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>trælur<s n="n"/><s n="m"/></l><r>slave<s n="n"/><s n="nt"/></r></p></e>
-<e vr="nob"><p><l>skúli<s n="n"/><s n="m"/></l><r>skole<s n="n"/><s n="m"/></r></p><par n="nom:nom"/></e>
-<e vr="nno"><p><l>skúli<s n="n"/><s n="m"/></l><r>skule<s n="n"/><s n="m"/></r></p><par n="nom:nom"/></e>
+<e vr="nob"><p><l>skúli<s n="n"/><s n="m"/></l><r>skole<s n="n"/><s n="m"/></r></p></e>
+<e vr="nno"><p><l>skúli<s n="n"/><s n="m"/></l><r>skule<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>skip<s n="n"/><s n="nt"/></l><r>skip<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>dampskip<s n="n"/><s n="nt"/></l><r>dampskip<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>seyður<s n="n"/><s n="m"/></l><r>sau<s n="n"/><s n="m"/></r></p></e>
@@ -811,7 +812,7 @@
 <e><p><l>roynd<s n="n"/><s n="f"/></l><r>forsøk<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nob"><p><l>rørsla<s n="n"/><s n="f"/></l><r>bevegelse<s n="n"/><s n="f"/></r></p></e>
 <e vr="nno"><p><l>rørsla<s n="n"/><s n="f"/></l><r>rørsle<s n="n"/><s n="f"/></r></p></e>
-<e vr="nob"><p><l>rómi<s n="n"/><s n="m"/></l><r>fløte<s n="n"/><s n="m"/></r></p><par n="nom:nom"/></e>
+<e vr="nob"><p><l>rómi<s n="n"/><s n="m"/></l><r>fløte<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>rómi<s n="n"/><s n="m"/></l><r>fløta<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>realskúli<s n="n"/><s n="m"/></l><r>videregående<b/>skole<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>ránsmaður<s n="n"/><s n="m"/></l><r>raner<s n="n"/><s n="m"/></r></p></e>
