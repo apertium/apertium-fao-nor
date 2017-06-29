@@ -20,6 +20,9 @@
     <def-cat n="pp">
       <cat-item tags="vblex.pp.*"/>
     </def-cat>
+    <def-cat n="pret-pass">
+      <cat-item tags="vblex.pret.pass"/>
+    </def-cat>
     <def-cat n="verb">
       <cat-item tags="vblex.*"/>
     </def-cat>
@@ -736,8 +739,8 @@
         </out>
           </action>      
     </rule>
-	
-	<rule comment="prn-dem stuff">
+    
+ 	<rule comment="prn-dem stuff">
 	  <pattern>
 	  	<pattern-item n="prn-dem"/>
 	  </pattern>
@@ -808,6 +811,27 @@
               <clip pos="2" side="tl" part="lemh"/>
               <lit-tag v="vblex.pp"/>
               <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    
+    <rule comment="verb-pret-pass">
+      <pattern>
+        <pattern-item n="pret-pass"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="vblex.pp"/></let>
+        <out>
+          <chunk name="vpp" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V"/></tag>
+            </tags>
+            <lu>
+              <lit v="være"/>
+              <lit-tag v="vblex.pret"/>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>

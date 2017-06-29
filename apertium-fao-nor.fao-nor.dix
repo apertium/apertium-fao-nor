@@ -934,14 +934,14 @@
 
 
 <e><p><l>benda</l><r>avslå</r></p><par n="vblex:vblex"/></e>
-<e vr="nob"><p><l>bera<s n="vblex"/></l><r>bære<s n="vblex"/></r></p><par n="vblex:vblex"/></e>
-<e vr="nno"><p><l>bera<s n="vblex"/></l><r>bera<s n="vblex"/></r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>bera</l><r>bære</r></p><par n="vblex:vblex"/></e>
+<e vr="nno"><p><l>bera</l><r>bera</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>brenna</l><r>brenna</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>brenna</l><r>brenne</r></p><par n="vblex:vblex"/></e>
 <e><p><l>broyta</l><r>forandre</r></p><par n="vblex:vblex"/></e>
 <e><p><l>búgva</l><r>bu</r></p><par n="vblex:vblex"/></e>
-<e vr="nob"><p><l>búseta<s n="vblex"/></l><r>bosette<s n="vblex"/></r></p><par n="vblex:vblex"/></e>
-<e vr="nno"><p><l>búseta<s n="vblex"/></l><r>busetja<s n="vblex"/></r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>búseta</l><r>bosette</r></p><par n="vblex:vblex"/></e>
+<e vr="nno"><p><l>búseta</l><r>busetja</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>byggja<s n="vblex"/></l><r>bygge<s n="vblex"/></r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>byggja</l><r>byggja</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>byrja</l><r>begynne</r></p><par n="vblex:vblex"/></e>
