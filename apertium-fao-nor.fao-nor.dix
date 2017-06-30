@@ -212,7 +212,7 @@
 <e><p><l>havi<s n="n"/><s n="m"/></l>	<r>hage<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>kommuna<s n="n"/><s n="f"/></l>	<r>kommune<s n="n"/><s n="m"/></r></p></e>
 
-<e><p><l>jóansøka<s n="n"/><s n="f"/></l><r>sankthans<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>jóansøka<s n="n"/><s n="f"/></l><r>sankthans<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>gras<s n="n"/><s n="nt"/></l>	<r>gress<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nno"><p><l>gras<s n="n"/><s n="nt"/></l>	<r>gras<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>fræ<s n="n"/><s n="nt"/></l>	<r>frø<s n="n"/><s n="nt"/></r></p></e>
@@ -308,6 +308,7 @@
 <e><p><l>Maria<s n="np"/><s n="ant"/></l><r>Maria<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Jákup<s n="np"/><s n="ant"/></l><r>Jákup<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Kristoffur<s n="np"/><s n="ant"/><s n="m"/></l><r>Kristoffur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Lucas<s n="np"/><s n="ant"/><s n="m"/></l><r>Lucas<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
 <e><p><l>Danmark<s n="np"/><s n="top"/></l><r>Danmark<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Svøríki<s n="np"/><s n="top"/></l><r>Sverige<s n="np"/><s n="top"/></r></p></e>
@@ -325,9 +326,9 @@
 <e r="LR"><p><l>Island<s n="np"/></l><r>Island<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Hvalba<s n="np"/><s n="f"/><s n="ind"/></l><r>Hvalba<s n="np"/></r></p></e>
 <e><p><l>Hetland<s n="np"/><s n="nt"/></l><r>Hetland<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Hammershaimb<s n="np"/><s n="cog"/><s n="np"/></l><r>Hammershaimb<s n="np"/></r></p></e>
+<e><p><l>Hammershaimb<s n="np"/><s n="cog"/></l><r>Hammershaimb<s n="np"/></r></p></e>
 <e><p><l>Føring<s n="np"/></l><r>Føring<s n="np"/></r></p></e>
-<e><p><l>Erlendur<s n="np"/><s n="ant"/><s n="m"/></l><r>Erlendur<s n="np"/></r></p></e>
+<e><p><l>Erlendur<s n="np"/><s n="ant"/><s n="m"/></l><r>Erlendur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Bergen<s n="np"/><s n="top"/></l><r>Bergen<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Tórshavn<s n="np"/><s n="f"/></l><r>Tórshavn<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>tinghús<s n="n"/><s n="nt"/></l><r>parlamentshus<s n="n"/><s n="nt"/></r></p></e>
@@ -344,7 +345,7 @@
 <e><p><l>Mortensen<s n="np"/></l><r>Mortensen<s n="np"/></r></p></e>
 <e><p><l>Massalia<s n="np"/></l><r>Massalia<s n="np"/></r></p></e>
 <e><p><l>Løgtingsval<s n="np"/></l><r>Løgtingsval<s n="np"/></r></p></e>
-<e><p><l>Leivur<s n="np"/><s n="ant"/><s n="m"/></l><r>Leiv<s n="np"/></r></p></e>
+<e><p><l>Leivur<s n="np"/><s n="ant"/><s n="m"/></l><r>Leiv<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Kirkjubøur<s n="np"/><s n="m"/><s n="ind"/></l><r>Kirkjubøur<s n="np"/></r></p></e>
 <e><p><l>Kiel<s n="np"/><s n="top"/></l><r>Kiel<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Keypmannahavn<s n="np"/><s n="f"/></l><r>København<s n="np"/><s n="top"/></r></p></e>
@@ -353,7 +354,7 @@
 <e><p><l>Jakobsen<s n="np"/></l><r>Jakobsen<s n="np"/></r></p></e>
 <e><p><l>Hagalóg<s n="np"/></l><r>Hagalóg<s n="np"/></r></p></e>
 <e><p><l>Grønland<s n="np"/><s n="nt"/></l><r>Grønland<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Grímur<s n="np"/><s n="ant"/><s n="m"/></l><r>Grímur<s n="np"/></r></p></e>
+<e><p><l>Grímur<s n="np"/><s n="ant"/><s n="m"/></l><r>Grímur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Gablatíð<s n="np"/><s n="f"/><s n="def"/></l><r>Gablatíð<s n="np"/></r></p></e>
 
 <e><p><l>Orknoy<s n="np"/></l><r>Orknøy<s n="np"/><s n="top"/></r></p></e>
@@ -368,7 +369,7 @@
 <e><p><l>Løgting<s n="np"/></l><r>Lagtinget<s n="np"/></r></p></e>
 <e><p><l>V<s n="abbr"/><s n="n"/><s n="acr"/></l><r>V<s n="abbr"/></r></p></e>
 <e><p><l>Gabel<s n="np"/></l><r>Gabel<s n="np"/></r></p></e>
-<e><p><l>Fríða<s n="np"/><s n="ant"/><s n="f"/></l><r>Fríða<s n="np"/></r></p></e>
+<e><p><l>Fríða<s n="np"/><s n="ant"/><s n="f"/></l><r>Fríða<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e><p><l>Fólkaflokkur<s n="np"/><s n="cog"/></l><r>Folkeparti<s n="np"/></r></p></e>
 <e><p><l>Færøe<s n="np"/></l><r>Færøe<s n="np"/></r></p></e>
 <e><p><l>Færoæ<s n="np"/></l><r>Færoæ<s n="np"/></r></p></e>

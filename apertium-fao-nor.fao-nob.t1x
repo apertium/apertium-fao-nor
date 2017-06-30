@@ -125,6 +125,10 @@
       <attr-item tags="gen.ind"/>
       <attr-item tags="ind.gen"/>
     </def-attr>
+    <def-attr n="a_gendef">
+      <attr-item tags="gen.def"/>
+      <attr-item tags="def.gen"/>
+    </def-attr>
     <def-attr n="a_voice">
       <attr-item tags="pass"/>
     </def-attr>
@@ -170,17 +174,31 @@
       <choose>
         <when><test><not><equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/></equal></not></test>
               <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
-        </when>
-      </choose>
-      <choose>
-        <when><test><equal><clip pos="1" side="tl" part="a_cmp"/><lit-tag v="cmp"/></equal></test>
-              <let><clip pos="1" side="tl" part="a_cmp"/><lit-tag v="ind"/></let>
+              <let><clip pos="1" side="tl" part="a_gendef"/><lit-tag v="def.gen"/></let>
+              <let><clip pos="1" side="tl" part="a_genind"/><lit-tag v="ind.gen"/></let>
         </when>
       </choose>
     </def-macro>
-    
-    <def-macro n="swap_gen_and_ind" npar="1">
-      <let><clip pos="1" side="tl" part="a_genind"/><lit-tag v="ind.gen"/></let>
+    <def-macro n="f_compound1" npar="1">
+      <choose>
+        <when><test><and><equal><clip pos="1" side="tl" part="a_cmp"/><lit-tag v="cmp"/></equal>
+                         <equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/></equal></and></test>
+              <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+              <let><clip pos="1" side="tl" part="a_cmp"/><lit v=""/></let>
+              <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
+              <let><clip pos="1" side="tl" part="tags"/>
+                   <concat><clip pos="1" side="tl" part="tags"/><lit-tag v="ind.gen"/></concat></let>
+        </when>
+        <when><test><and><equal><clip pos="1" side="tl" part="a_cmp"/><lit-tag v="cmp"/></equal>
+                         <not><equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/></equal></not></and></test>
+              <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+              <let><clip pos="1" side="tl" part="a_cmp"/><lit v=""/></let>
+              <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
+              <let><clip pos="1" side="tl" part="tags"/>
+                   <concat><clip pos="1" side="tl" part="tags"/><lit-tag v="ind"/></concat></let>
+        </when>
+ 
+      </choose>
     </def-macro>
     
     <def-macro n="rm_case_and_num" npar="1">
@@ -402,7 +420,7 @@
       </pattern>
       <action>
         <call-macro n="f_default1"><with-param pos="1"/></call-macro>
-        <call-macro n="swap_gen_and_ind"><with-param pos="1"/></call-macro>
+        <call-macro n="f_compound1"><with-param pos="1"/></call-macro>
         <call-macro n="f_default1"><with-param pos="2"/></call-macro>
 
 <!--        <call-macro n="set_caseFirstWord"><with-param pos="1"/></call-macro>
@@ -416,6 +434,34 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="NCMP NCMP N: ytelse ytelse => ytingsyting
+                   Remove the space that pretransfer added">
+      <pattern>
+        <pattern-item n="ncmp"/>
+        <pattern-item n="ncmp"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <call-macro n="f_default1"><with-param pos="1"/></call-macro>
+        <call-macro n="f_compound1"><with-param pos="1"/></call-macro>
+        <call-macro n="f_default1"><with-param pos="2"/></call-macro>
+        <call-macro n="f_compound1"><with-param pos="2"/></call-macro>
+        <call-macro n="f_default1"><with-param pos="3"/></call-macro>
+
+<!--        <call-macro n="set_caseFirstWord"><with-param pos="1"/></call-macro>
+        <call-macro n="set_ntags"><with-param pos="2"/></call-macro>-->
+        <out>
+          <chunk name="n_n_n" case="caseFirstWord">
+            <tags><tag><var n="ntags"/></tag></tags>
+            <lu><clip pos="1" side="tl" part="whole"/></lu>
+            <lu><clip pos="2" side="tl" part="whole"/></lu>
+            <lu><clip pos="3" side="tl" part="whole"/></lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 	<rule comment="verb-pret-pass">
       <pattern>
