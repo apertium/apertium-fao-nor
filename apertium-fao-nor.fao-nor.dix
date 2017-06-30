@@ -227,6 +227,8 @@
 <e vr="nno"><p><l>gras<s n="n"/><s n="nt"/></l>	<r>gras<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>fræ<s n="n"/><s n="nt"/></l>	<r>frø<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>fak<s n="n"/><s n="nt"/></l>	<r>fag<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>vrak<s n="n"/><s n="nt"/></l>	<r>vrak<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>træl<s n="n"/><s n="nt"/></l>	<r>trell<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>len<s n="n"/><s n="nt"/></l>	<r>len<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>biskupssetur<s n="n"/><s n="nt"/></l>	<r>bispegård<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bispur<s n="n"/><s n="m"/></l>	<r>bisp<s n="n"/><s n="m"/></r></p></e>
@@ -347,7 +349,7 @@
 <e><p><l>Nólsoy<s n="np"/></l><r>Nólsoy<s n="np"/></r></p></e>
 <e><p><l>Ísland<s n="np"/></l><r>Island<s n="np"/><s n="top"/></r></p></e>
 <e r="LR"><p><l>Island<s n="np"/></l><r>Island<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Hvalba<s n="np"/><s n="f"/><s n="ind"/></l><r>Hvalba<s n="np"/></r></p></e>
+<e><p><l>Hvalba<s n="np"/><s n="f"/></l><r>Hvalba<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Hetland<s n="np"/><s n="nt"/></l><r>Hetland<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Hammershaimb<s n="np"/><s n="cog"/></l><r>Hammershaimb<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Kamban<s n="np"/><s n="cog"/></l><r>Kamban<s n="np"/><s n="cog"/></r></p></e>
@@ -878,7 +880,7 @@
 <e><p><l>múrur<s n="n"/><s n="m"/></l><r>vegg<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>munkur<s n="n"/><s n="m"/></l><r>munk<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>mars<s n="n"/><s n="m"/></l><r>mars<s n="n"/><s n="m"/></r></p></e>
-<e vr="nob"><p><l>marknaður<s n="n"/><s n="m"/></l><r>marked<s n="n"/><s n="m"/></r></p></e>
+<e vr="nob"><p><l>marknaður<s n="n"/><s n="m"/></l><r>marked<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nno"><p><l>marknaður<s n="n"/><s n="m"/></l><r>marknad<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>mánaður<s n="n"/><s n="m"/></l><r>måned<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>mánaður<s n="n"/><s n="m"/></l><r>månad<s n="n"/><s n="m"/></r></p></e>
