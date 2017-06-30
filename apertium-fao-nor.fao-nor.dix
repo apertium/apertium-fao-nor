@@ -676,8 +676,8 @@
 
 <!-- SECTION: Punctuation -->
 
-<e><re>[\(\[]</re><p><l><s n="lpar"/></l><r><s n="lpar"/></r></p></e>
-<e><re>[\)\]]</re><p><l><s n="rpar"/></l><r><s n="rpar"/></r></p></e>
+<e><re>[\(\[]</re><p><l><s n="lquot"/></l><r><s n="lpar"/></r></p></e>
+<e><re>[\)\]]</re><p><l><s n="rquot"/></l><r><s n="rpar"/></r></p></e>
 <e><re>[.\?;:!·…]+</re><p><l><s n="sent"/></l><r><s n="sent"/><s n="clb"/></r></p></e>
 <e><re>'</re><p><l><s n="apos"/></l><r><s n="apos"/></r></p></e>
 <e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
