@@ -893,6 +893,26 @@
         </out>
       </action>
     </rule>
+    
+    <rule comment="numeral stuff">
+      <pattern>
+        <pattern-item n="numeral"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="DetQnt"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <lit-tag v="det"/>
+              <lit-tag v="qnt"/>
+            </lu>
+          </chunk>
+        </out>
+	  </action>      
+    </rule>
  
     <rule comment="REGLA: PREP">
       <pattern>

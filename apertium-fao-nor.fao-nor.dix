@@ -212,6 +212,10 @@
 <e><p><l>havi<s n="n"/><s n="m"/></l>	<r>hage<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>kommuna<s n="n"/><s n="f"/></l>	<r>kommune<s n="n"/><s n="m"/></r></p></e>
 
+<e><p><l>jóansøka<s n="n"/><s n="f"/></l><r>sankthans<s n="n"/><s n="f"/></r></p></e>
+<e vr="nob"><p><l>gras<s n="n"/><s n="nt"/></l>	<r>gress<s n="n"/><s n="nt"/></r></p></e>
+<e vr="nno"><p><l>gras<s n="n"/><s n="nt"/></l>	<r>gras<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>fræ<s n="n"/><s n="nt"/></l>	<r>frø<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>fak<s n="n"/><s n="nt"/></l>	<r>fag<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>gjár<s n="n"/><s n="m"/></l>	<r>går<s n="n"/><s n="mf"/></r></p></e>
 <e vr="nob"><p><l>spæl<s n="n"/><s n="nt"/></l>	<r>spill<s n="n"/><s n="nt"/></r></p></e>
@@ -375,6 +379,7 @@
 <e><p><l>C<s n="abbr"/><s n="n"/><s n="acr"/></l><r>C<s n="abbr"/></r></p></e>
 <e><p><l>Amtstidende<s n="np"/><s n="np"/></l><r>Amtstidende<s n="np"/></r></p></e>
 <e><p><l>Algeria<s n="np"/></l><r>Algeria<s n="np"/><s n="top"/></r></p></e>
+
 
 
 
@@ -748,6 +753,8 @@
 <e vr="nob"><p><l>sonur<s n="n"/><s n="m"/></l><r>sønn<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>sonur<s n="n"/><s n="m"/></l><r>son<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>skattur<s n="n"/><s n="m"/></l><r>skatt<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>mát<s n="n"/><s n="nt"/></l><r>mat<s n="n"/><s n="m"/></r></p></e>
+
 
 <e vr="nob"><p><l>sjálvt<s n="adv"/></l><r>selv<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>sjálvt<s n="adv"/></l><r>sjølv<s n="adv"/></r></p></e>
@@ -930,6 +937,8 @@
 <e><p><l>amtmaður<s n="n"/><s n="m"/></l><r>prefekt<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>allur<s n="n"/><s n="m"/></l><r>alle<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>líð<s n="n"/><s n="f"/></l><r>skråning<s n="n"/><s n="f"/></r></p></e>
+<e vr="nob"><p><l>búseting<s n="n"/><s n="f"/></l><r>bosetting<s n="n"/><s n="f"/></r></p></e>
+<e vr="nno"><p><l>búseting<s n="n"/><s n="f"/></l><r>busetjing<s n="n"/><s n="f"/></r></p></e>
 
 
 <!-- SECTION: Verbs -->
