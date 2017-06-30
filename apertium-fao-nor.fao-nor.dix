@@ -734,7 +734,10 @@
 <e><p><l>kongur<s n="n"/><s n="m"/></l><r>konge<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>stovnur<s n="n"/><s n="m"/></l><r>bestand<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>handil<s n="n"/><s n="m"/></l><r>forretning<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>gildi<s n="adj"/></l><r>gyldig<s n="adj"/></r></p></e>
+<e><p><l>gildi<s n="n"/><s n="nt"/></l><r>fest<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>gildi<s n="n"/><s n="nt"/></l><r>sellskap<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>gildi<s n="n"/><s n="nt"/></l><r>kraft<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>gildi<s n="n"/><s n="nt"/></l><r>virkning<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bók<s n="n"/><s n="f"/></l><r>bok<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>trælur<s n="n"/><s n="m"/></l><r>slave<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nob"><p><l>skúli<s n="n"/><s n="m"/></l><r>skole<s n="n"/><s n="m"/></r></p></e>
