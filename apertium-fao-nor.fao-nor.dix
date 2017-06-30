@@ -83,7 +83,10 @@
 
    <pardef n="vblex:vblex">
      <e><p><l><s n="vblex"/><s n="pprs"/></l><r><s n="adj"/><s n="pprs"/></r></p></e>
-     <e><p><l><s n="vblex"/><s n="pp"/></l><r><s n="adj"/><s n="pp"/></r></p></e>
+     <e><p><l><s n="vblex"/><s n="pp"/><s n="m"/></l><r><s n="adj"/><s n="pp"/><s n="mf"/></r></p></e>
+     <e><p><l><s n="vblex"/><s n="pp"/><s n="f"/></l><r><s n="adj"/><s n="pp"/><s n="mf"/></r></p></e>
+     <e><p><l><s n="vblex"/><s n="pp"/><s n="nt"/></l><r><s n="adj"/><s n="pp"/><s n="nt"/></r></p></e>
+     <e><p><l><s n="vblex"/><s n="pp"/></l><r><s n="vblex"/><s n="pp"/></r></p></e>
      <e><p><l><s n="vblex"/></l><r><s n="vblex"/></r></p></e>
    </pardef>
    
@@ -732,6 +735,8 @@
 <e><p><l>vindur<s n="n"/><s n="m"/></l><r>vind<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>dalur<s n="n"/><s n="m"/></l><r>dal<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>valla<s n="adv"/></l><r>riktig<s n="adv"/></r></p></e>
+<!--<e><p><l>stavingarlag<s n="n"/><s n="f"/></l><r>retskrivning<s n="n"/><s n="m"/></r></p></e>-->
+<e><p><l>stavingarlag<s n="n"/><s n="f"/></l><r>stavemåte<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>rannsókn<s n="n"/><s n="f"/></l><r>forskning<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>loysing<s n="n"/><s n="f"/></l><r>løsing<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fráflyting<s n="n"/><s n="f"/></l><r>fraflytting<s n="n"/><s n="f"/></r></p></e>
@@ -969,6 +974,7 @@
 <e vr="nob"><p><l>brenna</l><r>brenne</r></p><par n="vblex:vblex"/></e>
 <e><p><l>broyta</l><r>forandre</r></p><par n="vblex:vblex"/></e>
 <e><p><l>búgva</l><r>bu</r></p><par n="vblex:vblex"/></e>
+<e><p><l>herseta</l><r>besette</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>búseta</l><r>bosette</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>búseta</l><r>busetja</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>byggja<s n="vblex"/></l><r>bygge<s n="vblex"/></r></p><par n="vblex:vblex"/></e>

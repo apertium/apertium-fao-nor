@@ -18,6 +18,9 @@
       <cat-item tags="n.*"/>
     </def-cat>
     <def-cat n="pp">
+      <cat-item tags="vblex.pp"/>
+    </def-cat>
+    <def-cat n="adj-pp">
       <cat-item tags="vblex.pp.*"/>
     </def-cat>
     <def-cat n="pret-pass">
@@ -69,9 +72,6 @@
     </def-cat>
     <def-cat n="prn-def">
       <cat-item tags="prn.def.*"/>
-    </def-cat>
-    <def-cat n="adj-pp">
-      <cat-item tags="adj.pp.*"/>
     </def-cat>
   </section-def-cats>
 
@@ -489,7 +489,7 @@
     
     <rule comment="pp agrement">
 	  <pattern>
-	  	<pattern-item n="pp"/>
+	  	<pattern-item n="adj-pp"/>
 	  </pattern>
 	  <action>
 	    <call-macro n="rm_case">
