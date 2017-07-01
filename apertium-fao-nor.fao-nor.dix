@@ -700,7 +700,7 @@
 
 <!-- SECTION: Abbreviations -->
 
-<e><p><l>f.Kr<s n="abbr"/></l><r>f.Kr.<s n="n"/><s n="acr"/></r></p></e>
+<e><p><l>f.Kr<s n="abbr"/></l><r>f.Kr.<s n="adv"/></r></p></e>
 <e><p><l>m.a<s n="abbr"/></l><r>bl.a.<s n="adv"/></r></p></e>
 
 <!-- SECTION: Punctuation -->
