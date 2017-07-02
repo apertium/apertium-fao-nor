@@ -33,6 +33,13 @@ Each node <match> (or each node <or>) is one word, we read the sentence from top
       <select lemma="med" tags="pr"/>
     </match>
   </rule>
+
+  <rule>
+    <match lemma="politiskur" tags="adj.*"/>
+    <match lemma="flokkur" tags="n.*">
+      <select lemma="parti" tags="n.*"/>
+    </match>
+  </rule>
 </rules>
 </metalrx>
 
