@@ -308,7 +308,13 @@
 <e><p><l>havn<s n="n"/><s n="nt"/></l><r>hamn<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>januar<s n="n"/><s n="m"/></l><r>januar<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>august<s n="n"/><s n="m"/></l><r>august<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>umsiting<s n="n"/><s n="f"/></l><r>embetsverk<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>avleiðing<s n="n"/><s n="f"/></l><r>følge<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>støði<s n="n"/><s n="nt"/></l><r>sted<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>umbøn<s n="n"/><s n="f"/></l><r>opprop<s n="n"/><s n="nt"/></r></p></e>
 
+
+ 
 
 
 <e vr="nob"><p><l>vatn<s n="n"/><s n="nt"/></l><r>vann<s n="n"/><s n="nt"/></r></p></e>
@@ -983,6 +989,7 @@
 <e vr="nno"><p><l>búseting<s n="n"/><s n="f"/></l><r>busetjing<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>lag<s n="n"/><s n="nt"/></l><r>lag<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>góðs<s n="n"/><s n="nt"/></l><r>gods<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>dyr<s n="n"/><s n="f"/></l><r>dør<s n="n"/><s n="m"/></r></p></e>
 
 <!-- SECTION: Verbs -->
 
