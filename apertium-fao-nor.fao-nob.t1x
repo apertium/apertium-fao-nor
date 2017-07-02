@@ -174,10 +174,10 @@
       <choose>
         <when><test><not><equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/></equal></not></test>
               <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
-              <let><clip pos="1" side="tl" part="a_gendef"/><lit-tag v="def.gen"/></let>
-              <let><clip pos="1" side="tl" part="a_genind"/><lit-tag v="ind.gen"/></let>
         </when>
       </choose>
+              <let><clip pos="1" side="tl" part="a_gendef"/><lit-tag v="def.gen"/></let>
+              <let><clip pos="1" side="tl" part="a_genind"/><lit-tag v="ind.gen"/></let>
     </def-macro>
     <def-macro n="f_compound1" npar="1">
       <choose>
