@@ -354,7 +354,6 @@
 <e><p><l>Ísland<s n="np"/></l><r>Island<s n="np"/><s n="top"/></r></p></e>
 <e r="LR"><p><l>Island<s n="np"/></l><r>Island<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Hvalba<s n="np"/><s n="f"/></l><r>Hvalba<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Hetland<s n="np"/><s n="nt"/></l><r>Hetland<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Hammershaimb<s n="np"/><s n="cog"/></l><r>Hammershaimb<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Kamban<s n="np"/><s n="cog"/></l><r>Kamban<s n="np"/><s n="cog"/></r></p></e>
 <!--<e><p><l>Føring<s n="np"/></l><r>Føring<s n="np"/></r></p></e>-->
@@ -391,7 +390,7 @@
 
 <e><p><l>Orknoy<s n="np"/></l><r>Orknøy<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Orknoyar<s n="np"/><s n="f"/><s n="pl"/></l><r>Orknøyene<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Hetland<s n="np"/><s n="ant"/></l><r>Shetland<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Hetland<s n="np"/><s n="nt"/></l><r>Shetland<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Hoydalur<s n="np"/><s n="m"/></l><r>Høydal<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Pytheas<s n="np"/><s n="ant"/><s n="m"/></l><r>Pytheas<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Massalia<s n="np"/><s n="n"/></l><r>Massalia<s n="np"/><s n="n"/></r></p></e>
