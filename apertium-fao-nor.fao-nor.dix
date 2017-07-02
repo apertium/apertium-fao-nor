@@ -982,10 +982,12 @@
 <e vr="nob"><p><l>búseting<s n="n"/><s n="f"/></l><r>bosetting<s n="n"/><s n="f"/></r></p></e>
 <e vr="nno"><p><l>búseting<s n="n"/><s n="f"/></l><r>busetjing<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>lag<s n="n"/><s n="nt"/></l><r>lag<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>góðs<s n="n"/><s n="nt"/></l><r>gods<s n="n"/><s n="nt"/></r></p></e>
 
 <!-- SECTION: Verbs -->
 
-
+<e><p><l>stovnseta</l><r>grunnlegge</r></p><par n="vblex:vblex"/></e>
+<e><p><l>byggja</l><r>bygge</r></p><par n="vblex:vblex"/></e>
 <e><p><l>benda</l><r>avslå</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>bera</l><r>bære</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>bera</l><r>bera</r></p><par n="vblex:vblex"/></e>
