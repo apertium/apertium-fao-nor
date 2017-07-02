@@ -181,46 +181,36 @@
     </def-macro>
     <def-macro n="f_compound1" npar="1">
       <choose>
-        <when><test><and><equal><clip pos="1" side="tl" part="a_cmp"/><lit-tag v="cmp"/></equal>
-                         <equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/></equal></and></test>
+        <when><test><equal><clip pos="1" side="tl" part="a_cmp"/><lit-tag v="cmp"/></equal></test>
               <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
               <let><clip pos="1" side="tl" part="a_cmp"/><lit v=""/></let>
               <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
               <let><clip pos="1" side="tl" part="tags"/>
-                   <concat><clip pos="1" side="tl" part="tags"/><lit-tag v="ind.gen"/></concat></let>
+              <concat><clip pos="1" side="tl" part="tags"/><lit-tag v="ind"/></concat></let>
         </when>
-        <when><test><and><equal><clip pos="1" side="tl" part="a_cmp"/><lit-tag v="cmp"/></equal>
-                         <not><equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/></equal></not></and></test>
-              <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
-              <let><clip pos="1" side="tl" part="a_cmp"/><lit v=""/></let>
-              <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
-              <let><clip pos="1" side="tl" part="tags"/>
-                   <concat><clip pos="1" side="tl" part="tags"/><lit-tag v="ind"/></concat></let>
-        </when>
- 
       </choose>
     </def-macro>
-    
+
     <def-macro n="rm_case_and_num" npar="1">
       <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="num"/><lit v=""/></let>
-      <choose> 
+      <choose>
         <when><test><equal><clip pos="1" side="tl" part="a_prop"/><lit-tag v="np.top"/></equal></test>
               <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
         </when>
-      </choose> 
+      </choose>
     </def-macro>
-    
+
     <def-macro n="rm_case_num_and_gen" npar="1">
       <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="num"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_gen"/><lit v=""/></let>
     </def-macro>
-    
+
     <def-macro n="rm_case" npar="1">
       <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
     </def-macro>
-    
+
     <def-macro n="turn_dat_into_acc" npar="1">
       <choose>
         <when>
@@ -229,7 +219,7 @@
         </when>
       </choose>
     </def-macro>
-    
+
     <def-macro n="rm_gender_from_plurals_and_case" npar="1">
       <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
       <choose>
@@ -239,10 +229,10 @@
         </when>
       </choose>
     </def-macro>
-    
+
     <def-macro n="f_adj_infl1" npar="1">
       <choose>
-      <when> 
+      <when>
          <test><equal><clip pos="1" side="tl" part="a_grau"/><lit-tag v="comp"/></equal></test>
          <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="un"/></let>
          <let><clip pos="1" side="tl" part="a_num"/><lit-tag v="sp"/></let>
@@ -291,20 +281,20 @@
      </choose>
      <let><clip pos="1" side="tl" part="a_adv"/><lit-tag v="ind"/></let>
     </def-macro>
-    
+
     <def-macro n="rm_v_num" npar="1">
       <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
     </def-macro>
-        
+
     <def-macro n="verb_stuff1" npar="1">
         <choose>
-      	  <when> 
+      	  <when>
          	<test><equal><clip pos="1" side="tl" part="a_voice"/><lit-tag v="pass"/></equal></test>
          	<let><clip pos="1" side="tl" part="a_voice"/><lit-tag v="pasv"/></let>
      	  </when>
      	</choose>
      	<choose>
-      	  <when> 
+      	  <when>
          	<test><equal><clip pos="1" side="tl" part="a_nonfinite"/><lit-tag v="supn"/></equal></test>
          	<let><clip pos="1" side="tl" part="a_nonfinite"/><lit-tag v="pp"/></let>
      	  </when>
@@ -320,7 +310,7 @@
       <let><clip pos="1" side="tl" part="num"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="v_pers"/><lit v=""/></let>
     </def-macro>
-    
+
     <def-macro n="prn_to_det" npar="2">
       <choose>
           <when>
@@ -330,13 +320,13 @@
           </when>
       	</choose>
     </def-macro>
-    
+
   </section-def-macros>
 
 
 
   <section-rules>
-  
+
   	<rule comment="prn-ind">
 	  <pattern>
 	  	<pattern-item n="prn-ind"/>
@@ -378,7 +368,7 @@
 	    </out>
 	  </action>
 	</rule>
-  
+
     <rule comment="REGLA: NOM">
       <pattern>
         <pattern-item n="nom"/>
@@ -409,7 +399,7 @@
             </lu>
           </chunk>
         </out>
-	  </action>      
+	  </action>
     </rule>
 
     <rule comment="NCMP N: ytelse ytelse => ytingsyting
@@ -486,7 +476,7 @@
         </out>
       </action>
     </rule>
-    
+
     <rule comment="pp agrement">
 	  <pattern>
 	  	<pattern-item n="adj-pp"/>
@@ -555,7 +545,7 @@
 	    </out>
 	  </action>
 	</rule>
-		
+
 	<rule comment="REMOVE prop">
 	  <pattern>
 	  	<pattern-item n="prop"/>
@@ -577,7 +567,7 @@
 	    </out>
 	  </action>
 	</rule>
-	
+
 
 	<rule comment="REMOVE np stuff">
 	  <pattern>
@@ -626,7 +616,7 @@
 	    </out>
 	  </action>
 	</rule>
-	
+
 	<rule comment="REMOVE adj stuff">
 	  <pattern>
 	  	<pattern-item n="adj"/>
@@ -647,8 +637,8 @@
 	    </out>
 	  </action>
 	</rule>
-	
-	
+
+
 	<rule comment="REMOVE numeral stuff">
 	  <pattern>
 	  	<pattern-item n="numeral"/>
@@ -669,7 +659,7 @@
 	    </out>
 	  </action>
 	</rule>
-	
+
 	<rule comment="prn-ref stuff">
 	  <pattern>
 	  	<pattern-item n="prn-ref"/>
@@ -697,7 +687,7 @@
 	    </out>
 	  </action>
 	</rule>
-	
+
 	<rule comment="prn-itg stuff">
 	  <pattern>
 	  	<pattern-item n="prn-itg"/>
@@ -718,7 +708,7 @@
 	    </out>
 	  </action>
 	</rule>
-	
+
 	<rule comment="prn-pers stuff">
 	  <pattern>
 	  	<pattern-item n="prn-pers"/>
@@ -821,7 +811,7 @@
 	    </out>
 	  </action>
 	</rule>
-	
+
 	<rule comment="noun+pos=noun-def">
       <pattern>
         <pattern-item n="nom"/>
@@ -860,9 +850,9 @@
             </lu>
           </chunk>
         </out>
-          </action>      
+          </action>
     </rule>
-    
+
  	<rule comment="prn-dem stuff">
 	  <pattern>
 	  	<pattern-item n="prn-dem"/>
@@ -905,7 +895,7 @@
 	    </out>
 	  </action>
 	</rule>
-	
+
 
     <rule comment="REGLA: verða pp">
       <pattern>
@@ -939,7 +929,7 @@
         </out>
       </action>
     </rule>
-    
+
     <rule comment="numeral stuff">
       <pattern>
         <pattern-item n="numeral"/>
@@ -957,9 +947,9 @@
             </lu>
           </chunk>
         </out>
-	  </action>      
+	  </action>
     </rule>
- 
+
     <rule comment="REGLA: PREP">
       <pattern>
         <pattern-item n="prep"/>
@@ -979,8 +969,8 @@
         </out>
       </action>
     </rule>
-    
-    
+
+
     <rule comment="REGLA: SENT">
       <pattern>
         <pattern-item n="sent"/>
@@ -998,11 +988,11 @@
         </out>
       </action>
     </rule>
-	
+
   </section-rules>
 </transfer>
 
- 
+
 <!--
 Resources:
     http://wiki.apertium.org/wiki/Chunking:_A_full_example
@@ -1011,4 +1001,3 @@ Resources:
     http://wiki.apertium.org/wiki/A_long_introduction_to_transfer_rules
     http://wiki.apertium.org/wiki/Transfer#Adding_structural_transfer_.28grammar.29_rules
 -->
-
