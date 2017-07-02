@@ -994,7 +994,8 @@
 <e vr="nno"><p><l>búseting<s n="n"/><s n="f"/></l><r>busetjing<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>lag<s n="n"/><s n="nt"/></l><r>lag<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>góðs<s n="n"/><s n="nt"/></l><r>gods<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>dyr<s n="n"/><s n="f"/></l><r>dør<s n="n"/><s n="m"/></r></p></e>
+<e vr="nob"><p><l>dyr<s n="n"/><s n="f"/></l><r>dør<s n="n"/><s n="m"/></r></p></e>
+<e vr="nno"><p><l>dyr<s n="n"/><s n="f"/></l><r>dør<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ríkisdagur<s n="n"/><s n="m"/></l><r>riksdag<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fríhandil<s n="n"/><s n="m"/></l><r>frihandel<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tjóðskapur<s n="n"/><s n="m"/></l><r>nasjonalitet<s n="n"/><s n="m"/></r></p></e>
@@ -1166,9 +1167,18 @@
 <e vr="nno"><p><l>vita</l><r>veit</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>vita</l><r>vite</r></p><par n="vblex:vblex"/></e>
 
-<e vr="nob"><p><l>endurreisa</l><r>gjenreise</r></p><par n="vblex:vblex"/></e>
+<e>         <p><l>endurreisa</l><r>gjenreise</r></p><par n="vblex:vblex"/></e>
+<e vr="nno"><p><l>endurreisa</l><r>atterreise</r></p><par n="vblex:vblex"/></e>
+
  
 
 </section>
 </dictionary>
-
+<!--
+Local Variables:
+dix-vr-langs: ("nno" "nob")
+dix-rb-align-column: 55
+dix-pb-align-column: 12
+dimwiki-wikidomains: ("fo.wiktionary.org")
+End:
+-->
