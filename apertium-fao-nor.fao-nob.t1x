@@ -369,6 +369,9 @@
 	  </action>
 	</rule>
 
+
+
+
     <rule comment="REGLA: NOM">
       <pattern>
         <pattern-item n="nom"/>
@@ -402,6 +405,8 @@
 	  </action>
     </rule>
 
+
+
     <rule comment="NCMP N: ytelse ytelse => ytingsyting
                    Remove the space that pretransfer added">
       <pattern>
@@ -424,6 +429,8 @@
         </out>
       </action>
     </rule>
+
+
 
     <rule comment="NCMP NCMP N: ytelse ytelse => ytingsyting
                    Remove the space that pretransfer added">
@@ -477,6 +484,7 @@
       </action>
     </rule>
 
+
     <rule comment="pp agrement">
 	  <pattern>
 	  	<pattern-item n="adj-pp"/>
@@ -493,9 +501,15 @@
         	<let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="mf"/></let>
           </when>
           <when>
+            <test><equal><clip pos="1" side="tl" part="num"/><lit-tag v="pl"/></equal></test>
+        	<let><clip pos="1" side="tl" part="a_gen"/><lit v=""/></let>
+        	<let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
+          </when>
+          <when>
             <test><and><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="m"/></equal>
               <equal><clip pos="1" side="tl" part="num"/><lit-tag v="sg"/></equal></and></test>
-        	<let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="mf"/></let>
+        	<let><clip pos="1" side="tl" part="a_gen"/><lit v=""/></let>
+        	<let><clip pos="1" side="tl" part="a_gen"/><lit v=""/></let>
           </when>
           <when>
             <test><and><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="f"/></equal>
@@ -930,6 +944,7 @@
       </action>
     </rule>
 
+<!--
     <rule comment="numeral stuff">
       <pattern>
         <pattern-item n="numeral"/>
@@ -949,6 +964,7 @@
         </out>
 	  </action>
     </rule>
+-->
 
     <rule comment="REGLA: PREP">
       <pattern>
