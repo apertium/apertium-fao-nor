@@ -1054,8 +1054,16 @@
 <e vr="nob"><p><l>gera</l><r>gjøre</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>fremja</l><r>gjera</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>fremja</l><r>gjøre</r></p><par n="vblex:vblex"/></e>
-<e><p><l>geva</l><r>gi</r></p><par n="vblex:vblex"/></e>
-<e><p><l>geva</l><r>gje</r></p><par n="vblex:vblex"/></e>
+<e>         <p><l>geva</l><r>gi</r></p><par n="vblex:vblex"/></e>
+<e>         <p><l>tilgeva</l><r>tilgi</r></p><par n="vblex:vblex"/></e>
+<e>         <p><l>útgeva</l><r>utgi</r></p><par n="vblex:vblex"/></e>
+<e>         <p><l>grundgeva</l><r>grundgi</r></p><par n="vblex:vblex"/></e>
+<e>         <p><l>navngeva</l><r>navngi</r></p><par n="vblex:vblex"/></e>
+<e>         <p><l>yvirgeva</l><r>overgi</r></p><par n="vblex:vblex"/></e>
+<e>         <p><l>endurgeva</l><r>gjengi</r></p><par n="vblex:vblex"/></e>
+<e vr="nno"><p><l>endurgeva</l><r>attergi</r></p><par n="vblex:vblex"/></e>
+<e>         <p><l>formgeva</l><r>formgi</r></p><par n="vblex:vblex"/></e>
+<e vr="nno"><p><l>geva</l><r>gje</r></p><par n="vblex:vblex"/></e>
 <e><p><l>gita</l><r>gjete</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>góðkenna</l><r>vedtak</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>góðkenna</l><r>vedta</r></p><par n="vblex:vblex"/></e>
