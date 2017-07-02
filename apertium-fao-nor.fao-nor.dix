@@ -354,6 +354,7 @@
 <e><p><l>Ísland<s n="np"/></l><r>Island<s n="np"/><s n="top"/></r></p></e>
 <e r="LR"><p><l>Island<s n="np"/></l><r>Island<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Hvalba<s n="np"/><s n="f"/></l><r>Hvalba<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Hetland<s n="np"/><s n="nt"/></l><r>Shetland<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Hammershaimb<s n="np"/><s n="cog"/></l><r>Hammershaimb<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Kamban<s n="np"/><s n="cog"/></l><r>Kamban<s n="np"/><s n="cog"/></r></p></e>
 <!--<e><p><l>Føring<s n="np"/></l><r>Føring<s n="np"/></r></p></e>-->
@@ -370,11 +371,11 @@
 <e><p><l>Patursson<s n="np"/><s n="cog"/></l><r>Patursson<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Øssursson<s n="np"/><s n="cog"/></l><r>Øssursson<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Brestisson<s n="np"/><s n="cog"/></l><r>Brestisson<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>Norðurland<s n="np"/><s n="top"/><s n="nt"/></l><r>Norden<s n="np"/></r></p></e>
+<e><p><l>Norðurland<s n="np"/><s n="nt"/></l><r>Norden<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Nidaros<s n="np"/></l><r>Nidaros<s n="np"/></r></p></e>
 <e><p><l>Mortensen<s n="np"/><s n="cog"/></l><r>Mortensen<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Massalia<s n="np"/></l><r>Massalia<s n="np"/></r></p></e>
-<e><p><l>Løgtingsval<s n="np"/></l><r>Løgtingsval<s n="np"/></r></p></e>
+<e><p><l>Løgtingsval<s n="n"/><s n="nt"/></l><r>Løgtingsval<s n="np"/></r></p></e>
 <e><p><l>Leivur<s n="np"/><s n="ant"/><s n="m"/></l><r>Leivur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Sigmundur<s n="np"/><s n="ant"/><s n="m"/></l><r>Sigmundur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Kirkjubøur<s n="np"/><s n="m"/><s n="ind"/></l><r>Kirkjubøur<s n="np"/></r></p></e>
@@ -390,7 +391,7 @@
 
 <e><p><l>Orknoy<s n="np"/></l><r>Orknøy<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Orknoyar<s n="np"/><s n="f"/><s n="pl"/></l><r>Orknøyene<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Hetland<s n="np"/><s n="nt"/></l><r>Shetland<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Hetland<s n="np"/><s n="ant"/></l><r>Shetland<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Hoydalur<s n="np"/><s n="m"/></l><r>Høydal<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Pytheas<s n="np"/><s n="ant"/><s n="m"/></l><r>Pytheas<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Massalia<s n="np"/><s n="n"/></l><r>Massalia<s n="np"/><s n="n"/></r></p></e>
@@ -407,6 +408,7 @@
 <e><p><l>Debe<s n="np"/></l><r>Debe<s n="np"/></r></p></e>
 <e><p><l>Christian<s n="np"/></l><r>Christian<s n="np"/></r></p></e>
 <!--<e><p><l>Amtstidende<s n="np"/></l><r>Amtstidende<s n="np"/></r></p></e>-->
+<e><p><l>Algeria<s n="np"/></l><r>Algeria<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Algeria<s n="np"/></l><r>Algeria<s n="np"/><s n="top"/></r></p></e>
 
 
@@ -993,8 +995,7 @@
 <e vr="nno"><p><l>búseting<s n="n"/><s n="f"/></l><r>busetjing<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>lag<s n="n"/><s n="nt"/></l><r>lag<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>góðs<s n="n"/><s n="nt"/></l><r>gods<s n="n"/><s n="nt"/></r></p></e>
-<e vr="nob"><p><l>dyr<s n="n"/><s n="f"/></l><r>dør<s n="n"/><s n="m"/></r></p></e>
-<e vr="nno"><p><l>dyr<s n="n"/><s n="f"/></l><r>dør<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>dyr<s n="n"/><s n="f"/></l><r>dør<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ríkisdagur<s n="n"/><s n="m"/></l><r>riksdag<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fríhandil<s n="n"/><s n="m"/></l><r>frihandel<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tjóðskapur<s n="n"/><s n="m"/></l><r>nasjonalitet<s n="n"/><s n="m"/></r></p></e>
@@ -1165,19 +1166,14 @@
 <e vr="nob"><p><l>virka</l><r>gjøre</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>vita</l><r>veit</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>vita</l><r>vite</r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>valda</l><r>volde</r></p><par n="vblex:vblex"/></e>
+<e vr="nno"><p><l>valda</l><r>valda</r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>samla</l><r>samle</r></p><par n="vblex:vblex"/></e>
+<e vr="nno"><p><l>samla</l><r>samla</r></p><par n="vblex:vblex"/></e>
 
-<e>         <p><l>endurreisa</l><r>gjenreise</r></p><par n="vblex:vblex"/></e>
-<e vr="nno"><p><l>endurreisa</l><r>atterreise</r></p><par n="vblex:vblex"/></e>
-
+<e vr="nob"><p><l>endurreisa</l><r>gjenreise</r></p><par n="vblex:vblex"/></e>
  
 
 </section>
 </dictionary>
-<!--
-Local Variables:
-dix-vr-langs: ("nno" "nob")
-dix-rb-align-column: 55
-dix-pb-align-column: 12
-dimwiki-wikidomains: ("fo.wiktionary.org")
-End:
--->
+
