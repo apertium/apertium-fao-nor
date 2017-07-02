@@ -496,6 +496,10 @@
         <let><clip pos="1" side="tl" part="POS"/><lit-tag v="adj"/></let>
         <choose>
           <when>
+            <test><equal><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.pp.pl.adv"/></equal></test>
+        	<let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.pp.pl"/></let>
+          </when>
+          <when>
             <test><and><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="f"/></equal>
               <equal><clip pos="1" side="tl" part="num"/><lit-tag v="sg"/></equal></and></test>
         	<let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="mf"/></let>
@@ -510,10 +514,6 @@
               <equal><clip pos="1" side="tl" part="num"/><lit-tag v="sg"/></equal></and></test>
         	<let><clip pos="1" side="tl" part="a_gen"/><lit v=""/></let>
         	<let><clip pos="1" side="tl" part="a_gen"/><lit v=""/></let>
-          </when>
-          <when>
-            <test><equal><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.pp.pl.adv"/></equal></test>
-        	<let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.pp.pl"/></let>
           </when>
           <when>
             <test><and><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="f"/></equal>
