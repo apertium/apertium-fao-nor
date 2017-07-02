@@ -312,8 +312,6 @@
 <e><p><l>avleiðing<s n="n"/><s n="f"/></l><r>følge<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>støði<s n="n"/><s n="nt"/></l><r>sted<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>umbøn<s n="n"/><s n="f"/></l><r>opprop<s n="n"/><s n="nt"/></r></p></e>
-
-
  
 
 
@@ -612,6 +610,8 @@
 <e><p><l>óvissur<s n="adj"/></l><r>uviss<s n="adj"/></r></p></e>
 <e><p><l>veikur<s n="adj"/></l><r>veik<s n="adj"/></r></p></e>
 <e><p><l>óbygdur<s n="adj"/></l><r>ubebygget<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>tjóðskaparligur<s n="adj"/></l><r>patriotisk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>tjóðskaparligur<s n="adj"/></l><r>nasjonalistisk<s n="adj"/></r></p><par n="adj:adj"/></e>
 
 
 
@@ -665,6 +665,7 @@
 <e><p><l>ógvuliga<s n="adv"/></l>	<r>veldig<s n="adv"/></r></p></e>
 <e><p><l>úti<s n="adv"/></l>	<r>ute<s n="adv"/></r></p></e>
 <e><p><l>inni<s n="adv"/></l>	<r>inn<s n="adv"/></r></p></e>
+<e><p><l>inn<s n="adv"/></l>	<r>inn<s n="adv"/></r></p></e>
 <e><p><l>enn<s n="adv"/></l>	<r>ennå<s n="adv"/></r></p></e>
 <e><p><l>væl<s n="adv"/></l>	<r>bra<s n="adv"/></r></p></e>
 <e><p><l>altíð<s n="adv"/></l>	<r>alltid<s n="adv"/></r></p></e>
@@ -759,7 +760,7 @@
 <e><p><l>dalur<s n="n"/><s n="m"/></l><r>dal<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>valla<s n="adv"/></l><r>riktig<s n="adv"/></r></p></e>
 <!--<e><p><l>stavingarlag<s n="n"/><s n="f"/></l><r>retskrivning<s n="n"/><s n="m"/></r></p></e>-->
-<e><p><l>stavingarlag<s n="n"/><s n="f"/></l><r>stavemåte<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>stavingarlag<s n="n"/><s n="nt"/></l><r>stavemåte<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>rannsókn<s n="n"/><s n="f"/></l><r>forskning<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>loysing<s n="n"/><s n="f"/></l><r>løsing<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fráflyting<s n="n"/><s n="f"/></l><r>fraflytting<s n="n"/><s n="f"/></r></p></e>
@@ -903,6 +904,10 @@
 <e><p><l>konufólk<s n="n"/><s n="nt"/></l><r>kone<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>kona<s n="n"/><s n="f"/></l><r>kone<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>einbúgvi<s n="n"/><s n="m"/></l><r>eremitt<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>lærari<s n="n"/><s n="m"/></l><r>lærer<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>lærari<s n="n"/><s n="m"/></l><r>lærer<s n="n"/><s n="m"/></r></p></e>
+
+
 
 <e vr="nob"><p><l>longur<s n="adv"/><s n="cmp"/></l><r>lenger<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>longur<s n="adv"/><s n="cmp"/></l><r>lengjer<s n="adv"/></r></p></e>
@@ -990,7 +995,12 @@
 <e><p><l>lag<s n="n"/><s n="nt"/></l><r>lag<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>góðs<s n="n"/><s n="nt"/></l><r>gods<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>dyr<s n="n"/><s n="f"/></l><r>dør<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>ríkisdagur<s n="n"/><s n="m"/></l><r>riksdag<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>fríhandil<s n="n"/><s n="m"/></l><r>frihandel<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>tjóðskapur<s n="n"/><s n="m"/></l><r>nasjonalitet<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>rørsla<s n="n"/><s n="f"/></l><r>rørelse<s n="n"/><s n="m"/></r></p></e>
 
+ 
 <!-- SECTION: Verbs -->
 
 <e><p><l>stovnseta</l><r>grunnlegge</r></p><par n="vblex:vblex"/></e>
@@ -1155,6 +1165,9 @@
 <e vr="nob"><p><l>virka</l><r>gjøre</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>vita</l><r>veit</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>vita</l><r>vite</r></p><par n="vblex:vblex"/></e>
+
+<e vr="nob"><p><l>endurreisa</l><r>gjenreise</r></p><par n="vblex:vblex"/></e>
+ 
 
 </section>
 </dictionary>
