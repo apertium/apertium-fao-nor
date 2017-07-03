@@ -35,6 +35,9 @@ TARGETS_COMMON =		\
 	$(PREFIX1n).t2x.bin	\
 	$(PREFIX1n).t3x.bin	\
 	$(PREFIX2b).automorf.bin	\
+	$(PREFIX2n).automorf.bin	\
+	$(PREFIX2b).automorf-untrimmed.bin	\
+	$(PREFIX2n).automorf-untrimmed.bin	\
 	$(PREFIX2b).prob		\
 	$(PREFIX2b).rlx.bin	\
 	$(PREFIX2b).autobil.bin	\
@@ -102,6 +105,12 @@ $(PREFIX2n).automorf.bin: $(AP_SRC2n)/$(LANG2n).automorf.bin $(PREFIX2n).autobil
 
 $(PREFIX2b).automorf.bin: $(AP_SRC2b)/$(LANG2b).automorf.bin $(PREFIX2b).autobil.bin
 	lt-trim $^ $@
+
+$(PREFIX2n).automorf-untrimmed.bin: $(AP_SRC2n)/$(LANG2n).automorf.bin
+	cp $^ $@
+
+$(PREFIX2b).automorf-untrimmed.bin: $(AP_SRC2b)/$(LANG2b).automorf.bin
+	cp $^ $@
 
 # -------------------
 # Norwegian generation:
