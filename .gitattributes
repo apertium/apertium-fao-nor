@@ -37,6 +37,7 @@ dev/fao-nor-generated.dix -text
 /generation.sh -text
 /metalrx-to-lrx.xslt -text svneol=unset#application/xml
 /modes.xml -text
+texts/språkdeklarasjonen.fao.txt -text
 texts/språkdeklarasjonen.nob.txt -text
 texts/story.fao-nob.postedit.txt -text
 texts/story.fao.txt -text
