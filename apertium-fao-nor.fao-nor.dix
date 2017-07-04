@@ -317,6 +317,7 @@
 <e><p><l>kommuna<s n="n"/><s n="m"/></l><r>kommune<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>býur<s n="n"/><s n="m"/></l><r>by<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>mál<s n="n"/><s n="nt"/></l><r>mål<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>mál<s n="n"/><s n="nt"/></l><r>språk<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>skriftmál<s n="n"/><s n="nt"/></l><r>skriftspråk<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>tann<s n="n"/><s n="f"/></l><r>tann<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>heimur<s n="n"/><s n="m"/></l><r>verd<s n="n"/><s n="f"/></r></p></e>
@@ -351,6 +352,9 @@
 <e><p><l>støði<s n="n"/><s n="nt"/></l><r>sted<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>umbøn<s n="n"/><s n="f"/></l><r>opprop<s n="n"/><s n="nt"/></r></p></e>
  
+<e><p><l>kunngerð<s n="n"/><s n="f"/></l><r>tekst<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>tjóð<s n="n"/><s n="f"/></l><r>nasjon<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>samfelag<s n="n"/><s n="nt"/></l><r>samfunn<s n="n"/><s n="nt"/></r></p></e>
 
 
 <e vr="nob"><p><l>vatn<s n="n"/><s n="nt"/></l><r>vann<s n="n"/><s n="nt"/></r></p></e>
@@ -379,6 +383,7 @@
 <e><p><l>Osmannaríki<s n="np"/><s n="nt"/></l><r>Det<b/>osmanske<b/>riket<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
 <e><p><l>Vatikanríki<s n="np"/><s n="nt"/></l><r>Vatikanet<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Svøríki<s n="np"/><s n="top"/></l><r>Sverige<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Finnland<s n="np"/><s n="nt"/></l><r>Finland<s n="np"/><s n="top"/></r></p></e>
 
 <e vr="nob"><p><l>Noreg<s n="np"/><s n="nt"/></l><r>Norge<s n="np"/><s n="top"/></r></p></e>
 <e vr="nno"><p><l>Noreg<s n="np"/><s n="nt"/></l><r>Noreg<s n="np"/><s n="top"/></r></p></e>
@@ -654,6 +659,7 @@
 <e><p><l>fyrstur<s n="adj"/></l><r>første<s n="adj"/><s n="ord"/></r></p><par n="adj:adj"/></e>
 <e vr="nob"><p><l>kongligur<s n="adj"/></l><r>kongelig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e vr="nno"><p><l>kongligur<s n="adj"/></l><r>kongeleg<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>fullfíggjaður<s n="adj"/></l><r>komplett<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 
 <!-- CHECK TRANSLATIONS, NOT IN NOB? -->
 <e><p><l>royndur<s n="adj"/></l><r>røynd<s n="adj"/></r></p><par n="adj:adj"/></e>
@@ -892,6 +898,9 @@
 <e vr="nno"><p><l>samla</l><r>samla</r></p><par n="vblex:vblex"/></e>
 
 <e vr="nob"><p><l>endurreisa</l><r>gjenreise</r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>snjúgva</l><r>handle</r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>snúgva</l><r>handle</r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>tala</l><r>tale</r></p><par n="vblex:vblex"/></e>
 
 
 <!-- SECTION: Interjections -->
@@ -927,7 +936,7 @@
 <e><re>[IVXLCDM\-]+</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/></r></p></e>
 
 <!-- =========================================================================================== -->
-<!-- to be sorted -->
+<!-- to be CHECKED -->
 
 <e><p><l>Lund<s n="np"/><s n="sg"/></l><r>Lund<s n="np"/><s n="top"/></r></p></e>
 
