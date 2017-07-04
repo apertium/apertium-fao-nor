@@ -111,6 +111,10 @@
     <def-attr n="a_cmp">
       <attr-item tags="cmp"/>
     </def-attr>
+    <def-attr n="a_adj">
+      <attr-item tags="adj"/>
+      <attr-item tags="adj.sint"/>
+    </def-attr>
     <def-attr n="v_mood">
       <attr-item tags="ind"/>
     </def-attr>
@@ -168,6 +172,7 @@
   <section-def-vars>
     <def-var n="prn_lemma"/>
     <def-var n="dem_lemma"/>
+    <def-var n="grau_aux"/>
     <def-var n="ntags"/>
   </section-def-vars>
 
@@ -283,6 +288,40 @@
        </when>
      </choose>
      <let><clip pos="1" side="tl" part="a_adv"/><lit-tag v="ind"/></let>
+
+        <choose>
+          <when><test><and><not><equal><clip pos="1" side="tl" part="a_adj"/><lit-tag v="adj.sint"/></equal></not>
+                           <or><equal><clip pos="1" side="tl" part="a_grau"/><lit-tag v="sup"/></equal>
+                               <equal><clip pos="1" side="tl" part="a_grau"/><lit-tag v="comp"/></equal></or></and></test>
+          <let>
+            <var n="grau_aux"/>
+            <concat>
+              <lit v="^mye"/>
+              <lit-tag v="adj.sint"/>
+              <clip pos="1" side="tl" part="a_grau"/>
+              <lit-tag v="un"/>
+              <lit-tag v="sp"/>
+            </concat>
+          </let>
+          <choose><when>
+            <test><equal><clip pos="1" side="tl" part="a_grau"/><lit-tag v="sup"/></equal></test>
+            <append n="grau_aux"><lit-tag v="ind"/></append>
+          </when></choose>
+          <append n="grau_aux"><lit v="$ "/></append>
+          <choose>
+            <when>
+              <test><equal><clip pos="1" side="sl" part="a_def"/><lit-tag v="def"/></equal></test>
+              <let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.pst.un.sp.def"/></let>
+            </when>
+            <otherwise>
+              <let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.pst.nt.sg.ind"/></let>
+            </otherwise>
+          </choose>
+          </when>
+        </choose>
+
+
+
     </def-macro>
 
     <def-macro n="rm_v_num" npar="1">
@@ -558,6 +597,7 @@
             <tags>
               <tag><lit-tag v="AdjPP"/></tag>
             </tags>
+
 	        <lu>
 	      	  <clip pos="1" side="tl" part="whole"/>
 	        </lu>
@@ -635,35 +675,6 @@
 	  </action>
 	</rule>
 
-<!--
-	<rule comment="det stuff">
-	  <pattern>
-	  	<pattern-item n="det"/>
-	  </pattern>
-	  <action>
-	    <choose>
- 		  <when>
-    		<test><equal caseless="yes"><clip pos="1" side="tl" part="lem"/><lit v="annen"/></equal></test>
-    		<let><clip pos="1" side="tl" part="whole"/><concat><clip pos="1" side="tl" part="whole"/><lit-tag v="sg.ind"/></concat></let>
-  		  </when>
-  		</choose>
-	    <call-macro n="rm_gender_from_plurals_and_case">
-          <with-param pos="1"/>
-        </call-macro>
-	    <out>
-	      <chunk name="det" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="Det"/></tag>
-            </tags>
-	        <lu>
-	      	  <clip pos="1" side="tl" part="whole"/>
-	        </lu>
-		  </chunk>
-	    </out>
-	  </action>
-	</rule>
--->
-
 	<rule comment="det stuff">
 	  <pattern>
 	  	<pattern-item n="det"/>
@@ -704,6 +715,7 @@
             <tags>
               <tag><lit-tag v="SA"/></tag>
             </tags>
+            <var n="grau_aux"/>
 	        <lu>
 	      	  <clip pos="1" side="tl" part="whole"/>
 	        </lu>
