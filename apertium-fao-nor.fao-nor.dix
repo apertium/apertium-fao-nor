@@ -134,11 +134,11 @@
 
 
 <!-- SECTION: Particles -->
-<e><p><l>at<s n="part"/></l>	<r>å<s n="part"/></r></p></e>
+<e><p><l>at<s n="part"/></l> <r>å<s n="part"/></r></p></e>
 
 
 <!-- SECTION: Prepositions -->
-<e vr="nno"><p><l>frammanfyri<s n="pr"/></l>	<r>utanfor<s n="pr"/></r></p></e>
+<e vr="nno"><p><l>frammanfyri<s n="pr"/></l> <r>utanfor<s n="pr"/></r></p></e>
 <e vr="nno"><p><l>frá<s n="pr"/></l><r>frå<s n="pr"/></r></p></e>
 <e vr="nno"><p><l>hjá<s n="pr"/></l><r>hjå<s n="pr"/></r></p></e>
 <e vr="nno"><p><l>hóast<s n="pr"/></l><r>sjølv<b/>om<s n="pr"/></r></p></e>
@@ -203,10 +203,10 @@
 
 
 <!-- SECTION: Pronouns -->
-<e><p><l>tey<s n="prn"/><s n="pl"/><s n="pers"/></l>	<r>de<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></r></p></e>
-<e><p><l>hann<s n="prn"/><s n="pers"/><s n="sg"/></l>	<r>han<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-<e vr="nob"><p><l>hon<s n="prn"/><s n="pers"/><s n="sg"/></l>	<r>hun<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-<e vr="nno"><p><l>hon<s n="prn"/><s n="pers"/><s n="sg"/></l>	<r>ho<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e><p><l>tey<s n="prn"/><s n="pl"/><s n="pers"/></l> <r>de<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></r></p></e>
+<e><p><l>hann<s n="prn"/><s n="pers"/><s n="sg"/></l> <r>han<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e vr="nob"><p><l>hon<s n="prn"/><s n="pers"/><s n="sg"/></l> <r>hun<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e vr="nno"><p><l>hon<s n="prn"/><s n="pers"/><s n="sg"/></l> <r>ho<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
 <e vr="nob"><p><l>eg<s n="prn"/><s n="pers"/><s n="sg"/></l><r>jeg<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
 <e vr="nno"><p><l>eg<s n="prn"/><s n="pers"/><s n="sg"/></l><r>eg<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
 <e><p><l>tú<s n="prn"/><s n="pers"/><s n="sg"/></l><r>du<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -237,60 +237,60 @@
 <!-- SECTION: Numerals -->
 <e vr="nob"><p><l>eitt<s n="num"/></l><r>en<s n="det"/><s n="qnt"/></r></p></e>
 <e vr="nno"><p><l>eitt<s n="num"/></l><r>ein<s n="det"/><s n="qnt"/></r></p></e>
-<e><p><l>tvey<s n="num"/></l>	<r>to<s n="det"/><s n="qnt"/></r></p><par n="num:det_qnt"/></e>
-<e><p><l>fimm<s n="num"/></l>	<r>fem<s n="det"/><s n="qnt"/><s n="un"/><s n="pl"/></r></p></e>
-<e><p><l>seks<s n="num"/></l>	<r>seks<s n="det"/><s n="qnt"/><s n="un"/><s n="pl"/></r></p></e>
+<e><p><l>tvey<s n="num"/></l> <r>to<s n="det"/><s n="qnt"/></r></p><par n="num:det_qnt"/></e>
+<e><p><l>fimm<s n="num"/></l> <r>fem<s n="det"/><s n="qnt"/><s n="un"/><s n="pl"/></r></p></e>
+<e><p><l>seks<s n="num"/></l> <r>seks<s n="det"/><s n="qnt"/><s n="un"/><s n="pl"/></r></p></e>
 
 
 
 
 <!-- SECTION: Nouns -->
-<e vr="nob"><p><l>týsdagur<s n="n"/><s n="m"/></l>	<r>tirsdag<s n="n"/><s n="m"/></r></p></e>
-<e vr="nno"><p><l>týsdagur<s n="n"/><s n="m"/></l>	<r>tysdag<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>havi<s n="n"/><s n="m"/></l>	<r>hage<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>próstur<s n="n"/><s n="m"/></l>	<r>prest<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>oddi<s n="n"/><s n="m"/></l>	<r>odde<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>kommuna<s n="n"/><s n="f"/></l>	<r>kommune<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>fjarstøða<s n="n"/><s n="f"/></l>	<r>avstand<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>mótstøða<s n="n"/><s n="f"/></l>	<r>motstand<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>mótstøða<s n="n"/><s n="f"/></l>	<r>resistens<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>trúarskifti<s n="n"/><s n="nt"/></l>	<r>reformasjon<s n="n"/><s n="m"/></r></p></e>
+<e vr="nob"><p><l>týsdagur<s n="n"/><s n="m"/></l> <r>tirsdag<s n="n"/><s n="m"/></r></p></e>
+<e vr="nno"><p><l>týsdagur<s n="n"/><s n="m"/></l> <r>tysdag<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>havi<s n="n"/><s n="m"/></l> <r>hage<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>próstur<s n="n"/><s n="m"/></l> <r>prest<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>oddi<s n="n"/><s n="m"/></l> <r>odde<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>kommuna<s n="n"/><s n="f"/></l> <r>kommune<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>fjarstøða<s n="n"/><s n="f"/></l> <r>avstand<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>mótstøða<s n="n"/><s n="f"/></l> <r>motstand<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>mótstøða<s n="n"/><s n="f"/></l> <r>resistens<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>trúarskifti<s n="n"/><s n="nt"/></l> <r>reformasjon<s n="n"/><s n="m"/></r></p></e>
 
 <e><p><l>jóansøka<s n="n"/><s n="f"/></l><r>sankthans<s n="n"/><s n="m"/></r></p></e>
-<e vr="nob"><p><l>gras<s n="n"/><s n="nt"/></l>	<r>gress<s n="n"/><s n="nt"/></r></p></e>
-<e vr="nno"><p><l>gras<s n="n"/><s n="nt"/></l>	<r>gras<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>lag<s n="n"/><s n="nt"/></l>	<r>lag<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>fræ<s n="n"/><s n="nt"/></l>	<r>frø<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>fak<s n="n"/><s n="nt"/></l>	<r>fag<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>vrak<s n="n"/><s n="nt"/></l>	<r>vrak<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>træl<s n="n"/><s n="nt"/></l>	<r>trell<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>len<s n="n"/><s n="nt"/></l>	<r>len<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>biskupssetur<s n="n"/><s n="nt"/></l>	<r>bispegård<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>bispur<s n="n"/><s n="m"/></l>	<r>bisp<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>setur<s n="n"/><s n="nt"/></l>	<r>sete<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>meiriluti<s n="n"/><s n="m"/></l>	<r>flertal<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>gjár<s n="n"/><s n="m"/></l>	<r>går<s n="n"/><s n="mf"/></r></p></e>
-<e vr="nob"><p><l>spæl<s n="n"/><s n="nt"/></l>	<r>spill<s n="n"/><s n="nt"/></r></p></e>
-<e vr="nno"><p><l>spæl<s n="n"/><s n="nt"/></l>	<r>spel<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>hundur<s n="n"/><s n="m"/></l>	<r>hund<s n="n"/><s n="m"/></r></p></e>
-<e vr="nob"><p><l>tíð<s n="n"/><s n="f"/></l>	<r>tid<s n="n"/><s n="m"/></r></p></e>
-<e vr="nno"><p><l>tíð<s n="n"/><s n="f"/></l>	<r>tid<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>dagur<s n="n"/><s n="m"/></l>	<r>dag<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>stjórnaruppskot<s n="n"/><s n="nt"/></l>	<r>forslag<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>fiskimark<s n="n"/><s n="nt"/></l>	<r>fiskerigrense<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>grein<s n="n"/><s n="f"/></l>	<r>grein<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>fjórðingur<s n="n"/><s n="m"/></l>	<r>fjerdedel<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>hús<s n="n"/><s n="nt"/></l>	<r>hus<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>borð<s n="n"/><s n="nt"/></l>	<r>bord<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>træ<s n="n"/><s n="nt"/></l>	<r>tre<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>veður<s n="n"/><s n="nt"/></l>	<r>vær<s n="n"/><s n="nt"/></r></p></e>
-<e vr="nob"><p><l>drongur<s n="n"/><s n="m"/></l>	<r>gutt<s n="n"/><s n="m"/></r></p></e>
-<e vr="nno"><p><l>drongur<s n="n"/><s n="m"/></l>	<r>gut<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>ár<s n="n"/><s n="nt"/></l>	<r>år<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>genta<s n="n"/><s n="f"/></l>	<r>jente<s n="n"/><s n="f"/></r></p></e>
-<e vr="nob"><p><l>systir<s n="n"/><s n="f"/></l>	<r>søster<s n="n"/><s n="f"/></r></p></e>
-<e vr="nno"><p><l>systir<s n="n"/><s n="f"/></l>	<r>syster<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>barn<s n="n"/><s n="nt"/></l>	<r>barn<s n="n"/><s n="nt"/></r></p></e>
+<e vr="nob"><p><l>gras<s n="n"/><s n="nt"/></l> <r>gress<s n="n"/><s n="nt"/></r></p></e>
+<e vr="nno"><p><l>gras<s n="n"/><s n="nt"/></l> <r>gras<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>lag<s n="n"/><s n="nt"/></l> <r>lag<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>fræ<s n="n"/><s n="nt"/></l> <r>frø<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>fak<s n="n"/><s n="nt"/></l> <r>fag<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>vrak<s n="n"/><s n="nt"/></l> <r>vrak<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>træl<s n="n"/><s n="nt"/></l> <r>trell<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>len<s n="n"/><s n="nt"/></l> <r>len<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>biskupssetur<s n="n"/><s n="nt"/></l> <r>bispegård<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>bispur<s n="n"/><s n="m"/></l> <r>bisp<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>setur<s n="n"/><s n="nt"/></l> <r>sete<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>meiriluti<s n="n"/><s n="m"/></l> <r>flertal<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>gjár<s n="n"/><s n="m"/></l> <r>går<s n="n"/><s n="mf"/></r></p></e>
+<e vr="nob"><p><l>spæl<s n="n"/><s n="nt"/></l> <r>spill<s n="n"/><s n="nt"/></r></p></e>
+<e vr="nno"><p><l>spæl<s n="n"/><s n="nt"/></l> <r>spel<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>hundur<s n="n"/><s n="m"/></l> <r>hund<s n="n"/><s n="m"/></r></p></e>
+<e vr="nob"><p><l>tíð<s n="n"/><s n="f"/></l> <r>tid<s n="n"/><s n="m"/></r></p></e>
+<e vr="nno"><p><l>tíð<s n="n"/><s n="f"/></l> <r>tid<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>dagur<s n="n"/><s n="m"/></l> <r>dag<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>stjórnaruppskot<s n="n"/><s n="nt"/></l> <r>forslag<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>fiskimark<s n="n"/><s n="nt"/></l> <r>fiskerigrense<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>grein<s n="n"/><s n="f"/></l> <r>grein<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>fjórðingur<s n="n"/><s n="m"/></l> <r>fjerdedel<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>hús<s n="n"/><s n="nt"/></l> <r>hus<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>borð<s n="n"/><s n="nt"/></l> <r>bord<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>træ<s n="n"/><s n="nt"/></l> <r>tre<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>veður<s n="n"/><s n="nt"/></l> <r>vær<s n="n"/><s n="nt"/></r></p></e>
+<e vr="nob"><p><l>drongur<s n="n"/><s n="m"/></l> <r>gutt<s n="n"/><s n="m"/></r></p></e>
+<e vr="nno"><p><l>drongur<s n="n"/><s n="m"/></l> <r>gut<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>ár<s n="n"/><s n="nt"/></l> <r>år<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>genta<s n="n"/><s n="f"/></l> <r>jente<s n="n"/><s n="f"/></r></p></e>
+<e vr="nob"><p><l>systir<s n="n"/><s n="f"/></l> <r>søster<s n="n"/><s n="f"/></r></p></e>
+<e vr="nno"><p><l>systir<s n="n"/><s n="f"/></l> <r>syster<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>barn<s n="n"/><s n="nt"/></l> <r>barn<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>djór<s n="n"/><s n="nt"/></l><r>dyr<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nob"><p><l>eyga<s n="n"/><s n="nt"/></l><r>øye<s n="n"/><s n="nt"/></r></p></e>
 <e vr="nno"><p><l>eyga<s n="n"/><s n="nt"/></l><r>auge<s n="n"/><s n="nt"/></r></p></e>
@@ -452,17 +452,17 @@
 
 <!-- SECTION: Adjectives -->
 
-
-<e><p><l>gamal<s n="adj"/></l>	<r>gammel<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e><p><l>góður<s n="adj"/></l>	<r>god<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e><p><l>heitur<s n="adj"/></l>	<r>varm<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e><p><l>kalur<s n="adj"/></l>	<r>kald<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e><p><l>kaldur<s n="adj"/></l>	<r>kald<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e><p><l>stórur<s n="adj"/></l>	<r>stor<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e><p><l>lítil<s n="adj"/></l>	<r>liten<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e><p><l>glaður<s n="adj"/></l>	<r>glad<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e vr="nob"><p><l>annar<s n="adj"/></l><r>annen<s n="det"/><s n="dem"/></r></p></e>
 <e vr="nno"><p><l>annar<s n="adj"/></l><r>annan<s n="det"/><s n="dem"/></r></p></e>
+
+<e><p><l>gamal<s n="adj"/></l> <r>gammel<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>góður<s n="adj"/></l> <r>god<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>heitur<s n="adj"/></l> <r>varm<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>kalur<s n="adj"/></l> <r>kald<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>kaldur<s n="adj"/></l> <r>kald<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>stórur<s n="adj"/></l> <r>stor<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>lítil<s n="adj"/></l> <r>liten<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>glaður<s n="adj"/></l> <r>glad<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>liðugur<s n="adj"/></l><r>ferdig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>skjótur<s n="adj"/></l><r>rask<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>nógvur<s n="adj"/></l><r>mange<s n="adj"/><s n="sint"/></r></p></e>
@@ -478,216 +478,215 @@
 <e><p><l>heitur<s n="adj"/></l><r>varm<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>nýggjur<s n="adj"/></l><r>ny<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>nýur<s n="adj"/></l><r>ny<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e><p><l>berur<s n="adj"/></l><r>bar<s n="adj"/></r></p></e>
-<e><p><l>serur<s n="adj"/></l><r>sær<s n="adj"/></r></p></e>
-<e><p><l>vanligur<s n="adj"/></l><r>vanleg<s n="adj"/></r></p></e>
-<e><p><l>serligur<s n="adj"/></l><r>særleg<s n="adj"/></r></p></e>
+<e><p><l>berur<s n="adj"/></l><r>bar<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>serur<s n="adj"/></l><r>sær<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>vanligur<s n="adj"/></l><r>vanlig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>serligur<s n="adj"/></l><r>særlig<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>amerikanskur<s n="adj"/></l><r>amerikansk<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e vr="nob"><p><l>høgur<s n="adj"/></l><r>høy<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e vr="nno"><p><l>høgur<s n="adj"/></l><r>høg<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>enskur<s n="adj"/></l><r>engelsk<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>fáur<s n="adj"/></l><r>få<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e><p><l>ymiskur<s n="adj"/></l><r>forskjellig<s n="adj"/></r></p></e>
-<e><p><l>illur<s n="adj"/></l><r>dårleg<s n="adj"/></r></p></e>
-<e><p><l>deyður<s n="adj"/></l><r>daud<s n="adj"/></r></p></e>
+<e><p><l>ymiskur<s n="adj"/></l><r>forskjellig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>illur<s n="adj"/></l><r>dårlig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>deyður<s n="adj"/></l><r>daud<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>svenskur<s n="adj"/></l><r>svensk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e><p><l>almennur<s n="adj"/></l><r>allmenn<s n="adj"/></r></p></e>
-<e><p><l>ringur<s n="adj"/></l><r>ring<s n="adj"/></r></p></e>
-<e><p><l>egin<s n="adj"/></l><r>eigen<s n="adj"/></r></p></e>
-<e><p><l>heilur<s n="adj"/></l><r>heil<s n="adj"/></r></p></e>
+<e><p><l>almennur<s n="adj"/></l><r>allmenn<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>ringur<s n="adj"/></l><r>ring<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>egin<s n="adj"/></l><r>eigen<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>heilur<s n="adj"/></l><r>heil<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>politiskur<s n="adj"/></l><r>politisk<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>skjótur<s n="adj"/></l><r>kvikk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e><p><l>ungur<s n="adj"/></l><r>ung<s n="adj"/></r></p></e>
-<e><p><l>franskur<s n="adj"/></l><r>fransk<s n="adj"/></r></p></e>
-<e><p><l>stuttur<s n="adj"/></l><r>stutt<s n="adj"/></r></p></e>
-<e><p><l>altjóða<s n="adj"/></l><r>allmenn<s n="adj"/></r></p></e>
-<e><p><l>hvítur<s n="adj"/></l><r>kvit<s n="adj"/></r></p></e>
-<e><p><l>mettur<s n="adj"/></l><r>mett<s n="adj"/></r></p></e>
-<e><p><l>staðin<s n="adj"/></l><r>moden<s n="adj"/></r></p></e>
-<e><p><l>staðin<s n="adj"/></l><r>vaksen<s n="adj"/></r></p></e>
+<e><p><l>ungur<s n="adj"/></l><r>ung<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>franskur<s n="adj"/></l><r>fransk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>stuttur<s n="adj"/></l><r>stutt<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>altjóða<s n="adj"/></l><r>allmenn<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>hvítur<s n="adj"/></l><r>kvit<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>mettur<s n="adj"/></l><r>mett<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>staðin<s n="adj"/></l><r>moden<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>staðin<s n="adj"/></l><r>vaksen<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>norskur<s n="adj"/></l><r>norsk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>týskur<s n="adj"/></l><r>tysk<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>grikskur<s n="adj"/></l><r>grisk<s n="adj"/></r></p></e>
-<e><p><l>rættur<s n="adj"/></l><r>rett<s n="adj"/></r></p></e>
-<e><p><l>óndur<s n="adj"/></l><r>dårleg<s n="adj"/></r></p></e>
-<e><p><l>svartur<s n="adj"/></l><r>svart<s n="adj"/></r></p></e>
+<e><p><l>grikskur<s n="adj"/></l><r>grisk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>rættur<s n="adj"/></l><r>rett<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>óndur<s n="adj"/></l><r>dårlig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>svartur<s n="adj"/></l><r>svart<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>bretskur<s n="adj"/></l><r>britisk<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>vísur<s n="adj"/></l><r>vis<s n="adj"/></r></p></e>
-<e><p><l>beinur<s n="adj"/></l><r>bein<s n="adj"/></r></p></e>
+<e><p><l>vísur<s n="adj"/></l><r>vis<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>beinur<s n="adj"/></l><r>bein<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>kristin<s n="adj"/></l><r>kristen<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>fríur<s n="adj"/></l><r>fri<s n="adj"/></r></p></e>
-<e><p><l>líkur<s n="adj"/></l><r>lik<s n="adj"/></r></p></e>
-<e><p><l>tættur<s n="adj"/></l><r>tett<s n="adj"/></r></p></e>
-<e><p><l>royndur<s n="adj"/></l><r>røynd<s n="adj"/></r></p></e>
-<e><p><l>ríkur<s n="adj"/></l><r>rik<s n="adj"/></r></p></e>
-<e><p><l>víður<s n="adj"/></l><r>vid<s n="adj"/></r></p></e>
-<e><p><l>smáur<s n="adj"/></l><r>liten<s n="adj"/></r></p></e>
-<e><p><l>upprunaligur<s n="adj"/></l><r>opprinneleg<s n="adj"/></r></p></e>
-<e><p><l>fastur<s n="adj"/></l><r>fast<s n="adj"/></r></p></e>
-<e><p><l>lættur<s n="adj"/></l><r>lett<s n="adj"/></r></p></e>
-<e><p><l>giftur<s n="adj"/></l><r>gift<s n="adj"/></r></p></e>
-<e><p><l>sterkur<s n="adj"/></l><r>sterk<s n="adj"/></r></p></e>
+<e><p><l>fríur<s n="adj"/></l><r>fri<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>líkur<s n="adj"/></l><r>lik<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>tættur<s n="adj"/></l><r>tett<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>royndur<s n="adj"/></l><r>røynd<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>ríkur<s n="adj"/></l><r>rik<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>víður<s n="adj"/></l><r>vid<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>smáur<s n="adj"/></l><r>liten<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>upprunaligur<s n="adj"/></l><r>opprinnelig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>fastur<s n="adj"/></l><r>fast<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>lættur<s n="adj"/></l><r>lett<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>giftur<s n="adj"/></l><r>gift<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>sterkur<s n="adj"/></l><r>sterk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>íslendskur<s n="adj"/></l><r>islendsk<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>ymsur<s n="adj"/></l><r>ymse<s n="adj"/></r></p></e>
-<e><p><l>harður<s n="adj"/></l><r>hard<s n="adj"/></r></p></e>
+<e><p><l>ymsur<s n="adj"/></l><r>ymse<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>harður<s n="adj"/></l><r>hard<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>sjálvstøðugur<s n="adj"/></l><r>uavhengig<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>spanskur<s n="adj"/></l><r>spansk<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>vaksin<s n="adj"/></l><r>vaksen<s n="adj"/></r></p></e>
+<e><p><l>vaksin<s n="adj"/></l><r>vaksen<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>evropeiskur<s n="adj"/></l><r>europeisk<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>russiskur<s n="adj"/></l><r>russisk<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>sjúkur<s n="adj"/></l><r>sjuk<s n="adj"/></r></p></e>
+<e><p><l>sjúkur<s n="adj"/></l><r>sjuk<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>norðurlendskur<s n="adj"/></l><r>nordlendsk<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>dýrur<s n="adj"/></l><r>dyr<s n="adj"/></r></p></e>
-<e><p><l>rundur<s n="adj"/></l><r>rund<s n="adj"/></r></p></e>
-<e><p><l>møguligur<s n="adj"/></l><r>mogleg<s n="adj"/></r></p></e>
-<e><p><l>lágur<s n="adj"/></l><r>låg<s n="adj"/></r></p></e>
-<e><p><l>olympiskur<s n="adj"/></l><r>olympisk<s n="adj"/></r></p></e>
-<e><p><l>triðji<s n="adj"/></l><r>tredje<s n="adj"/></r></p></e>
-<e><p><l>breiður<s n="adj"/></l><r>brei<s n="adj"/></r></p></e>
+<e><p><l>dýrur<s n="adj"/></l><r>dyr<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>rundur<s n="adj"/></l><r>rund<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>møguligur<s n="adj"/></l><r>moglig<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>lágur<s n="adj"/></l><r>låg<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>olympiskur<s n="adj"/></l><r>olympisk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>triðji<s n="adj"/></l><r>tredje<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>breiður<s n="adj"/></l><r>brei<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>norrønur<s n="adj"/></l><r>nordisk<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>turrur<s n="adj"/></l><r>tørr<s n="adj"/></r></p></e>
+<e><p><l>turrur<s n="adj"/></l><r>tørr<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>stríður<s n="adj"/></l><r>strid<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e><p><l>kaldur<s n="adj"/></l><r>kald<s n="adj"/></r></p></e>
-<e><p><l>italskur<s n="adj"/></l><r>italiensk<s n="adj"/></r></p></e>
-<e><p><l>vandur<s n="adj"/></l><r>van<s n="adj"/></r></p></e>
-<e><p><l>fullur<s n="adj"/></l><r>full<s n="adj"/></r></p></e>
-<e><p><l>lærdur<s n="adj"/></l><r>lærd<s n="adj"/></r></p></e>
-<e><p><l>niðurlendskur<s n="adj"/></l><r>nederlendsk<s n="adj"/></r></p></e>
-<e><p><l>einstakur<s n="adj"/></l><r>einstaka<s n="adj"/></r></p></e>
-<e><p><l>djúpur<s n="adj"/></l><r>djup<s n="adj"/></r></p></e>
-<e><p><l>javnur<s n="adj"/></l><r>jamn<s n="adj"/></r></p></e>
-<e><p><l>slíkur<s n="adj"/></l><r>slik<s n="adj"/></r></p></e>
-<e><p><l>ljósur<s n="adj"/></l><r>lys<s n="adj"/></r></p></e>
-<e><p><l>kortur<s n="adj"/></l><r>kort<s n="adj"/></r></p></e>
-<e><p><l>katólskur<s n="adj"/></l><r>katolsk<s n="adj"/></r></p></e>
-<e><p><l>opin<s n="adj"/></l><r>open<s n="adj"/></r></p></e>
-<e><p><l>skotskur<s n="adj"/></l><r>skotsk<s n="adj"/></r></p></e>
-<e><p><l>hálvur<s n="adj"/></l><r>halv<s n="adj"/></r></p></e>
+<e><p><l>kaldur<s n="adj"/></l><r>kald<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>italskur<s n="adj"/></l><r>italiensk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>vandur<s n="adj"/></l><r>van<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>fullur<s n="adj"/></l><r>full<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>lærdur<s n="adj"/></l><r>lærd<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>niðurlendskur<s n="adj"/></l><r>nederlendsk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>einstakur<s n="adj"/></l><r>einstaka<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>djúpur<s n="adj"/></l><r>djup<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>javnur<s n="adj"/></l><r>jamn<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>slíkur<s n="adj"/></l><r>slik<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>ljósur<s n="adj"/></l><r>lys<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>kortur<s n="adj"/></l><r>kort<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>katólskur<s n="adj"/></l><r>katolsk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>opin<s n="adj"/></l><r>open<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>skotskur<s n="adj"/></l><r>skotsk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>hálvur<s n="adj"/></l><r>halv<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>írskur<s n="adj"/></l><r>irsk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
-<e><p><l>latur<s n="adj"/></l><r>lat<s n="adj"/></r></p></e>
-<e><p><l>gitin<s n="adj"/></l><r>kjend<s n="adj"/></r></p></e>
-<e><p><l>árligur<s n="adj"/></l><r>årleg<s n="adj"/></r></p></e>
-<e><p><l>klárur<s n="adj"/></l><r>klår<s n="adj"/></r></p></e>
-<e><p><l>grønur<s n="adj"/></l><r>grøn<s n="adj"/></r></p></e>
-<e><p><l>fyrrverandi<s n="adj"/></l><r>forhenværende<s n="adj"/></r></p></e>
-<e><p><l>arábiskur<s n="adj"/></l><r>arabisk<s n="adj"/></r></p></e>
-<e><p><l>afrikanskur<s n="adj"/></l><r>afrikansk<s n="adj"/></r></p></e>
-<e><p><l>vanur<s n="adj"/></l><r>van<s n="adj"/></r></p></e>
-<e><p><l>útlendskur<s n="adj"/></l><r>utanlandsk<s n="adj"/></r></p></e>
-<e><p><l>hugtakandi<s n="adj"/></l><r>hugtakande<s n="adj"/></r></p></e>
-<e><p><l>heilagur<s n="adj"/></l><r>heilag<s n="adj"/></r></p></e>
-<e><p><l>klassiskur<s n="adj"/></l><r>klassisk<s n="adj"/></r></p></e>
-<e><p><l>japanskur<s n="adj"/></l><r>japansk<s n="adj"/></r></p></e>
-<e><p><l>rómverskur<s n="adj"/></l><r>romersk<s n="adj"/></r></p></e>
-<e><p><l>óførur<s n="adj"/></l><r>ufør<s n="adj"/></r></p></e>
-<e><p><l>latínskur<s n="adj"/></l><r>latinsk<s n="adj"/></r></p></e>
-<e><p><l>pólskur<s n="adj"/></l><r>polsk<s n="adj"/></r></p></e>
-<e><p><l>muslimskur<s n="adj"/></l><r>muslimsk<s n="adj"/></r></p></e>
-<e><p><l>portugisiskur<s n="adj"/></l><r>portugisisk<s n="adj"/></r></p></e>
+<e><p><l>latur<s n="adj"/></l><r>lat<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>gitin<s n="adj"/></l><r>kjend<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>árligur<s n="adj"/></l><r>årlig<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>klárur<s n="adj"/></l><r>klår<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>grønur<s n="adj"/></l><r>grøn<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>fyrrverandi<s n="adj"/></l><r>forhenværende<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>arábiskur<s n="adj"/></l><r>arabisk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>afrikanskur<s n="adj"/></l><r>afrikansk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>vanur<s n="adj"/></l><r>van<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>útlendskur<s n="adj"/></l><r>utanlandsk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>hugtakandi<s n="adj"/></l><r>hugtakande<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>heilagur<s n="adj"/></l><r>heilag<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>klassiskur<s n="adj"/></l><r>klassisk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>japanskur<s n="adj"/></l><r>japansk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>rómverskur<s n="adj"/></l><r>romersk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>óførur<s n="adj"/></l><r>ufør<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>latínskur<s n="adj"/></l><r>latinsk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>pólskur<s n="adj"/></l><r>polsk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>muslimskur<s n="adj"/></l><r>muslimsk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>portugisiskur<s n="adj"/></l><r>portugisisk<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>turkiskur<s n="adj"/></l><r>tyrkisk<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>privatur<s n="adj"/></l><r>privat<s n="adj"/></r></p></e>
-<e><p><l>jødiskur<s n="adj"/></l><r>jødisk<s n="adj"/></r></p></e>
-<e><p><l>núverandi<s n="adj"/></l><r>noverande<s n="adj"/></r></p></e>
-<e><p><l>indiskur<s n="adj"/></l><r>indisk<s n="adj"/></r></p></e>
-<e><p><l>persónligur<s n="adj"/></l><r>personleg<s n="adj"/></r></p></e>
-<e><p><l>tjúkkur<s n="adj"/></l><r>tjukk<s n="adj"/></r></p></e>
-<e><p><l>kinesiskur<s n="adj"/></l><r>kinesisk<s n="adj"/></r></p></e>
-<e><p><l>smalur<s n="adj"/></l><r>smal<s n="adj"/></r></p></e>
-<e><p><l>finskur<s n="adj"/></l><r>finsk<s n="adj"/></r></p></e>
-<e><p><l>reinur<s n="adj"/></l><r>rein<s n="adj"/></r></p></e>
-<e><p><l>dagligur<s n="adj"/></l><r>dagleg<s n="adj"/></r></p></e>
-<e><p><l>tropiskur<s n="adj"/></l><r>tropisk<s n="adj"/></r></p></e>
-<e><p><l>sermerktur<s n="adj"/></l><r>særmerkt<s n="adj"/></r></p></e>
-<e><p><l>gulur<s n="adj"/></l><r>gul<s n="adj"/></r></p></e>
-<e><p><l>skínandi<s n="adj"/></l><r>skinande<s n="adj"/></r></p></e>
-<e><p><l>leysur<s n="adj"/></l><r>laus<s n="adj"/></r></p></e>
-<e><p><l>kinverskur<s n="adj"/></l><r>kinesisk<s n="adj"/></r></p></e>
-<e><p><l>sokallaður<s n="adj"/></l><r>såkalla<s n="adj"/></r></p></e>
-<e><p><l>tungur<s n="adj"/></l><r>tung<s n="adj"/></r></p></e>
-<e><p><l>brattur<s n="adj"/></l><r>bratt<s n="adj"/></r></p></e>
-<e><p><l>ókendur<s n="adj"/></l><r>ukjent<s n="adj"/></r></p></e>
-<e><p><l>brúnur<s n="adj"/></l><r>brun<s n="adj"/></r></p></e>
-<e><p><l>fremmandur<s n="adj"/></l><r>framand<s n="adj"/></r></p></e>
-<e><p><l>feitur<s n="adj"/></l><r>feit<s n="adj"/></r></p></e>
-<e><p><l>bláur<s n="adj"/></l><r>blå<s n="adj"/></r></p></e>
+<e><p><l>privatur<s n="adj"/></l><r>privat<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>jødiskur<s n="adj"/></l><r>jødisk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>núverandi<s n="adj"/></l><r>noverande<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>indiskur<s n="adj"/></l><r>indisk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>persónligur<s n="adj"/></l><r>personlig<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>tjúkkur<s n="adj"/></l><r>tjukk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>kinesiskur<s n="adj"/></l><r>kinesisk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>smalur<s n="adj"/></l><r>smal<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>finskur<s n="adj"/></l><r>finsk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>reinur<s n="adj"/></l><r>rein<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>dagligur<s n="adj"/></l><r>daglig<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>tropiskur<s n="adj"/></l><r>tropisk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>sermerktur<s n="adj"/></l><r>særmerkt<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>gulur<s n="adj"/></l><r>gul<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>skínandi<s n="adj"/></l><r>skinande<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>leysur<s n="adj"/></l><r>laus<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>kinverskur<s n="adj"/></l><r>kinesisk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>sokallaður<s n="adj"/></l><r>såkalla<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>tungur<s n="adj"/></l><r>tung<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>brattur<s n="adj"/></l><r>bratt<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>ókendur<s n="adj"/></l><r>ukjent<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>brúnur<s n="adj"/></l><r>brun<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>fremmandur<s n="adj"/></l><r>framand<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>feitur<s n="adj"/></l><r>feit<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>bláur<s n="adj"/></l><r>blå<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>galdandi<s n="adj"/></l><r>gjeldende<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>sosialur<s n="adj"/></l><r>sosial<s n="adj"/></r></p></e>
-<e><p><l>myrkur<s n="adj"/></l><r>mørk<s n="adj"/></r></p></e>
-<e><p><l>villur<s n="adj"/></l><r>vill<s n="adj"/></r></p></e>
-<e><p><l>innleiðandi<s n="adj"/></l><r>innleidande<s n="adj"/></r></p></e>
-<e><p><l>gráur<s n="adj"/></l><r>grå<s n="adj"/></r></p></e>
-<e><p><l>grønlendskur<s n="adj"/></l><r>grønlandsk<s n="adj"/></r></p></e>
-<e vr="nno"><p><l>ólógligur<s n="adj"/></l><r>ulovleg<s n="adj"/></r></p></e>
-<e vr="nob"><p><l>ólógligur<s n="adj"/></l><r>ulovlig<s n="adj"/></r></p></e>
-<e><p><l>skeivur<s n="adj"/></l><r>skeiv<s n="adj"/></r></p></e>
-<e><p><l>hebraiskur<s n="adj"/></l><r>hebraisk<s n="adj"/></r></p></e>
-<e><p><l>vinstri<s n="adj"/></l><r>venstre<s n="adj"/></r></p></e>
-<e><p><l>avstralskur<s n="adj"/></l><r>australsk<s n="adj"/></r></p></e>
-<e><p><l>kommunistiskur<s n="adj"/></l><r>kommunistisk<s n="adj"/></r></p></e>
-<e><p><l>grannur<s n="adj"/></l><r>grann<s n="adj"/></r></p></e>
-<e><p><l>fimti<s n="adj"/></l><r>femte<s n="adj"/></r></p></e>
-<e><p><l>vissur<s n="adj"/></l><r>viss<s n="adj"/></r></p></e>
-<e><p><l>friðarligur<s n="adj"/></l><r>fredeleg<s n="adj"/></r></p></e>
-<e><p><l>konservativur<s n="adj"/></l><r>konservativ<s n="adj"/></r></p></e>
-<e><p><l>gæliskur<s n="adj"/></l><r>gælisk<s n="adj"/></r></p></e>
-<e><p><l>belgiskur<s n="adj"/></l><r>belgisk<s n="adj"/></r></p></e>
-<e><p><l>sosialistiskur<s n="adj"/></l><r>sosialistisk<s n="adj"/></r></p></e>
-<e><p><l>tryggur<s n="adj"/></l><r>trygg<s n="adj"/></r></p></e>
-<e><p><l>nøgdur<s n="adj"/></l><r>nøgd<s n="adj"/></r></p></e>
-<e><p><l>kristiligur<s n="adj"/></l><r>kristeleg<s n="adj"/></r></p></e>
-<e><p><l>kvinnuligur<s n="adj"/></l><r>kvinneleg<s n="adj"/></r></p></e>
-<e><p><l>asiatiskur<s n="adj"/></l><r>asiatisk<s n="adj"/></r></p></e>
-<e><p><l>álvarsligur<s n="adj"/></l><r>alvorleg<s n="adj"/></r></p></e>
-<e><p><l>kongaligur<s n="adj"/></l><r>kongeleg<s n="adj"/></r></p></e>
-<e><p><l>fullkomiligur<s n="adj"/></l><r>fullkomen<s n="adj"/></r></p></e>
-<e><p><l>knappur<s n="adj"/></l><r>knapp<s n="adj"/></r></p></e>
-<e><p><l>flatur<s n="adj"/></l><r>flat<s n="adj"/></r></p></e>
-<e><p><l>óvanligur<s n="adj"/></l><r>uvanleg<s n="adj"/></r></p></e>
-<e><p><l>ólíkur<s n="adj"/></l><r>ulik<s n="adj"/></r></p></e>
-<e><p><l>næstbestur<s n="adj"/></l><r>nestbest<s n="adj"/></r></p></e>
-<e><p><l>lógligur<s n="adj"/></l><r>lovleg<s n="adj"/></r></p></e>
-<e><p><l>hvassur<s n="adj"/></l><r>kvass<s n="adj"/></r></p></e>
-<e><p><l>óvissur<s n="adj"/></l><r>uviss<s n="adj"/></r></p></e>
-<e><p><l>veikur<s n="adj"/></l><r>veik<s n="adj"/></r></p></e>
+<e><p><l>sosialur<s n="adj"/></l><r>sosial<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>myrkur<s n="adj"/></l><r>mørk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>villur<s n="adj"/></l><r>vill<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>innleiðandi<s n="adj"/></l><r>innleidande<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>gráur<s n="adj"/></l><r>grå<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>grønlendskur<s n="adj"/></l><r>grønlandsk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e vr="nno"><p><l>ólógligur<s n="adj"/></l><r>ulovleg<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e vr="nob"><p><l>ólógligur<s n="adj"/></l><r>ulovlig<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>skeivur<s n="adj"/></l><r>skeiv<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>hebraiskur<s n="adj"/></l><r>hebraisk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>vinstri<s n="adj"/></l><r>venstre<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>avstralskur<s n="adj"/></l><r>australsk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>kommunistiskur<s n="adj"/></l><r>kommunistisk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>grannur<s n="adj"/></l><r>grann<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>fimti<s n="adj"/></l><r>femte<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>vissur<s n="adj"/></l><r>viss<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>friðarligur<s n="adj"/></l><r>fredelig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>konservativur<s n="adj"/></l><r>konservativ<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>gæliskur<s n="adj"/></l><r>gælisk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>belgiskur<s n="adj"/></l><r>belgisk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>sosialistiskur<s n="adj"/></l><r>sosialistisk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>tryggur<s n="adj"/></l><r>trygg<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>nøgdur<s n="adj"/></l><r>nøgd<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>kristiligur<s n="adj"/></l><r>kristelig<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>kvinnuligur<s n="adj"/></l><r>kvinnelig<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>asiatiskur<s n="adj"/></l><r>asiatisk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>álvarsligur<s n="adj"/></l><r>alvorlig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>kongaligur<s n="adj"/></l><r>kongelig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>fullkomiligur<s n="adj"/></l><r>fullkomen<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>knappur<s n="adj"/></l><r>knapp<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>flatur<s n="adj"/></l><r>flat<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>óvanligur<s n="adj"/></l><r>uvanlig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>ólíkur<s n="adj"/></l><r>ulik<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>næstbestur<s n="adj"/></l><r>nestbest<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>lógligur<s n="adj"/></l><r>lovlig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>hvassur<s n="adj"/></l><r>kvass<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e><p><l>óvissur<s n="adj"/></l><r>uviss<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>veikur<s n="adj"/></l><r>veik<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>óbygdur<s n="adj"/></l><r>ubebygget<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>tjóðskaparligur<s n="adj"/></l><r>patriotisk<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>tjóðskaparligur<s n="adj"/></l><r>nasjonalistisk<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>horvin<s n="adj"/></l><r>fortapt<s n="adj"/></r></p></e>
+<e><p><l>horvin<s n="adj"/></l><r>fortapt<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>fyrsti<s n="adj"/></l><r>første<s n="adj"/><s n="ord"/></r></p><par n="adj:adj"/></e>
 <e><p><l>fyrstur<s n="adj"/></l><r>første<s n="adj"/><s n="ord"/></r></p><par n="adj:adj"/></e>
 <e vr="nob"><p><l>kongligur<s n="adj"/></l><r>kongelig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e vr="nno"><p><l>kongligur<s n="adj"/></l><r>kongeleg<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 
-
 <!-- SECTION: Adverbs -->
-<e vr="nob"><p><l>hví<s n="adv"/></l>	<r>hvordan<s n="adv"/></r></p></e>
-<e vr="nno"><p><l>hví<s n="adv"/></l>	<r>kvifor<s n="adv"/></r></p></e>
-<e vr="nob"><p><l>hvar<s n="adv"/></l>	<r>hvor<s n="adv"/></r></p></e>
-<e vr="nno"><p><l>hvar<s n="adv"/></l>	<r>kvor<s n="adv"/></r></p></e>
-<e vr="nob"><p><l>ikki<s n="adv"/></l>	<r>ikke<s n="adv"/></r></p></e>
-<e vr="nno"><p><l>ikki<s n="adv"/></l>	<r>ikkje<s n="adv"/></r></p></e>
-<e vr="nob"><p><l>eisini<s n="adv"/></l>	<r>også<s n="adv"/></r></p></e>
-<e vr="nno"><p><l>eisini<s n="adv"/></l>	<r>òg<s n="adv"/></r></p></e>
-<e><p><l>í<b/>dag<s n="adv"/></l>	<r>i<b/>dag<s n="adv"/></r></p></e>
-<e><p><l>upp<s n="adv"/></l>	<r>opp<s n="adv"/></r></p></e>
-<e><p><l>fram<s n="adv"/></l>	<r>fram<s n="adv"/></r></p></e>
-<e><p><l>haðan<s n="adv"/></l>	<r>derfra<s n="adv"/></r></p></e>
-<e><p><l>umleið<s n="adv"/></l>	<r>omkring<s n="adv"/></r></p></e>
+<e vr="nob"><p><l>hví<s n="adv"/></l> <r>hvordan<s n="adv"/></r></p></e>
+<e vr="nno"><p><l>hví<s n="adv"/></l> <r>kvifor<s n="adv"/></r></p></e>
+<e vr="nob"><p><l>hvar<s n="adv"/></l> <r>hvor<s n="adv"/></r></p></e>
+<e vr="nno"><p><l>hvar<s n="adv"/></l> <r>kvor<s n="adv"/></r></p></e>
+<e vr="nob"><p><l>ikki<s n="adv"/></l> <r>ikke<s n="adv"/></r></p></e>
+<e vr="nno"><p><l>ikki<s n="adv"/></l> <r>ikkje<s n="adv"/></r></p></e>
+<e vr="nob"><p><l>eisini<s n="adv"/></l> <r>også<s n="adv"/></r></p></e>
+<e vr="nno"><p><l>eisini<s n="adv"/></l> <r>òg<s n="adv"/></r></p></e>
+<e><p><l>í<b/>dag<s n="adv"/></l> <r>i<b/>dag<s n="adv"/></r></p></e>
+<e><p><l>upp<s n="adv"/></l> <r>opp<s n="adv"/></r></p></e>
+<e><p><l>fram<s n="adv"/></l> <r>fram<s n="adv"/></r></p></e>
+<e><p><l>haðan<s n="adv"/></l> <r>derfra<s n="adv"/></r></p></e>
+<e><p><l>umleið<s n="adv"/></l> <r>omkring<s n="adv"/></r></p></e>
 
-<e><p><l>í<b/>gjár<s n="adv"/></l>	<r>i<b/>går<s n="adv"/></r></p></e>
-<e><p><l>ógvuliga<s n="adv"/></l>	<r>veldig<s n="adv"/></r></p></e>
-<e><p><l>úti<s n="adv"/></l>	<r>ute<s n="adv"/></r></p></e>
-<e><p><l>inni<s n="adv"/></l>	<r>inn<s n="adv"/></r></p></e>
-<e><p><l>inn<s n="adv"/></l>	<r>inn<s n="adv"/></r></p></e>
-<e><p><l>enn<s n="adv"/></l>	<r>ennå<s n="adv"/></r></p></e>
-<e><p><l>væl<s n="adv"/></l>	<r>bra<s n="adv"/></r></p></e>
-<e><p><l>altíð<s n="adv"/></l>	<r>alltid<s n="adv"/></r></p></e>
-<e vr="nob"><p><l>saman<s n="adv"/></l>	<r>sammen<s n="adv"/></r></p></e>
-<e vr="nno"><p><l>saman<s n="adv"/></l>	<r>saman<s n="adv"/></r></p></e>
-<e vr="nob"><p><l>eisini<s n="adv"/></l>	<r>også<s n="adv"/></r></p></e>
-<e vr="nno"><p><l>eisini<s n="adv"/></l>	<r>òg<s n="adv"/></r></p></e>
-<e vr="nob"><p><l>nú<s n="adv"/></l>	<r>nå<s n="adv"/></r></p></e>
-<e vr="nno"><p><l>nú<s n="adv"/></l>	<r>no<s n="adv"/></r></p></e>
+<e><p><l>í<b/>gjár<s n="adv"/></l> <r>i<b/>går<s n="adv"/></r></p></e>
+<e><p><l>ógvuliga<s n="adv"/></l> <r>veldig<s n="adv"/></r></p></e>
+<e><p><l>úti<s n="adv"/></l> <r>ute<s n="adv"/></r></p></e>
+<e><p><l>inni<s n="adv"/></l> <r>inn<s n="adv"/></r></p></e>
+<e><p><l>inn<s n="adv"/></l> <r>inn<s n="adv"/></r></p></e>
+<e><p><l>enn<s n="adv"/></l> <r>ennå<s n="adv"/></r></p></e>
+<e><p><l>væl<s n="adv"/></l> <r>bra<s n="adv"/></r></p></e>
+<e><p><l>altíð<s n="adv"/></l> <r>alltid<s n="adv"/></r></p></e>
+<e vr="nob"><p><l>saman<s n="adv"/></l> <r>sammen<s n="adv"/></r></p></e>
+<e vr="nno"><p><l>saman<s n="adv"/></l> <r>saman<s n="adv"/></r></p></e>
+<e vr="nob"><p><l>eisini<s n="adv"/></l> <r>også<s n="adv"/></r></p></e>
+<e vr="nno"><p><l>eisini<s n="adv"/></l> <r>òg<s n="adv"/></r></p></e>
+<e vr="nob"><p><l>nú<s n="adv"/></l> <r>nå<s n="adv"/></r></p></e>
+<e vr="nno"><p><l>nú<s n="adv"/></l> <r>no<s n="adv"/></r></p></e>
 <e><p><l>aftur<s n="adv"/></l><r>igjen<s n="adv"/></r></p></e>
 <e><p><l>allastaðni<s n="adv"/></l><r>overalt<s n="adv"/></r></p></e>
 <e><p><l>har<s n="adv"/></l><r>der<s n="adv"/></r></p></e>
@@ -702,8 +701,8 @@
 <e vr="nob"><p><l>sjálvt<b/>um<s n="adv"/></l><r>selv<b/>om<s n="adv"/></r></p></e>
 <e vr="nno"><p><l>sjálvt<b/>um<s n="adv"/></l><r>sjølv<b/>om<s n="adv"/></r></p></e>
 <e><p><l>so<s n="adv"/></l><r>så<s n="adv"/></r></p></e>
-<e vr="nob"><p><l>tá<s n="adv"/></l>	<r>da<s n="adv"/></r></p></e>
-<e vr="nno"><p><l>tá<s n="adv"/></l>	<r>då<s n="adv"/></r></p></e>
+<e vr="nob"><p><l>tá<s n="adv"/></l> <r>da<s n="adv"/></r></p></e>
+<e vr="nno"><p><l>tá<s n="adv"/></l> <r>då<s n="adv"/></r></p></e>
 <e><p><l>út<s n="adv"/></l><r>ute<s n="adv"/></r></p></e>
 <e><p><l>úti<s n="adv"/></l><r>ute<s n="adv"/></r></p></e>
 
@@ -731,21 +730,21 @@
 <e><p><l>dáma</l><r>like</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>døma</l><r>dømma</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>døma</l><r>dømme</r></p><par n="vblex:vblex"/></e>
-<e vr="nob"><p><l>drekka</l>	<r>drikke</r></p><par n="vblex:vblex"/></e>
-<e vr="nno"><p><l>drekka</l>	<r>drykke</r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>drekka</l> <r>drikke</r></p><par n="vblex:vblex"/></e>
+<e vr="nno"><p><l>drekka</l> <r>drykke</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>drepa</l><r>drepa</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>drepa</l><r>drepe</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>duga</l><r>veit</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>duga</l><r>vite</r></p><par n="vblex:vblex"/></e>
-<e vr="nob"><p><l>eiga</l>	<r>eie</r></p><par n="vblex:vblex"/></e>
-<e vr="nno"><p><l>eiga</l>	<r>eige</r></p><par n="vblex:vblex"/></e>
-<e><p><l>eiga</l>	<r>ha</r></p><par n="vblex:vblex"/></e>
-<e vr="nno"><p><l>elska</l>	<r>elska</r></p><par n="vblex:vblex"/></e>
-<e vr="nob"><p><l>elska</l>	<r>elske</r></p><par n="vblex:vblex"/></e>
-<e vr="nno"><p><l>eta</l>	<r>ete</r></p><par n="vblex:vblex"/></e>
-<e vr="nno"><p><l>eta</l>	<r>spise</r></p><par n="vblex:vblex"/></e>
-<e vr="nob"><p><l>eta</l>	<r>spise</r></p><par n="vblex:vblex"/></e>
-<e><p><l>fáa</l>	<r>få</r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>eiga</l> <r>eie</r></p><par n="vblex:vblex"/></e>
+<e vr="nno"><p><l>eiga</l> <r>eige</r></p><par n="vblex:vblex"/></e>
+<e><p><l>eiga</l> <r>ha</r></p><par n="vblex:vblex"/></e>
+<e vr="nno"><p><l>elska</l> <r>elska</r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>elska</l> <r>elske</r></p><par n="vblex:vblex"/></e>
+<e vr="nno"><p><l>eta</l> <r>ete</r></p><par n="vblex:vblex"/></e>
+<e vr="nno"><p><l>eta</l> <r>spise</r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>eta</l> <r>spise</r></p><par n="vblex:vblex"/></e>
+<e><p><l>fáa</l> <r>få</r></p><par n="vblex:vblex"/></e>
 <e><p><l>fara</l><r>fare</r></p><par n="vblex:vblex"/></e>
 <e><p><l>fara</l><r>gå</r></p><par n="vblex:vblex"/></e>
 <e><p><l>finna</l><r>finne</r></p><par n="vblex:vblex"/></e>
@@ -788,7 +787,7 @@
 <e><p><l>keypa</l><r>kjøpe</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>koma</l><r>koma</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>koma</l><r>komme</r></p><par n="vblex:vblex"/></e>
-<e><p><l>kunna</l>	<r>kunne</r></p><par n="vblex:vblex"/></e>
+<e><p><l>kunna</l> <r>kunne</r></p><par n="vblex:vblex"/></e>
 <e><p><l>læra</l><r>lære</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>leggja</l><r>legge</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>leggja</l><r>leggja</r></p><par n="vblex:vblex"/></e>
@@ -850,8 +849,8 @@
 <e vr="nob"><p><l>sleppa</l><r>forlate</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>sova</l><r>søve</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>sova</l><r>sove</r></p><par n="vblex:vblex"/></e>
-<e vr="nno"><p><l>spæla</l>	<r>leike</r></p><par n="vblex:vblex"/></e>
-<e vr="nob"><p><l>spæla</l>	<r>leke</r></p><par n="vblex:vblex"/></e>
+<e vr="nno"><p><l>spæla</l> <r>leike</r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>spæla</l> <r>leke</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>spyrja</l><r>spørje</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>spyrja</l><r>spørre</r></p><par n="vblex:vblex"/></e>
 <e><p><l>standa</l><r>stå</r></p><par n="vblex:vblex"/></e>
