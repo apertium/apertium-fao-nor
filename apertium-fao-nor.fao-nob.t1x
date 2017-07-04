@@ -20,6 +20,9 @@
     <def-cat n="pp">
       <cat-item tags="vblex.pp"/>
     </def-cat>
+    <def-cat n="adj-pprs">
+      <cat-item tags="vblex.pprs.*"/>
+    </def-cat>
     <def-cat n="adj-pp">
       <cat-item tags="vblex.pp.*"/>
     </def-cat>
@@ -483,6 +486,30 @@
         </out>
       </action>
     </rule>
+
+
+    <rule comment="adj-pprs">
+	  <pattern>
+	  	<pattern-item n="adj-pprs"/>
+	  </pattern>
+	  <action>
+	    <call-macro n="rm_case">
+          <with-param pos="1"/>
+        </call-macro>
+	    <out>
+	      <chunk name="r" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SA"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="lemh"/>
+                  <lit-tag v="adj.pprs"/>
+	      	  <clip pos="1" side="tl" part="lemq"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
 
 
     <rule comment="pp agrement">

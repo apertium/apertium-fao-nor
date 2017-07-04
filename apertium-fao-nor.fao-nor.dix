@@ -560,7 +560,8 @@
 <e><p><l>ljósur<s n="adj"/></l><r>lys<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>kortur<s n="adj"/></l><r>kort<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>katólskur<s n="adj"/></l><r>katolsk<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>opin<s n="adj"/></l><r>open<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e vr="nob"><p><l>opin<s n="adj"/></l><r>åpen<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e vr="nno"><p><l>opin<s n="adj"/></l><r>open<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>skotskur<s n="adj"/></l><r>skotsk<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>hálvur<s n="adj"/></l><r>halv<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>írskur<s n="adj"/></l><r>irsk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
