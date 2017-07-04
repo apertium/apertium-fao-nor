@@ -368,8 +368,8 @@
 <e><p><l>Færøerne<s n="np"/><s n="f"/></l><r>Færøyene<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Norðurafrika<s n="np"/></l><r>Nord-Afrika<s n="np"/><s n="top"/></r></p></e>
 
-<e><p><l>Maria<s n="np"/><s n="ant"/></l><r>Maria<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Jákup<s n="np"/><s n="ant"/></l><r>Jákup<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Maria<s n="np"/><s n="ant"/><s n="f"/></l><r>Maria<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+<e><p><l>Jákup<s n="np"/><s n="ant"/><s n="f"/></l><r>Jákup<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Kristoffur<s n="np"/><s n="ant"/><s n="m"/></l><r>Kristoffur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Lucas<s n="np"/><s n="ant"/><s n="m"/></l><r>Lucas<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
