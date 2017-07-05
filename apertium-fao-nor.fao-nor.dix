@@ -661,13 +661,22 @@
 <e vr="nno"><p><l>kongligur<s n="adj"/></l><r>kongeleg<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 <e><p><l>fullfíggjaður<s n="adj"/></l><r>komplett<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
 
-<!-- CHECK TRANSLATIONS, NOT IN NOB? -->
-<e><p><l>royndur<s n="adj"/></l><r>røynd<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>ringur<s n="adj"/></l><r>ring<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>innleiðandi<s n="adj"/></l><r>innleidande<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>fyrrverandi<s n="adj"/></l><r>forhenværende<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>hugtakandi<s n="adj"/></l><r>hugtakande<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>fremmandur<s n="adj"/></l><r>framand<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e r="RL">  <p><l>royndur<s n="adj"/></l><r>røynd<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e vr="nno"><p><l>royndur<s n="adj"/></l><r>verkeleg<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e vr="nob"><p><l>royndur<s n="adj"/></l><r>virkelig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e vr="nno"><p><l>ringur<s n="adj"/></l><r>ring<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e vr="nob"><p><l>ringur<s n="adj"/></l><r>fattig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e vr="nob"><p><l>ringur<s n="adj"/></l><r>dårleg<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e vr="nob"><p><l>ringur<s n="adj"/></l><r>skral<s n="adj"/><s n="sint"/></r></p><par n="adj:adj_sint"/></e>
+<e vr="nno"><p><l>innleiðandi<s n="adj"/></l><r>innleiande<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e vr="nob"><p><l>innleiðandi<s n="adj"/></l><r>innledende<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e vr="nno"><p><l>fyrrverandi<s n="adj"/></l><r>tidlegare<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e vr="nob"><p><l>fyrrverandi<s n="adj"/></l><r>forhenværende<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e vr="nno"><p><l>hugtakandi<s n="adj"/></l><r>hugtakande<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e vr="nno"><p><l>hugtakandi<s n="adj"/></l><r>gripande<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e vr="nob"><p><l>hugtakandi<s n="adj"/></l><r>gripende<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e vr="nno"><p><l>fremmandur<s n="adj"/></l><r>framand<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e vr="nob"><p><l>fremmandur<s n="adj"/></l><r>fremmed<s n="adj"/></r></p><par n="adj:adj"/></e>
 
 <!-- SECTION: Adverbs -->
 <e vr="nob"><p><l>hví<s n="adv"/></l> <r>hvordan<s n="adv"/></r></p></e>
@@ -1200,4 +1209,11 @@
 
 </section>
 </dictionary>
-
+<!--
+Local Variables:
+dix-vr-langs: ("nno" "nob")
+dix-rb-align-column: 55
+dix-pb-align-column: 12
+dimwiki-wikidomains: ("fo.wiktionary.org")
+End:
+-->
