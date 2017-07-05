@@ -362,6 +362,7 @@
 <e><p><l>ráðharri<s n="n"/><s n="m"/></l><r>minister<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>málpolitikkur<s n="n"/><s n="m"/></l><r>språkpolitikk<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>móðir<s n="n"/><s n="f"/></l><r>mor<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>nýtsla<s n="n"/><s n="f"/></l><r>forbruk<s n="n"/><s n="nt"/></r></p></e>
 
 
 <e vr="nob"><p><l>vatn<s n="n"/><s n="nt"/></l><r>vann<s n="n"/><s n="nt"/></r></p></e>
@@ -920,6 +921,8 @@
 <e vr="nob"><p><l>binda</l><r>forplikte</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>heita</l><r>hete</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>heita</l><r>heite</r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>varðveita</l><r>oppbevare</r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>javnseta</l><r>sideordne</r></p><par n="vblex:vblex"/></e>
 
 
 <!-- SECTION: Interjections -->
