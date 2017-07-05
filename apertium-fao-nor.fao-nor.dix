@@ -355,6 +355,7 @@
 <e><p><l>kunngerð<s n="n"/><s n="f"/></l><r>tekst<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tjóð<s n="n"/><s n="f"/></l><r>nasjon<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>samfelag<s n="n"/><s n="nt"/></l><r>samfunn<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>verk<s n="n"/><s n="nt"/></l><r>verk<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>øki<s n="n"/><s n="nt"/></l><r>region<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>norðbúgvi<s n="n"/><s n="m"/></l><r>nordboer<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>felagsskapur<s n="n"/><s n="m"/></l><r>fellesskap<s n="n"/><s n="nt"/></r></p></e>
@@ -930,6 +931,9 @@
 <e><p><l>t.e<s n="abbr"/></l><r>f.eks.<s n="adv"/></r></p></e>
 <e><p><l>t.e<s n="abbr"/></l><r>t.eks.<s n="adv"/></r></p></e>
 <e><p><l>t.e<s n="abbr"/></l><r>t.d.<s n="adv"/></r></p></e>
+<e><p><l>t.d<s n="abbr"/></l><r>f.eks.<s n="adv"/></r></p></e>
+<e><p><l>t.d<s n="abbr"/></l><r>t.eks.<s n="adv"/></r></p></e>
+<e><p><l>t.d<s n="abbr"/></l><r>t.d.<s n="adv"/></r></p></e>
 <e><p><l>m.a<s n="abbr"/></l><r>bl.a.<s n="adv"/></r></p></e>
 
 <!-- SECTION: Punctuation -->
