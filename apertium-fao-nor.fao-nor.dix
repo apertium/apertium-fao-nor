@@ -360,6 +360,7 @@
 <e><p><l>felagsskapur<s n="n"/><s n="m"/></l><r>fellesskap<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>ráðharri<s n="n"/><s n="m"/></l><r>minister<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>málpolitikkur<s n="n"/><s n="m"/></l><r>språkpolitikk<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>móðir<s n="n"/><s n="f"/></l><r>mor<s n="n"/><s n="f"/></r></p></e>
 
 
 <e vr="nob"><p><l>vatn<s n="n"/><s n="nt"/></l><r>vann<s n="n"/><s n="nt"/></r></p></e>
@@ -916,6 +917,8 @@
 <e vr="nob"><p><l>snúgva</l><r>handle</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>tala</l><r>tale</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>binda</l><r>forplikte</r></p><par n="vblex:vblex"/></e>
+<e vr="nob"><p><l>heita</l><r>hete</r></p><par n="vblex:vblex"/></e>
+<e vr="nno"><p><l>heita</l><r>heite</r></p><par n="vblex:vblex"/></e>
 
 
 <!-- SECTION: Interjections -->
@@ -924,6 +927,9 @@
 <!-- SECTION: Abbreviations -->
 
 <e><p><l>f.Kr<s n="abbr"/></l><r>f.Kr.<s n="adv"/></r></p></e>
+<e><p><l>t.e<s n="abbr"/></l><r>f.eks.<s n="adv"/></r></p></e>
+<e><p><l>t.e<s n="abbr"/></l><r>t.eks.<s n="adv"/></r></p></e>
+<e><p><l>t.e<s n="abbr"/></l><r>t.d.<s n="adv"/></r></p></e>
 <e><p><l>m.a<s n="abbr"/></l><r>bl.a.<s n="adv"/></r></p></e>
 
 <!-- SECTION: Punctuation -->
