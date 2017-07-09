@@ -5,6 +5,7 @@
   <sdef n="vblex"/>
   <sdef n="pr"/>
   <sdef n="cmp"/>
+  <sdef n="guio"/>
   <sdef n="pprs"/>
   <sdef n="pp"/>
   <sdef n="top"/>
@@ -220,6 +221,7 @@
 <e vr="nno"><p><l>hvør<s n="prn"/><s n="itg"/></l><r>kva<s n="prn"/><s n="itg"/></r></p></e>
 
 <e><p><l>samur<s n="prn"/></l><r>samme<s n="prn"/></r></p></e>
+<e><p><l>tað<s n="prn"/><s n="dem"/></l><r>den<s n="prn"/><s n="dem"/></r></p></e>
 
 <!-- SECTION: Determiners-->
 
@@ -425,6 +427,7 @@
 <e><p><l>Øssursson<s n="np"/><s n="cog"/></l><r>Øssursson<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Brestisson<s n="np"/><s n="cog"/></l><r>Brestisson<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Norðurland<s n="np"/><s n="nt"/></l><r>Norden<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Norðurlond<s n="np"/><s n="nt"/></l><r>Norden<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Nidaros<s n="np"/></l><r>Nidaros<s n="np"/></r></p></e>
 <e><p><l>Mortensen<s n="np"/><s n="cog"/></l><r>Mortensen<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Massalia<s n="np"/></l><r>Massalia<s n="np"/></r></p></e>
@@ -488,6 +491,7 @@
 <e><p><l>føroyskur<s n="adj"/></l><r>færøysk<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>ávísur<s n="adj"/></l><r>vis<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>landafrøðiligur<s n="adj"/></l><r>geografisk<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e><p><l>sámiskur<s n="adj"/></l><r>samisk<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>varur<s n="adj"/></l><r>var<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>seinur<s n="adj"/><s n="cmp"/></l><r>sein<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>danskur<s n="adj"/></l><r>dansk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
@@ -926,6 +930,51 @@
 <e vr="nob"><p><l>varðveita</l><r>oppbevare</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>javnseta</l><r>sideordne</r></p><par n="vblex:vblex"/></e>
 
+<e><p><l>arbeiða<s n="vblex" /></l><r>verve</r></p><par n="vblex:vblex"/></e>
+<e><p><l>ásanna<s n="vblex" /></l><r>vedgå</r></p><par n="vblex:vblex"/></e>
+<e><p><l>bara<s n="vblex" /></l><r>gerere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>enda<s n="vblex" /></l><r>avslutte</r></p><par n="vblex:vblex"/></e>
+<e><p><l>enda<s n="vblex" /></l><r>tryte</r></p><par n="vblex:vblex"/></e>
+<e><p><l>fevna<s n="vblex" /></l><r>omslynge</r></p><par n="vblex:vblex"/></e>
+<e><p><l>krevja<s n="vblex" /></l><r>forlange</r></p><par n="vblex:vblex"/></e>
+<e><p><l>krevja<s n="vblex" /></l><r>befale</r></p><par n="vblex:vblex"/></e>
+<e><p><l>krevja<s n="vblex" /></l><r>påbyde</r></p><par n="vblex:vblex"/></e>
+<e><p><l>krevja<s n="vblex" /></l><r>fordre</r></p><par n="vblex:vblex"/></e>
+<e><p><l>lesa<s n="vblex" /></l><r>studere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>lesa<s n="vblex" /></l><r>ekstemporere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>liva<s n="vblex" /></l><r>leve</r></p><par n="vblex:vblex"/></e>
+<e><p><l>liva<s n="vblex" /></l><r>eksistere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>liva<s n="vblex" /></l><r>gjennomleve</r></p><par n="vblex:vblex"/></e>
+<e><p><l>menna<s n="vblex" /></l><r>utvikle</r></p><par n="vblex:vblex"/></e>
+<e><p><l>odda<s n="vblex" /></l><r>pynte</r></p><par n="vblex:vblex"/></e>
+<e><p><l>ogna<s n="vblex" /></l><r>akkvirere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>ráða<s n="vblex" /></l><r>herske</r></p><par n="vblex:vblex"/></e>
+<e><p><l>ráða<s n="vblex" /></l><r>vinke</r></p><par n="vblex:vblex"/></e>
+<e><p><l>ráða<s n="vblex" /></l><r>plane</r></p><par n="vblex:vblex"/></e>
+<e><p><l>ráða<s n="vblex" /></l><r>rå</r></p><par n="vblex:vblex"/></e>
+<e><p><l>røkka<s n="vblex" /></l><r>nå</r></p><par n="vblex:vblex"/></e>
+<e><p><l>samskifta<s n="vblex" /></l><r>kommunisere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>samskipa<s n="vblex" /></l><r>koordinere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>samskipa<s n="vblex" /></l><r>kodifisere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>samskipa<s n="vblex" /></l><r>koordinere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>skapa<s n="vblex" /></l><r>skape</r></p><par n="vblex:vblex"/></e>
+<e><p><l>skapa<s n="vblex" /></l><r>kreere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>skapa<s n="vblex" /></l><r>utforme</r></p><par n="vblex:vblex"/></e>
+<e><p><l>skapa<s n="vblex" /></l><r>forme</r></p><par n="vblex:vblex"/></e>
+<e><p><l>tryggja<s n="vblex" /></l><r>forsikre</r></p><par n="vblex:vblex"/></e>
+<e><p><l>tryggja<s n="vblex" /></l><r>garantere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>tryggja<s n="vblex" /></l><r>assurere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>tryggja<s n="vblex" /></l><r>sikre</r></p><par n="vblex:vblex"/></e>
+<e><p><l>tryggja<s n="vblex" /></l><r>stabilisere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>tryggja<s n="vblex" /></l><r>gardere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>viðvíkja<s n="vblex" /></l><r>relatere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>viðvíkja<s n="vblex" /></l><r>angå</r></p><par n="vblex:vblex"/></e>
+<e><p><l>virða<s n="vblex" /></l><r>respektere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>vísa<s n="vblex" /></l><r>demonstrere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>vísa<s n="vblex" /></l><r>trekke</r></p><par n="vblex:vblex"/></e>
+<e><p><l>vísa<s n="vblex" /></l><r>reagere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>vísa<s n="vblex" /></l><r>utvise</r></p><par n="vblex:vblex"/></e>
+
 
 <!-- SECTION: Interjections -->
 <e><p><l>nei<s n="ij"/></l><r>nei<s n="ij"/></r></p></e>
@@ -950,6 +999,7 @@
 <e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
 <e><re>«</re><p><l><s n="lquot"/></l><r><s n="lquot"/></r></p></e>
 <e><re>»</re><p><l><s n="rquot"/></l><r><s n="rquot"/></r></p></e>
+<e><p><l>-<s n="guio"/></l><r>-<s n="guio"/></r></p></e>
 <!--
 <e><p><l>“<s n="lquot"/></l><r>“<s n="lquot"/></r></p></e>
 <e><p><l>)<s n="punct"/><s n="rquot"/></l><r>)<s n="rpar"/></r></p></e>
@@ -961,7 +1011,9 @@
 
 <e><re>1</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/><s n="un"/><s n="sg"/></r></p></e>
 <e><re>[02-9]</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/><s n="un"/><s n="pl"/></r></p></e>
+<e><re>[02-9][.,][0-9]+</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/><s n="un"/><s n="pl"/></r></p></e>
 <e><re>[0-9][0-9]+([0-9]+)*</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/><s n="un"/><s n="pl"/></r></p></e> 
+<e><re>[0-9][0-9]+([0-9]+)*[.,][0-9]+</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/><s n="un"/><s n="pl"/></r></p></e> 
 
 <e><re>[IVXLCDM\-]+</re><p><l><s n="num"/></l><r><s n="det"/><s n="qnt"/></r></p></e>
 
