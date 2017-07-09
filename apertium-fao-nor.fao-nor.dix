@@ -930,50 +930,54 @@
 <e vr="nob"><p><l>varðveita</l><r>oppbevare</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>javnseta</l><r>sideordne</r></p><par n="vblex:vblex"/></e>
 
-<e><p><l>arbeiða<s n="vblex" /></l><r>verve</r></p><par n="vblex:vblex"/></e>
-<e><p><l>ásanna<s n="vblex" /></l><r>vedgå</r></p><par n="vblex:vblex"/></e>
-<e><p><l>bara<s n="vblex" /></l><r>gerere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>enda<s n="vblex" /></l><r>avslutte</r></p><par n="vblex:vblex"/></e>
-<e><p><l>enda<s n="vblex" /></l><r>tryte</r></p><par n="vblex:vblex"/></e>
-<e><p><l>fevna<s n="vblex" /></l><r>omslynge</r></p><par n="vblex:vblex"/></e>
-<e><p><l>krevja<s n="vblex" /></l><r>forlange</r></p><par n="vblex:vblex"/></e>
-<e><p><l>krevja<s n="vblex" /></l><r>befale</r></p><par n="vblex:vblex"/></e>
-<e><p><l>krevja<s n="vblex" /></l><r>påbyde</r></p><par n="vblex:vblex"/></e>
-<e><p><l>krevja<s n="vblex" /></l><r>fordre</r></p><par n="vblex:vblex"/></e>
-<e><p><l>lesa<s n="vblex" /></l><r>studere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>lesa<s n="vblex" /></l><r>ekstemporere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>liva<s n="vblex" /></l><r>leve</r></p><par n="vblex:vblex"/></e>
-<e><p><l>liva<s n="vblex" /></l><r>eksistere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>liva<s n="vblex" /></l><r>gjennomleve</r></p><par n="vblex:vblex"/></e>
-<e><p><l>menna<s n="vblex" /></l><r>utvikle</r></p><par n="vblex:vblex"/></e>
-<e><p><l>odda<s n="vblex" /></l><r>pynte</r></p><par n="vblex:vblex"/></e>
-<e><p><l>ogna<s n="vblex" /></l><r>akkvirere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>ráða<s n="vblex" /></l><r>herske</r></p><par n="vblex:vblex"/></e>
-<e><p><l>ráða<s n="vblex" /></l><r>vinke</r></p><par n="vblex:vblex"/></e>
-<e><p><l>ráða<s n="vblex" /></l><r>plane</r></p><par n="vblex:vblex"/></e>
-<e><p><l>ráða<s n="vblex" /></l><r>rå</r></p><par n="vblex:vblex"/></e>
-<e><p><l>røkka<s n="vblex" /></l><r>nå</r></p><par n="vblex:vblex"/></e>
-<e><p><l>samskifta<s n="vblex" /></l><r>kommunisere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>samskipa<s n="vblex" /></l><r>koordinere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>samskipa<s n="vblex" /></l><r>kodifisere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>samskipa<s n="vblex" /></l><r>koordinere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>skapa<s n="vblex" /></l><r>skape</r></p><par n="vblex:vblex"/></e>
-<e><p><l>skapa<s n="vblex" /></l><r>kreere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>skapa<s n="vblex" /></l><r>utforme</r></p><par n="vblex:vblex"/></e>
-<e><p><l>skapa<s n="vblex" /></l><r>forme</r></p><par n="vblex:vblex"/></e>
-<e><p><l>tryggja<s n="vblex" /></l><r>forsikre</r></p><par n="vblex:vblex"/></e>
-<e><p><l>tryggja<s n="vblex" /></l><r>garantere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>tryggja<s n="vblex" /></l><r>assurere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>tryggja<s n="vblex" /></l><r>sikre</r></p><par n="vblex:vblex"/></e>
-<e><p><l>tryggja<s n="vblex" /></l><r>stabilisere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>tryggja<s n="vblex" /></l><r>gardere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>viðvíkja<s n="vblex" /></l><r>relatere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>viðvíkja<s n="vblex" /></l><r>angå</r></p><par n="vblex:vblex"/></e>
-<e><p><l>virða<s n="vblex" /></l><r>respektere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>vísa<s n="vblex" /></l><r>demonstrere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>vísa<s n="vblex" /></l><r>trekke</r></p><par n="vblex:vblex"/></e>
-<e><p><l>vísa<s n="vblex" /></l><r>reagere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>vísa<s n="vblex" /></l><r>utvise</r></p><par n="vblex:vblex"/></e>
+<e><p><l>arbeiða</l><r>verve</r></p><par n="vblex:vblex"/></e>
+<e><p><l>ásanna</l><r>vedgå</r></p><par n="vblex:vblex"/></e>
+<e><p><l>bara</l><r>gerere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>enda</l><r>avslutte</r></p><par n="vblex:vblex"/></e>
+<e><p><l>enda</l><r>tryte</r></p><par n="vblex:vblex"/></e>
+<e><p><l>fevna</l><r>omslynge</r></p><par n="vblex:vblex"/></e>
+<e><p><l>krevja</l><r>forlange</r></p><par n="vblex:vblex"/></e>
+<e><p><l>krevja</l><r>befale</r></p><par n="vblex:vblex"/></e>
+<e><p><l>krevja</l><r>påbyde</r></p><par n="vblex:vblex"/></e>
+<e><p><l>krevja</l><r>fordre</r></p><par n="vblex:vblex"/></e>
+<e><p><l>lesa</l><r>studere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>lesa</l><r>ekstemporere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>liva</l><r>leve</r></p><par n="vblex:vblex"/></e>
+<e><p><l>liva</l><r>eksistere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>liva</l><r>gjennomleve</r></p><par n="vblex:vblex"/></e>
+<e><p><l>menna</l><r>utvikle</r></p><par n="vblex:vblex"/></e>
+<e><p><l>odda</l><r>pynte</r></p><par n="vblex:vblex"/></e>
+<e><p><l>ogna</l><r>akkvirere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>ráða</l><r>herske</r></p><par n="vblex:vblex"/></e>
+<e><p><l>ráða</l><r>vinke</r></p><par n="vblex:vblex"/></e>
+<e><p><l>ráða</l><r>plane</r></p><par n="vblex:vblex"/></e>
+<e><p><l>ráða</l><r>rå</r></p><par n="vblex:vblex"/></e>
+<e><p><l>røkka</l><r>nå</r></p><par n="vblex:vblex"/></e>
+<e><p><l>samskifta</l><r>kommunisere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>samskipa</l><r>koordinere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>samskipa</l><r>kodifisere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>samskipa</l><r>koordinere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>skapa</l><r>skape</r></p><par n="vblex:vblex"/></e>
+<e><p><l>skapa</l><r>kreere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>skapa</l><r>utforme</r></p><par n="vblex:vblex"/></e>
+<e><p><l>skapa</l><r>forme</r></p><par n="vblex:vblex"/></e>
+<e><p><l>tryggja</l><r>forsikre</r></p><par n="vblex:vblex"/></e>
+<e><p><l>tryggja</l><r>garantere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>tryggja</l><r>assurere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>tryggja</l><r>sikre</r></p><par n="vblex:vblex"/></e>
+<e><p><l>tryggja</l><r>stabilisere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>tryggja</l><r>gardere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>viðvíkja</l><r>relatere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>viðvíkja</l><r>angå</r></p><par n="vblex:vblex"/></e>
+<e><p><l>virða</l><r>respektere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>vísa</l><r>demonstrere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>vísa</l><r>trekke</r></p><par n="vblex:vblex"/></e>
+<e><p><l>vísa</l><r>reagere</r></p><par n="vblex:vblex"/></e>
+<e><p><l>vísa</l><r>utvise</r></p><par n="vblex:vblex"/></e>
+
+<e vr="nob"><p><l>økja</l><r>øke</r></p><par n="vblex:vblex"/></e>
+<e><p><l>økja</l><r>forstørre</r></p><par n="vblex:vblex"/></e>
+<e><p><l>økja</l><r>supplere</r></p><par n="vblex:vblex"/></e>
 
 
 <!-- SECTION: Interjections -->
