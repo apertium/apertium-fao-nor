@@ -2,6 +2,11 @@ GSED=`which gsed`;
 if [[ "$GSED" == "" ]]; then
 	GSED=`which sed`;
 fi
+GECHO=`which gecho`;
+if [[ "$GECHO" == "" ]]; then
+	GECHO=`which echo`;
+fi
+
 
 lang1path=`cat config.log | grep lang1= | $GSED 's/with-lang[^=]\+=/@/g' | cut -f2 -d'@' | sed 's/--//g' | sed 's/ *//g'`
 lang1=fao
@@ -23,11 +28,11 @@ cat /tmp/$pair.input | apertium-destxt | hfst-proc -w "$lang1path/analyser-mt-ap
 untr_total=`cat /tmp/$pair.morph | wc -l`;
 untr_known=`cat /tmp/$pair.morph | grep -v '\*' | wc -l`;
 
-untrimmed=`echo "(($untr_known/$untr_total)*100)" | bc -l | head -c 5`;
-trimmedclean=`echo "100-((($generr+$unkerr)/$total)*100)" | bc -l | head -c 5`;
-trimmed=`echo "100-(($unkerr/$total)*100)" | bc -l | head -c 5`;
+untrimmed=`$GECHO "(($untr_known/$untr_total)*100)" | bc -l | head -c 5`;
+trimmedclean=`$GECHO "100-((($generr+$unkerr)/$total)*100)" | bc -l | head -c 5`;
+trimmed=`$GECHO "100-(($unkerr/$total)*100)" | bc -l | head -c 5`;
 
-echo "$untr_total $untr_known // $total $unkerr $generr"
-echo -e "Untrimmed:\t$untrimmed %";
-echo -e "Trimmed:\t$trimmed %";
-echo -e "Clean  :\t$trimmedclean %";
+$GECHO "$untr_total $untr_known // $total $unkerr $generr"
+$GECHO -e "Untrimmed:\t$untrimmed %";
+$GECHO -e "Trimmed:\t$trimmed %";
+$GECHO -e "Clean  :\t$trimmedclean %";
