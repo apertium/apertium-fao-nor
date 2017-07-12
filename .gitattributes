@@ -39,6 +39,7 @@ dev/to-gtweb -text
 /generation.sh -text
 /metalrx-to-lrx.xslt -text svneol=unset#application/xml
 /modes.xml -text
+texts/fao_wikipedia_plaintext.txt -text
 texts/språkdeklarasjonen.fao.txt -text
 texts/språkdeklarasjonen.nob.txt -text
 texts/story.fao-nob.postedit.txt -text
