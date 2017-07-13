@@ -7,6 +7,15 @@
     <def-cat n="prop">
       <cat-item tags="np.*"/>
     </def-cat>
+    <def-cat n="n-prop">
+      <cat-item tags="n.prop.*"/>
+    </def-cat>
+    <def-cat n="np-cog">
+      <cat-item tags="np.cog.*"/>
+    </def-cat>
+    <def-cat n="np-ant">
+      <cat-item tags="np.ant.*"/>
+    </def-cat>
     <def-cat n="prep">
       <cat-item tags="pr"/>
       <cat-item tags="pr.*"/>
@@ -31,9 +40,6 @@
     </def-cat>
     <def-cat n="verb">
       <cat-item tags="vblex.*"/>
-    </def-cat>
-    <def-cat n="ant">
-      <cat-item tags="np.ant.*"/>
     </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
@@ -674,15 +680,82 @@
 	  </action>
 	</rule>
 
+
+	<rule comment="REMOVE prop-cog">
+	  <pattern>
+	  	<pattern-item n="np-cog"/>
+	  </pattern>
+	  <action>
+		<let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+		<let><clip pos="1" side="tl" part="a_num"/><lit v=""/></let>
+		<call-macro n="f_default1"><with-param pos="1"/></call-macro>
+	    <out>
+	      <chunk name="prop-cog" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="whole"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
+
+
+	<rule comment="REMOVE prop-ant">
+	  <pattern>
+	  	<pattern-item n="np-ant"/>
+	  </pattern>
+	  <action>
+		<let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+		<let><clip pos="1" side="tl" part="a_num"/><lit v=""/></let>
+		<call-macro n="f_default1"><with-param pos="1"/></call-macro>
+	    <out>
+	      <chunk name="prop-ant" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="whole"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
+
+	
+	<rule comment="REMOVE n-prop">
+	  <pattern>
+	  	<pattern-item n="n-prop"/>
+	  </pattern>
+	  <action>
+		<let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+		<let><clip pos="1" side="tl" part="a_num"/><lit v=""/></let>
+	    <call-macro n="f_default1"><with-param pos="1"/></call-macro>
+	    <out>
+	      <chunk name="Nprop" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="whole"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
+		
+
+	
 	<rule comment="REMOVE prop">
 	  <pattern>
 	  	<pattern-item n="prop"/>
 	  </pattern>
 	  <action>
+		<let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+		<let><clip pos="1" side="tl" part="a_num"/><lit v=""/></let>
 	    <call-macro n="f_default1"><with-param pos="1"/></call-macro>
-	    <call-macro n="rm_case_and_num">
-          <with-param pos="1"/>
-        </call-macro>
 	    <out>
 	      <chunk name="prop" case="caseFirstWord">
             <tags>
@@ -695,28 +768,7 @@
 	    </out>
 	  </action>
 	</rule>
-
-
-	<rule comment="REMOVE np stuff">
-	  <pattern>
-	  	<pattern-item n="ant"/>
-	  </pattern>
-	  <action>
-	    <call-macro n="rm_case_and_num">
-          <with-param pos="1"/>
-        </call-macro>
-	    <out>
-	      <chunk name="ant" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-            </tags>
-	        <lu>
-	      	  <clip pos="1" side="tl" part="whole"/>
-	        </lu>
-		  </chunk>
-	    </out>
-	  </action>
-	</rule>
+	
 
 	<rule comment="det stuff">
 	  <pattern>
