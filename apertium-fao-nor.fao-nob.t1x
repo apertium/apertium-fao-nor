@@ -26,6 +26,9 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="nom-sp">
+      <cat-item tags="n.*.sp.*"/>
+    </def-cat>
     <def-cat n="pp">
       <cat-item tags="vblex.pp"/>
     </def-cat>
@@ -1032,6 +1035,29 @@
         </out>
           </action>
     </rule>
+    
+    
+    <rule comment="nom-sp">
+      <pattern>
+        <pattern-item n="nom-sp"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="NomSp" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemma"/>
+              <lit-tag v="n"/>
+              <clip pos="1" side="tl" part="a_gen"/>
+              <lit-tag v="sp"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    
 
  	<rule comment="prn-dem stuff">
 	  <pattern>
