@@ -26,9 +26,6 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
-    <def-cat n="nom-sp">
-      <cat-item tags="n.*.sp.*"/>
-    </def-cat>
     <def-cat n="pp">
       <cat-item tags="vblex.pp"/>
     </def-cat>
@@ -175,6 +172,9 @@
 	</def-attr>
 	<def-attr n="a_det">
   	  <attr-item tags="det"/>
+	</def-attr>
+	<def-attr n="a_sp">
+  	  <attr-item tags="sp"/>
 	</def-attr>
 	<def-attr n="a_qnt">
   	  <attr-item tags="qnt"/>
@@ -519,6 +519,13 @@
         	<let><clip pos="1" side="tl" part="a_def"/><lit-tag v="gen"/></let>
       		<let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="ind"/></let>
           </when>
+      	  <when>
+            <test>
+              <equal><clip pos="1" side="tl" part="a_sp"/><lit-tag v="sp"/></equal>
+            </test>
+        	<let><clip pos="1" side="tl" part="tags"/>
+            <concat><lit-tag v="n"/><clip pos="1" side="tl" part="a_gen"/><lit-tag v="sp"/></concat></let>
+          </when>
       	</choose>
         <out>
           <chunk name="n" case="caseFirstWord">
@@ -534,7 +541,6 @@
         </out>
 	  </action>
     </rule>
-
 
 
     <rule comment="NCMP N: ytelse ytelse => ytingsyting
@@ -1062,28 +1068,6 @@
           </chunk>
         </out>
           </action>
-    </rule>
-    
-    
-    <rule comment="nom-sp">
-      <pattern>
-        <pattern-item n="nom-sp"/>
-      </pattern>
-      <action>
-        <out>
-          <chunk name="NomSp" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lemma"/>
-              <lit-tag v="n"/>
-              <clip pos="1" side="tl" part="a_gen"/>
-              <lit-tag v="sp"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
     </rule>
     
 
