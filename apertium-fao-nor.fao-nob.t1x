@@ -38,8 +38,14 @@
     <def-cat n="adj-pp">
       <cat-item tags="vblex.pp.*"/>
     </def-cat>
+    <def-cat n="vb-pp-pass">
+      <cat-item tags="vblex.pp.pass"/>
+    </def-cat>
     <def-cat n="pret-pass">
       <cat-item tags="vblex.ind.pret.*.pass"/>
+    </def-cat>
+    <def-cat n="spn-pass">
+      <cat-item tags="vblex.supn.pass"/>
     </def-cat>
     <def-cat n="verb">
       <cat-item tags="vblex.*"/>
@@ -613,7 +619,37 @@
             </lu>
             <b />
             <lu>
-              <clip pos="1" side="tl" part="whole"/>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="tags"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    
+    
+    <rule comment="vb-spn-pass">
+      <pattern>
+        <pattern-item n="spn-pass"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="vblex.pp"/></let>
+        <out>
+          <chunk name="vsp" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V"/></tag>
+            </tags>
+            <lu>
+              <lit v="bli"/>
+              <lit-tag v="vblex"/>
+              <lit-tag v="pres"/>
+            </lu>
+            <b />
+            <lu>
+			  <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="tags"/>
+              <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
@@ -638,7 +674,9 @@
             </lu>
             <b />
             <lu>
-              <clip pos="1" side="tl" part="whole"/>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="tags"/>
+              <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
@@ -667,6 +705,34 @@
 		  </chunk>
 	    </out>
 	  </action>
+	</rule>
+
+
+    <rule comment="vb-pp-pass">
+	  <pattern>
+	  	<pattern-item n="vb-pp-pass"/>
+	  </pattern>
+	  <action>
+        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="vblex.pp"/></let>
+        <out>
+          <chunk name="vip" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V"/></tag>
+            </tags>
+            <lu>
+              <lit v="bli"/>
+              <lit-tag v="vblex"/>
+              <lit-tag v="pres"/>
+            </lu>
+            <b />
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>	
+              <clip pos="1" side="tl" part="tags"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
 	</rule>
 
 
