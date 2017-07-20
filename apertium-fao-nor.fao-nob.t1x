@@ -32,6 +32,9 @@
     <def-cat n="pp">
       <cat-item tags="vblex.pp"/>
     </def-cat>
+    <def-cat n="imp-pass">
+      <cat-item tags="vblex.imp.*.pass"/>
+    </def-cat>
     <def-cat n="adj-pprs">
       <cat-item tags="vblex.pprs.*"/>
     </def-cat>
@@ -601,6 +604,31 @@
             <lu>
               <lit v="være"/>
               <lit-tag v="vblex.pret"/>
+            </lu>
+            <b />
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    
+    
+	<rule comment="verb-imp-pass">
+      <pattern>
+        <pattern-item n="imp-pass"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="vblex.pp"/></let>
+        <out>
+          <chunk name="vip" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V"/></tag>
+            </tags>
+            <lu>
+              <lit v="bli"/>
+              <lit-tag v="vblex.imp"/>
             </lu>
             <b />
             <lu>
