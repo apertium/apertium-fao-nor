@@ -9783,7 +9783,6 @@
 <e><p><l>rundur<s n="adj"/></l><r>rund<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>møguligur<s n="adj"/></l><r>moglig<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>lágur<s n="adj"/></l><r>låg<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
-<e><p><l>olympiskur<s n="adj"/></l><r>olympisk<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>triðji<s n="adj"/></l><r>tredje<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>breiður<s n="adj"/></l><r>brei<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>norrønur<s n="adj"/></l><r>nordisk<s n="adj"/></r></p><par n="adj:adj"/></e>
@@ -10456,7 +10455,6 @@
 <e><p><l>nýtiligur<s n="adj"/></l><r>brukbar<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>nýur<s n="adj"/></l><r>moderne<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>offurfúsur<s n="adj"/></l><r>offervillig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
-<e><p><l>olympiskur<s n="adj"/></l><r>olympisk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>opin<s n="adj"/></l><r>open<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>ovfarakátur<s n="adj"/></l><r>overstadig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>ovfullur<s n="adj"/></l><r>overfylt<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
@@ -14943,7 +14941,7 @@
 <e><p><l>nýtiligur<s n="adj" /></l><r>brukbar<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>nýur<s n="adj" /></l><r>moderne<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>offurfúsur<s n="adj" /></l><r>offervillig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
-<e><p><l>olympiskur<s n="adj" /></l><r>olympisk<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
+<e><p><l>olympiskur<s n="adj" /></l><r>olympisk<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e vr="nno"><p><l>opin<s n="adj" /></l><r>open<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>ovfarakátur<s n="adj" /></l><r>overstadig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>ovfullur<s n="adj" /></l><r>overfylt<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>

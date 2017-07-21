@@ -743,6 +743,12 @@
 	  <action>
 	    <call-macro n="f_rm_case1"><with-param pos="1"/></call-macro>
 	    <call-macro n="f_pp_infl1"><with-param pos="1"/></call-macro>
+	    <choose>
+          <when>
+    		<test><equal><clip pos="1" side="sl" part="tags"/><lit-tag v="vblex.pp.adv"/></equal></test>
+    		<let><clip pos="1" side="tl" part="tags"/><lit-tag v="vblex.pp"/></let>
+  		  </when>
+  		</choose>
 	    <out>
 	      <chunk name="pp" case="caseFirstWord">
             <tags>
