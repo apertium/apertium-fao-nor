@@ -749,6 +749,20 @@
     		<let><clip pos="1" side="tl" part="tags"/><lit-tag v="vblex.pp"/></let>
   		  </when>
   		</choose>
+  		<choose>
+          <when>
+    		<test>
+    		  <and><equal><clip pos="1" side="sl" part="a_def"/><lit-tag v="def"/></equal>
+    		  <equal><clip pos="1" side="sl" part="a_num"/><lit-tag v="sg"/></equal></and></test>
+    		<let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.pp.sg.def"/></let>
+  		  </when>
+  		  <when>
+    		<test>
+    		  <and><equal><clip pos="1" side="sl" part="a_def"/><lit-tag v="def"/></equal>
+    		  <equal><clip pos="1" side="sl" part="a_num"/><lit-tag v="pl"/></equal></and></test>
+    		<let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.pp.pl"/></let>
+  		  </when>
+  		</choose>
 	    <out>
 	      <chunk name="pp" case="caseFirstWord">
             <tags>
