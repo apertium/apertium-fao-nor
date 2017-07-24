@@ -265,6 +265,13 @@
 
 <!-- SECTION: Nouns -->
 <e><p><l>politikkur<s n="n"/><s n="m"/></l>	<r>politikk<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>stjóri<s n="n"/><s n="m"/></l>	<r>direktør<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>løta<s n="n"/><s n="f"/></l>	<r>stund<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>klokka<s n="n"/><s n="f"/></l>	<r>klokke<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>fjør<s n="n"/><s n="f"/></l>	<r>fjor<s n="n"/><s n="f"/></r></p></e> <!-- XXX -->
+<e><p><l>støða<s n="n"/><s n="f"/></l>	<r>stand<s n="n"/><s n="m"/></r></p></e> <!-- XXX -->
+<e><p><l>landsstýri<s n="n"/><s n="nt"/></l>	<r>landsstyre<s n="n"/><s n="nt"/></r></p></e> <!-- XXX -->
+
 <e><p><l>málpolitikkur<s n="n"/><s n="m"/></l>	<r>språkpolitikk<s n="n"/><s n="m"/></r></p></e>
 <e vr="nob"><p><l>týsdagur<s n="n"/><s n="m"/></l> <r>tirsdag<s n="n"/><s n="m"/></r></p></e>
 <e vr="nno"><p><l>týsdagur<s n="n"/><s n="m"/></l> <r>tysdag<s n="n"/><s n="m"/></r></p></e>
@@ -5087,6 +5094,7 @@
 
 <e><p><l>Færøerne<s n="np"/><s n="f"/></l><r>Færøyene<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Norðurafrika<s n="np"/></l><r>Nord-Afrika<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Smyril<s n="np"/></l><r>Smyril<s n="np"/><s n="top"/></r></p></e><!-- org -->
 
 <e><p><l>Maria<s n="np"/><s n="ant"/><s n="f"/></l><r>Maria<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e><p><l>Jákup<s n="np"/><s n="ant"/><s n="f"/></l><r>Jákup<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -9698,6 +9706,9 @@
 <e vr="nob"><p><l>annar<s n="adj"/></l><r>annen<s n="det"/><s n="dem"/></r></p></e>
 <e vr="nno"><p><l>annar<s n="adj"/></l><r>annan<s n="det"/><s n="dem"/></r></p></e>
 
+<e><p><l>rættiligur<s n="adj"/></l><r>riktig<s n="det"/><s n="dem"/></r></p></e>
+
+
 <e><p><l>gamal<s n="adj"/></l> <r>gammel<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>góður<s n="adj"/></l> <r>god<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>heitur<s n="adj"/></l> <r>varm<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
@@ -10437,6 +10448,16 @@
 <e><p><l>fram<s n="adv"/></l> <r>fram<s n="adv"/></r></p></e>
 <e><p><l>haðan<s n="adv"/></l> <r>derfra<s n="adv"/></r></p></e>
 <e><p><l>umleið<s n="adv"/></l> <r>omkring<s n="adv"/></r></p></e>
+
+<e><p><l>niður<s n="adv"/></l> <r>ned<s n="adv"/></r></p></e>
+<e vr="nno"><p><l>meira<s n="adv"/></l> <r>meir<s n="adv"/></r></p></e>
+<e vr="nob"><p><l>meira<s n="adv"/></l> <r>mer<s n="adv"/></r></p></e>
+<e><p><l>ov<s n="adv"/></l> <r>for<s n="adv"/></r></p></e>
+<e><p><l>áðrenn<s n="adv"/></l> <r>før<s n="adv"/></r></p></e>
+<e><p><l>meðan<s n="adv"/></l> <r>mens<s n="adv"/></r></p></e>
+<e><p><l>oman<s n="adv"/></l> <r>nedover<s n="adv"/></r></p></e>
+<e><p><l>niðan<s n="adv"/></l> <r>oppover<s n="adv"/></r></p></e>
+
 <e><p><l>í<b/>gjár<s n="adv"/></l> <r>i<b/>går<s n="adv"/></r></p></e>
 <e><p><l>ógvuliga<s n="adv"/></l> <r>veldig<s n="adv"/></r></p></e>
 <e><p><l>úti<s n="adv"/></l> <r>ute<s n="adv"/></r></p></e>
