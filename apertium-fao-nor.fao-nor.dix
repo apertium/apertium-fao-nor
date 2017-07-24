@@ -9705,10 +9705,7 @@
 
 <e vr="nob"><p><l>annar<s n="adj"/></l><r>annen<s n="det"/><s n="dem"/></r></p></e>
 <e vr="nno"><p><l>annar<s n="adj"/></l><r>annan<s n="det"/><s n="dem"/></r></p></e>
-
-<e><p><l>rættiligur<s n="adj"/></l><r>riktig<s n="det"/><s n="dem"/></r></p></e>
-
-
+<e><p><l>rættiligur<s n="adj"/></l><r>riktig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>gamal<s n="adj"/></l> <r>gammel<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>góður<s n="adj"/></l> <r>god<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>heitur<s n="adj"/></l> <r>varm<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
@@ -12758,7 +12755,6 @@
 <e><p><l>skrøgga</l><r>overdrive</r></p><par n="vblex:vblex"/></e>
 <e><p><l>skrúva</l><r>skrue</r></p><par n="vblex:vblex"/></e>
 <e><p><l>skrýða</l><r>utsmykke</r></p><par n="vblex:vblex"/></e>
-<e><p><l>skula</l><r>mort</r></p><par n="vblex:vblex"/></e>
 <e><p><l>skuldskriva</l><r>debitere</r></p><par n="vblex:vblex"/></e>
 <e><p><l>skulka</l><r>skulke</r></p><par n="vblex:vblex"/></e>
 <e><p><l>skumpa</l><r>knuvle</r></p><par n="vblex:vblex"/></e>
@@ -13910,7 +13906,6 @@
 <e><p><l>beinleysur<s n="adj" /></l><r>beinfri<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>beinrakin<s n="adj" /></l><r>treffsikker<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>beintur<s n="adj" /></l><r>umiddelbar<s n="adj"/></r></p><par n="adj:adj"/></e>
-<e><p><l>beinur<s n="adj" /></l><r>riktig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>beinur<s n="adj" /></l><r>korrekt<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>beiskur<s n="adj" /></l><r>bitter<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e><p><l>belgiskur<s n="adj" /></l><r>belgisk<s n="adj"/></r></p><par n="adj:adj"/></e>

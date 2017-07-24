@@ -91,6 +91,9 @@
     <def-cat n="prn-def">
       <cat-item tags="prn.def.*"/>
     </def-cat>
+    <def-cat n="allur">
+      <cat-item lemma="allur" tags="det.*"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
@@ -798,7 +801,9 @@
               <tag><lit-tag v="SV"/></tag>
             </tags>
 	        <lu>
-	      	  <clip pos="1" side="tl" part="whole"/>
+	      	  <clip pos="1" side="tl" part="lemh"/>
+	      	  <clip pos="1" side="tl" part="tags"/>
+	      	  <clip pos="1" side="tl" part="lemq"/>
 	        </lu>
 		  </chunk>
 	    </out>
@@ -871,8 +876,7 @@
 	  </action>
 	</rule>
 		
-
-	
+			
 	<rule comment="REMOVE prop">
 	  <pattern>
 	  	<pattern-item n="prop"/>
@@ -885,6 +889,33 @@
 	      <chunk name="prop" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="whole"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
+	
+	
+	<rule comment="REMOVE allur">
+	  <pattern>
+	  	<pattern-item n="allur"/>
+	  </pattern>
+	  <action>
+	    <choose>
+ 		  <when>
+    		<test><equal><clip pos="1" side="tl" part="a_num"/><lit-tag v="pl"/></equal></test>
+    		<let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="un"/></let>
+  		  </when>
+  		</choose>
+		<let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
+	    <call-macro n="f_default1"><with-param pos="1"/></call-macro>
+	    <out>
+	      <chunk name="allur" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="A"/></tag>
             </tags>
 	        <lu>
 	      	  <clip pos="1" side="tl" part="whole"/>
