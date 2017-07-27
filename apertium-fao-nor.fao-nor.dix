@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
    <alphabet>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÄÅÆÈÉÊÍÐÒÓÔÖØÚÝàáâäåæèéêíðòóôöøúýČčđŠš</alphabet>
 <sdefs>
@@ -2535,7 +2535,8 @@
 <e><p><l>lega<s n="n"/><s n="f"/></l><r>leir<s n="n" /><s n="m" /></r></p></e>
 <e><p><l>legionerur<s n="n"/><s n="m"/></l><r>legionær<s n="n" /><s n="m" /></r></p></e>
 <e vr="nno"><p><l>leiga<s n="n"/><s n="f"/></l><r>leie<s n="n" /><s n="nt" /></r></p></e>
-<e><p><l>leika<s n="n"/><s n="nt"/></l><r>jumbo<s n="n" /><s n="m" /></r></p></e>
+<e vr="nno"><p><l>leika<s n="n"/><s n="nt"/></l><r>leik<s n="n" /><s n="m" /></r></p></e>
+<e vr="nob"><p><l>leika<s n="n"/><s n="nt"/></l><r>lek<s n="n" /><s n="m" /></r></p></e>
 <e vr="nno"><p><l>leikari<s n="n"/><s n="m"/></l><r>skodespelar<s n="n" /><s n="m" /></r></p></e>
 <e><p><l>leikdukka<s n="n"/><s n="f"/></l><r>marionett<s n="n" /><s n="m" /></r></p></e>
 <e><p><l>leikfólk<s n="n"/><s n="nt"/></l><r>amatør<s n="n" /><s n="m" /></r></p></e>
