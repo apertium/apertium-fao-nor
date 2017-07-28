@@ -16,6 +16,9 @@
     <def-cat n="np-ant">
       <cat-item tags="np.ant.*"/>
     </def-cat>
+    <def-cat n="np-top">
+      <cat-item tags="np.top.*"/>
+    </def-cat>
     <def-cat n="prep">
       <cat-item tags="pr"/>
       <cat-item tags="pr.*"/>
@@ -111,6 +114,7 @@
     </def-attr>
     <def-attr n="a_possessive">
       <attr-item tags="pos"/>
+      <attr-item tags="gen"/>
     </def-attr>
     <def-attr n="a_nonfinite">
       <attr-item tags="supn"/>
@@ -136,6 +140,9 @@
     </def-attr>
     <def-attr n="v_mood">
       <attr-item tags="ind"/>
+    </def-attr>
+    <def-attr n="a_top">
+      <attr-item tags="top"/>
     </def-attr>
     <def-attr n="a_prop">
       <attr-item tags="np.top"/>
@@ -811,12 +818,18 @@
 	</rule>
 
 
-	<rule comment="REMOVE prop-cog">
+	<rule comment="prop-cog stuff">
 	  <pattern>
 	  	<pattern-item n="np-cog"/>
 	  </pattern>
 	  <action>
-		<let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+	    <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+	    <choose>
+ 		  <when>
+    		<test><equal><clip pos="1" side="sl" part="a_possessive"/><lit-tag v="pos"/></equal></test>
+    		<let><clip pos="1" side="tl" part="a_possessive"/><lit-tag v="gen"/></let>
+  		  </when>
+  		</choose>
 		<let><clip pos="1" side="tl" part="a_num"/><lit v=""/></let>
 		<call-macro n="f_default1"><with-param pos="1"/></call-macro>
 	    <out>
@@ -833,13 +846,48 @@
 	</rule>
 
 
-	<rule comment="REMOVE prop-ant">
+	<rule comment="prop-ant stuff">
 	  <pattern>
 	  	<pattern-item n="np-ant"/>
 	  </pattern>
 	  <action>
-		<let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+	    <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+	    <choose>
+ 		  <when>
+    		<test><equal><clip pos="1" side="sl" part="a_possessive"/><lit-tag v="pos"/></equal></test>
+    		<let><clip pos="1" side="tl" part="a_possessive"/><lit-tag v="gen"/></let>
+  		  </when>
+  		</choose>
 		<let><clip pos="1" side="tl" part="a_num"/><lit v=""/></let>
+		<call-macro n="f_default1"><with-param pos="1"/></call-macro>
+	    <out>
+	      <chunk name="prop-ant" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="whole"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
+	
+	
+	<rule comment="prop-top stuff">
+	  <pattern>
+	  	<pattern-item n="np-top"/>
+	  </pattern>
+	  <action>
+	    <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+	    <choose>
+ 		  <when>
+    		<test><equal><clip pos="1" side="sl" part="a_possessive"/><lit-tag v="pos"/></equal></test>
+    		<let><clip pos="1" side="tl" part="a_possessive"/><lit-tag v="gen"/></let>
+  		  </when>
+  		</choose>
+		<let><clip pos="1" side="tl" part="a_num"/><lit v=""/></let>
+		<let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
 		<call-macro n="f_default1"><with-param pos="1"/></call-macro>
 	    <out>
 	      <chunk name="prop-ant" case="caseFirstWord">
@@ -855,13 +903,14 @@
 	</rule>
 
 	
-	<rule comment="REMOVE n-prop">
+	<rule comment="n-prop stuff">
 	  <pattern>
 	  	<pattern-item n="n-prop"/>
 	  </pattern>
 	  <action>
 		<let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
 		<let><clip pos="1" side="tl" part="a_num"/><lit v=""/></let>
+		<let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
 	    <call-macro n="f_default1"><with-param pos="1"/></call-macro>
 	    <out>
 	      <chunk name="Nprop" case="caseFirstWord">
@@ -875,16 +924,24 @@
 	    </out>
 	  </action>
 	</rule>
+	
 		
 			
-	<rule comment="REMOVE prop">
+	<rule comment="prop stuff">
 	  <pattern>
 	  	<pattern-item n="prop"/>
 	  </pattern>
 	  <action>
 		<let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
 		<let><clip pos="1" side="tl" part="a_num"/><lit v=""/></let>
+		<choose>
+ 		  <when>
+    		<test><equal><clip pos="1" side="sl" part="a_possessive"/><lit-tag v="pos"/></equal></test>
+    		<let><clip pos="1" side="tl" part="a_possessive"/><lit-tag v="gen"/></let>
+  		  </when>
+  		</choose>
 	    <call-macro n="f_default1"><with-param pos="1"/></call-macro>
+	    <let><clip pos="1" side="tl" part="a_num"/><lit v=""/></let>
 	    <out>
 	      <chunk name="prop" case="caseFirstWord">
             <tags>
