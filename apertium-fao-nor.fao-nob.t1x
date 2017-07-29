@@ -970,6 +970,12 @@
     		<let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="un"/></let>
   		  </when>
   		</choose>
+  		<choose>
+ 		  <when>
+    		<test><equal><clip pos="1" side="tl" part="a_adv"/><lit-tag v="adv"/></equal></test>
+    		<let><clip pos="1" side="tl" part="a_adv"/><lit v=""/></let>
+  		  </when>
+  		</choose>
 		<let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
 	    <call-macro n="f_default1"><with-param pos="1"/></call-macro>
 	    <out>

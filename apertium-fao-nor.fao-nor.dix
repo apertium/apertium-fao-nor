@@ -5133,7 +5133,6 @@
 <e><p><l>Svabo<s n="np"/><s n="cog"/></l><r>Svabo<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Ryberg<s n="np"/></l><r>Ryberg<s n="np"/></r></p></e>
 <e><p><l>Roskilde<s n="np"/><s n="top"/></l><r>Roskilde<s n="np"/></r></p></e>
-<e><p><l>Rasmus<s n="np"/></l><r>Rasmus<s n="np"/></r></p></e>
 <e><p><l>Patursson<s n="np"/><s n="cog"/></l><r>Patursson<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Øssursson<s n="np"/><s n="cog"/></l><r>Øssursson<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Brestisson<s n="np"/><s n="cog"/></l><r>Brestisson<s n="np"/><s n="cog"/></r></p></e>
@@ -10453,7 +10452,7 @@
 <e><p><l>ov<s n="adv"/></l> <r>for<s n="adv"/></r></p></e>
 <e><p><l>áðrenn<s n="adv"/></l> <r>før<s n="adv"/></r></p></e>
 <e><p><l>meðan<s n="adv"/></l> <r>mens<s n="adv"/></r></p></e>
-<e><p><l>oman<s n="adv"/></l> <r>nedover<s n="adv"/></r></p></e>
+<e><p><l>oman<s n="pr"/></l> <r>nedover<s n="pr"/></r></p></e>
 <e><p><l>niðan<s n="adv"/></l> <r>oppover<s n="adv"/></r></p></e>
 
 <e><p><l>í<b/>gjár<s n="adv"/></l> <r>i<b/>går<s n="adv"/></r></p></e>
