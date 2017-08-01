@@ -5089,8 +5089,8 @@
 
 <e vr="nno"><p><l>Føroyar<s n="np"/><s n="f"/><s n="pl"/></l><r>Færøyane<s n="np"/><s n="top"/></r></p></e>
 <e vr="nob"><p><l>Føroyar<s n="np"/><s n="f"/><s n="pl"/></l><r>Færøyene<s n="np"/><s n="top"/></r></p></e>
-<e vr="nno"><p><l>Suðurevropa<s n="np"/></l><r>Sør-Europa<s n="np"/><s n="top"/></r></p></e>
-<e vr="nob"><p><l>Suðurevropa<s n="np"/></l><r>Syd-Europa<s n="np"/><s n="top"/></r></p></e>
+<e vr="nno"><p><l>Suðurevropa<s n="np"/><s n="nt"/></l><r>Sør-Europa<s n="np"/><s n="top"/></r></p></e>
+<e vr="nob"><p><l>Suðurevropa<s n="np"/><s n="nt"/></l><r>Syd-Europa<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Svøríki<s n="np"/><s n="nt"/><s n="sg"/></l><r>Sverige<s n="np"/><s n="top"/></r></p></e>
 
 <e><p><l>Færøerne<s n="np"/><s n="f"/></l><r>Færøyene<s n="np"/><s n="top"/></r></p></e>
@@ -5118,7 +5118,7 @@
 <e><p><l>Páll<s n="np"/></l><r>Paul<s n="np"/></r></p></e>
 <e><p><l>Nólsoy<s n="np"/></l><r>Nólsoy<s n="np"/></r></p></e>
 <e><p><l>Ísland<s n="np"/></l><r>Island<s n="np"/><s n="top"/></r></p></e>
-<e r="LR"><p><l>Island<s n="np"/></l><r>Island<s n="np"/><s n="top"/></r></p></e>
+<e r="LR"><p><l>Island<s n="np"/><s n="nt"/></l><r>Island<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Hvalba<s n="np"/><s n="f"/></l><r>Hvalba<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Hetland<s n="np"/><s n="nt"/></l><r>Shetland<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Hammershaimb<s n="np"/><s n="cog"/></l><r>Hammershaimb<s n="np"/><s n="cog"/></r></p></e>
@@ -8985,7 +8985,7 @@
 <e><p><l>Heðin<s n="np"/><s n="ant"/><s n="m"/></l><r>Heðin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Bush<s n="np"/><s n="cog"/></l><r>Bush<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Hákun<s n="np"/><s n="ant"/><s n="m"/></l><r>Hákun<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e><p><l>Eyðun<s n="np"/><s n="ant"/><s n="f"/></l><r>Eyðun<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+<e><p><l>Eyðun<s n="np"/><s n="ant"/><s n="f"/><s n="f"/></l><r>Eyðun<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e><p><l>Kennedy<s n="np"/><s n="cog"/></l><r>Kennedy<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Eidesgaard<s n="np"/><s n="cog"/></l><r>Eidesgaard<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Atli<s n="np"/><s n="ant"/><s n="m"/></l><r>Atli<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -10728,8 +10728,6 @@
 <e vr="nno"><p><l>góðkenna</l><r>vedtak</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>góðkenna</l><r>vedta</r></p><par n="vblex:vblex"/></e>
 <e><p><l>grína</l><r>le</r></p><par n="vblex:vblex"/></e>
-<e vr="nob"><p><l>halda</l><r>synes<s n="pstv"/></r></p><par n="vblex:vblex"/></e>
-<e vr="nno"><p><l>halda</l><r>synst<s n="pstv"/></r></p><par n="vblex:vblex"/></e>
 <e><p><l>hava</l><r>ha</r></p><par n="vblex:vblex"/></e>
 <e vr="nno"><p><l>hella</l><r>helle</r></p><par n="vblex:vblex"/></e>
 <e vr="nob"><p><l>hella</l><r>helle</r></p><par n="vblex:vblex"/></e>
@@ -13792,79 +13790,79 @@
 
 <!-- @@@@@@@@@ -->
 
-<e><p><l>a<s n="abbr"/></l><r>a<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>b<s n="abbr"/></l><r>b<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>c<s n="abbr"/></l><r>c<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>d<s n="abbr"/></l><r>d<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>e<s n="abbr"/></l><r>e<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>f<s n="abbr"/></l><r>f<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>g<s n="abbr"/></l><r>g<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>h<s n="abbr"/></l><r>h<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>i<s n="abbr"/></l><r>i<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>j<s n="abbr"/></l><r>j<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>k<s n="abbr"/></l><r>k<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>l<s n="abbr"/></l><r>l<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>m<s n="abbr"/></l><r>m<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>n<s n="abbr"/></l><r>n<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>o<s n="abbr"/></l><r>o<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>p<s n="abbr"/></l><r>p<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>q<s n="abbr"/></l><r>q<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>r<s n="abbr"/></l><r>r<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>s<s n="abbr"/></l><r>s<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>t<s n="abbr"/></l><r>t<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>u<s n="abbr"/></l><r>u<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>v<s n="abbr"/></l><r>v<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>w<s n="abbr"/></l><r>w<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>x<s n="abbr"/></l><r>x<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>y<s n="abbr"/></l><r>y<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>z<s n="abbr"/></l><r>z<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>æ<s n="abbr"/></l><r>æ<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>ø<s n="abbr"/></l><r>ø<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>å<s n="abbr"/></l><r>å<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>ð<s n="abbr"/></l><r>ð<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>č<s n="abbr"/></l><r>č<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>š<s n="abbr"/></l><r>š<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>ä<s n="abbr"/></l><r>ä<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>ö<s n="abbr"/></l><r>ö<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>á<s n="abbr"/></l><r>á<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>é<s n="abbr"/></l><r>é<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>a<s n="abbr"/></l><r>aalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>b<s n="abbr"/></l><r>balphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>c<s n="abbr"/></l><r>calphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>d<s n="abbr"/></l><r>dalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>e<s n="abbr"/></l><r>ealphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>f<s n="abbr"/></l><r>falphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>g<s n="abbr"/></l><r>galphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>h<s n="abbr"/></l><r>halphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>i<s n="abbr"/></l><r>ialphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>j<s n="abbr"/></l><r>jalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>k<s n="abbr"/></l><r>kalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>l<s n="abbr"/></l><r>lalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>m<s n="abbr"/></l><r>malphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>n<s n="abbr"/></l><r>nalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>o<s n="abbr"/></l><r>oalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>p<s n="abbr"/></l><r>palphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>q<s n="abbr"/></l><r>qalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>r<s n="abbr"/></l><r>ralphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>s<s n="abbr"/></l><r>salphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>t<s n="abbr"/></l><r>talphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>u<s n="abbr"/></l><r>ualphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>v<s n="abbr"/></l><r>valphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>w<s n="abbr"/></l><r>walphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>x<s n="abbr"/></l><r>xalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>y<s n="abbr"/></l><r>yalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>z<s n="abbr"/></l><r>zalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>æ<s n="abbr"/></l><r>æalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>ø<s n="abbr"/></l><r>øalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>å<s n="abbr"/></l><r>åalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>ð<s n="abbr"/></l><r>ðalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>č<s n="abbr"/></l><r>čalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>š<s n="abbr"/></l><r>šalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>ä<s n="abbr"/></l><r>äalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>ö<s n="abbr"/></l><r>öalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>á<s n="abbr"/></l><r>áalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>é<s n="abbr"/></l><r>éalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
 
-<e><p><l>A<s n="abbr"/></l><r>A<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>B<s n="abbr"/></l><r>B<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>C<s n="abbr"/></l><r>C<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>D<s n="abbr"/></l><r>D<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>E<s n="abbr"/></l><r>E<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>F<s n="abbr"/></l><r>F<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>G<s n="abbr"/></l><r>G<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>H<s n="abbr"/></l><r>H<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>I<s n="abbr"/></l><r>I<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>J<s n="abbr"/></l><r>J<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>K<s n="abbr"/></l><r>K<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>L<s n="abbr"/></l><r>L<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>M<s n="abbr"/></l><r>M<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>N<s n="abbr"/></l><r>N<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>O<s n="abbr"/></l><r>O<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>P<s n="abbr"/></l><r>P<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>Q<s n="abbr"/></l><r>Q<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>R<s n="abbr"/></l><r>R<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>S<s n="abbr"/></l><r>S<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>T<s n="abbr"/></l><r>T<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>U<s n="abbr"/></l><r>U<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>V<s n="abbr"/></l><r>V<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>W<s n="abbr"/></l><r>W<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>X<s n="abbr"/></l><r>X<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>Y<s n="abbr"/></l><r>Y<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>Z<s n="abbr"/></l><r>Z<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>Æ<s n="abbr"/></l><r>Æ<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>Ø<s n="abbr"/></l><r>Ø<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>Å<s n="abbr"/></l><r>Å<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>Ð<s n="abbr"/></l><r>Ð<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>Č<s n="abbr"/></l><r>Č<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>Š<s n="abbr"/></l><r>Š<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>Ä<s n="abbr"/></l><r>Ä<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>Ö<s n="abbr"/></l><r>Ö<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>Á<s n="abbr"/></l><r>Á<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-<e><p><l>É<s n="abbr"/></l><r>É<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>A<s n="abbr"/></l><r>Aalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>B<s n="abbr"/></l><r>Balphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>C<s n="abbr"/></l><r>Calphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>D<s n="abbr"/></l><r>Dalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>E<s n="abbr"/></l><r>Ealphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>F<s n="abbr"/></l><r>Falphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>G<s n="abbr"/></l><r>Galphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>H<s n="abbr"/></l><r>Halphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>I<s n="abbr"/></l><r>Ialphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>J<s n="abbr"/></l><r>Jalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>K<s n="abbr"/></l><r>Kalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>L<s n="abbr"/></l><r>Lalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>M<s n="abbr"/></l><r>Malphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>N<s n="abbr"/></l><r>Nalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>O<s n="abbr"/></l><r>Oalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>P<s n="abbr"/></l><r>Palphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>Q<s n="abbr"/></l><r>Qalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>R<s n="abbr"/></l><r>Ralphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>S<s n="abbr"/></l><r>Salphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>T<s n="abbr"/></l><r>Talphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>U<s n="abbr"/></l><r>Ualphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>V<s n="abbr"/></l><r>Valphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>W<s n="abbr"/></l><r>Walphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>X<s n="abbr"/></l><r>Xalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>Y<s n="abbr"/></l><r>Yalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>Z<s n="abbr"/></l><r>Zalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>Æ<s n="abbr"/></l><r>Æalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>Ø<s n="abbr"/></l><r>Øalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>Å<s n="abbr"/></l><r>Åalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>Ð<s n="abbr"/></l><r>Ðalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>Č<s n="abbr"/></l><r>Čalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>Š<s n="abbr"/></l><r>Šalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>Ä<s n="abbr"/></l><r>Äalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>Ö<s n="abbr"/></l><r>Öalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>Á<s n="abbr"/></l><r>Áalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+<e><p><l>É<s n="abbr"/></l><r>Éalphabet<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
 
  
 <!-- @@@@@@@@@ -->
