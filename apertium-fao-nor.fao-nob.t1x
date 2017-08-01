@@ -1053,13 +1053,18 @@
 	</rule>
 	
 	
-
-	<rule comment="REMOVE adj stuff">
+	<rule comment="adj stuff">
 	  <pattern>
 	  	<pattern-item n="adj"/>
 	  </pattern>
 	  <action>
 	    <call-macro n="f_adj_infl1"><with-param pos="1"/></call-macro>
+	    <choose>
+          <when>
+    		<test><equal><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.sint.sup.ind"/></equal></test>
+    		<let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.sint.sup.un.sp.ind"/></let>
+  		  </when>
+  		</choose>
 	    <out>
 	      <chunk name="a" case="caseFirstWord">
             <tags>
