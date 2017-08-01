@@ -538,6 +538,8 @@
         	<let><clip pos="1" side="tl" part="a_def"/><lit-tag v="gen"/></let>
       		<let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="ind"/></let>
           </when>
+      	</choose>
+      	<choose>
       	  <when>
             <test>
               <equal><clip pos="1" side="tl" part="a_sp"/><lit-tag v="sp"/></equal>
@@ -545,7 +547,7 @@
         	<let><clip pos="1" side="tl" part="tags"/>
             <concat><lit-tag v="n"/><clip pos="1" side="tl" part="a_gen"/><lit-tag v="sp"/></concat></let>
           </when>
-      	</choose>
+        </choose>
         <out>
           <chunk name="n" case="caseFirstWord">
             <tags>
@@ -1003,6 +1005,12 @@
 	    <let><clip pos="1" side="tl" part="a_num"/><lit-tag v="sp"/></let>
 		<let><clip pos="1" side="tl" part="a_def"/><lit-tag v="def"/></let>
 		<let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+		<choose>
+ 		  <when>
+    		<test><equal><clip pos="1" side="tl" part="a_adv"/><lit-tag v="adv"/></equal></test>
+    		<let><clip pos="1" side="tl" part="tags"/><lit-tag v="det.dem.nt.sp.def"/></let>
+  		  </when>
+  		</choose>
 	    <call-macro n="f_default1"><with-param pos="1"/></call-macro>
 	    <out>
 	      <chunk name="samur" case="caseFirstWord">
@@ -1076,6 +1084,12 @@
 	    <call-macro n="rm_gender_from_plurals_and_case">
           <with-param pos="1"/>
         </call-macro>
+        <choose>
+          <when>
+    		<test><equal><clip pos="1" side="tl" part="lem"/><lit v="tre"/></equal></test>
+    		<let><clip pos="1" side="tl" part="tags"/><lit-tag v="det.qnt.un.pl"/></let>
+  		  </when>
+  		</choose>
 	    <out>
 	      <chunk name="z" case="caseFirstWord">
             <tags>
@@ -1088,6 +1102,7 @@
 	    </out>
 	  </action>
 	</rule>
+
 
 	<rule comment="prn-ref stuff">
 	  <pattern>
