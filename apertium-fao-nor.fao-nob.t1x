@@ -97,6 +97,9 @@
     <def-cat n="allur">
       <cat-item lemma="allur" tags="det.*"/>
     </def-cat>
+    <def-cat n="samur">
+      <cat-item lemma="samur" tags="adj.*"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
@@ -991,6 +994,28 @@
 	  </action>
 	</rule>
 	
+	
+	<rule comment="samur">
+	  <pattern>
+	  	<pattern-item n="samur"/>
+	  </pattern>
+	  <action>
+	    <let><clip pos="1" side="tl" part="a_num"/><lit-tag v="sp"/></let>
+		<let><clip pos="1" side="tl" part="a_def"/><lit-tag v="def"/></let>
+		<let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+	    <call-macro n="f_default1"><with-param pos="1"/></call-macro>
+	    <out>
+	      <chunk name="samur" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="Samur"/></tag>
+            </tags>
+	        <lu>
+	      	  <clip pos="1" side="tl" part="whole"/>
+	        </lu>
+		  </chunk>
+	    </out>
+	  </action>
+	</rule>
 
 	<rule comment="det stuff">
 	  <pattern>
@@ -1018,6 +1043,8 @@
 	    </out>
 	  </action>
 	</rule>
+	
+	
 
 	<rule comment="REMOVE adj stuff">
 	  <pattern>
