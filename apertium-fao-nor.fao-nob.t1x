@@ -133,6 +133,9 @@
     <def-attr n="a_adv">
       <attr-item tags="adv"/>
     </def-attr>
+    <def-attr n="a_sbj">
+      <attr-item tags="sbj"/>
+    </def-attr>
     <def-attr n="a_cmp">
       <attr-item tags="cmp"/>
     </def-attr>
@@ -519,8 +522,6 @@
 	</rule>
 
 
-
-
     <rule comment="REGLA: NOM">
       <pattern>
         <pattern-item n="nom"/>
@@ -807,6 +808,12 @@
 	    <call-macro n="verb_stuff1">
           <with-param pos="1"/>
         </call-macro>
+        <choose>
+          <when>
+    		<test><equal><clip pos="1" side="sl" part="a_sbj"/><lit-tag v="sbj"/></equal></test>
+    		<let><clip pos="1" side="tl" part="tags"/><lit-tag v="vblex.imp"/></let>
+  		  </when>
+  		</choose>
 	    <out>
 	      <chunk name="v" case="caseFirstWord">
             <tags>
