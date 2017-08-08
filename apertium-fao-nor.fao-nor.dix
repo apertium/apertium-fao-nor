@@ -376,7 +376,9 @@
 <e><p><l>avleiðing<s n="n"/><s n="f"/></l><r>følge<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>støði<s n="n"/><s n="nt"/></l><r>sted<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>umbøn<s n="n"/><s n="f"/></l><r>opprop<s n="n"/><s n="nt"/></r></p></e>
- 
+
+<e><p><l>tørvur<s n="n"/><s n="m"/></l><r>behov<s n="n"/><s n="nt"/></r></p></e> 
+<e><p><l>kunngerð<s n="n"/><s n="f"/></l><r>deklarasjon<s n="n"/><s n="m"/></r></p></e> 
 <e><p><l>kunngerð<s n="n"/><s n="f"/></l><r>tekst<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tjóð<s n="n"/><s n="f"/></l><r>nasjon<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>samfelag<s n="n"/><s n="nt"/></l><r>samfunn<s n="n"/><s n="nt"/></r></p></e>
@@ -2099,6 +2101,7 @@
 <e><p><l>innflytari<s n="n"/><s n="m"/></l><r>importør<s n="n" /><s n="m" /></r></p></e>
 <e><p><l>inngangur<s n="n"/><s n="m"/></l><r>ouverture<s n="n" /><s n="m" /></r></p></e>
 <e vr="nob"><p><l>inngangur<s n="n"/><s n="m"/></l><r>innledning<s n="n" /><s n="m" /></r></p></e>
+<e vr="nob"><p><l>inngangur<s n="n"/><s n="m"/></l><r>innleiing<s n="n" /><s n="f" /></r></p></e>
 <e><p><l>inngangur<s n="n"/><s n="m"/></l><r>inngang<s n="n" /><s n="m" /></r></p></e>
 <e><p><l>innheinting<s n="n"/><s n="f"/></l><r>inkasso<s n="n" /><s n="m" /></r></p></e>
 <e><p><l>innhugsan<s n="n"/><s n="f"/></l><r>meditasjon<s n="n" /><s n="m" /></r></p></e>
@@ -5058,6 +5061,7 @@
 <e><p><l>útgerðarmaður<s n="n"/><s n="m"/></l><r>reir<s n="n" /><s n="nt" /></r></p></e>
 <e><p><l>útgjar<s n="n"/><s n="nt"/></l><r>lokkemat<s n="n" /><s n="m" /></r></p></e>
 <e><p><l>útgongd<s n="n"/><s n="f"/></l><r>utgang<s n="n" /><s n="m" /></r></p></e>
+<e><p><l>útgáva<s n="n"/><s n="f"/></l><r>versjon<s n="n" /><s n="m" /></r></p></e>
 <e vr="nob"><p><l>útgáva<s n="n"/><s n="f"/></l><r>utgave<s n="n" /><s n="f" /></r></p></e>
 <e vr="nno"><p><l>útgáva<s n="n"/><s n="f"/></l><r>utgjeving<s n="n" /><s n="f" /></r></p></e>
 <e><p><l>útgáva<s n="n"/><s n="f"/></l><r>edisjon<s n="n" /><s n="m" /></r></p></e>
@@ -10540,7 +10544,6 @@
 <e vr="nob"><p><l>hvar<s n="adv" /></l><r>hvor<s n="adv" /></r></p></e>
 <e vr="nob"><p><l>hvussu<s n="adv" /></l><r>hvordan<s n="adv" /></r></p></e>
 <e vr="nob"><p><l>hví<s n="adv" /></l><r>hvorfor<s n="adv" /></r></p></e>
-<e><p><l>ikki<s n="adv" /></l><r>ei<s n="adv" /></r></p></e>
 <e vr="nob"><p><l>illa<s n="adv" /></l><r>nødig<s n="adv" /></r></p></e>
 <e><p><l>illa<s n="adv" /></l><r>pyton<s n="adv" /></r></p></e>
 <e><p><l>ivaleyst<s n="adv" /></l><r>visstnok<s n="adv" /></r></p></e>
@@ -10994,6 +10997,7 @@
 <e><p><l>bidda</l><r>trygle</r></p><par n="vblex:vblex"/></e>
 <e><p><l>bidda</l><r>gnåle</r></p><par n="vblex:vblex"/></e>
 <e><p><l>bika</l><r>beke</r></p><par n="vblex:vblex"/></e>
+<e><p><l>binda</l><r>binde</r></p><par n="vblex:vblex"/></e>
 <e><p><l>binda</l><r>reipe</r></p><par n="vblex:vblex"/></e>
 <e><p><l>binda</l><r>tvinge</r></p><par n="vblex:vblex"/></e>
 <e><p><l>binda</l><r>strikke</r></p><par n="vblex:vblex"/></e>

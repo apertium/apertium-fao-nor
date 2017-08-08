@@ -100,6 +100,9 @@
     <def-cat n="samur">
       <cat-item lemma="samur" tags="adj.*"/>
     </def-cat>
+    <def-cat n="hesin">
+      <cat-item lemma="hesin" tags="*"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
@@ -1309,6 +1312,39 @@
           </action>
     </rule>
     
+    
+	<rule comment="det+noun=noun-def">
+      <pattern>
+      	<pattern-item n="hesin"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <lit-tag v="det"/>
+              <lit-tag v="dem"/>
+              <clip pos="1" side="tl" part="a_gen"/>
+              <clip pos="1" side="tl" part="a_num"/>
+            </lu>
+            <b />
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="POS"/>
+              <clip pos="2" side="tl" part="a_gen"/>
+              <clip pos="2" side="tl" part="a_num"/>
+              <lit-tag v="def"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    
+
 
  	<rule comment="prn-dem stuff">
 	  <pattern>
