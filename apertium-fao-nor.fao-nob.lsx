@@ -1,0 +1,32 @@
+<dictionary type="separable">
+    <alphabet></alphabet>
+    <sdefs>
+        <sdef n="adj"/>
+        <sdef n="adv"/>
+        <sdef n="pr"/>
+        <sdef n="n"/>
+        <sdef n="prn"/>
+        <sdef n="vblex"/>
+    </sdefs>
+    <pardefs>
+        <pardef n="adj">
+            <e><i><w/><s n="adj"/><j/></i></e>
+            <e><i><w/><s n="adj"/><t/><j/></i></e>
+        </pardef>
+        <pardef n="n">
+            <e><i><w/><s n="n"/><t/><j/></i></e>
+        </pardef>
+        <pardef n="SN">
+            <e><par n="n"/></e>
+            <e><par n="adj"/><par n="n"/></e>
+            <e><par n="adj"/><par n="adj"/><par n="n"/></e>
+        </pardef>
+    </pardefs>
+    <section id="main" type="standard">
+        <e lm="snjúgva seg um" c="">
+           <p><l>snjúgva<s n="vblex"/><t/><j/>seg<s n="prn"/><t/><j/>um<s n="pr"/></l>
+              <r>snjúgva<g><b/>seg</g><s n="vblex"/><t/><j/>um<s n="pr"/></r></p>
+        </e>
+    </section>
+</dictionary>
+
