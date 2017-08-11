@@ -1667,6 +1667,7 @@
 <e><p><l>grundvøllur<s n="n"/><s n="m"/></l><r>grunnvoll<s n="n" /><s n="m" /></r></p></e>
 <e><p><l>grunnur<s n="n"/><s n="m"/></l><r>camp<s n="n" /><s n="m" /></r></p></e>
 <e><p><l>grótbræðing<s n="n"/><s n="f"/></l><r>lava<s n="n" /><s n="m" /></r></p></e>
+<e><p><l>lava<s n="n"/><s n="m"/></l><r>lava<s n="n" /><s n="m" /></r></p></e>
 <e vr="nob"><p><l>grótbræðing<s n="n"/><s n="f"/></l><r>magma<s n="n" /><s n="nt" /></r></p></e>
 <e><p><l>grótlús<s n="n"/><s n="f"/></l><r>kakerlakk<s n="n" /><s n="m" /></r></p></e>
 <e vr="nno"><p><l>gróðrarlendi<s n="n"/><s n="nt"/></l><r>grobotn<s n="n" /><s n="m" /></r></p></e>
@@ -11536,7 +11537,7 @@
 <e vr="nob"><p><l>gera</l><r>foreta</r></p><par n="vblex:vblex"/></e>
 <e><p><l>gera</l><r>behandle</r></p><par n="vblex:vblex"/></e>
 <e><p><l>gera</l><r>prestere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>gera</l><r>lave</r></p><par n="vblex:vblex"/></e>
+<e><p><l>gera</l><r>lage</r></p><par n="vblex:vblex"/></e>
 <e><p><l>gera</l><r>forårsake</r></p><par n="vblex:vblex"/></e>
 <e><p><l>gera</l><r>gjære</r></p><par n="vblex:vblex"/></e>
 <e><p><l>gera</l><r>bestille</r></p><par n="vblex:vblex"/></e>
@@ -16859,7 +16860,7 @@
 <e><p><l>lossa</l><r>losse</r></p><par n="vblex:vblex"/></e>
 <e><p><l>lessa</l><r>lesse</r></p><par n="vblex:vblex"/></e>
 <e><p><l>legalisera</l><r>legalisere</r></p><par n="vblex:vblex"/></e>
-<e><p><l>lava</l><r>lave</r></p><par n="vblex:vblex"/></e>
+<e><p><l>lava</l><r>lage</r></p><par n="vblex:vblex"/></e>
 <e><p><l>kora</l><r>kore</r></p><par n="vblex:vblex"/></e>
 <e><p><l>konsentrera</l><r>konsentrere</r></p><par n="vblex:vblex"/></e>
 <e><p><l>klovna</l><r>klovne</r></p><par n="vblex:vblex"/></e>
