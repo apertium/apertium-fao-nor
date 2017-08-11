@@ -3,10 +3,12 @@
     <sdefs>
         <sdef n="adj"/>
         <sdef n="adv"/>
+        <sdef n="cm"/>
         <sdef n="pr"/>
         <sdef n="n"/>
         <sdef n="prn"/>
         <sdef n="vblex"/>
+        <sdef n="cnjsub"/>
     </sdefs>
     <pardefs>
         <pardef n="adj">
@@ -23,10 +25,19 @@
         </pardef>
     </pardefs>
     <section id="main" type="standard">
+        <!-- Henda kunngerð snýr seg um mál og lond í Norðurlondum. -->
         <e lm="snjúgva seg um" c="">
            <p><l>snjúgva<s n="vblex"/><t/><j/>seg<s n="prn"/><t/><j/>um<s n="pr"/></l>
               <r>snjúgva<g><b/>seg</g><s n="vblex"/><t/><j/>um<s n="pr"/></r></p>
         </e>
+  
+        <!-- Ravmagnið krevur, at leidningarnir halda fram, at streymurin skal ganga. -->
+        <e lm="halda fram, at" c="">
+           <p><l>halda<s n="vblex"/><t/><j/>fram<s n="adv"/><j/>,<s n="cm"/><j/>at<s n="cnjsub"/></l>
+              <r>halda<g><b/>fram</g><s n="vblex"/><t/><j/>,<s n="cm"/><j/>at<s n="cnjsub"/></r></p>
+        </e>
+
+
     </section>
 </dictionary>
 
