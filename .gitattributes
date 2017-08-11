@@ -23,6 +23,7 @@
 dev/apertium-fao-nor.fao-nob.t1x -text
 dev/corpus-stats.sh -text
 dev/fao-nor-generated.dix -text
+dev/make-missinglist-with-coverage -text
 dev/to-gtweb -text
 /generation.sh -text
 /metalrx-to-lrx.xslt -text svneol=unset#application/xml

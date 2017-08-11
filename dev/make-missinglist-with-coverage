@@ -1,0 +1,40 @@
+#!/bin/bash
+
+cd "$(dirname "$0")/.." || exit 1
+
+need () {
+    [[ ! -f $1 || $2 -nt $1 ]]
+}
+
+need /tmp/foparade "$HOME"/corpora/fao/foclean.txt ||
+    tr ' [:punct:]' '\n' <"$HOME"/corpora/fao/foclean.txt \
+        | grep . \
+        | sort \
+        | uniq -c \
+        | sort -nr \
+        | sed 's/^ */<apertium-notrans>/;s/ /<\/apertium-notrans>\t/' >/tmp/foparade
+
+only_alpha () {
+    grep $'\t''[[:alpha:]]*$'
+}
+
+ana () {
+    only_alpha | apertium -f html-noent -d . "$1" |sed 's,</*apertium-notrans>,,g'
+}
+
+need /tmp/foparade.ana@ /tmp/foparade ||
+    ana @fao-nob-morph < /tmp/foparade >/tmp/foparade.ana@
+
+need /tmp/foparade.ana /tmp/foparade ||
+    ana fao-nob-morph < /tmp/foparade >/tmp/foparade.ana
+
+
+in_mono_but_not_pair () {
+    paste /tmp/foparade.ana@ /tmp/foparade.ana | grep -v '\*.*\*'
+}
+
+tot=$(in_mono_but_not_pair | awk -F'\t' '{tot+=$1} END{print tot}' )
+known=$(in_mono_but_not_pair | awk -F'\t' '$4!~/[*]/{k+=$1} END{print k}' )
+
+in_mono_but_not_pair \
+    | awk -F'\t' -vtot="$tot" -vknown="$known" '$4~/[*]/{unk+=$1} /\/[*]/{print int((unk + known)/tot*100)/100"\t"$2}'
