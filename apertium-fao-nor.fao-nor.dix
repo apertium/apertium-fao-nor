@@ -10155,6 +10155,8 @@
 <e><p><l>myndigur<s n="adj"/></l><r>myndig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
 <e vr="nob"><p><l>málsligur<s n="adj"/></l><r>språklig<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e vr="nno"><p><l>málsligur<s n="adj"/></l><r>språkleg<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e vr="nob"><p><l>fleirmálsligur<s n="adj"/></l><r>mangespråklig<s n="adj"/></r></p><par n="adj:adj"/></e>
+<e vr="nno"><p><l>fleirmálsligur<s n="adj"/></l><r>mangespråkleg<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>málvísindaligur<s n="adj"/></l><r>lingvistisk<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e><p><l>máttmikil<s n="adj"/></l><r>dynamisk<s n="adj"/></r></p><par n="adj:adj"/></e>
 <e vr="nob"><p><l>møguligur<s n="adj"/></l><r>mulig<s n="adj"/><s n="sint"/></r></p><par n="adj:adj"/></e>
