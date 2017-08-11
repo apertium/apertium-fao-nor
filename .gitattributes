@@ -41,6 +41,7 @@ dev/to-gtweb -text
 /modes.xml -text
 texts/corpus-stat.sh -text
 texts/fao_wikipedia_plaintext.txt -text
+texts/språkdeklarasjonen.fao-nob.txt -text
 texts/språkdeklarasjonen.fao.txt -text
 texts/språkdeklarasjonen.nob.txt -text
 texts/story.fao-nob.postedit.txt -text
