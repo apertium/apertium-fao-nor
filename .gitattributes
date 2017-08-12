@@ -23,6 +23,7 @@
 /configure.ac -text
 dev/apertium-fao-nor.fao-nob.t1x -text
 dev/corpus-stats.sh -text
+dev/fao-nob.context.freq -text
 dev/fao-nor-generated.dix -text
 dev/make-missinglist-with-coverage -text
 dev/to-gtweb -text
