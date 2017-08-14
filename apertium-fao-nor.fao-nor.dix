@@ -78,6 +78,14 @@
      <e><p><l><s n="adv"/></l><r><s n="pst"/><s n="nt"/><s n="sg"/><s n="ind"/></r></p></e>
    </pardef>
 
+   <pardef n="np_ind:np_def">
+     <e><p><l><s n="acc"/><s n="ind"/></l><r><s n="acc"/><s n="def"/></r></p></e>
+     <e><p><l><s n="nom"/><s n="ind"/></l><r><s n="nom"/><s n="def"/></r></p></e>
+     <e><p><l><s n="dat"/><s n="ind"/></l><r><s n="dat"/><s n="def"/></r></p></e>
+     <e><p><l><s n="gen"/><s n="ind"/></l><r><s n="gen"/><s n="def"/></r></p></e>
+   </pardef>
+
+
    <pardef n="vblex:vblex">
      <e><p><l><s n="vblex"/><s n="pprs"/></l><r><s n="adj"/><s n="pprs"/></r></p></e>
      <e><p><l><s n="vblex"/><s n="pp"/><s n="m"/></l><r><s n="adj"/><s n="pp"/><s n="mf"/></r></p></e>
@@ -1353,6 +1361,7 @@
 <e><p><l>formsmál<s n="n"/><s n="nt"/></l><r>formalitet<s n="n" /><s n="m" /></r></p></e>
 <e><p><l>formur<s n="n"/><s n="m"/></l><r>mal<s n="n" /><s n="m" /></r></p></e>
 <e><p><l>formæli<s n="n"/><s n="nt"/></l><r>prolog<s n="n" /><s n="m" /></r></p></e>
+<e><p><l>fleirmæli<s n="n"/><s n="nt"/></l><r>fleirmæle<s n="n" /><s n="nt" /></r></p></e>
 <e><p><l>fornfrøði<s n="n"/><s n="f"/></l><r>arkeologi<s n="n" /><s n="m" /></r></p></e>
 <e><p><l>fornfrøðingur<s n="n"/><s n="m"/></l><r>arkeolog<s n="n" /><s n="m" /></r></p></e>
 <e><p><l>forngripur<s n="n"/><s n="m"/></l><r>antikvitet<s n="n" /><s n="m" /></r></p></e>
@@ -5145,8 +5154,10 @@
 <e><p><l>Patursson<s n="np"/><s n="cog"/></l><r>Patursson<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Øssursson<s n="np"/><s n="cog"/></l><r>Øssursson<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Brestisson<s n="np"/><s n="cog"/></l><r>Brestisson<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>Norðurland<s n="np"/><s n="nt"/></l><r>Norden<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Norðurlond<s n="np"/><s n="nt"/></l><r>Norden<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Norðurland<s n="np"/><s n="nt"/><s n="sg"/></l><r>Norden<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Norðurland<s n="np"/><s n="nt"/><s n="pl"/></l><r>land<g><b/>i<b/>Norden</g><s n="n"/><s n="nt"/><s n="pl"/></r></p><par n="np_ind:np_def"/></e>
+<e><p><l>Norðurlond<s n="np"/><s n="nt"/><s n="pl"/></l><r>Norden<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Norðurlond<s n="np"/><s n="nt"/><s n="pl"/></l><r>land<g><b/>i<b/>Norden</g><s n="n"/><s n="nt"/><s n="pl"/></r></p><par n="np_ind:np_def"/></e>
 <e><p><l>Nidaros<s n="np"/></l><r>Nidaros<s n="np"/></r></p></e>
 <e><p><l>Mortensen<s n="np"/><s n="cog"/></l><r>Mortensen<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Massalia<s n="np"/></l><r>Massalia<s n="np"/></r></p></e>

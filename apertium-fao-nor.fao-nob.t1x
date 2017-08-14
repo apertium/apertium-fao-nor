@@ -126,6 +126,10 @@
       <attr-item tags="supn"/>
       <attr-item tags="pp"/>
     </def-attr>
+    <def-attr n="a_nom">
+      <attr-item tags="n"/>
+      <attr-item tags="np"/>
+    </def-attr>
     <def-attr n="num">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
@@ -949,9 +953,14 @@
 	  	<pattern-item n="prop"/>
 	  </pattern>
 	  <action>
+                
 		<let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+                <choose>
+                  <when>
+    		    <test><equal><clip pos="1" side="tl" part="a_nom"/><lit-tag v="np"/></equal></test>
 		<let><clip pos="1" side="tl" part="a_num"/><lit v=""/></let>
-		<let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
+		<let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let></when>
+                </choose>
 		<choose>
  		  <when>
     		<test><equal><clip pos="1" side="sl" part="a_possessive"/><lit-tag v="pos"/></equal></test>
@@ -959,14 +968,16 @@
   		  </when>
   		</choose>
 	    <call-macro n="f_default1"><with-param pos="1"/></call-macro>
-	    <let><clip pos="1" side="tl" part="a_num"/><lit v=""/></let>
+<!--	    <let><clip pos="1" side="tl" part="a_num"/><lit v=""/></let>-->
 	    <out>
 	      <chunk name="prop" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
 	        <lu>
-	      	  <clip pos="1" side="tl" part="whole"/>
+	      	  <clip pos="1" side="tl" part="lemh"/>
+	      	  <clip pos="1" side="tl" part="tags"/>
+	      	  <clip pos="1" side="tl" part="lemq"/>
 	        </lu>
 		  </chunk>
 	    </out>
