@@ -34,7 +34,7 @@ texts/corpus-stat.sh -text
 texts/fao_wikipedia_plaintext.txt -text
 texts/sprakdeklarasjonen.fao-nob.txt -text
 texts/sprakdeklarasjonen.fao.txt -text
-texts/språkdeklarasjonen.nob.txt -text
+texts/sprakdeklarasjonen.nob.txt -text
 texts/story.fao-nob.postedit.txt -text
 texts/story.fao.txt -text
 texts/story.nob.txt -text
