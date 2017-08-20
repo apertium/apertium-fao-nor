@@ -81,6 +81,7 @@
     </def-cat>
     <def-cat n="prn-pers-gen">
       <cat-item tags="prn.pers.*.gen"/>
+      <cat-item tags="det.poss.*"/>
     </def-cat>
     <def-cat n="prn-pers-pl">
       <cat-item tags="prn.pers.pl.*"/>
@@ -102,6 +103,9 @@
     </def-cat>
     <def-cat n="hesin">
       <cat-item lemma="hesin" tags="*"/>
+    </def-cat>
+    <def-cat n="nom-gen">
+      <cat-item tags="n.*.*.gen.*"/>
     </def-cat>
   </section-def-cats>
 
@@ -1355,6 +1359,90 @@
       </action>
     </rule>
     
+    
+    <rule comment="adj+noun+nouns=nouns+adj+noun">
+      <pattern>
+        <pattern-item n="adj"/>
+        <pattern-item n="nom"/>
+        <pattern-item n="nom-gen"/>
+      </pattern>
+      <action>
+      	<choose>
+          <when>
+            <test><equal><clip pos="1" side="tl" part="a_num"/><lit-tag v="pl"/></equal></test>
+            <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="un"/></let>
+          </when>
+        </choose>
+        <choose>
+          <when>
+            <test><equal><clip pos="1" side="tl" part="a_def"/><lit-tag v="def"/></equal></test>
+            <let><clip pos="1" side="tl" part="a_num"/><lit-tag v="sp"/></let>
+          </when>
+        </choose>
+        <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NNG"/></tag>
+            </tags>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <lit-tag v="n"/>
+              <clip pos="3" side="tl" part="a_gen"/>
+              <clip pos="3" side="tl" part="a_num"/>
+              <clip pos="3" side="tl" part="a_def"/>
+              <lit-tag v="gen"/>
+            </lu>
+            <b />
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b />
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <lit-tag v="n"/>
+              <clip pos="2" side="tl" part="a_gen"/>
+              <clip pos="2" side="tl" part="a_num"/>
+              <clip pos="2" side="tl" part="a_def"/>
+            </lu>
+            <b />
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    
+    
+    <rule comment="noun+noun-gen=nouns+noun">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="nom-gen"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NNG"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <lit-tag v="n"/>
+              <clip pos="2" side="tl" part="a_gen"/>
+              <clip pos="2" side="tl" part="a_num"/>
+              <clip pos="2" side="tl" part="a_def"/>
+              <lit-tag v="gen"/>
+            </lu>
+            <b />
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <lit-tag v="n"/>
+              <clip pos="1" side="tl" part="a_gen"/>
+              <clip pos="1" side="tl" part="a_num"/>
+              <clip pos="1" side="tl" part="a_def"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
 
  	<rule comment="prn-dem stuff">
