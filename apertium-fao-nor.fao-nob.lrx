@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Note !! Write in the file .metalrx, not in the file .lrx -->
+<!-- Write comments to forthcoming rules after this line
+
+Default = 1.0
+Exception = 0.5
+Rules for exception = 0.6
+Each node <match> (or each node <or>) is one word, we read the sentence from top to bottom.
+-->
+<rules>
+
+
+  <rule>
+    <match lemma="við" tags="pr">
+      <select lemma="med" tags="pr"/>
+    </match>
+  </rule>
+  
+  <rule>
+    <match lemma="politiskur" tags="adj.*"/>
+    <match lemma="flokkur" tags="n.*">
+      <select lemma="parti" tags="n.*"/>
+    </match>
+  </rule>
+ 
+  <rule>
+    <match lemma="røkka" tags="*"/>
+    <match lemma="mál" tags="n.*">
+      <select lemma="mål" tags="n.*"/>
+    </match>
+  </rule>
+  <rule>
+    <match lemma="fáa" tags="*"/>
+    <match lemma="mál" tags="n.*">
+      <select lemma="mål" tags="n.*"/>
+    </match>
+  </rule>
+  <rule>
+    <match lemma="skora" tags="*"/>
+    <match lemma="mál" tags="n.*">
+      <select lemma="mål" tags="n.*"/>
+    </match>
+  </rule>
+  <rule>
+    <match lemma="vága" tags="*"/>
+    <match lemma="mál" tags="n.*">
+      <select lemma="mål" tags="n.*"/>
+    </match>
+  </rule>
+  <rule>
+    <match lemma="mál" tags="n.*">
+      <select lemma="språk" tags="n.*"/>
+    </match>
+  </rule>
+   
+
+</rules>
+<!-- 
+Resources: 
+    http://wiki.apertium.org/wiki/How_to_get_started_with_lexical_selection_rules
+    http://wiki.apertium.org/wiki/Constraint-based_lexical_selection
+    http://wiki.apertium.org/wiki/Lexical_selection
+    http://wiki.apertium.org/wiki/Learning_rules_from_parallel_and_non-parallel_corpora
+-->
