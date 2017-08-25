@@ -53,6 +53,54 @@ Each node <match> (or each node <or>) is one word, we read the sentence from top
     </match>
   </rule>
    
+  <rule>
+    <match lemma="fevnir" tags="adj.*"/>
+    <match lemma="flokkur" tags="n.*">
+      <select lemma="parti" tags="n.*"/>
+    </match>
+  </rule>
+  
+  <rule>
+    <match lemma="fevna" tags="v.*">
+      <select lemma="famner" tags="v.*"/>
+    </match>
+    <match lemma="kunngerð" tags="n.*"/>
+  </rule>
+  
+  <rule>
+    <match lemma="merkja" tags="v.*">
+      <select lemma="betyr" tags="v.*"/>
+    </match>
+    <match lemma="í" tags="pr"/>
+  </rule>
+    
+  <rule>
+    <match lemma="báðir" tags="*">
+      <select lemma="både" tags="v.*"/>
+    </match>
+    <match tags="n.*"/>
+    <match lemma="og" tags="CC"/>
+    <match tags="n.*"/>
+  </rule>
+
+  <rule>
+    <match lemma="løgfesta" tags="v.PrfPrc.*">
+      <select lemma="lovfeste" tags="adj.pp.*"/>
+    </match>
+    <match lemma="tjóðarmál" tags="n.*"/>
+  </rule>
+  
+  <rule>
+    <match lemma="serligur" tags="a.*"/>
+    <match lemma="støða" tags="n.*">
+      <select lemma="lovfeste" tags="adj.pp.*"/>
+    </match>
+  </rule>
+
+
+  
+  
+    
 
 </rules>
 <!-- 

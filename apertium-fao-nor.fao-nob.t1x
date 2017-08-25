@@ -32,6 +32,9 @@
     <def-cat n="pp">
       <cat-item tags="vblex.pp"/>
     </def-cat>
+    <def-cat n="refl">
+      <cat-item tags="*.poss.*"/>
+    </def-cat>
     <def-cat n="imp-pass">
       <cat-item tags="vblex.imp.*.pass"/>
     </def-cat>
@@ -1286,7 +1289,7 @@
 	  </action>
 	</rule>
 
-	<rule comment="noun+pos=noun-def">
+<!--	<rule comment="noun+pos=noun-def">
       <pattern>
         <pattern-item n="nom"/>
         <pattern-item n="prn-pers-gen"/>
@@ -1326,7 +1329,7 @@
         </out>
           </action>
     </rule>
-    
+    -->
     
 	<rule comment="det+noun=noun-def">
       <pattern>
@@ -1543,6 +1546,29 @@
 	  </action>
     </rule>
 -->
+
+    <rule comment="possessive structures">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="prn-pers-gen"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_def"/><lit-tag v="def"/></let>
+        <out>
+          <chunk name="pr" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="PREP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="tags"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: PREP">
       <pattern>
