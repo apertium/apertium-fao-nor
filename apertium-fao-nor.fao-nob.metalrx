@@ -103,6 +103,7 @@ Each node <match> (or each node <or>) is one word, we read the sentence from top
     </match>
   </rule>
     
+</rules>
 </metalrx>
 
 <!-- 
