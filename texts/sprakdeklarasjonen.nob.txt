@@ -10,15 +10,11 @@ Deklarasjon om nordisk språkpolitikk
 Innledning
 
 Denne deklarasjonen handler om språk og land i Norden.
- 
 I tillegg til de åtte landene i det nordiske samarbeidet: Danmark, Finland, Island, Norge, Sverige, Færøyene, Grønland og Åland, favner deklarasjonen også om et sammenhengende samisk språk- og kulturområde i Norge, Sverige og Finland.
 I Norden blir alle språk respektert på samme måte, likevel slik at ikke alle språk har samme rolle. 
-
 Et språk kan være komplett og samfunns­bærende i det språksamfunnet, der det blir talt.
 At et språk er komplett betyr i denne konteksten, at det blir og kan bli brukt på alle områdene i samfunnet. 
-
 At et språk er samfunnsbærende betyr at det i et visst språksamfunn blir brukt i allmenne forhold, t.d. i utdanning og i lovverk.
-
 I Norden er det seks språk som er både komplette og samfunnsbærende: dansk, finsk, færøysk, islandsk, norsk (som skriftmål både nynorsk og bokmål) og svensk. 
 At forholdet mellom språk og nasjon ikke alltid er ett-til-ett, er Finland et eksempel på; der er både finsk og svensk lovfestede nasjonspråk.
 Attpåtil er det to språk som kan sies å være samfunnsbærende, men som dog ikke kan bli brukt på alle områder i samfunnet: samisk (i ulike varianter) og grønlandsk.
@@ -29,14 +25,11 @@ Til slutt skal det nevnes, at omtrent 200 ikke-nordiske språk blir talt i Norde
 Når uttrykket alle språk i Norden blir brukt i denne teksten, menes totaliteten av alle språk, som blir talt i Norden.
 I teksten blir betegnelsen nordboere brukt om alle, som bor fast i et land i Norden.
 
-
 Det mangespråklige Norden skal ha en demokratisk språkpolitikk
 
 Den nordiske språkpolitikken er basert på at alle de samfunnsbærende nordiske språkene blir værende sterke og levende, at de språk som er samfunnsbærende, fortsatt skal være det, og at det nordiske samarbeidet også i framtida foregår på de skandinaviske språkene, t.d. dansk, norsk og svensk.
 
 Nordboernes språklige rettigheter 
-
-
 
 Norden er i dag et flerspråklig område med språkmektige innbyggere og en språkpolitikk som er grunnfestet i demokratisk sedvane. I en globalisert verden kan Norden dermed bli et språkpolitisk forbilde for andre land og folk. 
 Den mangespråklige virkeligheten skaper forutsetninger for kunnskap, skaperkraft, vidsyn og allmenne kontakter på en måte som ikke lages i enspråklige samfunn. 
@@ -59,12 +52,8 @@ En nordisk språkpolitikk eier den at måls etter:
 •    at alle nordboere har god kunnskap i minste ett internasjonalt språk og god kunnskap i et fremmed språk til
 •    at alle nordboere skal ha allmenn kunnskap om hva språk er og hvordan det fungerer
 
-
-Disse målene forutsetter også at alle nordboere viser toleranse overfor språklig variasjon og mangfold, både mellom og innenfor språkene. 
 Disse målene er også avhengig av at alle nordboere viser toleranse overfor språklig variasjon og mangfold, mellom språkene og i de ulike språkene selv. 
 For å nå målene vil kultur- og utdanningsministrene ta til tiltak for disse fire hovedspørsmålene: språkforståelse og språkkunnskap, jamstilt språkbruk, flerspråklighet og Norden som språklig foregangsregion.
-
-
 
 Fire spørsmål å arbeide med
 
@@ -78,20 +67,15 @@ For å nå målene:
 •     bør internordiske ordbøker, både i papirformat og i elektronisk format bli lagd
 •     bør maskinoversettelsesprogrammer for Nordens samfunnsbærende språk og programmer for flerpråklige søk i nordiske databaser bli utviklet
 
-
 2.      Jamstilt språkbruk
 
 Med jamstilte språkforbruk blir det vist til at mange språk, på noen eller flere områder, blir brukt samtidig. 
 Et språk blir ikke brukt i steden for det andre, men språkene blir brukt jamstilt.
 
-
 2.1     Jamnstilt språkbruk mellom engelsk og Nordens språk.
-
 Nordboere med sitt internasjonalt sett gode kunnskaper i engelsk har de nødvendige forutsetningene for å utvikle jamstilte språkbruk mellom engelsk og et eller mange av  Nordens språk på vise områder. 
-En konsekvent politikk for jamstilt språkbruk krever:
-    
+En konsekvent politikk for jamstilt språkbruk krever:   
 <checked to this line>
-
 •    at så vel Nordens samfunnsbærende språk som engelsk bør kunne brukes som vitenskapelige språk
 •    at formidling av vitenskapelige resultater på Nordens samfunnsbærende språk bør være meritterende
 •    at undervisning på vitenskapelig fagspråk, særlig den skriftlige, bør gis både på engelsk og på Nordens samfunnsbærende språk
