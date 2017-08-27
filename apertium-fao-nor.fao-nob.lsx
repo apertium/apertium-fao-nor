@@ -27,14 +27,18 @@
     <section id="main" type="standard">
         <!-- Henda kunngerð snýr seg um mál og lond í Norðurlondum. -->
         <e lm="snjúgva seg um" c="">
-           <p><l>snjúgva<s n="vblex"/><t/><j/>seg<s n="prn"/><t/><j/>um<s n="pr"/></l>
-              <r>snjúgva<g><b/>seg</g><s n="vblex"/><t/><j/>um<s n="pr"/></r></p>
+           <p><l>snjúgva<s n="vblex"/></l><r>snjúgva<g><b/>seg</g><s n="vblex"/></r></p>
+           <i><t/><j/></i>
+           <p><l>seg<s n="prn"/><t/><j/>um<s n="pr"/></l><r>um<s n="pr"/></r></p>
+           <i><j/></i>
         </e>
   
         <!-- Ravmagnið krevur, at leidningarnir halda fram, at streymurin skal ganga. -->
         <e lm="halda fram, at" c="">
-           <p><l>halda<s n="vblex"/><t/><j/>fram<s n="adv"/><j/>,<s n="cm"/><j/>at<s n="cnjsub"/></l>
-              <r>halda<g><b/>fram</g><s n="vblex"/><t/><j/>,<s n="cm"/><j/>at<s n="cnjsub"/></r></p>
+           <p><l>halda<s n="vblex"/></l><r>halda<g><b/>fram</g><s n="vblex"/></r></p>
+           <i><t/><j/></i>
+           <p><l>fram<s n="adv"/><j/>,<s n="cm"/><j/>at<s n="cnjsub"/></l><r>,<s n="cm"/><j/>at<s n="cnjsub"/><j/></r></p>
+           <i><j/></i>
         </e>
 
 
