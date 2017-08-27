@@ -23,46 +23,22 @@ Each node <match> (or each node <or>) is one word, we read the sentence from top
   </rule>
 
   <rule>
-    <match lemma="politiskur" tags="adj.*"/>
+    <or><match lemma="politiskur" tags="adj.*"/>
+    <match lemma="fevnir" tags="adj.*"/></or>
     <match lemma="flokkur" tags="n.*">
       <select lemma="parti" tags="n.*"/>
     </match>
   </rule>
 
   <rule>
+    <or>
     <match lemma="røkka" tags="*"/>
-    <match lemma="mál" tags="n.*">
-      <select lemma="mål" tags="n.*"/>
-    </match>
-  </rule>
-  <rule>
     <match lemma="fáa" tags="*"/>
-    <match lemma="mál" tags="n.*">
-      <select lemma="mål" tags="n.*"/>
-    </match>
-  </rule>
-  <rule>
     <match lemma="skora" tags="*"/>
-    <match lemma="mál" tags="n.*">
-      <select lemma="mål" tags="n.*"/>
-    </match>
-  </rule>
-  <rule>
     <match lemma="vága" tags="*"/>
+    </or>
     <match lemma="mál" tags="n.*">
       <select lemma="mål" tags="n.*"/>
-    </match>
-  </rule>
-  <rule>
-    <match lemma="mál" tags="n.*">
-      <select lemma="språk" tags="n.*"/>
-    </match>
-  </rule>
-   
-  <rule>
-    <match lemma="fevnir" tags="adj.*"/>
-    <match lemma="flokkur" tags="n.*">
-      <select lemma="parti" tags="n.*"/>
     </match>
   </rule>
   
