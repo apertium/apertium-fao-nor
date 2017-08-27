@@ -13,18 +13,6 @@ Each node <match> (or each node <or>) is one word, we read the sentence from top
     <def-seq n="word">
        <match/>
     </def-seq>
-    <def-seq n="skuovva">
-      <or>
-        <match lemma="gáma"/>  
-        <match lemma="skuovva"/>  
-      </or>
-    </def-seq>
-    <def-seq n="ela-verbs">
-      <or>
-        <match lemma="fárret"/>
-        <match lemma="boahtit"/>
-      </or>
-    </def-seq>
   </def-seqs>
 
 <rules>
@@ -40,7 +28,81 @@ Each node <match> (or each node <or>) is one word, we read the sentence from top
       <select lemma="parti" tags="n.*"/>
     </match>
   </rule>
-</rules>
+
+  <rule>
+    <match lemma="røkka" tags="*"/>
+    <match lemma="mál" tags="n.*">
+      <select lemma="mål" tags="n.*"/>
+    </match>
+  </rule>
+  <rule>
+    <match lemma="fáa" tags="*"/>
+    <match lemma="mál" tags="n.*">
+      <select lemma="mål" tags="n.*"/>
+    </match>
+  </rule>
+  <rule>
+    <match lemma="skora" tags="*"/>
+    <match lemma="mál" tags="n.*">
+      <select lemma="mål" tags="n.*"/>
+    </match>
+  </rule>
+  <rule>
+    <match lemma="vága" tags="*"/>
+    <match lemma="mál" tags="n.*">
+      <select lemma="mål" tags="n.*"/>
+    </match>
+  </rule>
+  <rule>
+    <match lemma="mál" tags="n.*">
+      <select lemma="språk" tags="n.*"/>
+    </match>
+  </rule>
+   
+  <rule>
+    <match lemma="fevnir" tags="adj.*"/>
+    <match lemma="flokkur" tags="n.*">
+      <select lemma="parti" tags="n.*"/>
+    </match>
+  </rule>
+  
+  <rule>
+    <match lemma="fevna" tags="vblex.*">
+      <select lemma="famner" tags="vblex.*"/>
+    </match>
+    <match lemma="kunngerð" tags="n.*"/>
+  </rule>
+  
+  <rule>
+    <match lemma="merkja" tags="vblex.*">
+      <select lemma="betyr" tags="vblex.*"/>
+    </match>
+    <match lemma="í" tags="pr"/>
+  </rule>
+    
+  <rule>
+    <match lemma="báðir" tags="*">
+      <select lemma="både" tags="vblex.*"/>
+    </match>
+    <match tags="n.*"/>
+    <match lemma="og" tags="cnjcoo"/>
+    <match tags="n.*"/>
+  </rule>
+
+  <rule>
+    <match lemma="løgfesta" tags="v.PrfPrc.*">
+      <select lemma="lovfeste" tags="adj.pp.*"/>
+    </match>
+    <match lemma="tjóðarmál" tags="n.*"/>
+  </rule>
+  
+  <rule>
+    <match lemma="serligur" tags="adj.*"/>
+    <match lemma="støða" tags="n.*">
+      <select lemma="lovfeste" tags="adj.pp.*"/>
+    </match>
+  </rule>
+    
 </metalrx>
 
 <!-- 
