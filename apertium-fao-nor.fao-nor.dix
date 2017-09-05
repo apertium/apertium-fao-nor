@@ -16996,7 +16996,7 @@
 <e><p><l>ankra</l><r>ankre</r></p><par n="vblex:vblex"/></e>
 <e><p><l>andøva</l><r>andøve</r></p><par n="vblex:vblex"/></e>
 
-<e><p><l>+</l><r></r></p><re>[A-Z][a-z]+</re><p><l><s n="np"/></l><r><s n="np"/></r></p></e>
+<e><p><l>+</l><r></r></p><re>[A-Z][a-z]+</re><p><l><s n="np"/></l><r><s n="np"/><s n="guess"/></r></p></e>
 
 </section>
 </dictionary>
