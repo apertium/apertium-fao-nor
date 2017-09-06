@@ -69,6 +69,7 @@
   <sdef n="GD"/>
   <sdef n="ND"/>
   <sdef n="CD"/>
+  <sdef n="guess"/>
 </sdefs>
 <pardefs>
    <pardef n="adj:adj">
