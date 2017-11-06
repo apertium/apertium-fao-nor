@@ -143,6 +143,7 @@
     </def-attr>
     <def-attr n="a_guess">
       <attr-item tags="guess"/>
+      <attr-item tags="err_guess"/>
     </def-attr>
     <def-attr n="a_adv">
       <attr-item tags="adv"/>
@@ -828,6 +829,12 @@
     		<let><clip pos="1" side="tl" part="tags"/><lit-tag v="vblex.imp"/></let>
   		  </when>
   		</choose>
+  		<choose>
+          <when>
+    		<test><equal><clip pos="1" side="tl" part="tags"/><lit-tag v="vblex.pstv.inf.pasv"/></equal></test>
+    		<let><clip pos="1" side="tl" part="tags"/><lit-tag v="vblex.pstv.inf"/></let>
+  		  </when>
+  		</choose>
 	    <out>
 	      <chunk name="v" case="caseFirstWord">
             <tags>
@@ -962,6 +969,7 @@
 	  <action>
                 
 		<let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+		<let><clip pos="1" side="tl" part="a_guess"/><lit-tag v="guess"/></let>
                 <choose>
                   <when>
     		    <test><equal><clip pos="1" side="tl" part="a_nom"/><lit-tag v="np"/></equal></test>
@@ -1289,7 +1297,9 @@
 	  </action>
 	</rule>
 
-<!--	<rule comment="noun+pos=noun-def">
+<!--	
+	TODO: clean up, add 'sit'
+	<rule comment="noun+pos=noun-def">
       <pattern>
         <pattern-item n="nom"/>
         <pattern-item n="prn-pers-gen"/>
