@@ -1,0 +1,2 @@
+[hqRibc7Gfjr3#0] ^enn<adv>/enn<adv>/ennå<adv>$ ^liggja<vblex><ind><pret><pl>/ligge<vblex><ind><pret><pl>/omgi<vblex><ind><pret><pl>$ ^tann<det><f><pl><nom>/den<det><dem><f><pl><nom>$ ^óbygdur<adj><f><pl><nom><ind>/ubebygget<adj><pst><f><pl><nom><ind>$ ^í<pr>/i<pr>/på<pr>$ ^nógvur<adj><nt><pl><acc><ind>/mange<adj><sint><nt><pl><acc><ind>/mye<adj><sint><pst><nt><pl><acc><ind>$ ^túsund<num>/tusen<det><qnt><un><pl>$ ^ár<n><f><sg><dat><ind>/år<n><nt><sg><dat><ind>/åring<n><m><sg><dat><ind>$
+[/hqRibc7Gfjr3]

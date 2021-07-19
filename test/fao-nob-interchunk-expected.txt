@@ -1,0 +1,2 @@
+[hqRibc7Gfjr3#0] ^default<default>{^enn<adv>$}$ ^v<SV>{^ligge<vblex><pret>$}$ ^det<Det>{^den<det><dem><un><pl>$}$ ^a<SA>{^ubebygget<adj><pst><un><pl><ind>$}$ ^pr<PREP>{^i<pr>$}$ ^a<SA>{^mange<adj><sint><pst><un><pl><ind>$}$ ^default<default>{^tusen<det><qnt><un><pl>$}$ ^n<SN>{^år<n><nt><sg><ind>$}$
+[/hqRibc7Gfjr3]

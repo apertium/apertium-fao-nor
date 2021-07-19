@@ -304,8 +304,4 @@ clean-local:
 ###############################################################################
 
 test: all
-	echo "enn lógu tær óbygdar í nógv túsund ár" | apertium -d . fao-nob | tee .test-mt
-	@echo "ennå lå de ubebyggede i mange tusen år" > .test-ref
-	@diff .test-ref .test-mt
-	@rm .test-ref .test-mt
-
+	apertium-regtest test

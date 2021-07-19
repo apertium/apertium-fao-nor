@@ -1,0 +1,6 @@
+{
+    "fao-nob": {
+        "input": "fao-nob-input.txt",
+        "mode": "fao-nob"
+    }
+}
