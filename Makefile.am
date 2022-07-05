@@ -2,7 +2,6 @@
 ## Makefile for Faroese--Norwegian
 ###############################################################################
 
-VERSION=0.1.0
 LANG1=fao
 LANG2=nor
 LANG2n=nno
@@ -174,15 +173,19 @@ $(PREFIX2b).autobil.bin: $(BASENAME).$(PREFIX1).dix
 ###############################################################################
 
 $(PREFIX1n).autolex.bin: $(BASENAME).$(PREFIX1n).lrx
+	apertium-validate-lrx $<
 	lrx-comp $< $@
 
 $(PREFIX1b).autolex.bin: $(BASENAME).$(PREFIX1b).lrx
+	apertium-validate-lrx $<
 	lrx-comp $< $@
 
 $(PREFIX2n).autolex.bin: $(BASENAME).$(PREFIX2n).lrx
+	apertium-validate-lrx $<
 	lrx-comp $< $@
 
 $(PREFIX2b).autolex.bin: $(BASENAME).$(PREFIX2b).lrx
+	apertium-validate-lrx $<
 	lrx-comp $< $@
 
 ###############################################################################
