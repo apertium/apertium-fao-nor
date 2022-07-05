@@ -1,4 +1,3 @@
-<!-- Note !! Write in the file .metalrx, not in the file .lrx -->
 <!-- Write comments to forthcoming rules after this line
 
 Default = 1.0
@@ -7,7 +6,7 @@ Rules for exception = 0.6
 Each node <match> (or each node <or>) is one word, we read the sentence from top to bottom.
 -->
 
-<metalrx>
+<lrx>
 
   <def-seqs>
     <def-seq n="word">
@@ -80,7 +79,7 @@ Each node <match> (or each node <or>) is one word, we read the sentence from top
   </rule>
     
 </rules>
-</metalrx>
+</lrx>
 
 <!-- 
 Resources: 
